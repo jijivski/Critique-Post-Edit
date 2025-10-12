@@ -1,0 +1,48 @@
+{
+  "Name": "Lily",
+  "Demographics": {
+    "Age": 24,
+    "Gender": "女",
+    "Nationality": "中国",
+    "Language": [
+      "中文",
+      "英文"
+    ],
+    "Career_Information": "福建某互联网公司软件开发工程师，专注于前端开发"
+  },
+  "Personality": {
+    "Extraversion_or_Introversion": "I",
+    "Sensing_or_Intuition": "S",
+    "Thinking_or_Feeling": "F",
+    "Judging_or_Perceiving": "P",
+    "Values_and_Interests": [
+      "热衷于开源项目",
+      "参与黑客松活动",
+      "关注环保及可持续发展",
+      "喜欢传统文化与手工艺"
+    ]
+  },
+  "Preference": {
+    "Local_Life": {
+      "Food_Drinks": "工作日自带环保餐盒购买素食简餐，周末探访老城区有机茶馆，对福建传统茉莉花茶有特殊偏好，点外卖时会优先选择支持碳中和的商家。",
+      "Entertainment": "每月固定参加非遗工作坊（如漆器制作/草木染），深夜独自玩解谜类独立游戏，偶尔在旧书店淘线装古籍。",
+      "Shopping": "网购集中于二手技术设备交易平台，购买手作材料包DIY环保家居品，服装偏爱蓝染布艺品牌。",
+      "TravelDaily_Outings": "通勤骑共享电单车并记录碳减排数据，雨天乘地铁时用AR地图研究古建筑结构"
+    },
+    "Travel": {
+      "Business_Trips": "出差时会携带可折叠硅胶餐具，选择配备太阳能充电系统的青旅，利用候车时间在GitHub提交开源组件。",
+      "Leisure_Travel": "寒暑假参加生态志愿者项目（如红树林保育），在徽州古村落住宿时向当地匠人学习榫卯技艺"
+    },
+    "Social": "在GitHub维护古代算法复原项目，线下只参加10人内的技术禅修会，通过手作市集结识传统匠人，使用阅后即焚应用与极客圈层交流",
+    "Productivity": {
+      "Study_Work": "用Obsidian搭建技术-文化交叉知识库，开发Chrome插件自动计算网页碳排放，在树莓派上部署个人效率监控系统",
+      "Fitness": "清晨在闽江边练习八段锦，佩戴太阳能运动手环记录徒步古驿道的生态数据"
+    },
+    "Content_Interests": [
+      "研究宋代织机编程复原方案",
+      "关注气候科技初创公司动态",
+      "收藏方言保护类播客",
+      "追踪国际极简代码大赛"
+    ]
+  }
+}

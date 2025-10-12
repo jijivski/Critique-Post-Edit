@@ -1,0 +1,48 @@
+{
+  "Name": "Lisa",
+  "Demographics": {
+    "Age": 30,
+    "Gender": "女",
+    "Nationality": "中国",
+    "Language": [
+      "中文",
+      "英文",
+      "法语"
+    ],
+    "Career_Information": "大型跨国公司的市场经理，专注于品牌战略和数字营销"
+  },
+  "Personality": {
+    "Extraversion_or_Introversion": "E",
+    "Sensing_or_Intuition": "N",
+    "Thinking_or_Feeling": "T",
+    "Judging_or_Perceiving": "J",
+    "Values_and_Interests": [
+      "热衷于数据分析",
+      "喜欢挑战传统观念",
+      "倡导女性在职场中的平等",
+      "关注可持续发展和环保"
+    ]
+  },
+  "Preference": {
+    "Local_Life": {
+      "Food_Drinks": "工作日依赖有机轻食外卖，常光顾提供植物肉选项的餐厅；周末会去高端餐厅尝试融合菜系，但坚持自带可降解餐盒打包剩余食物。",
+      "Entertainment": "每月至少一次去独立影院观看女性导演作品，定期参加城市环保组织的线下沙龙。",
+      "Shopping": "网购时优先筛选「碳中和认证」商品，衣柜里70%为二手设计师品牌，固定支持三个女性创业的可持续服饰品牌。",
+      "TravelDaily_Outings": "通勤使用共享电动车+地铁组合，周末骑公路车探索城市周边生态公园并记录碳排放数据"
+    },
+    "Travel": {
+      "Business_Trips": "选择获得LEED认证的酒店，在跨国会议间隙考察当地女性创业孵化器，行李箱里永远备着可重复使用的折叠咖啡杯。",
+      "Leisure_Travel": "每年规划两次「零废弃旅行」，如云南高山生态农场义工体验或阿拉善沙漠植树之旅，行程精确计算到每小时效率最大化"
+    },
+    "Social": "领英每周更新行业性别薪酬调研thread，线下担任女性职场导师计划负责人；Instagram只发带有#EthicalFashion标签的穿搭，屏蔽所有炫耀型消费内容。",
+    "Productivity": {
+      "Study_Work": "用Tableau实时追踪品牌campaign的性别议题敏感度指数，凌晨四点用Notion整理次日跨国会议的多语言简报模板",
+      "Fitness": "Apple Watch闭环强迫症患者，每周三次TRX训练时同步听哈佛商业评论播客"
+    },
+    "Content_Interests": [
+      "全球Top50企业的Diversity Report深度解构",
+      "小众纪录片《绿色黄金》式的新消费品牌崛起案例",
+      "巴黎时装周后台的可持续彩妆黑科技"
+    ]
+  }
+}

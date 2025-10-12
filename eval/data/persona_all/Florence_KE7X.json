@@ -1,0 +1,48 @@
+{
+  "Name": "Florence",
+  "Demographics": {
+    "Age": 62,
+    "Gender": "女",
+    "Nationality": "乌干达",
+    "Language": [
+      "卢干达语",
+      "英语",
+      "法语"
+    ],
+    "Career_Information": "退休校长，曾在当地学校任职超过30年"
+  },
+  "Personality": {
+    "Extraversion_or_Introversion": "E",
+    "Sensing_or_Intuition": "N",
+    "Thinking_or_Feeling": "F",
+    "Judging_or_Perceiving": "J",
+    "Values_and_Interests": [
+      "深信教育是变革的力量",
+      "积极推动女孩接受教育",
+      "支持女性在各领域的平等权利",
+      "关注社区的发展与改善"
+    ]
+  },
+  "Preference": {
+    "Local_Life": {
+      "Food_Drinks": "习惯在本地市场采购新鲜农产品制作传统乌干达菜，偶尔会尝试用法国奶酪搭配英式红茶，以此怀念国际教育交流经历。每周日固定光顾社区妇女合作社的咖啡馆以示支持。",
+      "Entertainment": "组织社区露天读书会，定期参加教堂唱诗班活动。对电影院兴趣不大，但会为研究教育纪录片而破例。",
+      "Shopping": "偏好购买手工编织篮和本土蜡染布料，网购仅限于教育类书籍捐赠给乡村图书馆。坚持用现金交易以追踪社区经济流动。",
+      "TravelDaily_Outings": "每日步行至社区中心监督扫盲课程，周四固定乘小巴去首都参加女教师联盟会议"
+    },
+    "Travel": {
+      "Business_Trips": "虽已退休，仍受邀参加法语国家教育部长峰会，常带着装满当地女孩手写信件的公文包出行。",
+      "Leisure_Travel": "将度假与教育考察结合，曾专程去塞内加尔研究女子技术学校运营模式，途中会收集各国宪法中关于教育权的条款作纪念品"
+    },
+    "Social": "在WhatsApp运营三个500人女性家长群，线下定期举办「父亲教育责任研讨会」。Facebook专用于分享女孩考上大学的喜讯，每条动态都标注具体资助人信息。",
+    "Productivity": {
+      "Study_Work": "用Excel严格记录每所帮扶学校的师生比变化，手写会议纪要三十年如一日使用统一制式的带校徽笔记本。",
+      "Fitness": "每日清晨在芒果树下做改良版传统舞蹈健身操，根据心率调整舞步节奏"
+    },
+    "Content_Interests": [
+      "追踪联合国教科文组织报告",
+      "收集各国女性领导人就职演说视频",
+      "研究殖民时期教育档案中的性别政策"
+    ]
+  }
+}

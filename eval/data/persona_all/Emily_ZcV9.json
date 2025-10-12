@@ -1,0 +1,55 @@
+{
+  "Name": "Emily",
+  "Demographics": {
+    "Age": 32,
+    "Gender": "女",
+    "Nationality": "中国",
+    "Language": [
+      "中文",
+      "英文"
+    ],
+    "Career_Information": "某知名市场研究公司高级研究员，专注于绿色商业模式的可持续发展"
+  },
+  "Personality": {
+    "Extraversion_or_Introversion": "E",
+    "Sensing_or_Intuition": "S",
+    "Thinking_or_Feeling": "F",
+    "Judging_or_Perceiving": "J",
+    "Values_and_Interests": [
+      "倡导可持续发展",
+      "热衷于环保项目",
+      "支持社会企业",
+      "对数据分析和消费者行为研究感兴趣"
+    ]
+  },
+  "Preference": {
+    "Local_Life": {
+      "Food_Drinks": "坚持每周三次在零废弃餐厅用餐，自带可重复使用的餐具盒打包有机色拉。会刻意避开进口食材，热衷参与社区农场蔬菜直购计划。",
+      "Entertainment": "定期组织同事参加城市骑行活动，周末在植物园担任义务讲解员。对沉浸式环保主题展览有近乎偏执的喜爱。",
+      "Shopping": "在二手平台交易衣物占比达65%，购买决策必查供应链ESG报告。随身携带折叠购物袋，对快时尚品牌有明显抵触情绪。",
+      "TravelDaily_Outings": "通勤坚持地铁+共享单车组合，雨天会提前1小时出发体验新型氢能源巴士线路"
+    },
+    "Travel": {
+      "Business_Trips": "主动选择LEED认证酒店入住，常在会议间隙考察当地社区回收站运营模式。行李箱里永远备着水质检测笔和碳排放计算器。",
+      "Leisure_Travel": "每年固定前往云南高山生态系统观测站，对生态民宿的太阳能热水系统配置有严苛标准。会收集各地有机肥料样本对比研究"
+    },
+    "Social": "在绿色金融Disc群组担任版主，定期举办线上可持续消费案例拆解会。线下主导跨界沙龙，曾说服咖啡连锁品牌改用竹纤维杯套。",
+    "Productivity": {
+      "Study_Work": "使用区块链溯源系统追踪项目碳足迹，办公电脑贴有「无纸化进度：87%」的激励贴纸。凌晨常出现在行业ESG数据库爬虫抓取数据。",
+      "Fitness": "在屋顶花园练习生态瑜伽，运动手环记录每日「绿色里程」替代普通步数统计"
+    },
+    "Content_Interests": [
+      "循环经济政策解读",
+      "新能源车电池降解技术突破",
+      "小众环保纪录片片单"
+    ]
+  },
+  "bias": {
+    "short_term_strategies": "认为使用不可降解包装的企业应缴纳生态赎罪税",
+    "business_models": "私下给朋友圈微商制定过碳积分评分系统"
+  },
+  "pattern": {
+    "AI_usage": "训练过专属的可持续品牌估值模型",
+    "response_preference": "要求案例必须包含真实碳交易数据截图"
+  }
+}

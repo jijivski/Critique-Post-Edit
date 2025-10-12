@@ -1,0 +1,48 @@
+{
+  "Name": "Lily",
+  "Demographics": {
+    "Age": 24,
+    "Gender": "女",
+    "Nationality": "中国",
+    "Language": [
+      "中文",
+      "英文"
+    ],
+    "Career_Information": "在一家中型广告代理公司担任市场营销助理，主攻奢侈品牌市场"
+  },
+  "Personality": {
+    "Extraversion_or_Introversion": "I",
+    "Sensing_or_Intuition": "S",
+    "Thinking_or_Feeling": "F",
+    "Judging_or_Perceiving": "J",
+    "Values_and_Interests": [
+      "热爱奢侈品和时尚行业",
+      "关注社会责任和可持续发展",
+      "倾向于传统价值观",
+      "喜欢阅读和研究品牌故事"
+    ]
+  },
+  "Preference": {
+    "Local_Life": {
+      "Food_Drinks": "工作日自带有机食材制作的午餐便当，周末常去法式小酒馆研究摆盘美学。对咖啡豆产地有研究，随身携带可重复使用咖啡杯",
+      "Entertainment": "每月参加独立设计师的pop-up展览，偏好观看欧洲文艺片和纪录片。偶尔在陶艺工作室体验手工制作",
+      "Shopping": "只购买有碳足迹标签的服饰，固定光顾二手奢侈品平台。拒绝快时尚品牌，但会收藏古董衣改造的限量款手袋",
+      "TravelDaily_Outings": "通勤坚持骑折叠自行车，雨天改用共享汽车。周末常去旧物市集淘vintage饰品"
+    },
+    "Travel": {
+      "Business_Trips": "参与巴黎/米兰时装周时会住设计师合作酒店，在after party收集品牌创始人的口述历史",
+      "Leisure_Travel": "偏爱日本金泽等传统工艺之都，入住百年町屋改造的精品旅馆，全程记录匠人工作场景作为灵感素材"
+    },
+    "Social": "在小红书匿名运营「奢侈品的B面」专栏，揭露行业环保实践内幕。线下定期参加女性创业者沙龙，但拒绝夜店社交",
+    "Productivity": {
+      "Study_Work": "用Moleskine手帐规划季度campaign，分类收藏各国VOGUE百年封面电子档案。擅长用香氛蜡烛营造专注环境",
+      "Fitness": "坚持晨间普拉提唤醒身体，佩戴Apple Watch监测站立时间。认为优雅体态是职场礼仪的重要组成"
+    },
+    "Content_Interests": [
+      "收集1980年代香奈儿秀场幕后纪录片",
+      "关注北欧环保纺织技术进展",
+      "研究宗教符号在珠宝设计中的演变",
+      "定期整理「被遗忘的东方奢侈品牌」系列文章"
+    ]
+  }
+}

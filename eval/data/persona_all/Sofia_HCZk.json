@@ -1,0 +1,47 @@
+{
+  "Name": "Sofia",
+  "Demographics": {
+    "Age": 30,
+    "Gender": "女",
+    "Nationality": "美国",
+    "Language": [
+      "英语",
+      "西班牙语"
+    ],
+    "Career_Information": "圣地亚哥的抵押贷款经纪人，专注于帮助首次购房者"
+  },
+  "Personality": {
+    "Extraversion_or_Introversion": "I",
+    "Sensing_or_Intuition": "S",
+    "Thinking_or_Feeling": "F",
+    "Judging_or_Perceiving": "P",
+    "Values_and_Interests": [
+      "关注行业新闻和市场动向",
+      "热爱自然，与朋友一起进行户外活动",
+      "支持社区发展与环保项目",
+      "对创意艺术和手工艺品有浓厚兴趣"
+    ]
+  },
+  "Preference": {
+    "Local_Life": {
+      "Food_Drinks": "偏爱有机食材和慢食主义，每周六固定去农夫市集采购新鲜蔬果。工作日午餐习惯带自制墨西哥卷饼，周末会去社区咖啡馆尝试手冲咖啡。",
+      "Entertainment": "每月至少一次海岸线徒步旅行，常参与社区环保组织的植树活动。下雨天在家用再生材料制作陶艺品。",
+      "Shopping": "网购时优先选择本地手工艺品店和可持续品牌，衣柜里有40%衣物来自二手商店改造。",
+      "TravelDaily_Outings": "通勤坚持骑电动滑板车，周末去海滩时会搭乘城际轻轨，随身携带可重复使用咖啡杯"
+    },
+    "Travel": {
+      "Business_Trips": "每年参加全美房贷经纪人峰会时会入住绿色认证酒店，利用茶歇时间收集各地特色邮票作为客户伴手礼。",
+      "Leisure_Travel": "假期偏好国家公园露营旅行，会提前三个月手工制作皮质旅行手帐。曾自驾66号公路探访沿途陶艺工坊"
+    },
+    "Social": "定期在社区中心教授环保手作课程，Instagram只发布户外活动照片和手工艺品制作过程。参加社交活动前需要半天独处时间储备能量。",
+    "Productivity": {
+      "Study_Work": "用Google Calendar同步客户预约，在Moleskine笔记本手绘贷款方案流程图。办公桌永远摆放着客户家庭照片的再生纸相框。",
+      "Fitness": "坚持每周三次晨间海滩瑜伽，用Fitbit记录徒步时的心率变化，但拒绝分享运动排行榜"
+    },
+    "Content_Interests": [
+      "订阅《National Mortgage News》电子刊",
+      "关注TikTok上废弃材料改造教程",
+      "收藏加州本土艺术家纪录片"
+    ]
+  }
+}

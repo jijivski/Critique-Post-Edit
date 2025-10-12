@@ -1,0 +1,47 @@
+{
+  "Name": "李悦",
+  "Demographics": {
+    "Age": 29,
+    "Gender": "女",
+    "Nationality": "中国",
+    "Language": [
+      "中文",
+      "法语"
+    ],
+    "Career_Information": "米其林餐厅甜点主厨，专注于分子料理技巧"
+  },
+  "Personality": {
+    "Extraversion_or_Intuition": "I",
+    "Sensing_or_Intuition": "N",
+    "Thinking_or_Feeling": "F",
+    "Judging_or_Perceiving": "J",
+    "Values_and_Interests": [
+      "热爱烹饪和食品科学",
+      "追求艺术与美的完美结合",
+      "独立思考，倾向于非主流饮食文化",
+      "对环境保护和可持续发展有强烈关注"
+    ]
+  },
+  "Preference": {
+    "Local_Life": {
+      "Food_Drinks": "每周三次逛本地农夫市集采集有机食材，日常饮用自酿康普茶；私下热衷探索城中新开的实验性餐厅，但会自带可降解餐盒打包剩食。",
+      "Entertainment": "定期参加独立电影放映会，偶尔在旧法租界画廊观看先锋食物装置艺术展。",
+      "Shopping": "沉迷收集手工锻造的分子料理工具，衣橱里70%为可持续品牌，会为心仪的日本职人窑烧餐具专程飞往京都。",
+      "TravelDaily_Outings": "坚持骑公路自行车通勤，雨天改乘地铁时会在皮质笔记本记录车厢内观察到的饮食文化现象。"
+    },
+    "Travel": {
+      "Business_Trips": "每年赴法国参加分子美食研讨会，总在行李箱夹带中国本土稀有食材用于技术交流。",
+      "Leisure_Travel": "偏爱入住零废弃生态酒店，曾在云南茶山徒步时向少数民族学习古法发酵技艺。"
+    },
+    "Social": "Instagram仅分享实验室级甜品创作过程，拒绝露脸出镜；线下定期组织『反工业化饮食』私厨沙龙，参与者需通过食物哲学问卷筛选。",
+    "Productivity": {
+      "Study_Work": "用3D建模软件设计甜品结构，实验室冰柜贴满量子物理读书笔记便签，坚信美食与科学存在量子纠缠。",
+      "Fitness": "清晨在厨房岛台练习阿斯汤加瑜伽，认为面团揉捏技法与核心肌群控制存在隐秘关联。"
+    },
+    "Content_Interests": [
+      "收藏1960年代法国新浪潮美食纪录片",
+      "订阅NASA食品实验室年报",
+      "痴迷研究真菌在甜品中的应用"
+    ]
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "Name": "Alice",
+  "Demographics": {
+    "Age": 32,
+    "Gender": "女",
+    "Nationality": "中国",
+    "Language": [
+      "中文",
+      "英文"
+    ],
+    "Career_Information": "室内设计师，专注于将艺术与功能性结合"
+  },
+  "Personality": {
+    "Extraversion_or_Introversion": "E",
+    "Sensing_or_Intuition": "S",
+    "Thinking_or_Feeling": "T",
+    "Judging_or_Perceiving": "J",
+    "Values_and_Interests": [
+      "追求美学与实用性的结合",
+      "热爱自然与生态保育",
+      "坚持在设计中融入独特元素",
+      "支持环保材料的使用"
+    ]
+  },
+  "Preference": {
+    "Local_Life": {
+      "Food_Drinks": "工作日午餐在有机轻食餐厅解决，周末会探索城市里的创意融合菜馆。随身携带可重复使用的钛合金咖啡杯，坚持光顾支持碳中和的咖啡店。",
+      "Entertainment": "每月至少参观一次当代艺术展，定期参加建筑大师讲座。雨天喜欢在植物园观察蕨类植物生长形态。",
+      "Shopping": "通过设计师买手平台购置家具饰品，对采用再生材料的家居品牌有强烈偏好。常逛材料市场收集特殊纹理的环保板材样本。",
+      "TravelDaily_Outings": "通勤坚持骑折叠电动自行车，短途考察项目现场时会使用共享汽车服务"
+    },
+    "Travel": {
+      "Business_Trips": "参加米兰设计周期间入住由旧厂房改造的设计师酒店，随身携带激光测距仪随时记录经典案例的空间尺度。",
+      "Leisure_Travel": "每年规划两次森林木屋之旅，严格筛选获得LEED认证的生态度假村，行李箱里永远备着可降解的速写本和矿物颜料"
+    },
+    "Social": "在Behance持续更新概念设计方案，线下定期组织设计师沙龙。朋友圈多为画廊策展人和独立家具匠人，聚会地点首选具有解构主义风格的清吧。",
+    "Productivity": {
+      "Study_Work": "使用SketchUp构建三维草模时同步开启环境能耗模拟插件，办公电脑外接Pantone校色仪确保设计图色彩精准。",
+      "Fitness": "清晨在loft工作室进行空中瑜伽，周末参加城市徒步组织测量历史建筑步道尺度"
+    },
+    "Content_Interests": [
+      "持续追踪威尼斯双年展的先锋装置艺术",
+      "研究东南亚雨林部落的传统编织工艺",
+      "关注新型生物基建筑涂料的研发进展"
+    ]
+  }
+}

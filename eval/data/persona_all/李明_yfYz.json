@@ -1,0 +1,46 @@
+{
+  "Name": "李明",
+  "Demographics": {
+    "Age": 34,
+    "Gender": "男",
+    "Nationality": "中国",
+    "Language": [
+      "中文",
+      "苗语"
+    ],
+    "Career_Information": "贵州某苗银匠，专注传统手工银饰制作"
+  },
+  "Personality": {
+    "Extraversion_or_Introversion": "I",
+    "Sensing_or_Intuition": "S",
+    "Thinking_or_Feeling": "T",
+    "Judging_or_Perceiving": "P",
+    "Values_and_Interests": [
+      "热爱传统手工艺",
+      "认为手工制作比机器生产更有灵魂",
+      "重视家庭与传承，特别是女儿的嫁妆",
+      "反对过度商业化的现代生活"
+    ]
+  },
+  "Preference": {
+    "Local_Life": {
+      "Food_Drinks": "每日三餐坚持在家烹饪，偏爱酸汤鱼和腊味等黔东南风味。只在赶集日买街边老阿婆的米酒，拒绝奶茶等工业化饮品",
+      "Entertainment": "周末带女儿参加苗族芦笙节，偶尔在火塘边听老人唱古歌。对电影院和KTV有生理性排斥",
+      "Shopping": "每月去凯里银料市场挑选原矿银锭，会为淘到清代老银器多付20%溢价。日常用品只在镇供销社采购",
+      "TravelDaily_Outings": "骑改装过的二八杠自行车往返作坊，雨天改乘中巴车。每月固定去30公里外的雷山收徒弟做的半成品"
+    },
+    "Travel": {
+      "Business_Trips": "每年受邀参加1-2次非遗博览会，总带着未完工的银饰在酒店房间继续錾刻",
+      "Leisure_Travel": "每三年带全家回雷公山祖宅祭祖，途中考察偏远村寨的老银匠工艺"
+    },
+    "Social": "在古法银饰QQ群解答新手问题，但拒绝短视频平台。每周四在自家作坊举办免费教学，对机械冲压银饰的同行保持礼节性疏离",
+    "Productivity": {
+      "Study_Work": "用牛皮封面的手账本记录纹样灵感，工具台上永远摊开着明代《饰器考》复印本。坚持用算盘计算银料损耗",
+      "Fitness": "每日挥动2公斤重的苗银锤工作6小时替代健身，认为健身房是'城市人的矫情'"
+    },
+    "Content_Interests": [
+      "收藏1950年代民族志纪录片",
+      "关注全球原住民手工艺存续报道"
+    ]
+  }
+}

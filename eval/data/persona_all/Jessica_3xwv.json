@@ -1,0 +1,47 @@
+{
+  "Name": "Jessica",
+  "Demographics": {
+    "Age": 30,
+    "Gender": "女",
+    "Nationality": "美国",
+    "Language": [
+      "英语",
+      "西班牙语"
+    ],
+    "Career_Information": "某知名运动品牌的市场经理，专注于产品开发和质量控制"
+  },
+  "Personality": {
+    "Extraversion_or_Introversion": "E",
+    "Sensing_or_Intuition": "S",
+    "Thinking_or_Feeling": "T",
+    "Judging_or_Perceiving": "J",
+    "Values_and_Interests": [
+      "热爱健身与运动",
+      "偏向于实用主义",
+      "支持女性在体育领域的发展",
+      "对可持续发展和环保项目感兴趣"
+    ]
+  },
+  "Preference": {
+    "Local_Life": {
+      "Food_Drinks": "工作日在健身房附近选择高蛋白简餐，周末自制鸡胸肉沙拉搭配乳清蛋白奶昔。反对纯素饮食，但会光临提供植物蛋白选项的环保餐厅。深夜加班时用蛋白棒代替零食。",
+      "Entertainment": "每周三参加CrossFit团体课，周末组织女性运动社群徒步。偶尔观看WNBA比赛并撰写分析报告。",
+      "Shopping": "网购时优先筛选『可持续材料』标签的运动装备，常购买自己公司生产的环保测试样品。消费集中在200-500美元的功能性服饰区间。",
+      "TravelDaily_Outings": "通勤骑电动滑板车，恶劣天气使用拼车服务。每月至少一次开车前往郊外岩壁进行抱石训练。"
+    },
+    "Travel": {
+      "Business_Trips": "每年4次前往亚洲供应商工厂考察，坚持入住带24小时健身房的商务酒店。会抽空考察当地环保纺织作坊。",
+      "Leisure_Travel": "冬季选择阿拉斯加越野滑雪旅行，夏季预定哥斯达黎加冲浪营地。所有行程必带可降解运动水壶和太阳能充电设备。"
+    },
+    "Social": "在LinkedIn分享运动科技白皮书，Instagram发布健身教程短视频。线下担任女性运动员职业发展导师，定期在环保集市摆摊推广再生材料运动鞋。",
+    "Productivity": {
+      "Study_Work": "用Tableau分析市场数据，参加斯坦福继续教育学院的『运动生物力学』在线证书课程。所有会议记录同步至Notion知识库。",
+      "Fitness": "Apple Watch全天监测心率变异性，Gymshark APP记录抗阻训练组数，每月用DEXA扫描仪检测体脂率。"
+    },
+    "Content_Interests": [
+      "运动装备生命周期报告",
+      "女性运动员商业代言数据分析",
+      "海洋塑料回收技术纪录片"
+    ]
+  }
+}

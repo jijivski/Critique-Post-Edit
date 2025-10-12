@@ -1,0 +1,47 @@
+{
+  "Name": "Emily",
+  "Demographics": {
+    "Age": 30,
+    "Gender": "女",
+    "Nationality": "美国",
+    "Language": [
+      "英语",
+      "西班牙语"
+    ],
+    "Career_Information": "酒店经理，专注于提升顾客的经济消费体验"
+  },
+  "Personality": {
+    "Extraversion_or_Introversion": "E",
+    "Sensing_or_Intuition": "N",
+    "Thinking_or_Feeling": "F",
+    "Judging_or_Perceiving": "P",
+    "Values_and_Interests": [
+      "热衷于营造温馨的客户环境",
+      "对可持续发展和环保有强烈的支持",
+      "追求在工作中实现个人价值",
+      "喜欢通过非正式的社交活动建立联系"
+    ]
+  },
+  "Preference": {
+    "Local_Life": {
+      "Food_Drinks": "坚持购买有机食材，周末会去农夫市集采购；偏爱家庭式小酒馆而非连锁餐厅，随身携带可重复使用的金属吸管和咖啡杯。",
+      "Entertainment": "每月组织一次朋友间的环保主题手工市集，热衷于参加本地艺术家在废弃仓库改造的画廊举办的即兴派对。",
+      "Shopping": "在二手平台购买设计师品牌服饰，定期捐赠旧衣物；偏爱采用可降解包装的小众护肤品牌。",
+      "TravelDaily_Outings": "坚持骑行通勤，雨雪天会拼新能源出租车；周末常去社区共享菜园打理自种的香草。"
+    },
+    "Travel": {
+      "Business_Trips": "出差时会刻意选择获得绿色认证的酒店，随身携带便携式水质检测笔检查客房用水。",
+      "Leisure_Travel": "每年在哥斯达黎加热带雨林的树屋酒店度假两周，会参与当地生态保护组织的海龟孵化志愿者活动。"
+    },
+    "Social": "在领英分享酒店业碳中和案例，私下运营着200人的可持续生活WhatsApp群组；周三晚上固定参加社区中心的西班牙语角，常带自制素食塔帕斯分享。",
+    "Productivity": {
+      "Study_Work": "用Trello管理跨部门协作，在Moleskine本子手绘客户动线优化方案；订阅《Hospitality Design》杂志获取空间营造灵感。",
+      "Fitness": "参加凌晨6点的海滩瑜伽课程，佩戴太阳能充电的运动手环记录每日碳足迹消耗。"
+    },
+    "Content_Interests": [
+      "关注再生材料家具设计",
+      "痴迷研究各国房车改造案例",
+      "收藏1960年代复古酒店明信片"
+    ]
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "Name": "李伟",
+  "Demographics": {
+    "Age": 30,
+    "Gender": "男",
+    "Nationality": "中国",
+    "Language": [
+      "中文",
+      "英语"
+    ],
+    "Career_Information": "上海某高档餐厅的厨师，专注于传统中国菜的创新"
+  },
+  "Personality": {
+    "Extraversion_or_Introversion": "I",
+    "Sensing_or_Intuition": "S",
+    "Thinking_or_Feeling": "F",
+    "Judging_or_Perceiving": "J",
+    "Values_and_Interests": [
+      "热爱烹饪和美食文化",
+      "崇尚传统与现代的结合",
+      "关注可持续发展和环境保护",
+      "喜爱阅读和写作",
+      "偏爱与少数朋友深度交流而非大群体社交"
+    ]
+  },
+  "Preference": {
+    "Local_Life": {
+      "Food_Drinks": "周末必去本地菜市场挑选应季食材，偶尔在街角家庭餐馆品尝隐藏菜单。坚持使用可降解餐盒打包剩菜，对有机农场直供的蔬菜有明显偏好。",
+      "Entertainment": "每月参与小众书店的饮食文化沙龙，周末偶尔独自观看独立电影制片厂的美食纪录片。",
+      "Shopping": "定期购买手作陶瓷餐具，网购仅限于专业厨具补货。对二手书店的饮食文化典籍有淘宝癖好。",
+      "TravelDaily_Outings": "坚持骑共享单车通勤，周末会步行探访弄堂里的传统小吃摊"
+    },
+    "Travel": {
+      "Business_Trips": "每年两次前往食材原产地考察（如云南菌菇产区），随身携带手账本记录地方饮食智慧。",
+      "Leisure_Travel": "偏好古镇民宿里的私厨体验，会提前三个月规划包含地方非遗美食的深度游路线。"
+    },
+    "Social": "在小红书分享「传统菜现代化改造」系列视频，定期组织不超过5人的私厨品鉴会。春节必定回老家主持全家族的除夕宴筹备。",
+    "Productivity": {
+      "Study_Work": "用Evernote分类整理200+个风味灵感，床头常备《随园食单》和分子料理论文集。每年自费参加日本料理职人研修班。",
+      "Fitness": "清晨在公园练习结合厨艺动作的改良太极拳，华为手表记录每日站立烹饪时长"
+    },
+    "Content_Interests": [
+      "关注米其林绿星评级动态",
+      "收藏1980年代中国菜谱手绘版",
+      "订阅《Lucky Peach》美食杂志电子版"
+    ]
+  }
+}

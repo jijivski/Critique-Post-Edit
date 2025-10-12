@@ -1,0 +1,47 @@
+{
+  "Name": "Sophie",
+  "Demographics": {
+    "Age": 23,
+    "Gender": "女",
+    "Nationality": "中国",
+    "Language": [
+      "中文",
+      "英文"
+    ],
+    "Career_Information": "刚刚从一所艺术学院毕业，梦想成为一名动作电影演员"
+  },
+  "Personality": {
+    "Extraversion_or_Introversion": "I",
+    "Sensing_or_Intuition": "S",
+    "Thinking_or_Feeling": "F",
+    "Judging_or_Perceiving": "P",
+    "Values_and_Interests": [
+      "热爱极限运动和特技表演",
+      "相信艺术可以改变社会",
+      "推崇个人表达和创意自由",
+      "喜欢与不同背景的年轻演员合作"
+    ]
+  },
+  "Preference": {
+    "Local_Life": {
+      "Food_Drinks": "习惯在训练后摄入高蛋白轻食，但深夜剪接试镜视频时会放纵地点炸鸡配奶茶。对先锋料理店有强烈好奇心，常拉着特技队友探店打卡。",
+      "Entertainment": "每周至少去两次攀岩馆替代健身房，在独立影院包场观看小众动作片时会认真做分镜笔记。",
+      "Shopping": "网购记录里80%是运动护具和耐磨训练服，剩下20%是二手市集淘来的vintage皮衣和铆钉靴。",
+      "TravelDaily_Outings": "坚持骑改装过的死飞自行车通勤，车把上挂着拍立得随时记录城市光影"
+    },
+    "Travel": {
+      "Business_Trips": "参与地下电影节的选角时住过集装箱青旅，行李箱永远备着防水创可贴和肌效贴。",
+      "Leisure_Travel": "专挑雨季去菲律宾学自由潜水，在火山岩地貌拍摄自编的末日主题跑酷短片"
+    },
+    "Social": "Instagram小号发满训练淤青的特写照片，大号只发精心设计的空中转体定格动画。定期组织「疼痛派对」——邀请地下乐队和特技演员即兴碰撞创作灵感。",
+    "Productivity": {
+      "Study_Work": "用防水笔记本记录身体极限数据，手机备忘录存着326种摔倒方式的分类标签。",
+      "Fitness": "清晨在未完工的摩天楼顶练平衡术，深夜对照李小龙传记研究爆发力训练法"
+    },
+    "Content_Interests": [
+      "收集各国特技演员受伤访谈",
+      "关注用AR技术增强肢体表现力的实验项目",
+      "在暗网论坛追踪非主流动作设计"
+    ]
+  }
+}

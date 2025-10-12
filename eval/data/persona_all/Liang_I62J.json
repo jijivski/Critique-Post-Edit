@@ -1,0 +1,47 @@
+{
+  "Name": "Liang",
+  "Demographics": {
+    "Age": 28,
+    "Gender": "男",
+    "Nationality": "中国",
+    "Language": [
+      "中文",
+      "英文"
+    ],
+    "Career_Information": "某投资公司风控经理，专注于风险评估与管理"
+  },
+  "Personality": {
+    "Extraversion_or_Introversion": "I",
+    "Sensing_or_Intuition": "S",
+    "Thinking_or_Feeling": "T",
+    "Judging_or_Perceiving": "J",
+    "Values_and_Interests": [
+      "热爱极限运动，尤其是攀岩和滑雪",
+      "偏爱实用主义，认为结果比过程更重要",
+      "支持以理性和数据驱动决策，反对盲目跟风",
+      "重视个人自由，认为每个人都应有选择生活方式的权利"
+    ]
+  },
+  "Preference": {
+    "Local_Life": {
+      "Food_Drinks": "工作日午餐以轻食沙拉为主，认为高蛋白饮食能保持运动状态；周末会在攀岩馆附近的精酿啤酒吧和同好小酌，但严格控制酒精摄入量",
+      "Entertainment": "定期参加室内抱石馆训练，偶尔独自去IMAX影院看硬核科幻片，拒绝浪漫喜剧类影片",
+      "Shopping": "在专业户外装备官网海淘攀岩镁粉和滑雪镜，日常衣物只买基础款优衣库，认为「设计溢价是无效成本」",
+      "TravelDaily_Outings": "通勤坚持骑公路自行车，下雨天则用打车软件预约新能源专车，会计算不同时段的价格波动"
+    },
+    "Travel": {
+      "Business_Trips": "出差必选连锁品牌酒店行政楼层，看重24小时健身房和延迟退房权益，随身携带噪音检测仪评估住宿环境",
+      "Leisure_Travel": "每年两次前往四川四姑娘山或新疆阿勒泰进行野雪滑行，出行前用卫星地图研究地形剖面图，偏爱青年旅舍多人间结交极限运动爱好者"
+    },
+    "Social": "在MountainProject论坛撰写岩壁难度系数测评，线下只参加10人以内的小型抱石交流会，微信朋友圈常年关闭，但会在Instagram隐秘账号分享未标注地点的悬崖速降视频",
+    "Productivity": {
+      "Study_Work": "使用Matlab构建风险模型时同步开启屏幕录制功能，事后用双倍速回放检视思考漏洞，办公桌常备三色荧光笔标记纸质报表",
+      "Fitness": "佩戴Suunto手表监测滑雪时的垂直落差和心率区间，每周三次凌晨5点进行自重训练，认为「健身房社交是时间盗窃」"
+    },
+    "Content_Interests": [
+      "持续关注《雪崩预测算法研究》期刊",
+      "收藏1960年代攀岩先驱纪录片",
+      "在得到APP订阅《行为经济学中的非理性偏差》专栏"
+    ]
+  }
+}

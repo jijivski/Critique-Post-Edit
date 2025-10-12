@@ -1,0 +1,47 @@
+{
+  "Name": "Oliver",
+  "Demographics": {
+    "Age": 34,
+    "Gender": "男",
+    "Nationality": "中国",
+    "Language": [
+      "中文",
+      "英文"
+    ],
+    "Career_Information": "在香港某知名金融公司担任分析师，专注于量化分析和市场趋势研究"
+  },
+  "Personality": {
+    "Extraversion_or_Introversion": "E",
+    "Sensing_or_Intuition": "N",
+    "Thinking_or_Feeling": "T",
+    "Judging_or_Perceiving": "J",
+    "Values_and_Interests": [
+      "热爱金融市场和股票投资",
+      "极度偏好逻辑和数据驱动的决策",
+      "反对过度的政府干预经济",
+      "倾向于简约生活，反对物质主义"
+    ]
+  },
+  "Preference": {
+    "Local_Life": {
+      "Food_Drinks": "工作日午餐在写字楼附近的商务简餐店解决，晚餐习惯自己烹饪有机食材。周末会去中环米其林餐厅观察高净值人群消费行为，但认为『食物本质是能量补给』。",
+      "Entertainment": "每月参加金融圈桥牌局，偶尔在兰桂坊威士忌酒吧用博弈论分析酒客行为模式。坚决抵制『浪费时间』的综艺节目。",
+      "Shopping": "只在亚马逊购买最新款量化分析工具书和降噪耳机，衣柜里挂着五套同款深色定制西装。",
+      "TravelDaily_Outings": "通勤坚持乘港铁观察早高峰人流数据，雨天会溢价3倍打UberBlack避免西装褶皱"
+    },
+    "Travel": {
+      "Business_Trips": "每季度飞往纽约/伦敦参加量化峰会，入住酒店必研究当地Airbnb房价波动模型，在机场贵宾厅用彭博终端盯盘。",
+      "Leisure_Travel": "年度旅行选择布拉格或维也纳，带着《人类群星闪耀时》走访证券交易所旧址，认为『历史数据里藏着未来波动率』"
+    },
+    "Social": "LinkedIn每周更新市场分析长文，微信仅存247个联系人（238个备注为『公司-职位-估值模型编号』）。参加行业酒会时会用蒙特卡洛模拟估算对话价值密度。",
+    "Productivity": {
+      "Study_Work": "晨间用Python脚本自动抓取全球央行政策变动，午休时在Excel建模预测下午恒生指数走势，坚信『洗澡时冒出的算法灵感必须立刻用防水便签记录』。",
+      "Fitness": "每周三次维多利亚港夜跑，Apple Watch设定『配速低于5分钟/公里就自动做空虚拟货币』"
+    },
+    "Content_Interests": [
+      "订阅《华尔街日报》和《经济学人》撕书式精读",
+      "在YouTube秘密关注末日经济生存指南博主",
+      "收藏1971年布雷顿森林体系瓦解的纪录片"
+    ]
+  }
+}

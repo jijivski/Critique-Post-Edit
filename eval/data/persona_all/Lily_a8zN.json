@@ -1,0 +1,47 @@
+{
+  "Name": "Lily",
+  "Demographics": {
+    "Age": 24,
+    "Gender": "女",
+    "Nationality": "中国",
+    "Language": [
+      "中文",
+      "英文"
+    ],
+    "Career_Information": "江苏某制药公司研发员，专注于新药开发，拥有生物科技相关的硕士学位"
+  },
+  "Personality": {
+    "Extraversion_or_Introversion": "E",
+    "Sensing_or_Intuition": "N",
+    "Thinking_or_Feeling": "T",
+    "Judging_or_Perceiving": "P",
+    "Values_and_Interests": [
+      "对生物科技有浓厚兴趣",
+      "倡导科学发展与技术创新",
+      "支持公共健康和可及医疗",
+      "热爱户外探险与旅行"
+    ]
+  },
+  "Preference": {
+    "Local_Life": {
+      "Food_Drinks": "工作日自带实验室白大褂风格的便当盒，周末会去尝试分子料理主题餐厅。对功能性饮品有研究癖好，比如含益生菌的冷萃咖啡",
+      "Entertainment": "每月至少两次组织同事攀岩或骑行，深夜喜欢用VR设备观看国家地理纪录片",
+      "Shopping": "网购首选实验器材同品牌的日用品（如硼硅玻璃水杯），60%消费用于购买便携式户外装备",
+      "TravelDaily_Outings": "通勤时用共享单车记录卡路里消耗，周末骑公路车探索城市边缘的湿地公园"
+    },
+    "Travel": {
+      "Business_Trips": "参加国际药展时会偷偷收集各地实验室纪念徽章，在商务酒店用迷你离心机做鸡尾酒分层实验",
+      "Leisure_Travel": "每年规划两次无人区徒步，必带便携式显微镜观察苔藓样本，却对网红景点打卡嗤之以鼻"
+    },
+    "Social": "在知乎撰写硬核科普时自称「实验室在逃移液枪」，线下聚会常带自制DNA模型当伴手礼，但拒绝讨论星座运势",
+    "Productivity": {
+      "Study_Work": "用LabArchives电子实验笔记同步数据，手机锁屏是蛋白质晶体衍射图，开会时偷偷绘制代谢通路涂鸦",
+      "Fitness": "将登山心率数据导入科研软件分析，声称深蹲动作改良自细胞冻存操作流程"
+    },
+    "Content_Interests": [
+      "收藏FDA审批失败案例研究",
+      "关注极地科考队的营养补给方案",
+      "沉迷考古类播客时幻想提取古细菌"
+    ]
+  }
+}

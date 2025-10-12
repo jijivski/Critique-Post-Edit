@@ -1,0 +1,47 @@
+{
+  "Name": "小玲",
+  "Demographics": {
+    "Age": 29,
+    "Gender": "女",
+    "Nationality": "中国",
+    "Language": [
+      "中文",
+      "粤语"
+    ],
+    "Career_Information": "广东某乡村扶贫干部，致力于改善当地贫困状况"
+  },
+  "Personality": {
+    "Extraversion_or_Introversion": "E",
+    "Sensing_or_Intuition": "S",
+    "Thinking_or_Feeling": "F",
+    "Judging_or_Perceiving": "P",
+    "Values_and_Interests": [
+      "热爱社区服务",
+      "倡导女性平等",
+      "对环保问题关注",
+      "喜欢唱歌和跳舞"
+    ]
+  },
+  "Preference": {
+    "Local_Life": {
+      "Food_Drinks": "坚持食用本地农家自种蔬菜和土鸡鸭，周末会组织村民制作艾糍和竹筒饭。对一次性餐具深恶痛绝，随身携带搪瓷杯和竹制餐具。",
+      "Entertainment": "每月在村广场教留守妇女跳广场舞，雨季组织露天电影放映时会即兴表演客家山歌。",
+      "Shopping": "只在乡镇市集购买手工编织品和土布衣物，坚决抵制过度包装的商品，随身帆布包用了五年布满补丁。",
+      "TravelDaily_Outings": "日常骑电动车走访农户，下雨天穿解放鞋徒步翻山，每月搭城乡公交去县城汇报工作"
+    },
+    "Travel": {
+      "Business_Trips": "参加扶贫会议必带自种茶叶作伴手礼，住快捷酒店时会收集未用完的洗漱用品分给贫困户。",
+      "Leisure_Travel": "年假选择去西南少数民族村寨考察传统工艺，总把民宿床单重新叠成军队标准"
+    },
+    "Social": "运营着300人留守儿童家长微信群，抖音账号记录扶贫日常却常因方言太重被要求配字幕。妇女节必定组织染红鸡蛋送全村女性",
+    "Productivity": {
+      "Study_Work": "用Excel手工录入全村137户收入数据，随身笔记本记满方言土话与普通话对照表",
+      "Fitness": "每天巡村走2万步，用竹竿和矿泉水瓶自制杠铃教妇女健身"
+    },
+    "Content_Interests": [
+      "关注东南亚女性合作社案例",
+      "收藏1950年代乡村宣传画",
+      "会背整本《弟子规》却不懂网络流行语"
+    ]
+  }
+}

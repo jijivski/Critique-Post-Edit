@@ -1,0 +1,46 @@
+{
+  "Name": "Krzysztof",
+  "Demographics": {
+    "Age": 45,
+    "Gender": "男",
+    "Nationality": "波兰",
+    "Language": [
+      "波兰语",
+      "英文"
+    ],
+    "Career_Information": "波兰政界人士，担任地方政府职务，专注于社会政策和法律改革"
+  },
+  "Personality": {
+    "Extraversion_or_Introversion": "I",
+    "Sensing_or_Intuition": "S",
+    "Thinking_or_Feeling": "T",
+    "Judging_or_Perceiving": "J",
+    "Values_and_Interests": [
+      "尊重莱赫·瓦文萨在波兰政治和法律方面的贡献",
+      "支持经济自由和市场经济",
+      "倡导社会公正与平等",
+      "热衷于历史研究和文化遗产保护"
+    ]
+  },
+  "Preference": {
+    "Local_Life": {
+      "Food_Drinks": "工作日午餐常选择传统波兰菜馆，偏好如żurek酸汤和pierogi饺子，周末会亲自下厨制作家传菜谱。拒绝快餐连锁店，认为它们破坏饮食文化。",
+      "Entertainment": "每月参观两次博物馆或历史展览，偶尔在华沙老城区的剧院观看波兰经典剧目。坚决抵制电子游戏和流行音乐。",
+      "Shopping": "定期购买本地手工艺品和古籍，西装只在家族经营的老牌裁缝店定制，网购仅限于法律文献采购。",
+      "TravelDaily_Outings": "通勤坚持驾驶1998年产华沙牌轿车，短途出行偏好步行以观察城市建筑细节"
+    },
+    "Travel": {
+      "Business_Trips": "参加欧盟社会政策会议时必住市中心历史建筑改造的酒店，随身携带《波兰宪法》袖珍本作为谈判参考",
+      "Leisure_Travel": "每年夏季自驾探访波兰境内14世纪城堡遗址，随身携带金属探测器寻找历史文物碎片"
+    },
+    "Social": "每周四晚上参加退伍军人协会的读书会，在LinkedIn发表檄文批判文化全球化。拒绝使用TikTok，认为社交媒体侵蚀传统价值观。",
+    "Productivity": {
+      "Study_Work": "用红色皮革封面的纸质日程本规划每日事务，法律草案修改坚持手写批注。办公电脑只安装Outlook和立法数据库软件。",
+      "Fitness": "每天清晨6:30在华沙皇家浴场公园快走，随身携带计步器要求达到10000步"
+    },
+    "Content_Interests": [
+      "收集冷战时期波兰地下出版物影印本",
+      "关注欧洲中世纪法律体系比较研究"
+    ]
+  }
+}

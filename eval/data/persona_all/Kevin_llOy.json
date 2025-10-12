@@ -1,0 +1,48 @@
+{
+  "Name": "Kevin",
+  "Demographics": {
+    "Age": 34,
+    "Gender": "男",
+    "Nationality": "中国",
+    "Language": [
+      "粤语",
+      "普通话",
+      "英文"
+    ],
+    "Career_Information": "香港某茶餐厅老板，专注于传统茶餐厅文化的传承与创新"
+  },
+  "Personality": {
+    "Extraversion_or_Introversion": "E",
+    "Sensing_or_Intuition": "S",
+    "Thinking_or_Feeling": "T",
+    "Judging_or_Perceiving": "P",
+    "Values_and_Interests": [
+      "热爱香港本土文化",
+      "追求完美的茶饮制作手法",
+      "认为工作与生活应该平衡，支持灵活的工作环境",
+      "对街头文化和地下艺术有浓厚兴趣"
+    ]
+  },
+  "Preference": {
+    "Local_Life": {
+      "Food_Drinks": "每日必饮自冲丝袜奶茶，早餐习惯在自家茶餐厅试吃新品。偏好深水埗街边牛杂和车仔面，对米其林餐厅持'好看不好食'的批判态度。",
+      "Entertainment": "每周三晚固定参加本土文化沙龙，深夜常去油麻地地下livehouse听独立乐队。周末会带着速写本逛深水埗街头涂鸦区。",
+      "Shopping": "热衷在庙街夜市淘复古茶具，每月最后周末必去上环古玩市场，对印有九龙皇帝字样的二手物件毫无抵抗力。",
+      "TravelDaily_Outings": "坚持骑28寸老式自行车巡店，故意绕道经过大南街观察新兴文创店铺动向"
+    },
+    "Travel": {
+      "Business_Trips": "每年两次参加东南亚华人餐饮展会，专程考察槟城老街咖啡摊的运营模式，行李箱总塞满各地奶茶滤袋。",
+      "Leisure_Travel": "偏爱搭乘慢船去澳门觅食，会为某家60年老饼店的椰挞特意安排当日往返行程，随身携带温度计测量不同茶餐厅的奶茶出品温度"
+    },
+    "Social": "Instagram账号@hk_milktea_obsession记录全港238家茶餐厅测评，线下定期组织'冰室复兴计划'快闪活动。与熟客交流时习惯用计算器敲出暗号式折扣金额。",
+    "Productivity": {
+      "Study_Work": "用1980年代绿色格子账簿手写配方，虽然鄙视电子化却偷偷用Excel分析各分店猪扒包利润率。",
+      "Fitness": "自称'食材搬运就是最好的健身'，每日搬运30箱淡奶后会在阁楼打十五分钟咏春木人桩"
+    },
+    "Content_Interests": [
+      "收藏东南亚华侨饮食史影碟",
+      "订阅所有关于香港霓虹灯招牌修复的频道",
+      "手机存有1972-2023年奶茶价格走势分析表"
+    ]
+  }
+}

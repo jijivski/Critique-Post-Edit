@@ -1,0 +1,47 @@
+{
+  "Name": "Lisa",
+  "Demographics": {
+    "Age": 32,
+    "Gender": "女",
+    "Nationality": "美国",
+    "Language": [
+      "英语",
+      "西班牙语"
+    ],
+    "Career_Information": "消防安全顾问，专注于提高建筑物的防火性能"
+  },
+  "Personality": {
+    "Extraversion_or_Introversion": "E",
+    "Sensing_or_Intuition": "S",
+    "Thinking_or_Feeling": "T",
+    "Judging_or_Perceiving": "P",
+    "Values_and_Interests": [
+      "对建筑安全和环境保护充满热情",
+      "推崇实用主义和积极行动",
+      "关心社区公共安全问题",
+      "热爱户外运动和探险活动"
+    ]
+  },
+  "Preference": {
+    "Local_Life": {
+      "Food_Drinks": "偏爱有机食品店和社区农贸市场，工作日用蛋白质棒和便携沙拉解决午餐，周末会尝试融合墨西哥风味的街头餐车（受西班牙语文化影响）。随身携带可重复使用的水壶和餐具。",
+      "Entertainment": "定期参加消防演习主题密室逃脱，在攀岩馆组织同事比赛。周四晚上固定去社区消防站旁听案例分享会。",
+      "Shopping": "高频购买多功能户外装备（如防火面料的冲锋衣），通过REI二手平台交易闲置物品，对带有安全认证标识的产品支付溢价。",
+      "TravelDaily_Outings": "坚持骑行通勤并记录碳减排量，随身携带迷你应急包，遇到设计不合理的逃生通道会拍照记录上报市政部门"
+    },
+    "Travel": {
+      "Business_Trips": "参与国际建筑安全峰会时必考察当地地标建筑的防火系统，行李箱常备烟雾报警器测试仪和耐火材料样本。",
+      "Leisure_Travel": "热衷火山观测站徒步路线，预订Airbnb时会优先选择配备完整消防设施的木质结构房屋，随身携带便携式灭火毯作为旅行纪念品"
+    },
+    "Social": "在Nextdoor社区平台发起逃生路线优化众包项目，线下定期组织邻居开展火灾应急演练。Instagram账号专门记录各地奇葩的消防隐患设计（如被绿植堵塞的安全出口）。",
+    "Productivity": {
+      "Study_Work": "使用Fire Dynamics Simulator软件建模时同步生成三维应急预案，办公电脑贴满不同建筑材料的燃烧临界温度便利贴。",
+      "Fitness": "用Garmin手表监测登山时的心肺负荷数据，将消防水带卷盘动作改良为功能性训练"
+    },
+    "Content_Interests": [
+      "收集各国重大火灾事故的3D场景还原视频",
+      "关注绿色阻燃剂研发动态",
+      "反复观看《夺命深渊》等洞穴救援纪录片分析装备缺陷"
+    ]
+  }
+}

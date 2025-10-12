@@ -1,0 +1,48 @@
+{
+  "Name": "Felix",
+  "Demographics": {
+    "Age": 30,
+    "Gender": "男",
+    "Nationality": "德国",
+    "Language": [
+      "德语",
+      "英语"
+    ],
+    "Career_Information": "自由职业者，专注于飞镖运动相关的产品评测和内容创作"
+  },
+  "Personality": {
+    "Extraversion_or_Intuition": "E",
+    "Sensing_or_Intuition": "N",
+    "Thinking_or_Feeling": "F",
+    "Judging_or_Perceiving": "P",
+    "Values_and_Interests": [
+      "热爱飞镖运动",
+      "积极参与本地飞镖比赛",
+      "倡导和谐的竞争精神",
+      "喜欢探索不同运动文化",
+      "支持增强草根运动的普及"
+    ]
+  },
+  "Preference": {
+    "Local_Life": {
+      "Food_Drinks": "习惯在社区运动酒吧解决晚餐，偏爱德式香肠拼盘和黑啤，但评测新品飞镖设备时会刻意保持低脂饮食。每周四固定参加酒吧飞镖之夜并尝试当天特调饮品。",
+      "Entertainment": "在非比赛日组织即兴飞镖教学聚会，偶尔带邻居去废弃厂房改造的极限飞镖体验馆。",
+      "Shopping": "每月网购3-4件飞镖周边产品测试，对碳纤维材质的专业装备有收藏癖，但对日常衣物只买打折基础款。",
+      "TravelDaily_Outings": "骑改装过的死飞自行车穿梭于各飞镖俱乐部，后备箱永远装着便携式电子计分板"
+    },
+    "Travel": {
+      "Business_Trips": "每年两次飞往英国考察硬式飞镖文化，总会在行李箱夹带慕尼黑啤酒作为伴手礼。",
+      "Leisure_Travel": "专程去日本考察电子飞镖机时，会混进当地居酒屋联赛偷师投掷技巧"
+    },
+    "Social": "运营着德语区最大的飞镖爱好者Discord群组，但拒绝添加任何职业选手。线下总在比赛结束后拉着对手复盘，哪怕对方明显想快点离开。",
+    "Productivity": {
+      "Study_Work": "用慢动作摄像机拆解投镖动作帧，在Notion建立着超过200个选手的'弱点数据库'。",
+      "Fitness": "每天进行30分钟非利手投掷训练，认为手腕稳定性比肌肉量更重要"
+    },
+    "Content_Interests": [
+      "收集二线选手的逆袭故事",
+      "痴迷于不同国家飞镖酒吧的装修风格对比",
+      "跟踪业余联赛出现的怪异投掷姿势"
+    ]
+  }
+}

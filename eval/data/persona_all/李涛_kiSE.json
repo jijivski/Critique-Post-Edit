@@ -1,0 +1,47 @@
+{
+  "Name": "李涛",
+  "Demographics": {
+    "Age": 30,
+    "Gender": "男",
+    "Nationality": "中国",
+    "Language": [
+      "中文",
+      "俄语"
+    ],
+    "Career_Information": "吉林某滑雪场高级教练，国内外滑雪赛事经验丰富"
+  },
+  "Personality": {
+    "Extraversion_or_Introversion": "E",
+    "Sensing_or_Intuition": "S",
+    "Thinking_or_Feeling": "T",
+    "Judging_or_Perceiving": "P",
+    "Values_and_Interests": [
+      "热衷高空跳伞等极限运动",
+      "随身携带垃圾袋进行环保净山",
+      "定期撰写滑雪技术分析博客",
+      "认为规则是用来打破的冒险主义者"
+    ]
+  },
+  "Preference": {
+    "Local_Life": {
+      "Food_Drinks": "热衷东北铁锅炖和俄式红菜汤，滑雪后必喝高度伏特加驱寒，随身携带保温壶拒绝瓶装水以践行环保",
+      "Entertainment": "每周三固定参加攀冰训练，夏季转为山地摩托车骑行，家中收藏200+部极限运动纪录片蓝光碟",
+      "Shopping": "在专业户外装备店定期采购破冰斧等小众工具，网购偏爱军工级耐用产品，衣柜里全是各大滑雪品牌赞助服装",
+      "TravelDaily_Outings": "骑改装雪地摩托通勤，随身携带多功能军刀应对野外突发状况"
+    },
+    "Travel": {
+      "Business_Trips": "赴俄勘察加半岛参加冰川救援培训时，主动延长行程考察火山地貌",
+      "Leisure_Travel": "每年雪季结束后自驾前往西伯利亚无人区，睡袋里永远塞着俄语版《极地生存手册》"
+    },
+    "Social": "Instagram持续更新第一视角滑雪视频，在知乎撰写《雪崩自救指南》获专业认证，线下定期组织雪友清理雪道垃圾",
+    "Productivity": {
+      "Study_Work": "用GoPro多机位录制教学视频，俄语标注滑雪术语对照表，办公电脑里存着十年份的雪质分析数据",
+      "Fitness": "晨间进行负重30kg登山训练，手腕戴着能监测血氧浓度的极地专用智能表"
+    },
+    "Content_Interests": [
+      "北极圈生态研究论文",
+      "苏联时期登山档案解密",
+      "滑雪板碳纤维材料评测"
+    ]
+  }
+}

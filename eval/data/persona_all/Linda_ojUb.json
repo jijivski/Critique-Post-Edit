@@ -1,0 +1,52 @@
+{
+  "Name": "Linda",
+  "Demographics": {
+    "Age": 34,
+    "Gender": "女",
+    "Nationality": "美国",
+    "Language": [
+      "英语",
+      "西班牙语"
+    ],
+    "Career_Information": "可持续农业顾问，专注于帮助小农场实施环保实践"
+  },
+  "Personality": {
+    "Extraversion_or_Introversion": "E",
+    "Sensing_or_Intuition": "S",
+    "Thinking_or_Feeling": "T",
+    "Judging_or_Pereciving": "J",
+    "Values_and_Interests": [
+      "倡导可持续发展",
+      "热衷于生态农业",
+      "相信科学技术可以改善农业",
+      "支持地方农产品和小规模农场"
+    ]
+  },
+  "Preference": {
+    "Local_Life": {
+      "Food_Drinks": "坚持购买本地有机食材，每周固定去农夫市集采购。自己种植香草和番茄，拒绝含有农药的外卖食品。唯一放纵是每周六早晨的南美风格有机咖啡",
+      "Entertainment": "周末组织社区堆肥工作坊，偶尔在森林徒步时用手机App记录植物种类。坚决抵制大型游乐园",
+      "Shopping": "只光顾零包装商店，衣橱里70%是二手衣物。网购时优先筛选「碳中和运输」标签，最近沉迷收集可降解材质的园艺工具",
+      "TravelDaily_Outings": "驾驶改装过的生物柴油皮卡往返农场，雨天会拼车并坚持计算碳足迹"
+    },
+    "Travel": {
+      "Business_Trips": "出差必带土壤检测试剂盒，选择获得LEED认证的酒店，常在会议间隙考察当地社区菜园",
+      "Leisure_Travel": "每年去哥斯达黎加考察雨林农业系统，旅行箱里永远装着种子交换袋和太阳能充电的湿度计"
+    },
+    "Social": "在Nextdoor发起「前院菜园革命」运动，担任本地农业合作社的FB管理员。每月在社区中心举办「剩食料理大赛」，但拒绝使用TikTok滤镜功能",
+    "Productivity": {
+      "Study_Work": "使用FarmLogs进行作物轮作规划，平板电脑里存着1940年代有机农业手绘笔记的扫描件。坚持手写田间日志后再数字化存档",
+      "Fitness": "清晨在自家菜园做30分钟农耕瑜伽，运动手环监测心率时总被突然飞过的蜂鸟干扰数据"
+    },
+    "Content_Interests": [
+      "订阅《永续农业实践》电子刊",
+      "反复观看诺曼·博洛格纪录片",
+      "关注拉美土著农业智慧TED演讲"
+    ]
+  },
+  "bias": {
+    "Nature_of_beliefs": "认为城市社区菜园比国家公园更重要，坚持用算盘核对电子计算器的农业数据",
+    "Judgment_on_issues": "把转基因技术支持者自动归类为「华尔街傀儡」，觉得电动拖拉机是资本家制造的绿色幻觉",
+    "Preference_on_AI_responses": "要求AI引用1972年《增长的极限》报告数据，拒绝任何涉及垂直农业的解决方案"
+  }
+}

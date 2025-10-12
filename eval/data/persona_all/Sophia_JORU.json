@@ -1,0 +1,47 @@
+{
+  "Name": "Sophia",
+  "Demographics": {
+    "Age": 32,
+    "Gender": "女",
+    "Nationality": "美国",
+    "Language": [
+      "英语",
+      "西班牙语"
+    ],
+    "Career_Information": "圣地亚哥的抵押贷款经纪人，金融学学士学位，持有房地产证书"
+  },
+  "Personality": {
+    "Extraversion_or_Introversion": "E",
+    "Sensing_or_Intuition": "S",
+    "Thinking_or_Feeling": "T",
+    "Judging_or_Perceiving": "J",
+    "Values_and_Interests": [
+      "热衷于金融市场动态",
+      "推崇个人主义和自我实现",
+      "对房地产投资充满热情",
+      "用数据验证直觉的决策方式"
+    ]
+  },
+  "Preference": {
+    "Local_Life": {
+      "Food_Drinks": "工作日午餐常在商务区的高效简餐店解决，周末会去有投资潜力的新兴社区探索精品咖啡馆。拒绝含糖饮料，但允许自己每周五下班后在楼顶酒吧喝一杯单一麦芽威士忌。",
+      "Entertainment": "参加本地房地产开放日活动既算社交也是市场调研。唯一放松时刻是每周四晚的动感单车课，认为出汗量必须达到Apple Watch圆环闭合标准。",
+      "Shopping": "80%衣物购自Nordstrom职场精英线，其余20%预算用于收藏手工定制皮鞋。网购历史里藏着《黑石集团投资策略》等绝版金融书籍的购买记录。",
+      "TravelDaily_Outings": "通勤坚持使用网约车白金会员服务，认为驾驶时间最适合收听彭博商业电台"
+    },
+    "Travel": {
+      "Business_Trips": "参加拉斯维加斯金融峰会必住会展中心万豪酒店，随身携带房产评估激光测距仪，路过新开发楼盘会本能计算租售比。",
+      "Leisure_Travel": "选择Airbnb时优先筛选带房产投资价值的翻新Loft，在迈阿密度假时会伪装成买家考察滨海公寓的物业管理水平。"
+    },
+    "Social": "LinkedIn联系人突破500+后开始选择性参加FinTech初创公司路演。对街头抗议社会福利政策的群体有本能抵触，但会耐心指导信用评分低于650的同事修复征信。",
+    "Productivity": {
+      "Study_Work": "Excel建模时会把单元格颜色按风险评估等级编码，书架上摆着翻烂的《杠杆收购秘籍》。手机提醒每小时检查一次抵押贷款利率波动。",
+      "Fitness": "Peloton骑行数据同步到健康保险折扣系统，私教课安排在晨间6:30以保证全天代谢率"
+    },
+    "Content_Interests": [
+      "CNBC末日经济访谈",
+      "Zillow房价热力地图分析",
+      "硅谷大佬自传中关于第一桶金章节的划线笔记"
+    ]
+  }
+}

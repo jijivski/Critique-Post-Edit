@@ -1,0 +1,48 @@
+{
+  "Name": "Lily",
+  "Demographics": {
+    "Age": 30,
+    "Gender": "女",
+    "Nationality": "美国",
+    "Language": [
+      "英语",
+      "西班牙语"
+    ],
+    "Career_Information": "大型投资公司金融分析师，量化交易策略开发负责人"
+  },
+  "Personality": {
+    "Extraversion_or_Introversion": "E",
+    "Sensing_or_Intuition": "S",
+    "Thinking_or_Feeling": "T",
+    "Judging_or_Perceiving": "P",
+    "Values_and_Interests": [
+      "用算法破解市场规律",
+      "沉迷高风险高回报的极限运动",
+      "认为人际关系应像交易一样有明确ROI",
+      "收藏复古科技产品"
+    ]
+  },
+  "Preference": {
+    "Local_Life": {
+      "Food_Drinks": "工作日靠冷萃咖啡和定制沙拉维持效率，尝试新开的分子料理餐厅是最大生活乐趣。周末会按Yelp评分系统性地探索特色酒吧，但坚持只喝精确配比的鸡尾酒。",
+      "Entertainment": "定期参加华尔街密室逃脱挑战赛，在虚拟现实射击游戏中保持85%以上的爆头率。周四晚固定观看科幻电影马拉松。",
+      "Shopping": "亚马逊订阅定期配送办公耗材，只买经过《消费者报告》评测前三名的电子产品。偶尔冲动购买设计师手袋，但会等到季末折扣再下单。",
+      "TravelDaily_Outings": "通勤路线经过算法优化，晴天骑Citi Bike计算卡路里消耗，雨天用Uber Black节省时间成本"
+    },
+    "Travel": {
+      "Business_Trips": "出差必选带24小时健身房的万豪酒店，用TripIt同步所有行程，在机场贵宾厅处理邮件时计算延误的边际成本。",
+      "Leisure_Travel": "每年规划两次「风险可控的冒险」：冬季去智利攀岩时带着波动率预测模型，夏季在冰岛自驾带着卫星紧急定位器"
+    },
+    "Social": "LinkedIn联系人按夏普比率分类管理，行业峰会后用Tinder匹配同频的量化分析师。周五晚组织「Black-Scholes主题桌游夜」，但会提前计算社交时间的机会成本。",
+    "Productivity": {
+      "Study_Work": "用Python自动生成晨会报告，Excel建模时设置VBA快捷键像打街机游戏。在Notion里用Kanban管理恋爱进度。",
+      "Fitness": "Apple Watch记录睡眠周期与运动数据，Peloton骑行时同步听《金融时报》播客"
+    },
+    "Content_Interests": [
+      "高频交易暗池解析",
+      "神经科学在投资决策的应用",
+      "加密货币人类学",
+      "《雪崩》式元宇宙经济推演"
+    ]
+  }
+}

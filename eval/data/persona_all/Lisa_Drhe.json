@@ -1,0 +1,47 @@
+{
+  "Name": "Lisa",
+  "Demographics": {
+    "Age": 30,
+    "Gender": "女",
+    "Nationality": "美国",
+    "Language": [
+      "英语",
+      "西班牙语"
+    ],
+    "Career_Information": "自由撰稿人，专注于科技和文化评论"
+  },
+  "Personality": {
+    "Extraversion_or_Introversion": "I",
+    "Sensing_or_Intuition": "N",
+    "Thinking_or_Feeling": "F",
+    "Judging_or_Perceiving": "P",
+    "Values_and_Interests": [
+      "热衷于科技与人文的交叉领域",
+      "支持女权主义和LGBTQ+权利",
+      "喜欢玩战略类游戏（例如《文明》系列）",
+      "热爱观看韩国剧，尤其是情感深刻的故事"
+    ]
+  },
+  "Preference": {
+    "Local_Life": {
+      "Food_Drinks": "工作日以自制沙拉和咖啡为主，周末常去社区内支持女性创业的咖啡馆写作。沉迷韩式泡菜锅和冰美式，认为辣味能激发批判性思维。",
+      "Entertainment": "每周四晚固定玩《文明VI》至凌晨，自称「用游戏模拟社会实验」；每月去独立影院观看小众文艺片，尤其偏爱女性导演作品。",
+      "Shopping": "通过二手平台购买绝版社科书籍，坚持只使用环保品牌电子设备。衣柜里有7件不同颜色的工装连体裤，自称「实用主义美学」。",
+      "TravelDaily_Outings": "骑电动滑板车往返共享办公空间，总在背包侧袋插着西班牙语诗集，声称「通勤是移动的哲思时刻」"
+    },
+    "Travel": {
+      "Business_Trips": "参加科技峰会时坚持入住女性友好型青旅，随身携带《神经漫游者》作为灵感护身符。",
+      "Leisure_Travel": "每年前往首尔追踪韩剧取景地，会特意选择LGBTQ+友好民宿。行李箱里永远装着任天堂Switch和《后人类主义导论》"
+    },
+    "Social": "在Twitter用双语犀利点评科技伦理问题，线下定期组织「科幻小说中的性别政治」读书会。Instagram收藏夹里分列着#赛博女权主义 和#韩剧台词哲学 两个秘密标签。",
+    "Productivity": {
+      "Study_Work": "用Obsidian构建跨学科知识图谱，写作时循环播放《请回答1988》OST。坚持手写会议笔记，声称「纸质摩擦系数影响神经元连接」",
+      "Fitness": "参加融合VR技术的冥想课程，认为「在虚拟自然景观中拉伸是对抗科技异化的辩证法」"
+    },
+    "Content_Interests": [
+      "追踪脑机接口技术的社会学意义",
+      "收集各国平权运动纪录片",
+      "分析韩剧中的儒家伦理现代转型"
+    ]
+  }
+}

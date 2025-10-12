@@ -1,0 +1,48 @@
+{
+  "Name": "李华",
+  "Demographics": {
+    "Age": 30,
+    "Gender": "男",
+    "Nationality": "中国",
+    "Language": [
+      "中文",
+      "闽南语",
+      "英语"
+    ],
+    "Career_Information": "福建省土楼导游，擅长用闽南语穿插双语讲解，掌握12座世遗土楼的建筑密码"
+  },
+  "Personality": {
+    "Extraversion_or_Introversion": "E",
+    "Sensing_or_Intuition": "S",
+    "Thinking_or_Feeling": "F",
+    "Judging_or_Perceiving": "P",
+    "Values_and_Interests": [
+      "能闭眼画出承启楼的榫卯结构图",
+      "随身携带祖父留下的土楼修缮笔记",
+      "认为屋檐滴水声是最佳白噪音",
+      "坚持用方言讲荤段子活跃气氛"
+    ]
+  },
+  "Preference": {
+    "Local_Life": {
+      "Food_Drinks": "早餐必吃客家捶圆配米酒酿，带团时会用竹筒装土楼红曲酒请游客尝鲜，对景区过度商业化的糍粑摊嗤之以鼻",
+      "Entertainment": "每月两次骑摩托去三十公里外的老茶馆，边听评话《土楼春秋》边记录老人随口哼的夯墙号子",
+      "Shopping": "定期采购永定柿饼和连史纸，在淘宝收藏了7家古法竹编店铺，衣柜里有5套不同纹样的客家蓝衫",
+      "TravelDaily_Outings": "骑改装摩托穿梭土楼群，后备箱永远备着驱蚁草药包和防潮宣纸"
+    },
+    "Travel": {
+      "Business_Trips": "每年带家族长辈去漳州祭祖时，会绕道考察濒危土楼的保护现状",
+      "Leisure_Travel": "专挑雨季探访徽派建筑对比排水系统，总在青旅大堂用土楼模型换陌生人故事"
+    },
+    "Social": "抖音账号「土楼夜话」有2.3万粉丝，擅长用GoPro拍屋檐斗拱教学视频。每周三晚在宗祠教小孩拓碑，会偷偷给外国游客塞写有族谱密码的竹片",
+    "Productivity": {
+      "Study_Work": "用毛边笔记本记录游客口述的地方志，手机备忘录存着187个未解的建筑谜题，常拿景区地图当速写纸",
+      "Fitness": "清晨在鹅卵石天井赤脚晨跑，把扛夯石当力量训练"
+    },
+    "Content_Interests": [
+      "收藏文革时期的地方戏曲磁带",
+      "关注全球生土建筑研讨会",
+      "反复观看90年代台胞寻根纪录片"
+    ]
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "Name": "Lily",
+  "Demographics": {
+    "Age": 32,
+    "Gender": "女",
+    "Nationality": "中国",
+    "Language": [
+      "中文",
+      "法语"
+    ],
+    "Career_Information": "小学教育工作者，专注于特殊教育"
+  },
+  "Personality": {
+    "Extraversion_or_Introversion": "I",
+    "Sensing_or_Intuition": "S",
+    "Thinking_or_Feeling": "F",
+    "Judging_or_Perceiving": "J",
+    "Values_and_Interests": [
+      "关注儿童心理健康",
+      "倡导多元文化教育",
+      "支持地方艺术项目",
+      "喜欢阅读和手工艺"
+    ]
+  },
+  "Preference": {
+    "Local_Life": {
+      "Food_Drinks": "工作日自带有机食材制作的便当，周末会去社区家庭咖啡馆尝试新式简餐。对含糖饮料有生理性排斥，但沉迷花草茶和低因咖啡。",
+      "Entertainment": "每月参加手工艺市集展览，定期在社区活动中心举办儿童折纸工作坊。偶尔独自观看儿童剧场改编的法国电影。",
+      "Shopping": "经常购买再生纸手账本和木质教具，消费集中在200-500元区间。拒绝快时尚，但会为手工艺材料超额消费。",
+      "TravelDaily_Outings": "坚持步行40分钟上下班，途中观察不同孩子的通勤状态。周末骑共享单车去湿地公园写生。"
+    },
+    "Travel": {
+      "Business_Trips": "每年两次参与特殊教育峰会时，会特意考察当地福利院的艺术治疗室配置。",
+      "Leisure_Travel": "暑假选择有陶艺工坊的文化古城，总要入住带儿童图书角的民宿，行李箱永远装着送给陌生孩子的立体绘本。"
+    },
+    "Social": "在社区家长微信群分享《非暴力沟通儿童版》读书笔记，线下定期组织特殊儿童家长茶话会。悄悄运营着ins手账账号但从不露脸。",
+    "Productivity": {
+      "Study_Work": "用彩色便利贴矩阵规划课程表，在石墨文档建立「特殊儿童行为观察108式」共享笔记。",
+      "Fitness": "用Keep跟练孕期瑜伽已有三年历史，实际是为了调节工作中积累的情绪压力。"
+    },
+    "Content_Interests": [
+      "收集各国特殊教育纪录片",
+      "关注法国布艺艺术家动态",
+      "订阅《蒙台梭利实践》电子期刊"
+    ]
+  }
+}

@@ -1,0 +1,3 @@
+,win_rate,standard_error,mode,avg_length,n_wins,n_wins_base,n_draws,n_total,discrete_win_rate,length_controlled_winrate,lc_standard_error
+mix_Personalized-Qwen2.5-14B-Instruct.jsonl,74.32146998762337,2.40458843725774,community,365,221,77,1,299,74.08026755852842,75.53578419129842,6.431349301599857e-16
+mix_Personalized-Qwen2.5-7B-Instruct,64.63603047500885,2.568392286587498,community,391,191,106,2,299,64.21404682274247,63.70540859890097,0.0

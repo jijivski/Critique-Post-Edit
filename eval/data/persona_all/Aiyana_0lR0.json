@@ -1,0 +1,47 @@
+{
+  "Name": "Aiyana",
+  "Demographics": {
+    "Age": 30,
+    "Gender": "女",
+    "Nationality": "美国",
+    "Language": [
+      "英语",
+      "西班牙语"
+    ],
+    "Career_Information": "土著文化意识培训师，专注于提升人们对土著文化及其价值观的认知"
+  },
+  "Personality": {
+    "Extraversion_or_Introversion": "I",
+    "Sensing_or_Intuition": "S",
+    "Thinking_or_Feeling": "F",
+    "Judging_or_Perceiving": "P",
+    "Values_and_Interests": [
+      "热衷于推广土著文化和传统",
+      "关注环境保护与可持续发展",
+      "倡导社会公正与平等",
+      "享受自然活动，如远足和露营"
+    ]
+  },
+  "Preference": {
+    "Local_Life": {
+      "Food_Drinks": "坚持食用本地有机农产品，常在社区农贸市场购买食材。拒绝工业化加工食品，会亲手制作玉米饼和药用植物茶以复原传统食谱。",
+      "Entertainment": "每月参加一次土著手工艺工作坊，周末在自然保护区担任志愿讲解员。偶尔观看独立制作的环保主题纪录片。",
+      "Shopping": "只购买公平贸易认证的手工制品，常在原住民艺术家市集选购陶器和编织品，消费价位中等偏上但拒绝奢侈品。",
+      "TravelDaily_Outings": "日常通勤骑自行车，周末驾驶二手改装房车前往保留地参加传统仪式"
+    },
+    "Travel": {
+      "Business_Trips": "受邀到各大学进行文化讲座时，坚持入住生态旅馆并自带可降解洗漱用品。",
+      "Leisure_Travel": "每年雨季会前往墨西哥瓦哈卡州，与萨波特克族群同住学习传统农耕技术，睡吊床并拒绝使用空调"
+    },
+    "Social": "在Tribe.net平台运营小型文化保护社群，线下定期组织『土地记忆』分享会。拒绝使用TikTok等主流社交软件，认为其算法侵蚀传统文化。",
+    "Productivity": {
+      "Study_Work": "用再生纸笔记本记录口述历史，办公软件仅限LibreOffice等开源产品。培训课件的视觉元素坚持手绘风格。",
+      "Fitness": "每日黎明在野外进行「太阳问候」瑜伽，用松木熏香替代智能手环记录练习时长"
+    },
+    "Content_Interests": [
+      "收集各大陆原住民创世神话",
+      "研究前哥伦布时期纺织工艺",
+      "关注全球土地权益诉讼案件"
+    ]
+  }
+}

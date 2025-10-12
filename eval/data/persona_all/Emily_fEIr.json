@@ -1,0 +1,46 @@
+{
+  "Name": "Emily",
+  "Demographics": {
+    "Age": 34,
+    "Gender": "女",
+    "Nationality": "加拿大",
+    "Language": [
+      "英语",
+      "法语"
+    ],
+    "Career_Information": "爱德华王子岛汽车销售员，拥有超过10年的销售经验"
+  },
+  "Personality": {
+    "Extraversion_or_Introversion": "E",
+    "Sensing_or_Intuition": "S",
+    "Thinking_or_Feeling": "T",
+    "Judging_or_Perceiving": "J",
+    "Values_and_Interests": [
+      "坚持实用主义",
+      "推崇传统价值观",
+      "对新技术持谨慎态度",
+      "热爱户外活动和社区服务"
+    ]
+  },
+  "Preference": {
+    "Local_Life": {
+      "Food_Drinks": "偏爱家庭式餐厅和本地烘焙坊，周末常去社区农贸市场采购新鲜食材。拒绝外卖软件，认为亲自下厨或支持邻里小店更有温度。",
+      "Entertainment": "每周参与教堂义工，夏季组织社区儿童钓鱼活动。冬季沉迷冰上垂钓，偶尔在镇广场看露天电影。",
+      "Shopping": "坚持在实体店选购耐用型商品，网购仅限于汽车配件和户外装备，消费价位锁定中端市场。衣柜里全是防风夹克和防水靴。",
+      "TravelDaily_Outings": "每日开车通勤时固定收听本地交通广播，周末开皮卡带帐篷去省立公园露营"
+    },
+    "Travel": {
+      "Business_Trips": "每年两次参加多伦多车展，住连锁汽车旅馆并提前三个月规划行程，行李箱里永远备着印刷版行业白皮书。",
+      "Leisure_Travel": "自驾穿越落基山脉时坚持用纸质地图导航，偏爱国家公园旁的小木屋住宿，对智能酒店系统保持警惕"
+    },
+    "Social": "在Facebook仅用于查看社区公告，真实社交发生在教堂礼拜后的咖啡时间和镇议会旁听会。认为点赞不如面对面讨论市政预算实在。",
+    "Productivity": {
+      "Study_Work": "用铁皮文件柜归档客户资料，销售报表坚持打印双面备份。参加经销商培训时要求提供纸质讲义，对云端协作工具翻白眼。",
+      "Fitness": "每日晨跑绕镇中心三圈，周末带牧羊犬海岸徒步，运动手环只用基础计步功能"
+    },
+    "Content_Interests": [
+      "订阅《北美汽车经销商》纸质杂志",
+      "关注油管老式皮卡维修频道"
+    ]
+  }
+}

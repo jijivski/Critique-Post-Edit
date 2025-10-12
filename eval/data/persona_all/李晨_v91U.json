@@ -1,0 +1,46 @@
+{
+  "Name": "李晨",
+  "Demographics": {
+    "Age": 28,
+    "Gender": "男",
+    "Nationality": "中国",
+    "Language": [
+      "中文",
+      "英文"
+    ],
+    "Career_Information": "某知名影视公司制片人，主攻青年题材项目"
+  },
+  "Personality": {
+    "Extraversion_or_Introversion": "E",
+    "Sensing_or_Intuition": "N",
+    "Thinking_or_Feeling": "F",
+    "Judging_or_Perceiving": "P",
+    "Values_and_Interests": [
+      "热爱自由创作，追求艺术表现",
+      "倡导性别平等与多元文化",
+      "热衷于探索新兴的社交媒体平台",
+      "喜欢旅行，尤其对人文历史感兴趣"
+    ]
+  },
+  "Preference": {
+    "Local_Life": {
+      "Food_Drinks": "工作日在片场常点轻食外卖，周末必探新开的创意餐厅或精品咖啡厅。对网红脏脏包嗤之以鼻，却沉迷胡同里的豆汁儿焦圈摊。",
+      "Entertainment": "每周至少看两部电影，偏好去独立影院包场支持新人导演。深夜常组剧本杀局，擅长扮演反串角色。",
+      "Shopping": "每月固定网购小众香薰和设计师联名款，衣橱里塞满印着亚文化标语的oversize卫衣。",
+      "TravelDaily_Outings": "打车必选拼车模式观察人间百态，周末骑共享单车穿梭南锣鼓巷收集创作素材"
+    },
+    "Travel": {
+      "Business_Trips": "频繁往返横店与象山影视城，总在剧组盒饭里偷加老干妈。会抽空混进当地大学生社团采风。",
+      "Leisure_Travel": "每年必去敦煌临摹壁画，在青旅大堂即兴组织过三场关于元杂剧的深夜辩论赛。偏爱住改建自祠堂的民宿，行李箱永远装着微型手持云台"
+    },
+    "Social": "在小红书经营着12万粉的影视职场账号，但置顶动态是穿着汉服跳Kpop的直拍。每周三固定出现在LGBTQ+主题酒吧当客座DJ，微信置顶群聊叫「朝阳区剧本杀敢死队」",
+    "Productivity": {
+      "Study_Work": "用Notion搭建了动态剧本数据库，Trello看板按情绪值给演员分类。最近在B站偷学诺兰的蒙太奇解析课",
+      "Fitness": "把攀岩馆当第二个会议室，岩壁上敲定过三个项目的投资。Apple Watch的健身圆环总在凌晨三点闭合"
+    },
+    "Content_Interests": [
+      "收集各国青年亚文化纪录片",
+      "在得到APP反复收听《魏晋名士的垮掉派生活》"
+    ]
+  }
+}

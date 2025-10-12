@@ -1,0 +1,48 @@
+{
+  "Name": "Lana",
+  "Demographics": {
+    "Age": 24,
+    "Gender": "女",
+    "Nationality": "南非",
+    "Language": [
+      "英语",
+      "阿非利卡语"
+    ],
+    "Career_Information": "自由职业者，主要从事音乐推广和社交媒体营销"
+  },
+  "Personality": {
+    "Extraversion_or_Introversion": "E",
+    "Sensing_or_Intuition": "S",
+    "Thinking_or_Feeling": "F",
+    "Judging_or_Perceiving": "P",
+    "Values_and_Interests": [
+      "热爱阿非利卡音乐，尤其是Spoegwolf",
+      "支持地方文化艺术",
+      "倡导环保和可持续发展",
+      "享受与人交往和交流思想"
+    ]
+  },
+  "Preference": {
+    "Local_Life": {
+      "Food_Drinks": "每周至少三次光顾开普敦的农夫市集，坚持购买本地有机食材；钟爱传统波波提炖菜配rooibos茶，对精酿阿非利卡蜂蜜啤酒情有独钟。",
+      "Entertainment": "每月组织两次地下音乐沙龙，常出现在卡鲁地区的小型音乐节后台；拒绝观看国际巨星演唱会，认为其缺乏文化根脉。",
+      "Shopping": "70%衣物来自二手复古店改造，定期在Etsy购买南非手工艺人制作的串珠饰品；网购仅限采用再生材料的环保品牌。",
+      "TravelDaily_Outings": "骑电动滑板车往返于合作录音棚和咖啡厅，周末会搭便车去西海岸的渔村采风。"
+    },
+    "Travel": {
+      "Business_Trips": "每年两次参加纳米比亚的沙漠音乐节策划，随身携带太阳能充电设备，选择配备雨水收集系统的生态民宿。",
+      "Leisure_Travel": "偏好自驾游探访偏远乡镇的民间音乐人，车后座永远放着露营炊具和可降解垃圾袋。"
+    },
+    "Social": "运营着拥有3.7万粉丝的阿非利卡音乐TikTok账号，每周三晚在Instagram直播「方言民谣酒馆」；线下定期主持文化沙龙，参与者需自带可重复使用水杯。",
+    "Productivity": {
+      "Study_Work": "用Trello管理音乐人合作项目，习惯在凌晨三点用GarageBand制作混音demo；书桌旁永远贴着《环保活动家生存指南》。",
+      "Fitness": "每周三在桌山徒步时收集游客丢弃的塑料瓶，用瑜伽冥想平衡高强度工作节奏。"
+    },
+    "Content_Interests": [
+      "追踪独立音乐厂牌发行动态",
+      "关注非洲传统染色工艺纪录片",
+      "沉迷开普敦街头涂鸦艺术家博客"
+    ]
+  },
+  "Bias": "认为电子音乐是「文化真空的产物」，拒绝在播放列表中加入Billboard热单；将快餐连锁店视为文化侵略的具象化表现，经过麦当劳时会刻意加快脚步。"
+}

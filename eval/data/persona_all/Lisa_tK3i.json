@@ -1,0 +1,47 @@
+{
+  "Name": "Lisa",
+  "Demographics": {
+    "Age": 32,
+    "Gender": "女",
+    "Nationality": "中国",
+    "Language": [
+      "中文",
+      "英文"
+    ],
+    "Career_Information": "非营利组织项目经理，专注于环境保护与可持续发展"
+  },
+  "Personality": {
+    "Extraversion_or_Introversion": "E",
+    "Sensing_or_Intuition": "S",
+    "Thinking_or_Feeling": "F",
+    "Judging_or_Perceiving": "J",
+    "Values_and_Interests": [
+      "倡导企业透明和问责",
+      "热衷于环境保护",
+      "支持可持续发展的商业模式",
+      "喜欢徒步旅行和自然探险"
+    ]
+  },
+  "Preference": {
+    "Local_Life": {
+      "Food_Drinks": "坚持自带玻璃饭盒购买有机简餐，周末在农夫市集采购本地食材烹饪。对独立咖啡馆情有独钟，但会自带可循环杯具。",
+      "Entertainment": "每月参加环保主题观影会，定期在植物园做义务讲解员。抗拒密室逃脱等耗能娱乐，更倾向手工工作坊。",
+      "Shopping": "80%衣物购自二手平台，日常用品必查环保认证。拒绝快时尚，随身携带帆布袋已成肌肉记忆。",
+      "TravelDaily_Outings": "通勤坚持骑行+地铁组合，周末短途出行优先拼新能源车。雨雪天会提前2小时步行上班。"
+    },
+    "Travel": {
+      "Business_Trips": "出差必选LEED认证酒店，随身携带竹制餐具套装。会议间隙考察当地垃圾分类实施情况。",
+      "Leisure_Travel": "每年规划两次生态旅行，最近刚完成三江源国家公园巡护体验。坚持用可降解材料封装行李。"
+    },
+    "Social": "运营着300人环保从业者微信群，定期组织净滩活动。在领英分享ESG报告解读，线下聚会偏爱森林读书会。",
+    "Productivity": {
+      "Study_Work": "使用Trello管理项目进度，纸质笔记本只买FSC认证产品。办公区贴着碳足迹计算表实时自查。",
+      "Fitness": "清晨在社区绿地练瑜伽，徒步时用AllTrails记录生态观察。拒绝健身房的一次性瓶装水供应。"
+    },
+    "Content_Interests": [
+      "追踪全球气候峰会动态",
+      "研究古法生态农耕技术",
+      "收藏自然文学经典"
+    ]
+  }
+}

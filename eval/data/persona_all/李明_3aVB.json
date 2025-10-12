@@ -1,0 +1,46 @@
+{
+  "Name": "李明",
+  "Demographics": {
+    "Age": 30,
+    "Gender": "男",
+    "Nationality": "中国",
+    "Language": [
+      "中文",
+      "粤语"
+    ],
+    "Career_Information": "省级传统文化传承人，专注于广东龙舟鼓文化"
+  },
+  "Personality": {
+    "Extraversion_or_Introversion": "I",
+    "Sensing_or_Intuition": "S",
+    "Thinking_or_Feeling": "T",
+    "Judging_or_Perceiving": "J",
+    "Values_and_Interests": [
+      "热爱传统文化",
+      "重视团队合作",
+      "欣赏力量与节奏的结合",
+      "喜欢饮酒文化，尤其是黄酒"
+    ]
+  },
+  "Preference": {
+    "Local_Life": {
+      "Food_Drinks": "每周三固定去老城区黄酒馆与鼓队成员小酌，偏爱顺德菜系的砂锅粥与烧腊。随身携带紫砂酒壶，认为冰镇黄酒是对传统的亵渎。",
+      "Entertainment": "组织社区青少年龙舟鼓夜训，端午前后在祠堂指导鼓谱教学。偶尔独自去珠江边听货轮鸣笛声寻找节奏灵感。",
+      "Shopping": "只在百年老店『陈记鼓铺』采购鳄鱼皮鼓面材料，网购仅限于购买《中国民间打击乐图谱》等专业书籍。",
+      "TravelDaily_Outings": "坚持骑28大杠自行车往返鼓坊，阴雨天会提前1小时出发擦拭车座防止生锈"
+    },
+    "Travel": {
+      "Business_Trips": "参加非遗博览会时必带自制龙舟鼓模型，入住酒店后会检查床头方位是否符合风水学。",
+      "Leisure_Travel": "每年谷雨时节自驾去肇庆采风，用录音笔收集山林溪流声融入新鼓谱，住农家乐必须确认床铺不朝西"
+    },
+    "Social": "在『岭南鼓韵』论坛担任版主，线下只参加行业内的醒狮队联谊。微信置顶对话是鼓坊物料供应商，朋友圈封面是祖父留下的鳄鱼皮鼓槌。",
+    "Productivity": {
+      "Study_Work": "用朱砂笔在宣纸上手写鼓谱草案，办公桌第三抽屉锁着民国时期的《龙舟竞渡节奏密要》手抄本。",
+      "Fitness": "每日清晨在自家后院进行30分钟石锁训练，认为现代健身房器械会破坏肌肉记忆"
+    },
+    "Content_Interests": [
+      "收集各地船工号子录音",
+      "研究明清时期武馆击鼓练兵的历史"
+    ]
+  }
+}

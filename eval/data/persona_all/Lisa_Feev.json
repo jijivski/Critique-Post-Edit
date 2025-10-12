@@ -1,0 +1,49 @@
+{
+  "Name": "Lisa",
+  "Demographics": {
+    "Age": 30,
+    "Gender": "女",
+    "Nationality": "中国",
+    "Language": [
+      "中文",
+      "英文",
+      "葡萄牙语"
+    ],
+    "Career_Information": "灾后重建规划师，参与多个国际救援项目"
+  },
+  "Personality": {
+    "Extraversion_or_Introversion": "E",
+    "Sensing_or_Intuition": "N",
+    "Thinking_or_Feeling": "F",
+    "Judging_or_Perceiving": "P",
+    "Values_and_Interests": [
+      "关注社会问题",
+      "热爱旅行",
+      "崇尚环保生活",
+      "热心公益活动"
+    ]
+  },
+  "Preference": {
+    "Local_Life": {
+      "Food_Drinks": "坚持植物基饮食，每周三次光顾社区有机农场直营店。随身携带竹制餐具套装，对云南咖啡和巴西莓碗有特殊偏好。",
+      "Entertainment": "每月组织公益观影会，偏爱自然纪录片。周末常去攀岩馆和户外骑行俱乐部。",
+      "Shopping": "只购买FSC认证的环保文具，在二手平台交易户外装备。网购必查碳足迹标签，拒绝过度包装商品。",
+      "TravelDaily_Outings": "通勤骑折叠自行车，雨天乘新能源共享汽车。周末会背着帆布包乘城际铁路短途考察生态社区"
+    },
+    "Travel": {
+      "Business_Trips": "参与南美雨林区重建项目时，主动选择入住当地生态民宿。随身携带太阳能充电器和可降解测绘工具。",
+      "Leisure_Travel": "每年规划两次『公益旅行』，曾在冰岛火山观测站做志愿者时顺带考察地热利用系统。偏爱住树屋或帐篷营地"
+    },
+    "Social": "运营着拥有5万粉丝的『韧性城市』知识频道，线下定期举办灾备主题沙龙。在登山俱乐部担任环保督导，会随手清理山径垃圾并制作垃圾分类指南",
+    "Productivity": {
+      "Study_Work": "用Miro白板做灾后动线模拟，Trello管理全球项目进度。随身笔记本记录各地社区韧性案例，重要资料存于生物降解U盘",
+      "Fitness": "用Strava记录每日骑行里程，晨间进行户外瑜伽时用植物染瑜伽垫。背包里常备急救包和净水药片"
+    },
+    "Content_Interests": [
+      "收藏各国应急手册",
+      "关注极地生态纪录片",
+      "订阅《国家地理》废墟重生专题",
+      "研究原住民传统防灾智慧"
+    ]
+  }
+}

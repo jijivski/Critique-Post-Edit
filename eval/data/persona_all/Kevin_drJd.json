@@ -1,0 +1,48 @@
+{
+  "Name": "Kevin",
+  "Demographics": {
+    "Age": 28,
+    "Gender": "男",
+    "Nationality": "中国",
+    "Language": [
+      "中文",
+      "粤语",
+      "英文"
+    ],
+    "Career_Information": "香港某知名烘焙坊面点师，专注于健康面点的研发"
+  },
+  "Personality": {
+    "Extraversion_or_Introversion": "E",
+    "Sensing_or_Intuition": "S",
+    "Thinking_or_Feeling": "F",
+    "Judging_or_Perceiving": "P",
+    "Values_and_Interests": [
+      "致力于低糖健康饮食",
+      "热爱与朋友聚会和分享美食",
+      "支持可持续发展和环保理念",
+      "喜欢尝试新口味并不断创新"
+    ]
+  },
+  "Preference": {
+    "Local_Life": {
+      "Food_Drinks": "每日早餐必吃自制全麦面包配奇亚籽果酱，午餐在烘焙坊实验新配方时顺便解决，常光顾油麻地街市的老字号豆腐花摊。周末会组织『盲盒试吃会』，带朋友去深水埗新开的无添加糖甜品店探店。",
+      "Entertainment": "每月至少一次午夜场电影马拉松，偏爱美食纪录片；定期参加西贡码头的手作面包市集，边摆摊边偷师同行创意。",
+      "Shopping": "习惯在Etsy购买可降解烘焙模具，对铜制复古糕点切模有收藏癖。日常穿帆布围裙而非一次性塑料围裙，购物必带藤编菜篮。",
+      "TravelDaily_Outings": "坚持骑改装过的二手电动自行车通勤，雨天宁可挤叮叮车也不打车"
+    },
+    "Travel": {
+      "Business_Trips": "每年两次飞往东京参加亚洲健康烘焙峰会，会特意考察便利店低糖零食区，行李箱总塞满当地特色全麦粉。",
+      "Leisure_Travel": "暑假必去东南亚寻找天然代糖食材，曾在清迈民宿厨房用椰花糖做出火山岩烤面包，住宿首选带有机农场的生态旅馆。"
+    },
+    "Social": "Instagram美食板块小V，发布作品时会标注碳足迹计算；每周三晚在社区中心教独居老人做低糖糕点，因此结识了卖凉茶的陈伯和修钟表的七姑。",
+    "Productivity": {
+      "Study_Work": "用Notion管理200+个面团发酵实验数据，电脑桌面永远开着日本烘焙大师的直播回放当背景音。",
+      "Fitness": "坚持晨跑至维多利亚港打卡面包窑温度曲线，Apple Watch里存着自创的『揉面肱二头肌训练法』"
+    },
+    "Content_Interests": [
+      "收藏1960年代港式茶楼点心图鉴",
+      "关注NASA太空烘焙实验",
+      "沉迷北欧极简主义烘焙哲学播客"
+    ]
+  }
+}

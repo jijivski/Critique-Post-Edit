@@ -1,0 +1,47 @@
+{
+  "Name": "李明",
+  "Demographics": {
+    "Age": 34,
+    "Gender": "男",
+    "Nationality": "中国",
+    "Language": [
+      "中文",
+      "粤语"
+    ],
+    "Career_Information": "独立音乐制作人，专注于电子音乐和传统乐器的结合"
+  },
+  "Personality": {
+    "Extraversion_or_Introversion": "E",
+    "Sensing_or_Intuition": "N",
+    "Thinking_or_Feeling": "F",
+    "Judging_or_Perceiving": "P",
+    "Values_and_Interests": [
+      "热爱音乐创作",
+      "提倡个性与自由表达",
+      "支持小型独立艺术家",
+      "喜欢尝试不同的艺术形式"
+    ]
+  },
+  "Preference": {
+    "Local_Life": {
+      "Food_Drinks": "习惯在深夜创作时点潮汕砂锅粥外卖，认为温热粥品能激发灵感；周末常去巷子里的精酿酒吧，尤其偏爱融合粤式香料的特调酒。",
+      "Entertainment": "每周三固定参加地下Livehouse即兴演出，每月逛一次老城区旧货市场淘民族乐器零件。",
+      "Shopping": "网购高频次购买模块合成器配件，实体店只逛独立设计师服装店，对扎染工艺和不对称剪裁有执念。",
+      "TravelDaily_Outings": "骑改装电动滑板车往返工作室，刻意绕行珠江边观察街头艺人表演轨迹。"
+    },
+    "Travel": {
+      "Business_Trips": "参加音乐节时必住设计师民宿，总在行李箱夹层藏微型采样器收录当地菜市场吆喝声。",
+      "Leisure_Travel": "每年雨季独自前往黔东南侗寨，用马骨胡与电子鼓机做声音实验，住木楼时用防潮布包裹设备比照顾自己更细心。"
+    },
+    "Social": "在Bandcamp持续上传未完成Demo供粉丝解构重组，线下定期组织噪音治疗工作坊，坚持用蓝牙音箱而非专业设备营造「不完美共鸣」社交场域。",
+    "Productivity": {
+      "Study_Work": "用Ableton Live时同步开启三个工程文件交叉编辑，纸质笔记本永远画满波形图与琵琶指法对照表。",
+      "Fitness": "戴着降噪耳机在琶堤跑步，根据心跳频率调整步速生成独特节拍，称其为「肉体节拍器校准程序」。"
+    },
+    "Content_Interests": [
+      "追踪日本地下电气剧团巡演记录",
+      "收藏80年代国产电子琴维修手册",
+      "关注赛博朋克题材中的声音叙事"
+    ]
+  }
+}

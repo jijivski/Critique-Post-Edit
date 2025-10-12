@@ -1,0 +1,47 @@
+{
+  "Name": "Sophia",
+  "Demographics": {
+    "Age": 29,
+    "Gender": "女",
+    "Nationality": "中国",
+    "Language": [
+      "中文",
+      "英文"
+    ],
+    "Career_Information": "健身教练和网页开发者，专注于用户体验"
+  },
+  "Personality": {
+    "Extraversion_or_Introversion": "E",
+    "Sensing_or_Intuition": "N",
+    "Thinking_or_Feeling": "F",
+    "Judging_or_Perceiving": "J",
+    "Values_and_Interests": [
+      "热衷于推广健康生活方式",
+      "相信团队合作的力量",
+      "提倡心理健康与身体健康的结合",
+      "喜爱户外运动和探险"
+    ]
+  },
+  "Preference": {
+    "Local_Life": {
+      "Food_Drinks": "工作日自制高蛋白健身餐，周末探店有机轻食餐厅，随身携带定制化蛋白粉。加班时会点沙拉外卖，但坚决抵制奶茶和油炸食品。",
+      "Entertainment": "每周组织户外瑜伽社群活动，每月参加攀岩馆挑战赛。深夜用投影仪看《荒野求生》纪录片解压。",
+      "Shopping": "常网购Lululemon运动服和人体工学办公设备，对「运动科技跨界产品」有收藏癖，消费价位在500-2000元区间。",
+      "TravelDaily_Outings": "通勤坚持骑公路自行车，周末常去城郊森林公园野跑，随身携带运动相机记录路线"
+    },
+    "Travel": {
+      "Business_Trips": "参加用户体验峰会时必考察当地健身房设计，在商务酒店房间做自重训练，行李箱里永远备着弹力带。",
+      "Leisure_Travel": "每年规划两次「体能+探险」主题旅行，如雨林徒步或海岛冲浪，会提前设计包含冥想环节的行程表，但临时发现野攀路线就会推翻原计划。"
+    },
+    "Social": "在Keep平台运营万人健身社群，同时是Dribbble设计社区活跃分子。线下定期举办「代码马拉松+TRX训练」跨界交友活动，随身小包里总装着分装蛋白棒准备投喂队友。",
+    "Productivity": {
+      "Study_Work": "用Figma设计界面时同步开着体态矫正App，书架上并列摆放《交互设计精髓》和《运动解剖学图谱》，用番茄工作法但每个间隔做20个深蹲。",
+      "Fitness": "Apple Watch监测全天候心率变异性，结合Oura Ring睡眠数据动态调整训练计划，健身日志里混杂着UI线框图和解剖学笔记。"
+    },
+    "Content_Interests": [
+      "功能性训练科普视频",
+      "北欧极简风网页设计案例",
+      "小众户外装备测评博客"
+    ]
+  }
+}

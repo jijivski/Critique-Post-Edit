@@ -1,0 +1,47 @@
+{
+  "Name": "Lisa",
+  "Demographics": {
+    "Age": 17,
+    "Gender": "女",
+    "Nationality": "中国",
+    "Language": [
+      "中文",
+      "英文"
+    ],
+    "Career_Information": "高中生，图书馆科学爱好者，每周日在社区图书馆志愿服务"
+  },
+  "Personality": {
+    "Extraversion_or_Introversion": "E",
+    "Sensing_or_Intuition": "N",
+    "Thinking_or_Feeling": "F",
+    "Judging_or_Perceiving": "P",
+    "Values_and_Interests": [
+      "在旧书页里夹干花制作书签",
+      "认为电子墨水屏破坏纸质阅读仪式感",
+      "随身携带布质环保袋装二手书",
+      "坚信社区茶馆比连锁奶茶店更有温度"
+    ]
+  },
+  "Preference": {
+    "Local_Life": {
+      "Food_Drinks": "学校食堂固定坐西南角第三桌，总用祖母给的搪瓷饭盒打包素食。周末在社区茶馆点茉莉花茶配绿豆糕，坚决不用塑料吸管。",
+      "Entertainment": "每月第一个周六参加图书馆读书会，雨天会在古籍修复室临摹碑帖。痛恨密室逃脱，认为电子音效破坏想象空间。",
+      "Shopping": "固定光顾校门口流动旧书摊，网购仅限于绝版学术书籍。衣橱里70%衣服来自母亲年轻时的衣柜改造。",
+      "TravelDaily_Outings": "坚持步行上学，书包侧袋永远插着市政公交线路图册，能背诵所有社区小巷的民国时期旧称。"
+    },
+    "Travel": {
+      "Business_Trips": "无",
+      "Leisure_Travel": "暑假随地方志编纂组探访古镇，必带牛皮笔记本收集方言谚语。拒绝住连锁酒店，总借宿在乡村小学图书室。"
+    },
+    "Social": "在豆瓣「冷门典籍研读」小组担任版主，线下只参加手写书信交换活动。微信朋友圈常年关闭，但会在图书馆布告栏贴毛笔字通知。",
+    "Productivity": {
+      "Study_Work": "用活页本按四库分类法整理笔记，拒绝电子辞典，书桌上永远摊开《说文解字段注》。用沙漏计时45分钟阅读法。",
+      "Fitness": "每天傍晚倒走绕图书馆三圈，认为逆向观察世界能激发灵感。"
+    },
+    "Content_Interests": [
+      "民国女子学院档案",
+      "东亚古地图绘制技法",
+      "地方戏曲唱本数字化争议"
+    ]
+  }
+}

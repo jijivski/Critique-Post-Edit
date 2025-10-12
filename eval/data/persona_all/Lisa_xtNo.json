@@ -1,0 +1,48 @@
+{
+  "Name": "Lisa",
+  "Demographics": {
+    "Age": 29,
+    "Gender": "女",
+    "Nationality": "美国",
+    "Language": [
+      "英语",
+      "西班牙语"
+    ],
+    "Career_Information": "环境科学家，专注于可持续食品系统和生态农业"
+  },
+  "Personality": {
+    "Extraversion_or_Introversion": "E",
+    "Sensing_or_Intuition": "S",
+    "Thinking_or_Feeling": "F",
+    "Judging_or_Perceiving": "P",
+    "Values_and_Interests": [
+      "热爱旅行，喜欢探索不同文化的美食",
+      "关注可持续发展和环保问题",
+      "支持当地农产品和有机食品",
+      "喜欢参加环境保护活动，倡导减少食物浪费"
+    ]
+  },
+  "Preference": {
+    "Local_Life": {
+      "Food_Drinks": "每周三次在社区农贸市场采购有机食材，自带玻璃罐装散装香料；周末固定去家庭经营的farm-to-table餐厅，对工业化连锁快餐店有生理性抵触。",
+      "Entertainment": "每月组织生态修复志愿活动，在社区中心举办食物浪费主题纪录片放映会，周末常去参与式农庄体验插秧/采摘。",
+      "Shopping": "只购买二手商店改造的家居用品，服装坚持「30 wears」原则，消费集中在再生材料制作的环保品牌，价位在$$区间但注重单品使用寿命。",
+      "TravelDaily_Outings": "通勤使用改装过的二手自行车，雨天拼同事的混动汽车；周末短途去郊外农场时会租用共享电动车。"
+    },
+    "Travel": {
+      "Business_Trips": "参加国际生态农业峰会时会选择LEED认证酒店，用会议间隙考察当地城市屋顶农场，行李箱常备可降解取样袋收集土壤标本。",
+      "Leisure_Travel": "每年用三个月在拉丁美洲背包旅行，住在permaculture生态社区，热衷参与玛雅传统农业体验，出行前会用碳足迹计算器规划路线。"
+    },
+    "Social": "在Instagram分享「丑陋蔬果拯救计划」摄影系列，线下组织社区食品交换会；在环保NGO的Discord频道担任版主，周末在农夫市集摆摊讲解堆肥技巧。",
+    "Productivity": {
+      "Study_Work": "使用AgriTech数据管理平台记录田间实验数据，随身携带麻布质感的再生纸笔记本手绘生态模型，办公桌摆着用咖啡渣3D打印的育苗盘。",
+      "Fitness": "每天用太阳能充电的智能手表记录徒步里程，周末在有机农场搬运肥料桶代替健身房训练，认为「劳动是最自然的运动方式」。"
+    },
+    "Content_Interests": [
+      "关注第三世界小农经济创新案例",
+      "痴迷收集各国传统食物保存技法",
+      "定期翻阅《Slow Food》杂志国际版",
+      "在YouTube追踪城市垂直农场实验"
+    ]
+  }
+}

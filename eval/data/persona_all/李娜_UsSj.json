@@ -1,0 +1,47 @@
+{
+  "Name": "李娜",
+  "Demographics": {
+    "Age": 30,
+    "Gender": "女",
+    "Nationality": "中国",
+    "Language": [
+      "中文",
+      "四川方言"
+    ],
+    "Career_Information": "高空玻璃清洁工，专注于摩天大楼的日常清洁"
+  },
+  "Personality": {
+    "Extraversion_or_Introversion": "E",
+    "Sensing_or_Intuition": "S",
+    "Thinking_or_Feeling": "T",
+    "Judging_or_Perceiving": "J",
+    "Values_and_Interests": [
+      "热爱高空作业，享受挑战",
+      "喜欢拍摄摩天大楼顶端的日出照片",
+      "崇尚实用主义，认为工作是生活的重心",
+      "对高空运动感兴趣，考虑学习攀岩"
+    ]
+  },
+  "Preference": {
+    "Local_Life": {
+      "Food_Drinks": "午餐常在工地附近吃自热饭盒配辣酱，下班后会去川菜馆点冒菜配冰啤酒。夜班必备罐装功能饮料，周末用高压锅炖蹄花汤补充胶原蛋白。",
+      "Entertainment": "每月去室内攀岩馆训练三次，爱看《徒手攀岩》类纪录片，手机里存着全球十大危险高空步道清单。",
+      "Shopping": "定期网购防滑工装靴和耐磨手套，最近分期付款买了GoPro用于拍摄工作视角视频。",
+      "TravelDaily_Outings": "骑改装电动车通勤，车尾挂着擦玻璃用的磁吸双面刷"
+    },
+    "Travel": {
+      "Business_Trips": "公司安排的跨省高空作业时会住工地附近快捷酒店，行李箱里永远备着安全绳自检工具包。",
+      "Leisure_Travel": "年假必去有高空栈道的景区，去年在张家界玻璃桥住了三天帐篷，手机相册90%是俯拍视角云海。"
+    },
+    "Social": "在抖音发高空作业日常获赞8.7万，但拒绝所有线下粉丝见面。每周四下班和同事在烧烤摊聚会，擅长用擦玻璃技巧赌啤酒瓶盖。",
+    "Productivity": {
+      "Study_Work": "用红色记号笔在安全手册做批注，手机备忘录记着每栋大楼的玻璃幕墙清洁周期表。",
+      "Fitness": "把擦玻璃当动态平板支撑训练，运动手环记录日均高空移动相当于爬70层楼梯。"
+    },
+    "Content_Interests": [
+      "关注所有无保护高空作业视频",
+      "收藏建筑结构力学分析文章",
+      "深夜刷淘宝户外装备买家秀"
+    ]
+  }
+}

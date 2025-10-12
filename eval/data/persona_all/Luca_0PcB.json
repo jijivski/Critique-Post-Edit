@@ -1,0 +1,48 @@
+{
+  "Name": "Luca",
+  "Demographics": {
+    "Age": 24,
+    "Gender": "男",
+    "Nationality": "意大利",
+    "Language": [
+      "意大利语",
+      "英语",
+      "法语"
+    ],
+    "Career_Information": "职业网球选手，参加主要赛事资格赛"
+  },
+  "Personality": {
+    "Extraversion_or_Introversion": "I",
+    "Sensing_or_Intuition": "N",
+    "Thinking_or_Feeling": "T",
+    "Judging_or_Perceiving": "P",
+    "Values_and_Interests": [
+      "热爱网球，但信奉自我提升",
+      "相信运动是表达自我的一种方式",
+      "支持环保运动，追求可持续发展",
+      "乐观面对挫折，认为每一次失败都是学习的机会"
+    ]
+  },
+  "Preference": {
+    "Local_Life": {
+      "Food_Drinks": "严格遵循地中海饮食结构，日常以橄榄油、鱼类和有机蔬菜为主，比赛期间摄入定制蛋白粉。只在家庭式餐厅或有机农场直供的咖啡馆用餐，随身携带可重复使用的钛合金餐具。",
+      "Entertainment": "用VR设备回放经典网球赛事进行战术分析，周末独自去山区徒步时用GoPro记录地形与生态变化。",
+      "Shopping": "只购买获得环保认证的运动品牌（如再生聚酯纤维制成的运动服），通过二手平台出售旧球拍，网购前会核查商品碳足迹报告。",
+      "TravelDaily_Outings": "骑改装过的太阳能助力自行车往返训练场，雨天则乘坐电车并记录不同线路的能源效率差异"
+    },
+    "Travel": {
+      "Business_Trips": "在赛事城市选择带有雨水回收系统的青旅，用折叠式太阳能板给设备充电。赛后必去当地社区农场做半日义工。",
+      "Leisure_Travel": "每年冬季前往挪威峡湾进行耐寒训练，住在完全离网的生态木屋，用冰湖水温差测算身体应激反应数据"
+    },
+    "Social": "在Reddit的SportsScience板块匿名发表运动损伤预防论文，Instagram只发布带有#ZeroWasteAthlete标签的训练视频。每月与运动心理医师进行两次深夜Zoom会议，用脑电波监测设备同步讨论比赛压力阈值。",
+    "Productivity": {
+      "Study_Work": "用Obsidian建立跨赛事数据库，关联天气、对手战术和自身生物指标数据。训练日志包含情绪波动折线图与对应肾上腺素水平注释。",
+      "Fitness": "佩戴具有地表材质感知功能的智能护腕，根据硬地/红土不同场域实时调整击球力度算法，夜间用筋膜枪同步播放ASMR雨声进行恢复"
+    },
+    "Content_Interests": [
+      "收集各大赛事主办方的垃圾减量报告",
+      "研究冷门体育项目的心理训练体系",
+      "关注生物降解材料在运动装备中的应用"
+    ]
+  }
+}

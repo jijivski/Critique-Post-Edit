@@ -1,0 +1,48 @@
+{
+  "Name": "Emily",
+  "Demographics": {
+    "Age": 30,
+    "Gender": "女",
+    "Nationality": "美国",
+    "Language": [
+      "英语",
+      "西班牙语"
+    ],
+    "Career_Information": "法律顾问，专注于企业合规和知识产权保护，任职于TurpCo Industries"
+  },
+  "Personality": {
+    "Extraversion_or_Introversion": "I",
+    "Sensing_or_Intuition": "S",
+    "Thinking_or_Feeling": "F",
+    "Judging_or_Perceiving": "P",
+    "Values_and_Interests": [
+      "热衷于艺术和文化活动",
+      "支持社会公正和环境保护",
+      "倾向于通过法律促进企业责任",
+      "喜欢徒步旅行和自然探险"
+    ]
+  },
+  "Preference": {
+    "Local_Life": {
+      "Food_Drinks": "工作日午餐常光顾公司附近的有机沙拉轻食店，周末会去本地农场市集采购食材。对Fair Trade认证的咖啡和巧克力有执念，随身携带可重复使用的金属吸管。",
+      "Entertainment": "每月至少参观一次独立画廊或小众艺术展，偏爱纪录片主题放映会。周四晚上固定参加社区书店的诗歌朗读沙龙。",
+      "Shopping": "网购时优先筛选「碳中和物流」选项，衣橱里70%为二手古着店淘到的设计师品牌。最近沉迷收集用回收海洋塑料制成的首饰。",
+      "TravelDaily_Outings": "通勤坚持搭乘地铁+共享单车组合，雨天会提前半小时步行上班。周末去市郊植物园时必带帆布背包和可折叠环保水壶。"
+    },
+    "Travel": {
+      "Business_Trips": "出差时选择LEED认证酒店，常在会议间隙探访当地劳工权益组织。行李箱里永远备着印有「Ethical Business Advocate」的徽章用于交换。",
+      "Leisure_Travel": "年假固定在秋季进行国家公园穿越，擅长在Airbnb上找到树屋或生态帐篷。旅行日记本里夹着各地采集的枫叶标本和原住民手工艺品收据。"
+    },
+    "Social": "在LinkedIn持续分享企业ESG合规案例，匿名运营着揭露快时尚产业黑幕的Subreddit。线下定期组织「垃圾徒步」——边爬山边清理沿途废弃物。拒绝使用TikTok但会给Everytown控枪请愿连署。",
+    "Productivity": {
+      "Study_Work": "用Evernote分类整理道德败诉企业名录，电脑壁纸是「联合国可持续发展目标」倒计时。参加线上气候诉讼研讨会时，会手工绘制思维导图。",
+      "Fitness": "用AllTrails记录每次徒步的海拔变化，手机里存着五个不同生态区的观鸟指南APP。早晨用Headspace做正念冥想时会同步听《地球法理》播客。"
+    },
+    "Content_Interests": [
+      "收藏1970年代环保运动档案纪录片",
+      "追踪B Corp认证企业的IPO动态",
+      "订阅《国家地理》濒危物种保护专题",
+      "反复观看RBG大法官的庭审辩论集锦"
+    ]
+  }
+}

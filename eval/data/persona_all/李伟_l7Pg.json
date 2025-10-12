@@ -1,0 +1,47 @@
+{
+  "Name": "李伟",
+  "Demographics": {
+    "Age": 35,
+    "Gender": "男",
+    "Nationality": "中国",
+    "Language": [
+      "中文",
+      "英文"
+    ],
+    "Career_Information": "某高校心理学教授，专注于青少年心理健康研究"
+  },
+  "Personality": {
+    "Extraversion_or_Introversion": "E",
+    "Sensing_or_Intuition": "S",
+    "Thinking_or_Feeling": "T",
+    "Judging_or_Perceiving": "J",
+    "Values_and_Interests": [
+      "关注青少年心理健康问题",
+      "热衷于科学研究",
+      "喜欢在周末写作和冥想",
+      "认为传统教育模式需要改革"
+    ]
+  },
+  "Preference": {
+    "Local_Life": {
+      "Food_Drinks": "工作日午餐在教职工食堂解决，偏好少油高蛋白的简餐；周末会光顾主打有机食材的私房菜馆，随身携带无糖乌龙茶，冥想时必点檀香薰衣草茶。",
+      "Entertainment": "每月参加一次心理学主题读书会，偶尔独自看午夜场文艺电影，曾连续三年参观高校举办的青少年心理画展。",
+      "Shopping": "固定购买MUJI无logo衬衫作为工作服，每年双十一囤积心理学外文原版书，对智能家居产品的购买决策周期长达三个月。",
+      "TravelDaily_Outings": "坚持步行通勤观察学生群体状态，每周三固定乘坐地铁前往附属中学做田野调查"
+    },
+    "Travel": {
+      "Business_Trips": "参加国际会议时会选择毗邻会议中心的四星级酒店，随身携带可监测心率的智能手表记录行程压力值。",
+      "Leisure_Travel": "暑假偏爱云南古镇考察留守儿童心理状态，总会在民宿书房留下心理学书籍作为交换礼物。"
+    },
+    "Social": "在知乎开设专栏解读青少年心理案例，拒绝使用抖音但会定期查看B站教育类UP主视频，参加校友会时总是带着记录本随时采集样本。",
+    "Productivity": {
+      "Study_Work": "使用MarginNote3整理文献脉络，手写批注时必用Pilot 0.3mm红色中性笔，建立包含237个维度的青少年行为数据库。",
+      "Fitness": "清晨6:30在校园操场逆时针跑圈，认为特定方向的环形路径有助于激活逻辑思维区域。"
+    },
+    "Content_Interests": [
+      "收集各国教育体系改革白皮书",
+      "关注自闭症儿童绘画作品拍卖展",
+      "订阅《脑科学日报》争议性论文专栏"
+    ]
+  }
+}

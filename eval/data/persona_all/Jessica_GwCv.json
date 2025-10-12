@@ -1,0 +1,47 @@
+{
+  "Name": "Jessica",
+  "Demographics": {
+    "Age": 30,
+    "Gender": "女",
+    "Nationality": "美国",
+    "Language": [
+      "英语",
+      "西班牙语"
+    ],
+    "Career_Information": "某知名新闻机构的政治记者"
+  },
+  "Personality": {
+    "Extraversion_or_Introversion": "E",
+    "Sensing_or_Intuition": "S",
+    "Thinking_or_Feeling": "F",
+    "Judging_or_Perceiving": "J",
+    "Values_and_Interests": [
+      "热衷于社会公正和人权",
+      "支持环境保护和可持续发展",
+      "喜欢和不同文化背景的人交流",
+      "热爱旅行和摄影"
+    ]
+  },
+  "Preference": {
+    "Local_Life": {
+      "Food_Drinks": "工作日习惯在独立咖啡馆购买公平贸易咖啡，周末会去有机农场市集采购食材。拒绝连锁快餐，但会为报道潜入快餐店观察劳工状况。",
+      "Entertainment": "常去放映社会议题纪录片的社区影院，每月参加一次环保组织发起的城市徒步清扫活动。",
+      "Shopping": "坚持购买二手服装和可持续品牌，网购时优先筛选「碳中和配送」选项。对快时尚抱有生理性厌恶。",
+      "TravelDaily_Outings": "每日骑电动滑板车通勤，周末带着胶片相机探访移民社区拍摄街头肖像。"
+    },
+    "Travel": {
+      "Business_Trips": "跨国采访时总要多留半天逛当地贫民窟学校，行李箱里永远装着送给采访对象的二手童书。",
+      "Leisure_Travel": "痴迷于背包探索拉美原住民社区，会为拍摄某个正在消失的部落仪式专门调整年假时间。"
+    },
+    "Social": "Instagram账号充满抗议现场直击和难民儿童特写，线下定期组织记者沙龙讨论报道伦理。参加完环保游行会直奔酒吧喝龙舌兰。",
+    "Productivity": {
+      "Study_Work": "用Evernote分类整理500+个线人档案，Excel表格记录着十年间各国教育经费数据对比。",
+      "Fitness": "清晨沿河慢跑时用录音笔构思报道框架，瑜伽课必选支持女权组织的公益工作室。"
+    },
+    "Content_Interests": [
+      "深度调查报道",
+      "土著文化保护",
+      "城市流浪动物生态"
+    ]
+  }
+}

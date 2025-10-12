@@ -1,0 +1,47 @@
+{
+  "Name": "Lina",
+  "Demographics": {
+    "Age": 29,
+    "Gender": "女",
+    "Nationality": "中国",
+    "Language": [
+      "中文",
+      "法语"
+    ],
+    "Career_Information": "独立珠宝设计师，专注于手工制作和个性化定制"
+  },
+  "Personality": {
+    "Extraversion_or_Introversion": "I",
+    "Sensing_or_Intuition": "N",
+    "Thinking_or_Feeling": "F",
+    "Judging_or_Perceiving": "P",
+    "Values_and_Interests": [
+      "热爱旅行，寻找灵感源泉",
+      "崇尚个性化与独特性",
+      "关注可持续发展与环保材料",
+      "喜欢收藏不同文化的艺术品"
+    ]
+  },
+  "Preference": {
+    "Local_Life": {
+      "Food_Drinks": "工作日自制有机沙拉搭配冷萃咖啡，周末在法式烘焙坊购买可颂。拒绝塑料包装外卖，但会为深夜创作订购精品餐厅的陶瓷餐具外送。",
+      "Entertainment": "定期参观私人画廊开幕展，在独立艺术影院观看小众纪录片。每月参加一次手作市集担任评委。",
+      "Shopping": "固定采购再生银和冲突-free宝石原料，收藏南法古董布料店邮寄的vintage蕾丝。拒绝快时尚，但会为独特设计支付三个月工资。",
+      "TravelDaily_Outings": "骑折叠自行车往返工作室，暴雨天乘地铁时会素描乘客的耳骨形状"
+    },
+    "Travel": {
+      "Business_Trips": "每年两次飞往巴黎参加珠宝展，必定留半天在蒙马特墓地研究维多利亚时代哀悼首饰。",
+      "Leisure_Travel": "偏爱住进设计师改建的废弃教堂或树屋，在缅甸学习失传的金箔锤揲技艺时，连续三周每天骑行六公里去作坊"
+    },
+    "Social": "在Instagram用微距镜头展示作品纹理获十万粉丝，但线下拒绝所有商业酒会。每周四晚在私人工作室举办「无声创作聚会」，参与者只能通过敲击金属片交流。",
+    "Productivity": {
+      "Study_Work": "用博物馆级灯光系统拍摄作品细节，定制羊皮纸工作日志记录熔铸温度与情绪波动的关联性。",
+      "Fitness": "清晨在工作室天台练习敦煌飞天舞基本功，佩戴自制银质指压板进行手部穴位按摩"
+    },
+    "Content_Interests": [
+      "中亚古代首饰锻造纪录片",
+      "植物染剂化学论文",
+      "地下音乐人专辑封面美学解析"
+    ]
+  }
+}

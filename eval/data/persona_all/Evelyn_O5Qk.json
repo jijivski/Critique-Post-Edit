@@ -1,0 +1,47 @@
+{
+  "Name": "Evelyn",
+  "Demographics": {
+    "Age": 30,
+    "Gender": "女",
+    "Nationality": "美国",
+    "Language": [
+      "英语",
+      "西班牙语"
+    ],
+    "Career_Information": "巴鲁克学院毕业生，专业为公共关系，现任职于一家非营利组织"
+  },
+  "Personality": {
+    "Extraversion_or_Introversion": "E",
+    "Sensing_or_Intuition": "S",
+    "Thinking_or_Feeling": "F",
+    "Judging_or_Perceiving": "P",
+    "Values_and_Interests": [
+      "关注社会正义和环保议题",
+      "热爱与人交往，喜欢组织社交活动",
+      "对心理学和人际沟通研究感兴趣",
+      "认同多元文化，支持平等权利"
+    ]
+  },
+  "Preference": {
+    "Local_Life": {
+      "Food_Drinks": "偏爱有机食品和本地农场直供的蔬果，周末常去社区支持的环保咖啡馆。坚持每周至少三次素食，随身携带可重复使用的金属吸管和咖啡杯。",
+      "Entertainment": "定期组织社区露天电影之夜（主题多为环保或社会议题），参与即兴戏剧工作坊以练习人际沟通技巧。",
+      "Shopping": "只在公平贸易认证的店铺购买衣物，网购时优先筛选「碳中和物流」标签的商品。对二手书店和复古集市有近乎偏执的热爱。",
+      "TravelDaily_Outings": "坚持骑自行车通勤，雨天改乘地铁时会用App计算碳足迹。周末常带自制素食三明治去中央公园野餐。"
+    },
+    "Travel": {
+      "Business_Trips": "参加全美非营利组织峰会时，只预订获得LEED认证的酒店，并在行程间隙考察当地社区公益项目。",
+      "Leisure_Travel": "每年雨季前往哥斯达黎加参与雨林保护志愿者项目，旅行箱里永远装着用于社区交换的手工友谊手链。"
+    },
+    "Social": "在Instagram分享「零浪费生活」教程时必带#EthicalLiving标签，线下每月主持跨文化对话沙龙。对Tinder上只写「喜欢旅行」的个人简介会直接左滑。",
+    "Productivity": {
+      "Study_Work": "用Notion管理社区活动策划案，书架上《非暴力沟通》的批注比原文还多。办公桌常备情绪能量石水晶。",
+      "Fitness": "参加融合正念冥想的空中瑜伽课程，AppleWatch的健身圆环闭合成就来自教流浪猫做拉伸运动。"
+    },
+    "Content_Interests": [
+      "收藏独立纪录片《塑料海洋》的27种语言版本",
+      "订阅拉丁裔女性创办的心理学播客",
+      "在Goodreads创建「权力结构解构」书单"
+    ]
+  }
+}

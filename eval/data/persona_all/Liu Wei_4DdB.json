@@ -1,0 +1,48 @@
+{
+  "Name": "Liu Wei",
+  "Demographics": {
+    "Age": 30,
+    "Gender": "男",
+    "Nationality": "中国",
+    "Language": [
+      "中文",
+      "英文",
+      "法文"
+    ],
+    "Career_Information": "高端化妆品区域经理，专注于市场推广和品牌建设"
+  },
+  "Personality": {
+    "Extraversion_or_Introversion": "E",
+    "Sensing_or_Intuition": "S",
+    "Thinking_or_Feeling": "T",
+    "Judging_or_Perceiving": "J",
+    "Values_and_Interests": [
+      "热衷于时尚和美容行业",
+      "认为个人形象与职业成功密切相关",
+      "信奉高效能和务实主义",
+      "倡导品牌意识和消费者教育"
+    ]
+  },
+  "Preference": {
+    "Local_Life": {
+      "Food_Drinks": "工作日午餐选择轻食沙拉搭配冷萃咖啡，晚餐偏好高端日料或法餐。周末会探访米其林推荐餐厅并撰写小红书探店笔记，认为饮食美学是个人品味的延伸。",
+      "Entertainment": "每月至少参加一次品牌VIP私享会或艺术展览开幕式，周四晚固定去高端影院观看独立制片电影。",
+      "Shopping": "90%的护肤品直接通过品牌官网订购，衣柜里30%是限量联名款，网购记录显示凌晨1点高频浏览Farfetch和NET-A-PORTER。",
+      "TravelDaily_Outings": "通勤只选专车服务并积累航空里程，周末短途出行必去CBD美容院做皮肤管理"
+    },
+    "Travel": {
+      "Business_Trips": "每年6次国际差旅往返巴黎/米兰，入住酒店必考察洗浴备品品牌，行李箱常备便携式香薰机和5种场合专用香水。",
+      "Leisure_Travel": "假期选择北海道温泉美容之旅或摩洛哥阿甘油探源行程，会提前三个月制定包含SPA体验和买手店巡礼的Excel行程表"
+    },
+    "Social": "LinkedIn动态日均更新3条行业洞察，小红书账号「Mr.L的成分手帐」有12万粉丝。每周四19:00出现在外滩某会员制酒吧参加行业情报交换酒会，随身携带定制名片夹。",
+    "Productivity": {
+      "Study_Work": "使用Notion搭建跨时区项目看板，凌晨5点查看LVMH集团财报成为习惯，公文包内永远有最新版《BeautyINC》杂志。",
+      "Fitness": "每周三次7AM私教课严格测量体脂率，Apple Watch健身记录连续287天闭环，认为下颌线清晰度影响客户信任度"
+    },
+    "Content_Interests": [
+      "追踪Vogue Business每日推送",
+      "研究Z世代美妆消费白皮书",
+      "收藏1980年代香奈儿秀场纪录片"
+    ]
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "Name": "Leo",
+  "Demographics": {
+    "Age": 29,
+    "Gender": "男",
+    "Nationality": "中国",
+    "Language": [
+      "中文",
+      "英文"
+    ],
+    "Career_Information": "非营利组织项目经理，专注于青年发展与教育"
+  },
+  "Personality": {
+    "Extraversion_or_Introversion": "I",
+    "Sensing_or_Intuition": "N",
+    "Thinking_or_Feeling": "T",
+    "Judging_or_Perceiving": "P",
+    "Values_and_Interests": [
+      "热衷社会公平与正义",
+      "支持可持续发展",
+      "喜欢极限运动，尤其是滑板",
+      "关注心理健康与青年问题"
+    ]
+  },
+  "Preference": {
+    "Local_Life": {
+      "Food_Drinks": "工作日选择配有有机蔬菜沙拉的轻食简餐，周末探访支持公平贸易的独立咖啡馆。随身携带可重复使用金属吸管，对一次性塑料包装有近乎偏执的排斥。",
+      "Entertainment": "每周三晚固定参加滑板公园Freestyle Session，每月组织一次公益纪录片放映会。深夜常独自在河滨步道玩长板，用轮毂摩擦声计算滑行距离。",
+      "Shopping": "只在经过B Corp认证的品牌购买工装裤和帆布鞋，坚持用二手交易平台购置滑板配件。对带有社会企业标签的产品溢价接受度高达30%。",
+      "TravelDaily_Outings": "通勤坚持骑行共享电单车，却在APP设置里关闭碳积分奖励提示，认为环保本该是内生动机而非外部激励。"
+    },
+    "Travel": {
+      "Business_Trips": "参加国际发展论坛时必住获得LEED认证的酒店，退房前会将未拆封的洗漱用品寄往偏远地区学校。",
+      "Leisure_Travel": "每年雨季前往云南雨林进行「废墟探险」，随身携带可降解荧光标记带，在废弃建筑中设计滑板动线同时标记危墙区域。"
+    },
+    "Social": "在领英定期发布青年赋权项目ROI分析，却拒绝所有「人脉拓展」邀请。只在滑板损伤互助群里活跃，收藏了27种不同部位的肌肉贴扎法图解。",
+    "Productivity": {
+      "Study_Work": "用Notion搭建非线性项目管理系统，给每个KPI都标注社会学理论依据。凌晨三点常突发性优化OKR模板，将滑板Ollie成功率纳入每周自我评估体系。",
+      "Fitness": "根据滑板损伤数据定制CrossFit计划，运动手环监测到连续两日心率变异率下降时，会强制启动「社会议题信息戒断日」"
+    },
+    "Content_Interests": [
+      "收集各国青年就业政策白皮书",
+      "研究滑板动力学与城市规划的交叉领域",
+      "追踪碳纤维材料在极限运动装备中的应用"
+    ]
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "Name": "Emma",
+  "Demographics": {
+    "Age": 24,
+    "Gender": "女",
+    "Nationality": "中国",
+    "Language": [
+      "中文",
+      "英文",
+      "法语"
+    ],
+    "Career_Information": "国际贸易实习生，专业是经济学，曾在多家跨国公司实习"
+  },
+  "Personality": {
+    "Extraversion_or_Introversion": "E",
+    "Sensing_or_Intuition": "S",
+    "Thinking_or_Feeling": "F",
+    "Judging_or_Perceiving": "P",
+    "Values_and_Interests": [
+      "热爱旅行和探索不同文化",
+      "支持可持续发展与环保",
+      "喜欢与人交流并建立人际关系",
+      "对市场营销和品牌战略感兴趣"
+    ]
+  },
+  "Preference": {
+    "Local_Life": {
+      "Food_Drinks": "工作日偏好公司附近的轻食沙拉餐厅，周末会主动寻找使用有机食材的环保餐厅。随身携带可重复使用的餐具，但对法式甜点毫无抵抗力，每月固定光顾精品烘焙坊。",
+      "Entertainment": "热衷参与城市文化沙龙和手作市集，每周四晚固定去独立影院看国际冷门电影。偶尔在二手书店参加跨文化交流读书会。",
+      "Shopping": "网购时优先筛选「碳中和认证」商品，衣橱里70%是H&M Conscious系列。对设计师环保品牌情有独钟，愿意为可持续材料支付30%溢价。",
+      "TravelDaily_Outings": "通勤坚持共享单车+地铁组合，周末会坐城际列车去周边古镇拍摄传统工艺纪录片素材。"
+    },
+    "Travel": {
+      "Business_Trips": "出差必带折叠环保袋和硅胶洗漱套装，会选择获得LEED认证的商务酒店。常在会议间隙溜去当地农贸市场研究特色商品供应链。",
+      "Leisure_Travel": "每年规划两次跨国自由行，痴迷于探访非物质文化遗产工坊。预订住宿时优先选择由本地居民运营的生态民宿，交通全程使用公共交通接驳。"
+    },
+    "Social": "微信朋友圈定期更新「全球青年领袖论坛」参会见闻，LinkedIn动态里60%是跨境贸易合规指南。每月组织「零废弃」主题社交活动，线下聚会必带可降解餐具套装。",
+    "Productivity": {
+      "Study_Work": "用Notion搭建多语言贸易术语库，Trello看板管理着12个国家的供应商对接进度。随身携带印有可持续发展目标的再生纸笔记本。",
+      "Fitness": "每周三次瑜伽课坚持使用天然橡胶垫，周末参加城市森林徒步时用Strava记录碳足迹抵消数据。"
+    },
+    "Content_Interests": [
+      "深度关注RCEP成员国关税政策解读",
+      "收藏各国手工艺人Instagram账号",
+      "定期整理全球绿色供应链白皮书"
+    ]
+  }
+}

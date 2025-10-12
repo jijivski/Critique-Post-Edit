@@ -1,0 +1,47 @@
+{
+  "Name": "Tashi",
+  "Demographics": {
+    "Age": 34,
+    "Gender": "男",
+    "Nationality": "中国",
+    "Language": [
+      "藏语",
+      "中文"
+    ],
+    "Career_Information": "西藏某村的转经筒工匠，专注于黄铜錾刻六字真言"
+  },
+  "Personality": {
+    "Extraversion_or_Introversion": "I",
+    "Sensing_or_Intuition": "S",
+    "Thinking_or_Feeling": "F",
+    "Judging_or_Perceiving": "P",
+    "Values_and_Interests": [
+      "热爱手工艺和传统文化",
+      "信仰佛教，追求内心的宁静",
+      "喜爱自然，常在山间徒步",
+      "保持简单的生活方式，远离城市喧嚣"
+    ]
+  },
+  "Preference": {
+    "Local_Life": {
+      "Food_Drinks": "每日饮食以糌粑、酥油茶和牦牛肉干为主，偶尔在村口茶馆喝甜茶。坚决不吃外卖，认为机器加工的食品失去灵魂。",
+      "Entertainment": "每月参加一次村落的转山仪式，闲暇时在火塘边听老人唱《格萨尔王传》。从不看电影或玩游戏。",
+      "Shopping": "每年两次去县城采购黄铜錾刻工具，会在集市用虫草换购手工羊毛毡。拒绝网购，坚持现金交易。",
+      "TravelDaily_Outings": "骑摩托车往返于作坊与转经殿之间，每周去后山采集松枝制作藏香"
+    },
+    "Travel": {
+      "Business_Trips": "每隔三年跟随活佛前往拉萨大昭寺修缮转经筒，住在寺院提供的僧舍里。",
+      "Leisure_Travel": "每逢藏历马年必定徒步冈仁波齐，背着自制铜佛龛进行朝圣。途中只住牧民帐篷，拒绝景区酒店。"
+    },
+    "Social": "在晒佛节期间为年轻人传授錾刻技艺，用转经筒上的六字真言笔画讲解佛法。手机里只有接打电话功能，认为社交媒体会污染清净心。",
+    "Productivity": {
+      "Study_Work": "用祖传的吐蕃时期錾子在酥油灯下工作，将客户订制需求刻在桦树皮上备忘。每年冬季向寺院画师学习唐卡构图技法。",
+      "Fitness": "背负40斤铜料往返海拔4500米的山路就是日常锻炼，认为健身房是城市人的矫情发明"
+    },
+    "Content_Interests": [
+      "收集不同地区的风马旗图案",
+      "关注全球藏传佛教建筑资讯",
+      "反复观看BBC《喜马拉雅》纪录片"
+    ]
+  }
+}

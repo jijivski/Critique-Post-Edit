@@ -1,0 +1,46 @@
+{
+  "Name": "阿尔腾",
+  "Demographics": {
+    "Age": 24,
+    "Gender": "男",
+    "Nationality": "中国",
+    "Language": [
+      "中文",
+      "维吾尔语"
+    ],
+    "Career_Information": "新疆某大学大二学生，专业是旅游管理"
+  },
+  "Personality": {
+    "Extraversion_or_Introversion": "I",
+    "Sensing_or_Intuition": "S",
+    "Thinking_or_Feeling": "F",
+    "Judging_or_Perceiving": "J",
+    "Values_and_Interests": [
+      "热爱户外活动",
+      "推崇传统文化",
+      "关注环保问题",
+      "喜欢与人交往和分享旅行经验"
+    ]
+  },
+  "Preference": {
+    "Local_Life": {
+      "Food_Drinks": "每日两顿必吃新疆拉条子或烤包子，周末会去大巴扎买现宰羊肉做手抓饭。随身携带保温杯装咸奶茶，反感使用一次性餐具。",
+      "Entertainment": "每月参加民族乐器即兴演奏会，雪季每周去南山滑雪场。偶尔在学校露天影院看老电影，但会自带坐垫拒绝塑料椅。",
+      "Shopping": "在艾德莱斯绸店铺定制民族风腰包，网购只选可降解包装的户外装备。二手交易平台常淘复古登山表。",
+      "TravelDaily_Outings": "坚持骑改装过的二八大杠自行车通勤，后座挂着馕袋和环保布袋。周末带外国游客逛高台民居收讲解费"
+    },
+    "Travel": {
+      "Business_Trips": "作为学生导游带团考察喀纳斯生态木屋，会偷偷记录游客乱扔垃圾行为制作环保警示案例",
+      "Leisure_Travel": "每年转场季跟着牧民迁徙路线徒步，用馕和风干肉解决三餐。在胡杨林露营时会收集树种做标本"
+    },
+    "Social": "运营着维汉双语旅行手帐账号，用刺绣贴纸遮盖景区logo拍照。在青旅大厅弹奏冬不拉吸引驴友拼车，但拒绝加深夜酗酒者的微信",
+    "Productivity": {
+      "Study_Work": "用羊皮封面的笔记本手绘景区动线图，AI主要用来生成非遗技艺传承人访谈问题清单",
+      "Fitness": "每天负重10公斤盐水泉眼取水往返5公里，用老鹰骨笛声计算呼吸频率"
+    },
+    "Content_Interests": [
+      "追踪中亚草原民族迁徙纪录片",
+      "研究古代驼队星象导航术"
+    ]
+  }
+}

@@ -1,0 +1,46 @@
+{
+    "Name": "安琪",
+    "Demographics": {
+        "Age": 22,
+        "Gender": "男",
+        "Nationality": "中国",
+        "Language": [
+            "中文",
+            "英文"
+        ],
+        "Career_Information": "某知名工科大学的机械工程专业大四本科生"
+    },
+    "Personality": {
+        "Extraversion_or_Introversion": "I",
+        "Sensing_or_Intuition": "S",
+        "Thinking_or_Feeling": "T",
+        "Judging_or_Perceiving": "P",
+        "Values_and_Interests": [
+            "喜欢亲自动手制作，享受解决实际问题的乐趣",
+            "热爱修理各种机械设备",
+            "在自由时间喜欢尝试DIY项目",
+            "对环境保护和可持续发展有浓厚兴趣"
+        ]
+    },
+    "Preference": {
+        "Local_Life": {
+            "Food_Drinks": "工作日习惯在食堂或便利店快速解决三餐，但会随身携带可重复使用的餐具。周末偶尔光顾主打有机食材的餐厅，点外卖时优先选择环保包装的商家",
+            "Entertainment_Shopping": "每月固定逛两次五金建材市场，会在二手交易平台淘换闲置机械零件。看电影只选IMAX科幻片，认为特效制作是另一种精密工程",
+            "Daily_Outings": "日常通勤骑改装过的电动自行车，周末常去工业博物馆研究蒸汽机原型"
+        },
+        "Travel": {
+            "Business_Trips": "参加机械设计竞赛时会提前考察举办地的重工业遗产，在商务酒店房间用随身工具包修理故障电器",
+            "Leisure_Travel": "偏好乘坐绿皮火车前往三线工业城市，住青年旅社与当地技工交流，必去目的地是废弃工厂改造的艺术区"
+        },
+        "Social": "在机械之家论坛担任版主，擅长用3D建模图解回答技术问题。线下参加创客马拉松时能滔滔不绝，但同学聚餐时常沉默地拆解餐具研究结构",
+        "Productivity": {
+            "Study_Work": "用SolidWorks画图时同步开启分屏做故障日志，重要灵感记录在沾满机油的工作手札上",
+            "Fitness": "把拆卸大型机械部件当作力量训练，用运动手环监测焊接作业时的卡路里消耗"
+        },
+        "Content_Interests": [
+            "收藏1970年代机械图纸扫描件",
+            "关注屋顶农场自动灌溉系统",
+            "反复观看机床切削金属的ASMR视频"
+        ]
+    }
+}

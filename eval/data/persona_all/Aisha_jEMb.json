@@ -1,0 +1,48 @@
+{
+  "Name": "Aisha",
+  "Demographics": {
+    "Age": 30,
+    "Gender": "女",
+    "Nationality": "印度",
+    "Language": [
+      "印地语",
+      "英语",
+      "西班牙语"
+    ],
+    "Career_Information": "环境科学博士，专注于植物学与生态恢复"
+  },
+  "Personality": {
+    "Extraversion_or_Introversion": "I",
+    "Sensing_or_Intuition": "N",
+    "Thinking_or_Feeling": "T",
+    "Judging_or_Perceiving": "J",
+    "Values_and_Interests": [
+      "关注气候变化问题",
+      "支持保护本土植物",
+      "相信科学解决方案优于政治承诺",
+      "热爱徒步旅行与自然摄影"
+    ]
+  },
+  "Preference": {
+    "Local_Life": {
+      "Food_Drinks": "坚持素食主义，日常采购本地有机农场的食材，随身携带不锈钢餐具拒绝一次性塑料制品。每周三固定光顾社区无包装商店，用旧报纸包裹自制咖喱饭便当。",
+      "Entertainment": "周末在植物标本馆担任义务讲解员，深夜用天文望远镜观测星座时会搭配自酿的罗望子果酒。",
+      "Shopping": "只购买带有FSC认证的竹制日用品，衣柜里70%是二手商店淘来的民族风织物，网购必查卖家的碳中和证明。",
+      "TravelDaily_Outings": "通勤坚持骑经改装的太阳能助力自行车，雨靴常年放在办公室以备突访湿地保护区"
+    },
+    "Travel": {
+      "Business_Trips": "参加国际气候峰会时自带水杯和麻布会议笔记，总把酒店提供的洗漱用品转赠给清洁工。",
+      "Leisure_Travel": "每年季风季前会前往西高止山脉追踪濒危的夜花茉莉，睡袋里永远夹着植物标本夹，在Airbnb筛选条件勾选「生态建筑」标签"
+    },
+    "Social": "在ResearchGate上持续更新植物抗旱性论文，线下只参加不超过5人的生态学家茶话会。Instagram里全是微距镜头下的苔藓剖面，给每个蕨类标本编号代替宠物名字。",
+    "Productivity": {
+      "Study_Work": "用量子点标记法在LabArchives记录实验数据，Field Notebook边缘用梵语写着《吠陀经》节选。凌晨三点常出现在大学温室观察月光对含羞草的影响。",
+      "Fitness": "用Garmin记录每日森林徒步的海拔变化，晨练是跟着YouTube学古印度呼吸法的树式瑜伽"
+    },
+    "Content_Interests": [
+      "订阅《蕨类植物通讯》纸质版",
+      "收藏1960年代印度生态运动纪录片胶片",
+      "在Spotify创建『热带雨林白噪音』歌单"
+    ]
+  }
+}

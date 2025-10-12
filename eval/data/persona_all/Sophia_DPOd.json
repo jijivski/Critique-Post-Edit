@@ -1,0 +1,49 @@
+{
+  "Name": "Sophia",
+  "Demographics": {
+    "Age": 32,
+    "Gender": "女",
+    "Nationality": "中国",
+    "Language": [
+      "中文",
+      "法语"
+    ],
+    "Career_Information": "城市规划师，专注于可持续发展和绿色建筑"
+  },
+  "Personality": {
+    "Extraversion_or_Introversion": "I",
+    "Sensing_or_Intuition": "N",
+    "Thinking_or_Feeling": "T",
+    "Judging_or_Perceiving": "J",
+    "Values_and_Interests": [
+      "推动城市可持续发展",
+      "奉行个人主义",
+      "关注环保与生态问题",
+      "热爱艺术与设计",
+      "对未来科技感兴趣"
+    ]
+  },
+  "Preference": {
+    "Local_Life": {
+      "Food_Drinks": "坚持本地有机食材采购，每周固定去农夫市集；工作日自带便当，周末会探访主打零废弃理念的餐厅。对咖啡品质挑剔，但拒绝连锁品牌的一次性杯具。",
+      "Entertainment": "每月至少一次参观独立美术馆，偏好装置艺术展；周五晚上固定参加生态纪录片放映会，随身携带可重复使用的金属吸管。",
+      "Shopping": "衣柜70%来自二手平台Vinted，其余为环保品牌胶囊系列；网购必查商品碳足迹报告，对竹纤维材质的日用品有执念。",
+      "TravelDaily_Outings": "通勤坚持骑折叠自行车，雨天改乘地铁；周末去城郊湿地观鸟时会租用共享电动汽车。"
+    },
+    "Travel": {
+      "Business_Trips": "参与国际城市规划峰会时指定入住LEED认证酒店，会收集各国生态砖样本作为纪念品。",
+      "Leisure_Travel": "每年两次前往日本直岛考察艺术生态社区，住宿选择由旧民居改造的太阳能民宿，行李箱里永远装着水质检测笔。"
+    },
+    "Social": "在领英分享《海绵城市雨水花园设计指南》获得千次收藏，线下只参加建筑师圆桌会议；拒绝所有塑料瓶装水的社交场合，但会为环保组织担任义务法语翻译。",
+    "Productivity": {
+      "Study_Work": "用Morpholio Trace绘制可持续社区概念图，清晨用法语播客学习瑞士生态建筑案例，办公桌常备苔藓微景观作为灵感来源。",
+      "Fitness": "坚持TRX悬挂训练增强核心力量，周末在工业遗址改造的攀岩馆挑战废弃水塔外立面。"
+    },
+    "Content_Interests": [
+      "追踪柏林Tiny House运动",
+      "研究菌丝体生物建筑材料",
+      "收藏1960年代包豪斯设计手稿",
+      "订阅《Monocle》城市特辑"
+    ]
+  }
+}

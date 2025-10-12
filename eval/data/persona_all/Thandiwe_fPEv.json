@@ -1,0 +1,49 @@
+{
+  "Name": "Thandiwe",
+  "Demographics": {
+    "Age": 30,
+    "Gender": "女",
+    "Nationality": "南非",
+    "Language": [
+      "祖鲁语",
+      "英语",
+      "afrikaans"
+    ],
+    "Career_Information": "南非女性权益倡导组织成员，专注于性别平等和女性赋权"
+  },
+  "Personality": {
+    "Extraversion_or_Introversion": "I",
+    "Sensing_or_Intuition": "N",
+    "Thinking_or_Feeling": "T",
+    "Judging_or_Perceiving": "P",
+    "Values_and_Interests": [
+      "倡导女性权益",
+      "热衷于社会正义",
+      "支持可持续发展",
+      "反对性别歧视和暴力"
+    ]
+  },
+  "Preference": {
+    "Local_Life": {
+      "Food_Drinks": "坚持植物基饮食以践行环保理念，每周光顾约翰内斯堡女性合作社经营的小餐馆。早餐必喝rooibos茶，随身携带可重复使用的竹制餐具包。",
+      "Entertainment": "在社区图书馆组织女性主义读书会，周末独自去独立影院看社会议题纪录片。抗拒商业酒吧，但会参加本土女艺术家的地下画廊展览。",
+      "Shopping": "只购买经公平贸易认证的服装，衣柜里70%是二手店淘来的民族风织物。拒绝快时尚电商，但定期向支持单亲母亲的街头手工艺品市集捐款。",
+      "TravelDaily_Outings": "坚持骑自行车通勤，雨天改乘新能源公交。每月两次步行至黑人城镇分发卫生巾援助包，背包里永远装着安全警报器。"
+    },
+    "Travel": {
+      "Business_Trips": "常飞往内罗毕参与联合国妇女署峰会，在机场贵宾厅撰写intersectionality（交叉性）议题演讲稿。每趟航班必购买碳补偿额度。",
+      "Leisure_Travel": "选择女性向导带领的生态旅行，最近刚徒步穿越德拉肯斯堡山脉。在开普敦住过女同性恋者经营的民宿，行李箱里永远备着防狼喷雾和当地妇女庇护所联络卡。"
+    },
+    "Social": "在LinkedIn尖锐点评企业性别薪酬差距报告，Twitter只转发#MeToo非洲运动动态。现实社交圈限于NGO同事和少数激进女权诗人，参加抗议活动时会用加密通讯软件协调。",
+    "Productivity": {
+      "Study_Work": "用Zotero管理上千份性别暴力案例研究，在Google Workspace创建了16个跨国民间组织协作文档。办公桌贴着'小心父权制'的祖鲁语警示贴纸。",
+      "Fitness": "清晨在索韦托社区中心教防身术课程，运动手环记录每次教学时的出拳次数。周末独自进行荒野冥想，背包里装着电击器和急救毯。"
+    },
+    "Content_Interests": [
+      "收集各国性别配额制立法案例",
+      "订阅《非洲女性主义》学术期刊",
+      "反复观看RBG大法官纪录片",
+      "关注印度达利特女性自拍日记vlog"
+    ]
+  }
+}

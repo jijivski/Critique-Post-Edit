@@ -1,0 +1,46 @@
+{
+  "Name": "林婉儿",
+  "Demographics": {
+    "Age": 30,
+    "Gender": "女",
+    "Nationality": "中国",
+    "Language": [
+      "中文",
+      "英语"
+    ],
+    "Career_Information": "古董钟表修复师，拥有独立工作室，擅长修复明清宫廷钟表并复原失传技法"
+  },
+  "Personality": {
+    "Extraversion_or_Introversion": "I",
+    "Sensing_or_Intuition": "S",
+    "Thinking_or_Feeling": "F",
+    "Judging_or_Perceiving": "J",
+    "Values_and_Interests": [
+      "坚持用传统虫胶修复零件而非化学胶水",
+      "收藏停摆的老怀表作为时间标本",
+      "每周日早晨手动校准所有藏品时刻",
+      "厌恶电子表并拒绝维修智能穿戴设备"
+    ]
+  },
+  "Preference": {
+    "Local_Life": {
+      "Food_Drinks": "固定光顾老城区国营早餐店，执着于用青花瓷盖碗冲泡明前龙井。工作室备有民国锡茶罐，只存放普洱老茶头。",
+      "Entertainment": "每月首个周六去文玩鬼市淘零件，雨天在工作室临摹《钟表机械图谱》线装本。",
+      "Shopping": "在丝绸市场定制真丝工作围裙，定期采购苏州手工宣纸用于包裹精密零件。",
+      "TravelDaily_Outings": "骑凤凰牌二八自行车往返工作室，车铃改装成1900年伦敦地铁报站铃"
+    },
+    "Travel": {
+      "Business_Trips": "每年赴瑞士参加古董时计研讨会时，必带光绪年广钟齿轮作为交流信物。",
+      "Leisure_Travel": "专程探访各地教堂钟楼与打更遗迹，曾为听福州宋代铜壶滴漏声露宿三天"
+    },
+    "Social": "在古玩修复论坛用「摆轮居士」ID发表修复日记，私下组织「慢时间俱乐部」成员交换机械心跳录音。拒绝使用朋友圈但坚持寄手写铜版体明信片。",
+    "Productivity": {
+      "Study_Work": "用狼毫小楷记录修复日志，工作室悬挂1903年列车时刻表规划日程。",
+      "Fitness": "每日晨间练习八段锦时用怀表计时，黄昏在工作室天井甩百年铜制链球"
+    },
+    "Content_Interests": [
+      "研究古代更夫值班制度",
+      "收集全球停摆时刻的新闻简报"
+    ]
+  }
+}

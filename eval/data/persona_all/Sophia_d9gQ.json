@@ -1,0 +1,47 @@
+{
+  "Name": "Sophia",
+  "Demographics": {
+    "Age": 22,
+    "Gender": "女",
+    "Nationality": "日本",
+    "Language": [
+      "日语",
+      "英语"
+    ],
+    "Career_Information": "大学艺术专业学生，专注于插画和视觉叙事"
+  },
+  "Personality": {
+    "Extraversion_or_Introversion": "E",
+    "Sensing_or_Intuition": "N",
+    "Thinking_or_Feeling": "F",
+    "Judging_or_Perceiving": "P",
+    "Values_and_Interests": [
+      "热爱幻想文学与动漫",
+      "关注环境保护",
+      "支持社会公正",
+      "喜欢参与社区艺术活动"
+    ]
+  },
+  "Preference": {
+    "Local_Life": {
+      "Food_Drinks": "偏爱街角那家提供插画主题拉花的独立咖啡馆，午餐常自带用蜂蜡布包裹的有机饭团。周末会去农夫市集采购食材，但对便利店饭团的包装塑料耿耿于怀",
+      "Entertainment": "每周三固定参加社区废弃布料改造工作坊，深夜常躲在被窝用投影仪重温《哈尔的移动城堡》",
+      "Shopping": "在Loft文具店买水彩纸时会计算碳排放标签，衣柜里70%是古着店淘来的改造服饰",
+      "TravelDaily_Outings": "坚持骑改装过的昭和风格通学自行车，下雨天宁可提着画具挤京王线也不叫出租车"
+    },
+    "Travel": {
+      "Business_Trips": "跟着教授去冲绳考察琉球传统染色工艺时，偷偷在调研笔记边缘画满了人鱼传说分镜",
+      "Leisure_Travel": "暑假在屋久岛森林写生七天，执意住在没有WiFi的树屋民宿，手机相册里存着327张苔藓特写"
+    },
+    "Social": "Instagram小号专门发布用咖啡渍创作的即兴插画，线下在代代木公园组织过三次『垃圾雕塑快闪展』，总把新认识的人按瞳色分类记忆",
+    "Productivity": {
+      "Study_Work": "用古董玻璃蘸水笔在再生纸素描本上记录灵感，却给iPad配了五支不同触感的电容笔",
+      "Fitness": "自创了结合浮世绘人物姿态的晨间拉伸操，声称遛邻居的柴犬是『动态速写特训』"
+    },
+    "Content_Interests": [
+      "收集各国地铁站警示标志的视觉隐喻",
+      "痴迷观察便利店冰柜灯光对食物颜色的影响",
+      "悄悄给宫崎骏所有作品中的树木建立了分类图鉴"
+    ]
+  }
+}

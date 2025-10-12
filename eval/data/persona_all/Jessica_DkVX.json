@@ -1,0 +1,53 @@
+{
+  "Name": "Jessica",
+  "Demographics": {
+    "Age": 30,
+    "Gender": "女",
+    "Nationality": "中国",
+    "Language": [
+      "中文",
+      "英文"
+    ],
+    "Career_Information": "自由职业者，专注于历史研究与文化交流"
+  },
+  "Personality": {
+    "Extraversion_or_Introversion": "E",
+    "Sensing_or_Intuition": "S",
+    "Thinking_or_Feeling": "F",
+    "Judging_or_Perceiving": "P",
+    "Values_and_Interests": [
+      "热爱历史和考古学",
+      "倡导传统文化保护",
+      "积极参与线下历史讲座与活动",
+      "偏好实地考察历史遗址"
+    ]
+  },
+  "Preference": {
+    "Local_Life": {
+      "Food_Drinks": "坚持每周三次去老城区传统茶馆用餐，尤其偏爱手工制作的苏式糕点；随身携带紫砂壶泡茶，拒绝连锁咖啡店的工业化饮品。",
+      "Entertainment": "每月至少参加两次古琴雅集，定期在旧书店举办小型历史读书会，抗拒电影院与KTV的现代娱乐方式。",
+      "Shopping": "热衷在文物商店购买复刻版古籍，网购仅限于小众手工艺品平台，对机械化量产商品嗤之以鼻。",
+      "TravelDaily_Outings": "日常通勤坚持骑行，随身携带拓印工具包以便随时记录偶遇的碑刻遗迹"
+    },
+    "Travel": {
+      "Business_Trips": "承接考古项目时会驻扎遗址周边村落，坚持入住当地民居而非标准化酒店，随身携带便携式文物修复工具包。",
+      "Leisure_Travel": "每年两次前往丝绸之路沿线考察，偏爱住窑洞客栈或修复后的驿站，会在旅行日记本上绘制建筑结构图。"
+    },
+    "Social": "运营着拥有2.3万粉丝的古代服饰复原微博账号，线下定期组织汉服同袍走访古迹活动，拒绝使用短视频平台进行历史科普。",
+    "Productivity": {
+      "Study_Work": "用宣纸手写田野调查笔记，用专业级3D扫描仪数字化文物细节，但坚持使用传统墨锭而非现代墨水。",
+      "Fitness": "每日清晨在城墙遗址公园练习八段锦，随身携带计步器记录考察时的徒步里程。"
+    },
+    "Content_Interests": [
+      "关注全球濒危非遗技艺纪录片",
+      "痴迷古代军事要塞建筑结构解析",
+      "收集各地县志中的民间传说"
+    ]
+  },
+  "Bias": {
+    "Beliefs": "认为手工抄写的典籍比电子书更有文化温度",
+    "Prejudice": "坚信无人机考古会破坏遗址气场",
+    "Pattern": "会根据方言演变轨迹规划考察路线",
+    "Preference": "对使用古代工艺复现历史场景的影视剧格外宽容"
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "Name": "Sophia",
+  "Demographics": {
+    "Age": 30,
+    "Gender": "女",
+    "Nationality": "美国",
+    "Language": [
+      "英语",
+      "西班牙语"
+    ],
+    "Career_Information": "体育营销经理，专注于职业篮球联赛的品牌推广"
+  },
+  "Personality": {
+    "Extraversion_or_Introversion": "E",
+    "Sensing_or_Intuition": "N",
+    "Thinking_or_Feeling": "F",
+    "Judging_or_Perceiving": "J",
+    "Values_and_Interests": [
+      "热爱篮球和运动文化",
+      "倡导女性在体育领域的平等",
+      "关注社会公益和社区发展",
+      "喜欢通过数据分析了解运动趋势"
+    ]
+  },
+  "Preference": {
+    "Local_Life": {
+      "Food_Drinks": "工作日习惯用蛋白质奶昔搭配羽衣甘蓝沙拉作为午餐，偏爱有机食材和社区农贸市场采购。周末常光顾融合拉美风味的健康餐厅，对墨西哥卷饼配牛油果酱情有独钟。",
+      "Entertainment": "每月组织社区女子篮球训练营，周五晚上固定参加露天球场3V3比赛。书架上收藏着90年代WNBA经典赛事录像带，喜欢边喝精酿啤酒边重温比赛。",
+      "Shopping": "70%网购支出用于购买可持续材料制作的运动护具，对采用回收球衣制作的手提包品牌有收藏癖。Target超市消费集中在运动饮料和团队建设类桌游区。",
+      "TravelDaily_Outings": "通勤时会用Bird电动滑板车穿梭市中心，短途出差坚持使用Lyft拼车服务，途中必听运动员成长故事播客。"
+    },
+    "Travel": {
+      "Business_Trips": "每年至少三次前往WNBA各主场城市考察，偏爱入住配备室内篮球场的万豪酒店。利用会议间隙探访当地青少年体育公益组织。",
+      "Leisure_Travel": "冬季固定前往科罗拉多滑雪场研究运动员体能训练，夏季选择哥斯达黎加冲浪营地时会提前联系当地女子体育NGO做志愿者。"
+    },
+    "Social": "LinkedIn动态充斥着女运动员职业转型案例研究，Instagram故事里都是社区篮球场改造对比图。每周四晚上在教堂地下室主持体育人职业规划分享会，随身携带定制名片盒（由回收篮球表皮制成）。",
+    "Productivity": {
+      "Study_Work": "Trello看板同步管理23支合作球队的营销方案，Google Analytics仪表盘专门拆解女性观众观赛行为。撰写报告时必定插入运动员童年训练轶事专栏。",
+      "Fitness": "Apple Watch圆环闭合强迫症患者，每周三次5:30AM沿河慢跑时记录城市篮球场分布状况，周四晚上固定参加反重力瑜伽课程。"
+    },
+    "Content_Interests": [
+      "追踪WNBA新秀的心理韧性培养课程",
+      "研究1960年代哈林女篮队员口述史",
+      "收藏各国社区体育中心建筑设计方案"
+    ]
+  }
+}

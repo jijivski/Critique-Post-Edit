@@ -1,0 +1,47 @@
+{
+  "Name": "李明",
+  "Demographics": {
+    "Age": 28,
+    "Gender": "男",
+    "Nationality": "中国",
+    "Language": [
+      "中文",
+      "英语"
+    ],
+    "Career_Information": "知名制造企业工业机器人调试员，专注生产线自动化设备优化与故障诊断"
+  },
+  "Personality": {
+    "Extraversion_or_Introversion": "I",
+    "Sensing_or_Intuition": "N",
+    "Thinking_or_Feeling": "F",
+    "Judging_or_Perceiving": "P",
+    "Values_and_Interests": [
+      "与机器对话时会产生哲学思考",
+      "按工具尺寸和用途设计工具柜九宫格收纳系统",
+      "定期参观科技艺术展并撰写跨界观察笔记",
+      "用废弃零件制作蒸汽朋克风格雕塑"
+    ]
+  },
+  "Preference": {
+    "Local_Life": {
+      "Food_Drinks": "工作日自带便当（使用可降解餐盒），周末在创意园区寻找融合科技元素的主题餐厅，如机器人调酒师酒吧。",
+      "Entertainment": "每月去工业设计博物馆临摹机械结构素描，深夜用VR设备体验抽象数字艺术展。",
+      "Shopping": "定期海淘德国精密工具，在二手平台收购老式仪表改造为家居装饰，坚持购买碳足迹认证的生活用品。",
+      "TravelDaily_Outings": "骑改装过齿轮传动的死飞自行车通勤，雨天改乘地铁时研究车厢连接处机械结构"
+    },
+    "Travel": {
+      "Business_Trips": "参加国际工业博览会时会提前下载展品3D模型，在酒店用CAD软件做模拟拆解分析。",
+      "Leisure_Travel": "偏爱住由工厂改造的Loft民宿，在自然保护区徒步时带着自制地磁探测仪记录数据"
+    },
+    "Social": "在机械臂开发者论坛担任版主，组织线下工作坊教儿童用乐高拼装简易机器人。拒绝使用短视频平台，但会在GitHub分享开源自动化方案。",
+    "Productivity": {
+      "Study_Work": "用Notion搭建跨维度知识库（同时关联机械手册代码片段和美学理论），用增强现实眼镜实时叠加设备维修指引。",
+      "Fitness": "在厂房顶楼练习机械舞，用手环监测动作标准度并生成关节运动轨迹报告"
+    },
+    "Content_Interests": [
+      "收藏1970年代工业纪录片",
+      "订阅《量子纠缠与青铜器纹饰》电子杂志",
+      "关注可降解材料研发动态"
+    ]
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "Name": "张伟",
+  "Demographics": {
+    "Age": 34,
+    "Gender": "男",
+    "Nationality": "中国",
+    "Language": [
+      "中文",
+      "英语"
+    ],
+    "Career_Information": "陕西地区历史博物馆的兵马俑修复员"
+  },
+  "Personality": {
+    "Extraversion_or_Introversion": "I",
+    "Sensing_or_Intuition": "S",
+    "Thinking_or_Feeling": "T",
+    "Judging_or_Perceiving": "P",
+    "Values_and_Interests": [
+      "热衷于历史和考古学",
+      "信奉实用主义",
+      "认为传统文化应该与现代技术结合",
+      "喜欢独处时阅读历史书籍和修复艺术品"
+    ]
+  },
+  "Preference": {
+    "Local_Life": {
+      "Food_Drinks": "工作日习惯在博物馆食堂吃油泼面配冰峰汽水，周末固定去城墙根的老字号羊肉泡馍店。拒绝网红餐厅，但会为传统手作豆腐脑早起骑行三公里。",
+      "Entertainment": "每月两次独自参观碑林博物馆临展，深夜用投影仪看考古纪录片时会搭配西凤酒。",
+      "Shopping": "只在京东购买文物修复耗材（环氧树脂/微型毛刷），衣柜里七件同款灰色工装衬衫。",
+      "TravelDaily_Outings": "通勤骑改装过的二手电动车，雨天改乘地铁2号线时必带《秦简考释》阅读"
+    },
+    "Travel": {
+      "Business_Trips": "参与跨省文物修复项目时会住快捷酒店，随身携带3D扫描仪校准工具包。",
+      "Leisure_Travel": "年假必去考古现场周边民宿，行李箱里永远装着洛阳铲模型和《遗址保护手册》"
+    },
+    "Social": "在知乎匿名回答文物鉴定问题获27万收藏，现实社交仅限于同事讨论陶俑彩绘成分。每年清明会带徒弟去拜访已故修复大师的故居。",
+    "Productivity": {
+      "Study_Work": "用石墨文档记录陶片拼接坐标，在三星堆考古直播时同步用iPad Pro做分层示意图。",
+      "Fitness": "每天傍晚在博物馆后院打八段锦，微信运动常年保持1800步精准波动"
+    },
+    "Content_Interests": [
+      "关注青铜器脱盐技术论文",
+      "收藏1950年代考古现场黑白照片",
+      "在哔哩哔哩追更古法生漆制作教程"
+    ]
+  }
+}

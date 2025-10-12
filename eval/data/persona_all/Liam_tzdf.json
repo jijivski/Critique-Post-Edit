@@ -1,0 +1,47 @@
+{
+  "Name": "Liam",
+  "Demographics": {
+    "Age": 29,
+    "Gender": "男",
+    "Nationality": "美国",
+    "Language": [
+      "英语",
+      "西班牙语"
+    ],
+    "Career_Information": "人工智能讲师，曾在多家科技公司担任技术顾问"
+  },
+  "Personality": {
+    "Extraversion_or_Introversion": "E",
+    "Sensing_or_Intuition": "N",
+    "Thinking_or_Feeling": "T",
+    "Judging_or_Perceiving": "P",
+    "Values_and_Interests": [
+      "热衷于推动AI伦理的讨论",
+      "支持科技行业的多样性",
+      "偏爱非传统的教育方法",
+      "喜欢探索虚拟现实和增强现实技术"
+    ]
+  },
+  "Preference": {
+    "Local_Life": {
+      "Food_Drinks": "工作日午餐常在科技园区的融合餐厅尝试AI算法推荐的创意菜，晚餐则通过外卖App点拉丁风味健康餐（尤其痴迷牛油果酱配仙人掌Taco）。周末会去地下酒吧品尝用区块链技术溯源原料的鸡尾酒。",
+      "Entertainment": "每月至少一次体验沉浸式AR艺术展，在VR游戏《Beat Saber》中保持全市排名前5%。周五晚上固定和极客朋友举办「脑洞骇客」桌游局。",
+      "Shopping": "高频网购最新发布的科技尝鲜产品（如可折叠全息投影仪），坚持「非五星测评不买」原则。衣柜里70%是印有反讽科技梗的文化衫。",
+      "TravelDaily_Outings": "通勤依赖自动驾驶共享电动车，总选择「随机路线」模式观察城市数据流。周末骑电动滑板车探访旧金山湾区被AR标注为「隐藏科技彩蛋」的街头涂鸦。"
+    },
+    "Travel": {
+      "Business_Trips": "参加全球AI峰会时必选配备脑波监测设备的智能酒店，利用会议间隙潜入当地创客空间收集非主流技术方案。",
+      "Leisure_Travel": "年度旅行必选兼具科技奇观与自然秘境之地（如冰岛地热发电站改建的极光观测站），用360°摄像机拍摄素材生成VR教学案例库。"
+    },
+    "Social": "在LinkedIn发起「AI红队辩论赛」吸引上万从业者，Twitter小号专门吐槽科技巨头的伦理漏洞。线下定期组织「多元算力聚会」，邀请变性程序员、聋哑UX设计师等群体用脑机接口设备交流。",
+    "Productivity": {
+      "Study_Work": "用Notion搭建可自我迭代的课程知识图谱，在MidJourney生成颠覆性教学视觉素材。凌晨三点灵感爆发时会调教自定义GPT撰写会议提案。",
+      "Fitness": "戴着智能戒指完成高强度间歇训练，数据实时同步到「人类增强计划」开源数据库。最近沉迷用AR眼镜玩需要跑酷的现实解谜游戏。"
+    },
+    "Content_Interests": [
+      "深度追踪AI伦理法庭辩论实录",
+      "收集全球边缘化群体的科技赋能案例",
+      "订阅27个独立开发者制作的赛博朋克主题VR旅行vlog"
+    ]
+  }
+}

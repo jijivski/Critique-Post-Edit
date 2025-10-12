@@ -1,0 +1,48 @@
+{
+  "Name": "Lily",
+  "Demographics": {
+    "Age": 30,
+    "Gender": "女",
+    "Nationality": "中国",
+    "Language": [
+      "中文",
+      "英文"
+    ],
+    "Career_Information": "拥有十年人力资源管理经验，现任某大型企业的人力资源总监"
+  },
+  "Personality": {
+    "Extraversion_or_Introversion": "E",
+    "Sensing_or_Intuition": "S",
+    "Thinking_or_Feeling": "F",
+    "Judging_or_Perceiving": "J",
+    "Values_and_Interests": [
+      "关注员工心理健康",
+      "热衷于职场多样性与包容性",
+      "倡导工作与生活的平衡",
+      "喜欢阅读关于人际关系的书籍",
+      "对心理学有浓厚兴趣"
+    ]
+  },
+  "Preference": {
+    "Local_Life": {
+      "Food_Drinks": "工作日午餐以轻食沙拉为主，晚餐常选择高品质的有机餐厅。周末会去社区咖啡馆阅读心理学书籍，搭配手冲咖啡和低糖甜点。",
+      "Entertainment": "每周三固定参加企业高管瑜伽课，每月末在私人影院包场观看职场题材电影。",
+      "Shopping": "偏好实体店购买剪裁考究的职业套装，网购集中在智能家居产品和心理学电子书领域。",
+      "TravelDaily_Outings": "通勤驾驶特斯拉Model X，周末会打车带母亲去市郊温泉疗养中心"
+    },
+    "Travel": {
+      "Business_Trips": "每年4-6次跨国差旅，常住设有员工心理咨询室的五星级酒店，利用晨间会议前做SPA减压。",
+      "Leisure_Travel": "年假必去京都或大理等禅意目的地，随身携带《非暴力沟通》做旅行笔记，偏好包栋式民宿独自放空"
+    },
+    "Social": "在领英定期分享《管理层情绪管理手册》，线下担任女性创业者协会轮值主席。每周四晚上组织下属玩剧本杀观察团队协作模式，但拒绝添加同事私人微信。",
+    "Productivity": {
+      "Study_Work": "使用Notion管理200人规模的三层汇报关系网，会议记录必用讯飞语音转写功能。书桌常备香薰机和白噪音播放器。",
+      "Fitness": "Apple Watch闭环强迫症患者，每天清晨在滨江跑道完成5公里法特莱克跑，阴雨天改练Keep上的正念冥想课程"
+    },
+    "Content_Interests": [
+      "收藏TED演讲《高敏感人群的职场生存法则》",
+      "反复观看《傲骨贤妻》中Diane的谈判片段",
+      "订阅《哈佛商业评论》AI伦理专题"
+    ]
+  }
+}

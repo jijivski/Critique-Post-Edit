@@ -1,0 +1,47 @@
+{
+  "Name": "李青",
+  "Demographics": {
+    "Age": 31,
+    "Gender": "男",
+    "Nationality": "中国",
+    "Language": [
+      "中文",
+      "俄文"
+    ],
+    "Career_Information": "黑龙江某森林公园导游，中俄边境生态保护项目志愿者"
+  },
+  "Personality": {
+    "Extraversion_or_Introversion": "I",
+    "Sensing_or_Intuition": "N",
+    "Thinking_or_Feeling": "F",
+    "Judging_or_Perceiving": "P",
+    "Values_and_Interests": [
+      "坚持每月在森林无人区露营三天",
+      "用桦树皮制作手写观察日记",
+      "在零下30°C测试自制保暖装备",
+      "定期向环保NGO举报非法伐木行为"
+    ]
+  },
+  "Preference": {
+    "Local_Life": {
+      "Food_Drinks": "用松塔和野生蓝莓自制果酱，随身携带桦树汁饮品。冬季常煮鹿肉汤暖身，坚决抵制含有添加剂的包装食品。",
+      "Entertainment": "每月组织夜间观星会，在防火瞭望塔用俄语朗诵普希金的自然诗篇。",
+      "Shopping": "定期从鄂伦春族手艺人处采购鱼皮衣和兽骨工具，网购清单全是防风火柴、军用级指南针等生存装备。",
+      "TravelDaily_Outings": "日常骑改装过的二八杠自行车巡林，雪季驾驶狗拉雪橇穿越封冻河道"
+    },
+    "Travel": {
+      "Business_Trips": "每年冬季赴贝加尔湖参与中俄联合科考，总在行李中夹带大兴安岭的松子送给俄国同行。",
+      "Leisure_Travel": "专挑塌方路段或废弃林道徒步，认为未被开发的景观才有灵魂，曾在长白山天池边与偷猎者对峙"
+    },
+    "Social": "运营名为「北境巡林人」的Telegram频道，用红外相机拍摄的东北豹影像吸引国际动物学家关注。线下只参加护林员格斗术交流集会。",
+    "Productivity": {
+      "Study_Work": "用军用手电筒在帐篷里研读《西伯利亚植物志》，在冻土层剖面图背面速写动物足迹。",
+      "Fitness": "每日背负40公斤装备攀登防火塔，将追踪东北虎的迁徙路线作为有氧训练"
+    },
+    "Content_Interests": [
+      "收集苏联时期地质勘探档案",
+      "研究寒地民族萨满仪式与生态观",
+      "破译野生东北虎粪便成分报告"
+    ]
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "Name": "李婷",
+  "Demographics": {
+    "Age": 29,
+    "Gender": "女",
+    "Nationality": "中国",
+    "Language": [
+      "中文",
+      "英文",
+      "法文"
+    ],
+    "Career_Information": "某知名文学杂志资深编辑，专注于当代小说和诗歌的评审"
+  },
+  "Personality": {
+    "Extraversion_or_Introversion": "I",
+    "Sensing_or_Intuition": "S",
+    "Thinking_or_Feeling": "F",
+    "Judging_or_Perceiving": "P",
+    "Values_and_Interests": [
+      "热爱文学与写作",
+      "推崇个体自由与艺术表达",
+      "对社会边缘话题敏感",
+      "喜爱深夜独自阅读与思考"
+    ]
+  },
+  "Preference": {
+    "Local_Life": {
+      "Food_Drinks": "偏爱胡同里的独立咖啡馆，常点烟熏三文鱼贝果配冷萃咖啡。深夜写作时会开瓶自然酒配蓝纹奶酪，对街边脏摊炒米粉有隐秘的罪恶快感。",
+      "Entertainment": "每月至少参加两次先锋诗歌朗诵会，定期在798艺术区画廊假装看不懂装置艺术。",
+      "Shopping": "沉迷二手书店的霉味，会在淘宝买手作陶瓷咖啡杯，衣柜里塞满亚麻材质的宽松连衣裙。",
+      "TravelDaily_Outings": "坚持步行上班以观察市井生活，雨天必打专车并和司机讨论余华新作"
+    },
+    "Travel": {
+      "Business_Trips": "参加法兰克福书展时会溜去墓园找黑塞的墓碑，商务酒店床头永远摆着《追忆似水年华》。",
+      "Leisure_Travel": "每年独自去云南古镇住十天，带着海明威同款打字机却只写了三行诗，行李箱里总有一本法语版的《恶之花》"
+    },
+    "Social": "在豆瓣小组匿名撰写《编辑部的肮脏秘密》，线下只参加不超过3人的文学沙龙。微信朋友圈常年设置三天可见，但会偷偷给流浪诗人打赏",
+    "Productivity": {
+      "Study_Work": "用1930年代古董钢笔批注投稿，办公桌上永远堆着未拆的样书。手机备忘录存着237个小说开头",
+      "Fitness": "把逛美术馆当有氧运动，相信翻阅精装版《尤利西斯》能锻炼小臂肌肉"
+    },
+    "Content_Interests": [
+      "地下文学刊物",
+      "东欧电影配乐解析",
+      "女权主义诗歌运动简史"
+    ]
+  }
+}

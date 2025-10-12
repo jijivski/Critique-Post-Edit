@@ -1,0 +1,48 @@
+{
+  "Name": "李伟",
+  "Demographics": {
+    "Age": 29,
+    "Gender": "男",
+    "Nationality": "中国",
+    "Language": [
+      "中文",
+      "英语",
+      "阿拉伯语"
+    ],
+    "Career_Information": "灾后重建规划师，参与过叙利亚难民营重建、印尼海啸灾后社区再造等12个国际项目"
+  },
+  "Personality": {
+    "Extraversion_or_Introversion": "E",
+    "Sensing_or_Intuition": "N",
+    "Thinking_or_Feeling": "F",
+    "Judging_or_Perceiving": "P",
+    "Values_and_Interests": [
+      "随身携带可降解餐具抗议塑料污染",
+      "认为人道援助应优先于政治立场",
+      "在沙漠项目养成了收集民俗手工艺品的怪癖",
+      "会为体验贫民窟生活故意住廉价青旅"
+    ]
+  },
+  "Preference": {
+    "Local_Life": {
+      "Food_Drinks": "工作日靠便利店沙拉速食解决三餐，周末必探访移民社区的小众餐厅，尤其痴迷也门羊肉抓饭和缅甸茶叶沙拉。随身保温杯里永远装着薄荷茶。",
+      "Entertainment": "定期组织公益纪录片放映会，玩《文明6》时会故意触发自然灾害事件研究应对策略，收藏了47个国家的桌游版本。",
+      "Shopping": "70%衣物购自环保品牌快闪店，会花三个月工资买顶级户外装备，却在菜市场为了五毛钱和摊主讨价还价。",
+      "TravelDaily_Outings": "坚持骑共享单车跨区参加会议，地铁上看阿拉伯语新闻App"
+    },
+    "Travel": {
+      "Business_Trips": "常在灾区住集装箱改造房，会偷拍当地黑市交易发加密博客。出差必带品是防毒面罩和太阳能充电器。",
+      "Leisure_Travel": "热衷在阿富汗巴米扬山谷徒步时帮牧民修羊圈，去撒哈拉沙漠故意不用GPS导航"
+    },
+    "Social": "领英动态全是救灾现场工作照，Instagram小号发战地涂鸦和难民儿童肖像。每周四在胡同酒吧举办多语言自由辩论会。",
+    "Productivity": {
+      "Study_Work": "用Notion管理着23个跨国项目进度表，凌晨三点给联合国儿童基金会写建议书时会听图瓦喉唱音乐",
+      "Fitness": "把灾区地形图导入运动手表，每周模拟加沙地带撤离路线徒步20公里"
+    },
+    "Content_Interests": [
+      "追踪全球地下水污染数据",
+      "收藏冷门语言濒危民谣",
+      "研究古代水利设施图纸"
+    ]
+  }
+}

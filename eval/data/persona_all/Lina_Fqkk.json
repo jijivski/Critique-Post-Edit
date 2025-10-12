@@ -1,0 +1,48 @@
+{
+  "Name": "Lina",
+  "Demographics": {
+    "Age": 30,
+    "Gender": "女",
+    "Nationality": "印度",
+    "Language": [
+      "印地语",
+      "英文"
+    ],
+    "Career_Information": "印度著名音乐学院教授，专注于民族音乐的研究与传承"
+  },
+  "Personality": {
+    "Extraversion_or_Introversion": "E",
+    "Sensing_or_Intuition": "N",
+    "Thinking_or_Feeling": "F",
+    "Judging_or_Perceiving": "P",
+    "Values_and_Interests": [
+      "热衷于研究传统音乐对现代音乐的影响",
+      "支持文化多样性和保护传统艺术",
+      "喜欢与不同文化背景的人交流",
+      "对传统声乐技巧在现代艺术形式中的应用充满激情"
+    ]
+  },
+  "Preference": {
+    "Local_Life": {
+      "Food_Drinks": "常光顾德里老城区的香料茶摊，早餐必喝姜黄牛奶。偏爱街头小吃但讲究卫生，会为研究民歌跑去偏远村落品尝当地发酵米酒。",
+      "Entertainment": "每周三参加古典音乐即兴沙龙，每月在社区举办传统乐器体验工作坊。偶尔看宝莱坞歌舞片解压。",
+      "Shopping": "定期采购手工制作的塔布拉鼓皮和檀木精油，网购小众音乐设备时会反复比价但从不还价。",
+      "TravelDaily_Outings": "骑电动滑板车穿梭于学院与音乐厅之间，周末常独自前往贾玛清真寺附近记录街头艺人表演。"
+    },
+    "Travel": {
+      "Business_Trips": "每年赴欧洲参加世界音乐论坛时必逛二手黑胶店，会在柏林地铁站观察流浪歌手的发声方式。",
+      "Leisure_Travel": "雨季独自前往喀拉拉邦船屋居住两周，用防水录音设备采集渔民歌谣，总带着自制香料包与民宿主人交换食谱。"
+    },
+    "Social": "在Instagram直播即兴音乐创作过程，却拒绝使用短视频特效。定期组织跨文化音乐家深夜茶话会，随身携带薄荷鼻烟壶作为破冰礼物。",
+    "Productivity": {
+      "Study_Work": "用古董留声机对比数字修复版唱片差异，在Notion建立包含427种拉格调式的数据库，录音笔永远别在纱丽褶皱里。",
+      "Fitness": "清晨在瑜伽垫上练习喉音共鸣呼吸法，手腕戴着改装成律动计数器的Apple Watch。"
+    },
+    "Content_Interests": [
+      "收集全球即将失传的吟唱技法纪录片",
+      "关注TEDx关于声学考古的演讲",
+      "沉迷拆解电子音乐中的传统元素彩蛋",
+      "秘密订阅暗网民歌黑市交易动态"
+    ]
+  }
+}

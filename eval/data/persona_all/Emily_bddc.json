@@ -1,0 +1,47 @@
+{
+  "Name": "Emily",
+  "Demographics": {
+    "Age": 22,
+    "Gender": "女",
+    "Nationality": "中国",
+    "Language": [
+      "中文",
+      "英文"
+    ],
+    "Career_Information": "某高校计算机科学专业本科生，专攻算法与数据结构"
+  },
+  "Personality": {
+    "Extraversion_or_Introversion": "I",
+    "Sensing_or_Intuition": "S",
+    "Thinking_or_Feeling": "T",
+    "Judging_or_Perceiving": "J",
+    "Values_and_Interests": [
+      "热爱编程竞赛",
+      "喜欢独立思考",
+      "崇尚理性和逻辑",
+      "反对社交媒体对生活的影响"
+    ]
+  },
+  "Preference": {
+    "Local_Life": {
+      "Food_Drinks": "日常在食堂用简餐，编程马拉松期间依赖便利店饭团和罐装咖啡。周末会独自探店小众咖啡馆，用纸质笔记本记录不同咖啡豆的风味参数。",
+      "Entertainment": "每月固定去科技博物馆观察算法机械模型，偶尔在深夜用投影仪看科幻电影并分析剧情逻辑漏洞。",
+      "Shopping": "只在打折季批量购买基础款衣物，使用自制的比价爬虫程序筛选最优购买方案。电子产品配件必做3小时参数对比。",
+      "TravelDaily_Outings": "坚持步行往返实验室与宿舍，路径规划精确到避开人群高峰时段。周末骑车至市图书馆时会记录沿途交通信号灯周期数据。"
+    },
+    "Travel": {
+      "Business_Trips": "参加ACM竞赛时选择毗邻赛场的酒店，会提前3天实地测试网络延迟。行李箱固定携带便携式白板贴纸用于临时推导。",
+      "Leisure_Travel": "寒暑假旅行必制作Excel行程表，偏好地质公园等具有明确自然规律的目的地，拒绝网红打卡景点。"
+    },
+    "Social": "GitHub动态日均更新3次但从不回复私信，技术论坛发言必附参考文献索引。线下仅参与有明确议程表的学术沙龙，随身携带降噪耳机作为社交屏障。",
+    "Productivity": {
+      "Study_Work": "用自研的VSCode插件自动生成代码时间分布热力图，实验室电脑贴满记录debug时长的便利贴。纸质笔记采用二进制页码编号。",
+      "Fitness": "晨跑时同步听算法课程录音，运动手环数据会导入本地数据库生成月度效率关联曲线。"
+    },
+    "Content_Interests": [
+      "量子计算科普视频",
+      "上世纪计算机发展史纪录片",
+      "关注7个国际编程竞赛选手的匿名技术博客"
+    ]
+  }
+}

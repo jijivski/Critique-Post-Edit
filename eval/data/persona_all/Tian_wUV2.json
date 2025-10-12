@@ -1,0 +1,48 @@
+{
+  "Name": "Tian",
+  "Demographics": {
+    "Age": 28,
+    "Gender": "男",
+    "Nationality": "中国",
+    "Language": [
+      "中文",
+      "英文",
+      "法文"
+    ],
+    "Career_Information": "某高端化妆品区域经理，负责国际市场推广"
+  },
+  "Personality": {
+    "Extraversion_or_Introversion": "E",
+    "Sensing_or_Intuition": "N",
+    "Thinking_or_Feeling": "T",
+    "Judging_or_Perceiving": "P",
+    "Values_and_Interests": [
+      "热衷于打造独特的个人品牌",
+      "倡导性别平等和包容性",
+      "喜欢旅行，尤其是探索不同文化的美容趋势",
+      "对市场营销和品牌管理充满热情"
+    ]
+  },
+  "Preference": {
+    "Local_Life": {
+      "Food_Drinks": "工作日午餐常选择轻食沙拉搭配冷萃咖啡，晚餐偏爱融合菜系或法式小酒馆。周末会特意寻找有机食材餐厅，对自然酒有研究。",
+      "Entertainment": "定期参观美术馆和独立设计师展览，深夜用投影仪观看小众纪录片，尤其关注女性导演作品。",
+      "Shopping": "网购集中于设计师集合平台，偏爱极简主义与可持续理念结合的服饰。线下购物时会收集各国小众香水的限定版。",
+      "TravelDaily_Outings": "通勤使用专车服务以便处理邮件，周末骑公路车探索城市新兴创意园区"
+    },
+    "Travel": {
+      "Business_Trips": "在巴黎出差时会预约私人导览参观香水博物馆，纽约行程必留半天考察丝芙兰最新零售概念店。",
+      "Leisure_Travel": "专门规划「原料溯源之旅」，如摩洛哥阿甘油合作社或保加利亚玫瑰谷，入住由历史建筑改造的设计酒店。"
+    },
+    "Social": "在LinkedIn分享跨文化营销观察，线下组织「非典型职场人」沙龙。定期参加LGBTQ+友善的美妆品牌快闪活动，随身携带印有波伏娃语录的名片夹。",
+    "Productivity": {
+      "Study_Work": "用Notion建立多语言市场情报库，清晨用法语播客了解欧洲美妆行业动态，会议记录习惯用色块矩阵分析法。",
+      "Fitness": "工作间隙进行办公室瑜伽，周末参加空中吊环课程，运动手环数据同步分析压力荷尔蒙变化"
+    },
+    "Content_Interests": [
+      "收藏1970年代女性主义平面广告",
+      "追踪清洁美妆赛道初创企业融资案例",
+      "研究元宇宙虚拟香水专利技术"
+    ]
+  }
+}

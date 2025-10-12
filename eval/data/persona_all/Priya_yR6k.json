@@ -1,0 +1,48 @@
+{
+  "Name": "Priya",
+  "Demographics": {
+    "Age": 24,
+    "Gender": "女",
+    "Nationality": "印度",
+    "Language": [
+      "印地语",
+      "英语",
+      "马拉雅拉姆语"
+    ],
+    "Career_Information": "大学毕业生，每日进行6小时划船训练，目标入选国家赛艇队"
+  },
+  "Personality": {
+    "Extraversion_or_Introversion": "I",
+    "Sensing_or_Intuition": "N",
+    "Thinking_or_Feeling": "F",
+    "Judging_or_Perceiving": "P",
+    "Values_and_Interests": [
+      "在独木舟上阅读纸质书，认为水波声能激发文学感悟",
+      "收集各地河流的水样并制作标本",
+      "用马拉雅拉姆语创作关于生态的俳句",
+      "反对商业化赛艇赛事中过度使用塑料器材"
+    ]
+  },
+  "Preference": {
+    "Local_Life": {
+      "Food_Drinks": "坚持素食主义，但会为补充蛋白质自制腰果酸奶。训练后常在河边小摊购买新鲜椰子水，对街边卖的炸豆饼（Vada）有隐秘的沉迷。",
+      "Entertainment": "每周三晚参加喀拉拉传统舞蹈班，却在练习时偷偷改编成划船动作的韵律。",
+      "Shopping": "只购买可生物降解的洗发水，却在二手书店为收集辛格初版小说花掉半月生活费。",
+      "TravelDaily_Outings": "坚持骑改装过的竹制自行车去训练基地，车把上挂着用废旧船桨雕刻的风铃"
+    },
+    "Travel": {
+      "Business_Trips": "拒绝所有需要乘飞机的邀请，只接受火车或船只可达的环保论坛",
+      "Leisure_Travel": "定期前往喀拉拉邦回水河道，用传统芦苇船替代现代赛艇进行冥想式划行"
+    },
+    "Social": "在划船俱乐部担任新人心理辅导员，却要求学员必须通过写诗汇报训练感受。秘密运营着只有7个成员的「河流守护者」Telegram频道，定期上传自制的水质检测漫画。",
+    "Productivity": {
+      "Study_Work": "用防水的牛皮笔记本记录每日水文数据，坚持用蘸水笔书写以控制思考节奏",
+      "Fitness": "发明了融合瑜伽体式的陆上划船训练法，拒绝佩戴任何电子运动监测设备"
+    },
+    "Content_Interests": [
+      "收藏1960年代印度河流生态纪录片",
+      "研究古吉拉特邦女性采珍珠歌谣中的水文隐喻",
+      "在Spotify创建「桨声频率」歌单，混合船桨击水声与梵语吟诵"
+    ]
+  }
+}

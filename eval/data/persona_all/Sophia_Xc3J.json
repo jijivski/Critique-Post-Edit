@@ -1,0 +1,47 @@
+{
+  "Name": "Sophia",
+  "Demographics": {
+    "Age": 31,
+    "Gender": "女",
+    "Nationality": "美国",
+    "Language": [
+      "英语",
+      "西班牙语"
+    ],
+    "Career_Information": "自由职业的政治评论员，专注于社会运动及公共政策"
+  },
+  "Personality": {
+    "Extraversion_or_Introversion": "I",
+    "Sensing_or_Intuition": "N",
+    "Thinking_or_Feeling": "T",
+    "Judging_or_Perceiving": "J",
+    "Values_and_Interests": [
+      "关注社会公正与历史修正主义",
+      "认为历史纪念活动需要更加包容",
+      "倡导建设性的对话而非对立",
+      "热爱阅读和研究历史"
+    ]
+  },
+  "Preference": {
+    "Local_Life": {
+      "Food_Drinks": "工作日自制简餐，偏好有机食材和素食；周末常光顾社区内支持公平贸易的咖啡馆，点单时必选拉美风味的黑咖啡。",
+      "Entertainment": "每月参加一次独立书店的历史主题沙龙，偶尔在深夜观看社会运动纪录片，对沉浸式历史展览有浓厚兴趣。",
+      "Shopping": "网购以二手书店和环保品牌为主，会为收藏绝版历史书籍支付溢价，但对快时尚消费持批判态度。",
+      "TravelDaily_Outings": "步行前往图书馆查阅档案时坚持记录城市历史建筑变迁，雨天会乘坐地铁并在途中用Kindle阅读学术期刊。"
+    },
+    "Travel": {
+      "Business_Trips": "受邀参与国际政策论坛时会选择毗邻档案馆的酒店，利用茶歇时间考察当地纪念碑的叙事文本。",
+      "Leisure_Travel": "年度旅行必包含前殖民地地区的博物馆，曾为参观墨西哥萨帕塔运动发源地专门学习纳瓦特尔语基础词汇。"
+    },
+    "Social": "在LinkedIn发布政策批判长文引发学界讨论，私下组织跨学科圆桌会议；拒绝使用短视频平台，但会在Twitter参与#HistoricalAccountability话题时附上严谨的文献索引。",
+    "Productivity": {
+      "Study_Work": "用Zotero管理3个分类共427篇论文库，清晨用Roam Research梳理论点逻辑链，截稿前会用白噪音隔绝外界干扰。",
+      "Fitness": "每周三次晨间瑜伽配合呼吸冥想，运动手环持续监测压力值以避免论证陷入情绪化。"
+    },
+    "Content_Interests": [
+      "殖民地口述史整理",
+      "公共空间叙事政治学",
+      "拉美当代社会运动影像记录"
+    ]
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "Name": "李明",
+  "Demographics": {
+    "Age": 30,
+    "Gender": "男",
+    "Nationality": "中国",
+    "Language": [
+      "中文",
+      "方言"
+    ],
+    "Career_Information": "安徽偏远山区的支教老师，自学编程并开设电脑课程"
+  },
+  "Personality": {
+    "Extraversion_or_Introversion": "I",
+    "Sensing_or_Intuition": "N",
+    "Thinking_or_Feeling": "T",
+    "Judging_or_Perceiving": "P",
+    "Values_and_Interests": [
+      "热爱教育和学生的成长",
+      "崇尚知识的力量",
+      "反对过度商业化的教育",
+      "支持环境保护和可持续发展"
+    ]
+  },
+  "Preference": {
+    "Local_Life": {
+      "Food_Drinks": "每日与学生同食大锅灶，偏爱本地种植的时令蔬菜。周末徒步去镇上采购时会吃碗牛肉面改善伙食，随身携带搪瓷杯冲泡山上自采的野茶。",
+      "Entertainment": "用二手投影仪给学生放《地球脉动》纪录片当作娱乐，偶尔组织编程比赛作为课外活动。",
+      "Shopping": "每学期在拼多多批量采购文具教具，会花三个月工资淘二手笔记本电脑改装成教学设备。",
+      "TravelDaily_Outings": "每周三次走两小时山路去镇邮政所取网购包裹，暴雨天会搭村民的拖拉机下山"
+    },
+    "Travel": {
+      "Business_Trips": "每年寒暑假参加教育NGO的培训，总带着装满学生作业的U盘在路上批改，住青年旅舍时帮店家修电脑抵房费。",
+      "Leisure_Travel": "带毕业班学生去黄山研学旅行时坚持露营不住酒店，用天文望远镜代替景点门票观察星空教学"
+    },
+    "Social": "在知乎专栏记录支教见闻却关闭打赏功能，微信家长群置顶公告写明「拒收任何土特产礼物」。雨夜常去村头小卖部蹭WiFi下载公开课视频。",
+    "Productivity": {
+      "Study_Work": "用LibreOffice制作双语教案，在作业本背面手写Python代码逻辑，学生成绩档案用树莓派搭建的本地数据库管理。",
+      "Fitness": "每天清晨带学生跑操时顺带锻炼，用鹅卵石自制的握力器练习手部力量"
+    },
+    "Content_Interests": [
+      "关注联合国教科文组织的开源教育项目",
+      "收藏上世纪的《无线电》杂志合订本",
+      "反复观看《三体》动画版编程教学片段",
+      "订阅安徽气象预警公众号"
+    ]
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "Name": "小伟",
+  "Demographics": {
+    "Age": 24,
+    "Gender": "男",
+    "Nationality": "中国",
+    "Language": [
+      "中文",
+      "英语"
+    ],
+    "Career_Information": "某4A广告公司美术指导，视觉风格前卫"
+  },
+  "Personality": {
+    "Extraversion_or_Introversion": "I",
+    "Sensing_or_Intuition": "N",
+    "Thinking_or_Feeling": "F",
+    "Judging_or_Perceiving": "P",
+    "Values_and_Interests": [
+      "热爱艺术与设计",
+      "喜欢探索前卫文化",
+      "崇尚个性与独立",
+      "对新兴技术感兴趣"
+    ]
+  },
+  "Preference": {
+    "Local_Life": {
+      "Food_Drinks": "常去独立咖啡馆和创意菜餐厅，偏爱有机食材制作的简餐。周末会探索隐藏在老城区的精酿啤酒吧，收集带有蒸汽波风格包装的饮料。",
+      "Entertainment": "定期参加先锋艺术展和实验剧场，深夜在公寓用投影仪看cult电影，收藏小众黑胶唱片作为灵感来源。",
+      "Shopping": "网购偏爱北欧极简风家居和可持续材料制成的设计师品牌，实体店购物首选买手店与艺术衍生品商店。",
+      "TravelDaily_Outings": "通勤骑共享单车穿过城市涂鸦街区，周末乘地铁去艺术园区时会用iPad速写记录车厢光影"
+    },
+    "Travel": {
+      "Business_Trips": "参与国际设计周时会住进改造后的工业风酒店，用AR设备扫描建筑结构寻找灵感",
+      "Leisure_Travel": "年假选择去冰岛黑沙滩或东京代官山，随身携带便携式数位板写生，住宿偏爱由旧建筑改造的设计师民宿"
+    },
+    "Social": "在Behance展示未公开的创作手稿，Instagram只关注装置艺术家和赛博朋克摄影师。线下参加地下艺术沙龙时会带自己设计的蒸汽波风格名片，但拒绝交换微信",
+    "Productivity": {
+      "Study_Work": "用Procreate绘制数字草图，搭配Moleskine手账记录碎片灵感。工作台常备3D打印笔和激光雕刻机试验材料质感",
+      "Fitness": "在loft工作室角落摆放悬挂式瑜伽吊床，通宵加班后做空中瑜伽缓解颈椎压力，Apple Watch记录每日站立时间"
+    },
+    "Content_Interests": [
+      "订阅《Design+AI》电子杂志",
+      "关注NFT数字艺术拍卖动态",
+      "深夜刷TikTok算法推荐的故障艺术短片",
+      "研究生物可降解材料的工业设计应用"
+    ]
+  }
+}

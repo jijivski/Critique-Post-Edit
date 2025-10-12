@@ -1,0 +1,47 @@
+{
+  "Name": "Carlos",
+  "Demographics": {
+    "Age": 34,
+    "Gender": "男",
+    "Nationality": "中国澳门",
+    "Language": [
+      "中文",
+      "葡萄牙语",
+      "英语"
+    ],
+    "Career_Information": "澳门资深葡式蛋挞师傅，坚持用炭火烤炉手工制作，拒绝工业化流水线"
+  },
+  "Personality": {
+    "Extraversion_or_Introversion": "I",
+    "Sensing_or_Intuition": "S",
+    "Thinking_or_Feeling": "F",
+    "Judging_or_Perceiving": "P",
+    "Values_and_Interests": [
+      "认为食材呼吸节奏影响蛋挞口感",
+      "收藏1940年代澳门旧茶具",
+      "坚持手写蛋挞配方密码本",
+      "反感自动揉面机的金属味"
+    ]
+  },
+  "Preference": {
+    "Local_Life": {
+      "Food_Drinks": "每日早餐在街角茶餐厅喝瓦煲咖啡，拒绝连锁咖啡店的奶泡。午餐固定吃阿婆卖的艇仔粥，认为塑料碗会破坏米香。",
+      "Entertainment": "每周三晚上去老戏院看修复版黑白电影，每月最后一个周日参加大三巴台阶下的葡语诗朗诵会。",
+      "Shopping": "只在红街市露天摊位采购黄油，坚持用报纸包裹食材。网购仅限于淘买葡萄牙旧铸铁模具。",
+      "TravelDaily_Outings": "骑1972年产的vespa摩托车穿梭巷弄，后备箱永远放着未售完的蛋挞用于分享给街坊"
+    },
+    "Travel": {
+      "Business_Trips": "每年圣诞节前赴里斯本采购岩盐，途中会拜访修道院厨房学习古法酥皮技巧。",
+      "Leisure_Travel": "偏爱柬埔寨吴哥窟附近的手工棕糖作坊，曾为观察糖浆结晶形态在当地滞留三周。"
+    },
+    "Social": "在店铺柜台后设置老式转盘电话，只接听熟客预定。周末下午在灶台边教孤儿院孩子捏面团，但拒绝被拍摄教学视频。",
+    "Productivity": {
+      "Study_Work": "用祖父留下的铜杆天平称料，在油渍斑驳的牛皮纸上记录火候变化曲线。能背诵17世纪澳门土生葡人食谱目录。",
+      "Fitness": "凌晨四点沿内港码头跑步，认为海风湿气能增强肺活量。私下练习南派醒狮步法锻炼腿部力量。"
+    },
+    "Content_Interests": [
+      "澳门土生葡语民谣唱片收藏",
+      "东南亚殖民时期瓷器纹样研究"
+    ]
+  }
+}

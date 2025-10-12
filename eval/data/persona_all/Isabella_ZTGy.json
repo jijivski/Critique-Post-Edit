@@ -1,0 +1,48 @@
+{
+  "Name": "Isabella",
+  "Demographics": {
+    "Age": 32,
+    "Gender": "女",
+    "Nationality": "古巴",
+    "Language": [
+      "西班牙语",
+      "英语",
+      "法语"
+    ],
+    "Career_Information": "自由艺术家，主要创作多媒体艺术和装置艺术"
+  },
+  "Personality": {
+    "Extraversion_or_Introversion": "I",
+    "Sensing_or_Intuition": "N",
+    "Thinking_or_Feeling": "F",
+    "Judging_or_Perceiving": "P",
+    "Values_and_Interests": [
+      "热爱艺术表达",
+      "追求个人自由",
+      "关注社会正义",
+      "喜爱旅行和探索不同文化"
+    ]
+  },
+  "Preference": {
+    "Local_Life": {
+      "Food_Drinks": "偏爱用古巴黑豆饭搭配炸香蕉作为comfort food，常在移民社区寻找加勒比风味餐馆。创作时会用浓缩咖啡提神，收集不同产地的咖啡豆研磨冲泡。",
+      "Entertainment": "每周三固定参加地下艺术沙龙，深夜常独自在24小时书店翻阅先锋艺术杂志。偶尔会去废弃工厂寻找装置艺术材料。",
+      "Shopping": "痴迷收集各国传统织物改造为艺术材料，定期光顾吉普赛人的旧货集市。网购记录显示大量荧光喷漆和环氧树脂采购。",
+      "TravelDaily_Outings": "骑改装过的复古自行车穿梭于城市，车篮里总是装着速写本和古巴雪茄盒改造的颜料箱"
+    },
+    "Travel": {
+      "Business_Trips": "拒绝商业画廊邀约，但会为街头艺术节跨越时区。总在行李箱夹层偷藏抗议传单，曾在柏林墙遗迹现场创作行为艺术。",
+      "Leisure_Travel": "专挑政治敏感期前往冲突地区，用织物包裹弹孔累累的墙体。最近在撒哈拉沙漠用镜面装置折射日光，惹怒当地保守派居民。"
+    },
+    "Social": "在Instagram发布用血红色颜料书写的社会运动宣言，但24小时后自动删除。真实社交圈仅限于三个流亡诗人和一个黑客，曾在墨西哥城地铁用投影装置传播反消费主义涂鸦。",
+    "Productivity": {
+      "Study_Work": "用Procreate绘制数字版画时会听切·格瓦拉演讲录音，工作台贴着『所有颜料都是凝固的鲜血』手写标语。深夜用3D建模软件时必抽哈瓦那雪茄。",
+      "Fitness": "将现代舞训练融入装置艺术创作，常在未完工的建筑天台练习即兴舞蹈，用Apple Watch记录心率波动转化为视觉艺术作品"
+    },
+    "Content_Interests": [
+      "追踪全球街头艺术犯罪案件",
+      "研究巫毒教符号在现代艺术中的解构",
+      "收集各国移民的头发编织成地理图谱"
+    ]
+  }
+}

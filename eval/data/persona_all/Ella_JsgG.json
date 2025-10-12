@@ -1,0 +1,47 @@
+{
+  "Name": "Ella",
+  "Demographics": {
+    "Age": 30,
+    "Gender": "女",
+    "Nationality": "美国",
+    "Language": [
+      "英语",
+      "西班牙语"
+    ],
+    "Career_Information": "健身教练，专注于高强度间歇训练和营养咨询"
+  },
+  "Personality": {
+    "Extraversion_or_Introversion": "E",
+    "Sensing_or_Intuition": "S",
+    "Thinking_or_Feeling": "T",
+    "Judging_or_Perceiving": "J",
+    "Values_and_Interests": [
+      "倡导健康生活方式",
+      "热衷于社区参与和慈善活动",
+      "信仰个人奋斗与自我提升",
+      "喜欢户外运动和旅行"
+    ]
+  },
+  "Preference": {
+    "Local_Life": {
+      "Food_Drinks": "坚持自制高蛋白低GI餐食，每周三次采购有机超市食材。只在社区健康餐厅外食，随身携带蛋白粉和杏仁零食，对含糖饮料有生理性抵触。",
+      "Entertainment": "组织周末公园体能挑战赛，偶尔参加户外电影放映会。坚决避开酒吧和夜店，认为那会破坏训练周期。",
+      "Shopping": "每月固定购置功能性运动服，偏好有环保认证的品牌。网购集中在专业补剂和健身器材，消费时会对比营养成分表和用户体测数据。",
+      "TravelDaily_Outings": "日常通勤骑公路自行车，阴雨天才使用共享汽车。周末会步行探索城市徒步路线并记录卡路里消耗。"
+    },
+    "Travel": {
+      "Business_Trips": "参加健身行业峰会时必考察当地训练营设施，在酒店房间做自重训练保持状态。行李箱里永远装着阻力带和BCAA补剂。",
+      "Leisure_Travel": "每年两次跨国徒步旅行，偏好高海拔地形训练。会提前三个月制定包含每日训练量的行程表，住宿只选带健身房的民宿。"
+    },
+    "Social": "运营着2.3万粉丝的健身YouTube频道，发布HIIT跟练视频时故意不配背景音乐，认为喘息声能体现训练真实性。每月在社区中心组织免费体测，对迟到者会当面批评。",
+    "Productivity": {
+      "Study_Work": "用MyFitnessPal同步所有客户的饮食数据，Excel表格详细记录学员的体脂变化曲线。认为纸质笔记本是效率杀手，所有计划都在云端协作。",
+      "Fitness": "Apple Watch全天候监测静息心率，Strava记录每次户外训练的海拔增益。每周日雷打不动进行体能基准测试。"
+    },
+    "Content_Interests": [
+      "运动生理学论文摘要",
+      "南美高原训练营地评测",
+      "功能性食品成分分析"
+    ]
+  }
+}

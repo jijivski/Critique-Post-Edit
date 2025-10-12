@@ -1,0 +1,47 @@
+{
+  "Name": "Liu Wei",
+  "Demographics": {
+    "Age": 24,
+    "Gender": "男",
+    "Nationality": "中国",
+    "Language": [
+      "中文",
+      "英文"
+    ],
+    "Career_Information": "大学体育专业大三学生，专注短跑训练"
+  },
+  "Personality": {
+    "Extraversion_or_Introversion": "E",
+    "Sensing_or_Intuition": "S",
+    "Thinking_or_Feeling": "T",
+    "Judging_or_Perceiving": "J",
+    "Values_and_Interests": [
+      "热爱体育，尤其是田径",
+      "相信努力可以改变命运",
+      "对传统文化持开放态度，但更偏向现代化",
+      "热衷于团队合作和集体活动"
+    ]
+  },
+  "Preference": {
+    "Local_Life": {
+      "Food_Drinks": "日常以食堂高蛋白餐食为主，训练后固定补充乳清蛋白粉。周末常和队友在校外烧烤店聚餐，但严格控制酒精摄入。对功能性饮料有依赖，尤其偏爱某国产运动品牌电解质水。",
+      "Entertainment": "每周四晚固定组织队友观看田径赛事录像分析，闲暇时喜欢玩《NBA 2K》系列游戏。每月会包场和队友进行保龄球团体赛，视作协调性训练。",
+      "Shopping": "季末集中采购运动装备，特别关注气垫跑鞋折扣信息。常逛虎扑装备区，对国产品牌运动袜有固定购买渠道。",
+      "TravelDaily_Outings": "训练日骑共享单车往返体育馆，雨天会拼车出行。每月固定去城郊登山步道进行负重爬坡训练。"
+    },
+    "Travel": {
+      "Business_Trips": "每年参加2-3次省级田径锦标赛时会入住赛事合作酒店，赛后必带队友体验当地足疗放松。",
+      "Leisure_Travel": "暑假偏好高原徒步旅行，会提前三个月用Excel制定海拔适应计划。抗拒海岛度假，认为潮湿气候影响肌肉状态。"
+    },
+    "Social": "担任田径队微信群群主，每天分享训练vlog。线下定期组织跨校联谊训练赛，擅长用掰手腕解决队内分歧。在Keep动态区有3000+粉丝，但拒绝开设直播账号。",
+    "Productivity": {
+      "Study_Work": "用Excel制作肌肉群轮训周期表，训练日志坚持手写。最近开始用Nike Training Club安排爆发力专项计划。",
+      "Fitness": "小米手环7代连续佩戴892天，每天5:30准时上传晨跑数据到运动群。抗拒瑜伽等静态训练，认为会降低爆发力。"
+    },
+    "Content_Interests": [
+      "田径世锦赛技术分析视频",
+      "运动营养学科普",
+      "短跑钉鞋评测"
+    ]
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "Name": "Liang",
+  "Demographics": {
+    "Age": 29,
+    "Gender": "男",
+    "Nationality": "中国",
+    "Language": [
+      "中文",
+      "英文"
+    ],
+    "Career_Information": "天文摄影师及博主，专注于星云和深空摄影"
+  },
+  "Personality": {
+    "Extraversion_or_Introversion": "E",
+    "Sensing_or_Intuition": "N",
+    "Thinking_or_Feeling": "F",
+    "Judging_or_Perceiving": "J",
+    "Values_and_Interests": [
+      "热爱天文学",
+      "倡导科学普及",
+      "支持环保行动",
+      "喜欢参加天文观察活动"
+    ]
+  },
+  "Preference": {
+    "Local_Life": {
+      "Food_Drinks": "在野外拍摄时会携带高热量便携食品（如能量棒和即食罐头），在城市则偏爱有机素食餐厅。周末常约朋友尝试有观星露台的咖啡厅，认为星空拿铁拉花是宇宙的浪漫具象化。",
+      "Entertainment": "沉迷科幻电影和天文纪录片首映式，每月至少一次参加天文馆的穹顶投影夜。偶尔在二手胶片相机店淘老式星图幻灯片。",
+      "Shopping": "坚持购买二手摄影器材改装使用，网购清单里高频出现防潮箱和户外电源。会为限量版星图帆布包支付溢价，但日常衣物只选耐磨的工装品牌。",
+      "TravelDaily_Outings": "通勤骑改装电动车（贴满深空天体贴纸），短途郊游必带可折叠赤道仪，甚至在公园长椅上用手机拍国际空间站过境"
+    },
+    "Travel": {
+      "Business_Trips": "受邀参加国际星空保护区峰会时，会特意选择远离光污染的民宿，并带着激光笔在露台给其他住客指认星座。",
+      "Leisure_Travel": "每年两次前往青藏高原拍摄银拱，提前三个月规划月相周期。行李箱永远装着星空帐篷和氢-alpha滤镜，曾在沙漠里用延时摄影记录卫星轨迹时偶遇野狼"
+    },
+    "Social": "在微博发起#城市观星指南#话题，定期组织光污染地图绘制志愿活动。B站直播时会用电子钢琴配《行星组曲》作为背景音乐，但私下聚会更爱讨论如何用Arduino改造望远镜自动寻星系统。",
+    "Productivity": {
+      "Study_Work": "用StarStaX堆栈星轨照片，夜间用Stellarium规划拍摄计划表。电脑桌面按梅西耶天体编号分类素材，凌晨三点整理观测日志是常态。",
+      "Fitness": "为扛动冷冻相机练就单肩背15kg三脚架的技能，晨跑路线经过本地天文台，用Apple Watch记录海拔变化对心率的影响"
+    },
+    "Content_Interests": [
+      "暗夜保护地政策解读",
+      "光学镀膜技术迭代",
+      "NASA/JAXA直播回放",
+      "古天文仪器复原视频"
+    ]
+  }
+}

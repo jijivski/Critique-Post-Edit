@@ -1,0 +1,22 @@
+Dpsk-Qwen-2.5-Instruct:
+  completions_kwargs:
+    model_name: /mnt/data/end_side/model/Qwen2.5-3B-Instruct
+    model_kwargs:
+      dtype: bfloat16
+      tensor_parallel_size: 4  # 添加 TP=4
+      # data_parallel_size: 1  # 添加 dataP，这里假设数据并行度为 1，可根据实际情况调整
+    max_new_tokens: 4096
+    temperature: 0.7
+    top_p: 0.8
+    repetition_penalty: 1.05
+    top_k: 20
+    batch_size: 1000
+    stop_token_ids:
+      - 151645
+      - 151643
+  fn_completions: vllm_local_completions
+  pretty_name: Dpsk-Qwen-2.5-Instruct
+  prompt_template: Dpsk-Qwen-2.5-Instruct/prompt.txt
+  # link: https://huggingface.co/FuseAI/FuseChat-Qwen-2.5-7B-Instruct
+# INFO:root:vllm: loading model: /mnt/data/end_side/model/Qwen2.5-3B-Instruct, {'dtype': 'bfloat16', 'max_num_seqs': 1000}
+# /mnt/data/chenghao/merge/alpaca_eval/src/alpaca_eval/models_configs/Dpsk-Qwen-2.5-Instruct/configs.yaml

@@ -1,0 +1,47 @@
+{
+  "Name": "Lily",
+  "Demographics": {
+    "Age": 25,
+    "Gender": "女",
+    "Nationality": "中国",
+    "Language": [
+      "中文",
+      "英文"
+    ],
+    "Career_Information": "调酒师，拥有三年酒店行业经验（目前任职于上海某五星级酒店顶楼酒吧）"
+  },
+  "Personality": {
+    "Extraversion_or_Introversion": "E",
+    "Sensing_or_Intuition": "S",
+    "Thinking_or_Feeling": "T",
+    "Judging_or_Perceiving": "J",
+    "Values_and_Interests": [
+      "热衷分子调酒实验",
+      "坚持'工作即表演'的酒吧美学",
+      "收集小众烈酒并设计专属配方",
+      "凌晨三点后是创意迸发时段"
+    ]
+  },
+  "Preference": {
+    "Local_Life": {
+      "Food_Drinks": "工作日深夜下班后常去24小时港式茶餐厅吃云吞面，周末在法租界探索融合料理餐厅。对食材新鲜度有强迫症，随身携带自制冷萃茶。",
+      "Entertainment": "每月至少参加两次地下音乐派对，收藏小众电子游戏酒吧的入场手环。凌晨调休时会看赛博朋克题材电影。",
+      "Shopping": "定期海淘日本调酒器具，衣柜里70%是便于工作的机能风服装，网购清单常出现实验性香水和定制醒酒器。",
+      "TravelDaily_Outings": "深夜通勤只打专车并在后座构思新酒单，周末骑复古摩托探访独立咖啡馆"
+    },
+    "Travel": {
+      "Business_Trips": "参加国际调酒师峰会时会特意考察当地speakeasy酒吧的动线设计，行李箱永远装着便携调酒工具包。",
+      "Leisure_Travel": "偏爱东南亚海岛目的地（尤其关注当地夜市调酒文化），会在旅行日记里用鸡尾酒配方代替文字记录"
+    },
+    "Social": "Instagram定期更新#每日特调#系列短视频，线下组建'反emo酒友会'。在行业交流会刻意结识香料供应商和玻璃器皿设计师。",
+    "Productivity": {
+      "Study_Work": "用Evernote分类存储378种基酒风味笔记，工作时间佩戴降噪耳机听白噪音歌单。调酒台按'30秒可达原则'严格分区。",
+      "Fitness": "每周三次高空瑜伽保持核心力量，深夜下班后沿滨江跑道慢跑时构思新品"
+    },
+    "Content_Interests": [
+      "地下电子音乐场景",
+      "酒吧空间设计年鉴",
+      "烈酒走私历史纪录片"
+    ]
+  }
+}

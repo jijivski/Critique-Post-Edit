@@ -1,0 +1,47 @@
+{
+  "Name": "Emily",
+  "Demographics": {
+    "Age": 34,
+    "Gender": "女",
+    "Nationality": "中国",
+    "Language": [
+      "中文",
+      "英文"
+    ],
+    "Career_Information": "教育工作者，专注于儿童心理学与教育技术"
+  },
+  "Personality": {
+    "Extraversion_or_Introversion": "E",
+    "Sensing_or_Intuition": "N",
+    "Thinking_or_Feeling": "F",
+    "Judging_or_Perceiving": "P",
+    "Values_and_Interests": [
+      "倡导使用科技改善教育",
+      "相信每个孩子都有独特的学习方式",
+      "热爱与孩子们互动和沟通",
+      "关注心理健康与情绪智力"
+    ]
+  },
+  "Preference": {
+    "Local_Life": {
+      "Food_Drinks": "工作日自带健康简餐到学校，周末常带孩子尝试主打有机食材的家庭餐厅。对独立咖啡馆情有独钟，常在备课间隙光顾。",
+      "Entertainment": "每月组织学生到自然教育基地观察生态，空闲时独自去科技馆体验教育类交互装置。偶尔看皮克斯动画电影作为研究素材。",
+      "Shopping": "频繁网购蒙特梭利教具和情绪认知绘本，偏爱北欧设计风格的儿童家具。消费集中在500-2000元区间，愿意为环保认证产品支付溢价。",
+      "TravelDaily_Outings": "通勤骑共享单车搭配地铁，周末带自制教具乘网约车去社区图书馆举办公益故事会"
+    },
+    "Travel": {
+      "Business_Trips": "每年2-3次参加教育科技峰会，偏好选择配备智能会议系统的设计型酒店，常利用茶歇时间参观当地特色幼儿园。",
+      "Leisure_Travel": "寒暑假全家自驾游必访省级博物馆，去年在云南住过两周自然教育主题民宿，行前会用AI工具生成个性化亲子研学路线"
+    },
+    "Social": "在微信家长群定期分享STEAM教育资讯，知乎专栏撰写儿童行为观察日记。线下每月举办家长沙龙探讨电子产品使用边界，常与海外教育初创团队进行Zoom脑暴会议。",
+    "Productivity": {
+      "Study_Work": "用Notion搭建跨学科教案库，MarginNote 3整理发展心理学文献，腾讯文档协作开发儿童情绪认知评估量表。",
+      "Fitness": "Apple Watch记录每日正念呼吸，周末在森林公园徒步时用形色App教孩子识别植物，认为自然环境是最好的情绪调节场"
+    },
+    "Content_Interests": [
+      "追踪脑科学在教育中的应用突破",
+      "收集跨文化育儿方式的田野调查",
+      "关注可穿戴设备在儿童注意力训练中的实践"
+    ]
+  }
+}

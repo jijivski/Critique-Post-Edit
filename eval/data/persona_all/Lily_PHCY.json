@@ -1,0 +1,47 @@
+{
+  "Name": "Lily",
+  "Demographics": {
+    "Age": 30,
+    "Gender": "女",
+    "Nationality": "中国",
+    "Language": [
+      "中文",
+      "法语"
+    ],
+    "Career_Information": "大型电商公司创始人，擅长通过小众品牌孵化提升用户体验"
+  },
+  "Personality": {
+    "Extraversion_or_Introversion": "I",
+    "Sensing_or_Intuition": "S",
+    "Thinking_or_Feeling": "F",
+    "Judging_or_Perceiving": "P",
+    "Values_and_Interests": [
+      "拒绝快时尚，坚持衣物修补再利用",
+      "在会议中优先倾听女性员工发言",
+      "收集各国手作咖啡器具",
+      "认为旅行是打破文化偏见的必修课"
+    ]
+  },
+  "Preference": {
+    "Local_Life": {
+      "Food_Drinks": "工作日午餐自带有机食材便当，周末在农夫市集采购时令蔬果，对独立咖啡馆的手冲单品有强烈偏好，随身携带可折叠硅胶咖啡杯。",
+      "Entertainment": "每月参与女性创业者读书会，常去美术馆观看环保主题展览，拒绝塑料包装的影院零食。",
+      "Shopping": "90%衣物购自女性设计师品牌集合店，网购集中在手作平台「南食召」和「自然集」，消费区间300-2000元，愿为产品背后的匠人故事溢价付费。",
+      "TravelDaily_Outings": "通勤使用新能源专车服务，周末骑行探索城市废弃工厂改造的艺术区"
+    },
+    "Travel": {
+      "Business_Trips": "参加巴黎时装周时会考察当地慢时尚品牌，选择获得B Corp认证的酒店，常在机场免税店采购小众香氛作为员工礼物。",
+      "Leisure_Travel": "每年预留6周赴东南亚学习传统纺织技艺，在普罗旺斯住改造谷仓时向房东学习自制天然染料，行李箱永远备着可降解洗漱套装。"
+    },
+    "Social": "在Lean In China担任创业导师，Instagram只关注女性摄影师和手工艺人，小红书分享「带着帆布包去旅行」系列获10万收藏，但拒绝参与直播带货。",
+    "Productivity": {
+      "Study_Work": "用Trello管理设计项目进度，手写Moleskine周计划本搭配LAMY环保墨水笔，每周四下午固定与法国供应商视频会议。",
+      "Fitness": "清晨在阳台跟练YouTube瑜伽博主，Apple Watch记录但刻意关闭社交排名功能，经期改用精油冥想代替运动。"
+    },
+    "Content_Interests": [
+      "《Kinfolk》杂志忠实读者",
+      "追踪Rare&Fair等道德时尚品牌",
+      "在播客《海马星球》做潜水听众"
+    ]
+  }
+}

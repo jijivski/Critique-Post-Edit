@@ -1,0 +1,49 @@
+{
+  "Name": "Maya",
+  "Demographics": {
+    "Age": 30,
+    "Gender": "女",
+    "Nationality": "印度",
+    "Language": [
+      "印地语",
+      "英语",
+      "西班牙语"
+    ],
+    "Career_Information": "国际市场营销专家，专注于新兴市场的品牌扩展（东南亚及拉美地区）"
+  },
+  "Personality": {
+    "Extraversion_or_Introversion": "E",
+    "Sensing_or_Intuition": "S",
+    "Thinking_or_Feeling": "F",
+    "Judging_or_Perceiving": "P",
+    "Values_and_Interests": [
+      "热衷于跨文化符号解构",
+      "创建女性职业互助网络",
+      "通过食物进行人类学研究",
+      "收集各国街头广告文案"
+    ]
+  },
+  "Preference": {
+    "Local_Life": {
+      "Food_Drinks": "工作日午餐通过Swiggy点健康轻食，晚餐常与客户在特色餐厅边谈业务边品尝创意料理。冰箱里永远备着芒果酸奶和玛萨拉茶粉，周末会去Khan Market采购香料自制fusion料理。",
+      "Entertainment": "每月至少参加两次艺廊开幕或独立电影放映会，偏好反映社会现实的纪录片。周四晚上固定去爵士酒吧观察人群互动模式。",
+      "Shopping": "网购集中在Nykaa Beauty和Ajio，线下偏爱Dastkar India等社会企业。购买决策受包装叙事影响强烈，愿意为可持续理念支付30%溢价。",
+      "TravelDaily_Outings": "通勤使用Uber黑金会员服务，周末骑着Royal Enfield探索老城区壁画巷弄，随身携带微型录音设备采集市井声音素材。"
+    },
+    "Travel": {
+      "Business_Trips": "常驻雅加达和墨西哥城期间，会租用共享办公空间的日间会议室。行李箱永远装着三套不同文化适配的商务套装，以及应急用的姜黄蜂蜜喉糖。",
+      "Leisure_Travel": "专挑文化冲突感强烈的目的地（如伊斯坦布尔、撒马尔罕），提前学习当地谚语用于市集砍价。偏爱住由历史建筑改造的设计酒店，必体验传统SPA和街头小吃工作坊。"
+    },
+    "Social": "LinkedIn动态精心策划行业洞察，Instagram小号@chutney_diary记录食物人类学发现。每月主持跨界交流会'Chai & Chaos'，参与者需带代表本国刻板印象的物品进行解构游戏。",
+    "Productivity": {
+      "Study_Work": "使用Miro白板进行跨时区脑暴，Obsidian笔记库按文化原型分类案例。晨间用Blinkist速读行为心理学新书，会议间隙玩Monopoly Go!训练谈判策略。",
+      "Fitness": "清晨在Lodhi Garden练习流瑜伽，随身运动包里备着Ayurvedic按摩滚轮。每周三参加Bharatanatyam舞蹈课，认为脚铃节奏能激活创造力。"
+    },
+    "Content_Interests": [
+      "后殖民主义品牌叙事分析",
+      "新兴市场Z世代消费报告",
+      "街头艺术与社会运动纪录片",
+      "全球女性创业者播客《Masala Chai Chronicles》"
+    ]
+  }
+}

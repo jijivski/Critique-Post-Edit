@@ -1,0 +1,47 @@
+{
+  "Name": "李凯",
+  "Demographics": {
+    "Age": 28,
+    "Gender": "男",
+    "Nationality": "中国",
+    "Language": [
+      "中文",
+      "英文"
+    ],
+    "Career_Information": "某知名广告公司创意总监，擅长文案撰写和品牌营销"
+  },
+  "Personality": {
+    "Extraversion_or_Introversion": "E",
+    "Sensing_or_Intuition": "S",
+    "Thinking_or_Feeling": "T",
+    "Judging_or_Perceiving": "J",
+    "Values_and_Interests": [
+      "对创意广告有独特看法",
+      "奉行务实主义",
+      "热衷于市场趋势分析",
+      "喜欢篮球和街头文化"
+    ]
+  },
+  "Preference": {
+    "Local_Life": {
+      "Food_Drinks": "工作日靠冰美式续命，午餐常在CBD轻食店解决，晚餐多为商务应酬或创意团队聚餐。周末会探索街头巷尾的网红咖啡厅，尤其偏爱工业风装潢的店铺。",
+      "Entertainment": "每周固定参加街头篮球赛，收藏小众潮玩盲盒，深夜刷TikTok时总会停留观看滑板与涂鸦短视频。",
+      "Shopping": "衣柜里70%是Off-White和Supreme联名款，但公文包永远选TUMI经典商务系列。每月固定网购《现代广告》杂志和营销工具书。",
+      "TravelDaily_Outings": "通勤坚持用共享单车穿越城市巷道，认为这是观察街头潮流的最佳田野调查"
+    },
+    "Travel": {
+      "Business_Trips": "出差必带微型投影仪，在高铁商务座改方案时也要保持视觉提案的冲击力。住酒店时会收集所有房卡设计作为竞品分析素材。",
+      "Leisure_Travel": "年假必去东京原宿或上海TX淮海，住在设计师民宿观察Z世代消费动线。行李箱永远装着折叠滑板方便穿梭城市"
+    },
+    "Social": "Linkedin动态全是戛纳广告节案例分析，微信朋友圈却只晒凌晨三点公司楼下的街拍。每周三固定组局「篮球+精酿」社交局，客户和涂鸦师常同场竞技。",
+    "Productivity": {
+      "Study_Work": "用Moleskine本子手绘创意脑图，电脑永远同时开着Adobe全家桶和Trello看板。凌晨灵感迸发时会直接给团队发60秒语音矩阵。",
+      "Fitness": "AppleWatch健身圆环靠篮球赛闭环，更衣室储物柜藏着筋膜枪和运动贴布"
+    },
+    "Content_Interests": [
+      "拆解病毒式营销底层逻辑",
+      "追踪街头艺术家的Ins限时动态",
+      "研究NBA球星个人品牌运营"
+    ]
+  }
+}

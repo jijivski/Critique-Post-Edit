@@ -1,0 +1,48 @@
+{
+  "Name": "Lily",
+  "Demographics": {
+    "Age": 28,
+    "Gender": "女",
+    "Nationality": "中国",
+    "Language": [
+      "中文",
+      "英语"
+    ],
+    "Career_Information": "私募基金分析师，专注于消费品行业"
+  },
+  "Personality": {
+    "Extraversion_or_Introversion": "E",
+    "Sensing_or_Intuition": "S",
+    "Thinking_or_Feeling": "F",
+    "Judging_or_Perceiving": "P",
+    "Values_and_Interests": [
+      "热爱攀岩，周末必去攀岩馆释放压力",
+      "对数字和市场趋势有极高的敏感度",
+      "倾向于追求个人自由与生活品质",
+      "喜欢尝试新事物，尤其是在饮食和旅行方面"
+    ]
+  },
+  "Preference": {
+    "Local_Life": {
+      "Food_Drinks": "工作日午餐在CBD轻食餐厅解决，晚餐热衷探索小众fusion餐厅。对东南亚菜系有特殊偏好，每周至少尝试一家新开酒吧的精酿啤酒",
+      "Entertainment": "定期参与城市攀岩馆的抱石挑战赛，深夜常去地下爵士酒吧听现场演出。对沉浸式密室逃脱有近乎痴迷的偏好",
+      "Shopping": "习惯在SKP选购设计师品牌通勤装，却在运动装备上毫不吝啬地海淘专业攀岩器材。每月固定在某宝抢购限量版潮袜",
+      "TravelDaily_Outings": "通勤坚持用滴滴豪华车，周末自驾去郊外野攀时会在后备箱常备露营装备"
+    },
+    "Travel": {
+      "Business_Trips": "每季度赴香港参加消费品行业峰会，总要在兰桂坊跟投行朋友喝到凌晨两点。行李箱里永远备着健身服和TRX训练带",
+      "Leisure_Travel": "年假必去东南亚岩场集训，会为了一条经典攀岩线路专门飞挪威。偏爱预订设计师民宿，却总在最后时刻更改行程"
+    },
+    "Social": "LinkedIn上定期分享行业洞察获得上千收藏，线下却是攀岩社群的核心组织者。每周四固定组威士忌品鉴局，但拒绝参加任何相亲联谊活动",
+    "Productivity": {
+      "Study_Work": "办公桌摆着三块曲面屏同时运行Wind终端和Excel模型，用Notion搭建了涵盖200+消费品牌的生命周期数据库",
+      "Fitness": "Apple Watch全天监测血氧数据，攀岩馆打卡记录精确到每条线路的难度系数和心率峰值"
+    },
+    "Content_Interests": [
+      "持续追踪元气森林等新消费品牌融资动态",
+      "收藏全球TOP50岩场攻略视频",
+      "关注小众精酿啤酒评测频道",
+      "沉迷日本铁道野岩题材漫画"
+    ]
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "Name": "Lily",
+  "Demographics": {
+    "Age": 30,
+    "Gender": "女",
+    "Nationality": "中国",
+    "Language": [
+      "中文",
+      "英文"
+    ],
+    "Career_Information": "资深固件工程师，专注于嵌入式系统开发和优化"
+  },
+  "Personality": {
+    "Extraversion_or_Introversion": "I",
+    "Sensing_or_Intuition": "N",
+    "Thinking_or_Feeling": "T",
+    "Judging_or_Perceiving": "J",
+    "Values_and_Interests": [
+      "热爱技术，尤其对固件和嵌入式系统感兴趣",
+      "崇尚个人主义，认为每个人的创造力和独立思考都值得被尊重",
+      "支持女性在科技行业的参与和发展",
+      "喜欢参加黑客马拉松，与志同道合的人交流新想法"
+    ]
+  },
+  "Preference": {
+    "Local_Life": {
+      "Food_Drinks": "工作日靠胶囊咖啡续命，常点轻食外卖控制午餐时间。周末会探索创客社区周边新开的独立咖啡馆，尤其偏爱有工业风装修的店铺。",
+      "Entertainment": "每月参加1次科技硬件市集，偶尔在IMAX影院看科幻片。拒绝密室逃脱类团体活动，但会独自去机器人主题展览馆。",
+      "Shopping": "固定购买ThinkPad周边配件，收藏机械键盘轴体。网购只选京东自营确保次日达，衣柜里70%是优衣库基础款。",
+      "TravelDaily_Outings": "通勤坚持坐地铁用kindle看技术文档，周末去硬件创客空间时才会打车"
+    },
+    "Travel": {
+      "Business_Trips": "参加深圳技术峰会必住会展中心1公里内的智选假日，利用茶歇时间考察华强北元器件市场。",
+      "Leisure_Travel": "年假会选择北欧极简主义建筑设计巡礼，提前三个月用Notion做好交通接驳时刻表"
+    },
+    "Social": "GitHub年度贡献榜区域TOP50，在极客公园论坛定期发布树莓派魔改教程。线下只参加48小时封闭式黑客马拉松，拒绝一切公司团建聚餐。",
+    "Productivity": {
+      "Study_Work": "用JIRA严格拆解项目里程碑，调试代码时习惯用老款白噪音播放器隔绝干扰。书桌常备三色便利贴区分任务优先级。",
+      "Fitness": "AppleWatch闭环强迫症患者，每周三次夜跑搭配瑜伽拉伸，运动时必须听科技播客"
+    },
+    "Content_Interests": [
+      "订阅EE Times技术周刊",
+      "关注女性科技领袖专访",
+      "收藏蒸汽朋克风格数字艺术品"
+    ]
+  }
+}

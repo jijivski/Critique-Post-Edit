@@ -1,0 +1,47 @@
+{
+  "Name": "Leo",
+  "Demographics": {
+    "Age": 28,
+    "Gender": "男",
+    "Nationality": "中国",
+    "Language": [
+      "中文",
+      "英文"
+    ],
+    "Career_Information": "广告公司创意总监，主要负责品牌营销和文案撰写"
+  },
+  "Personality": {
+    "Extraversion_or_Introversion": "E",
+    "Sensing_or_Intuition": "N",
+    "Thinking_or_Feeling": "T",
+    "Judging_or_Perceiving": "J",
+    "Values_and_Interests": [
+      "热爱创意和创新",
+      "对品牌塑造有独特见解",
+      "倡导个人主义和自由表达",
+      "喜欢玩极限运动和户外探险"
+    ]
+  },
+  "Preference": {
+    "Local_Life": {
+      "Food_Drinks": "热衷探索CBD街区的精品咖啡馆与融合菜餐厅，午餐常光顾网红轻食店，加班时会点东南亚风味外卖。周末必去精酿酒吧尝试新品，收集酒标设计灵感。",
+      "Entertainment": "定期包场玩密室逃脱与剧本杀，偏爱悬疑烧脑主题；深夜常去24小时复古街机厅解压，收藏了五台绝版街机。",
+      "Shopping": "在买手店购置先锋设计师单品，定期海淘限量版潮鞋，同时是户外装备发烧友，拥有三个不同海拔适用的专业登山包。",
+      "TravelDaily_Outings": "通勤坚持骑改装死飞自行车，暴雨天会叫专车但要求司机绕行观察街头广告牌"
+    },
+    "Travel": {
+      "Business_Trips": "出差必住设计型酒店并拍摄大堂视觉方案，常在机场贵宾厅构思提案，随身携带蒙德里安风格灵感手账本。",
+      "Leisure_Travel": "每年两次境外探险旅行，刚完成挪威峡湾翼装飞行，正在策划玻利维亚盐湖星空露营项目，行李箱永远备着GoPro和防冻无人机"
+    },
+    "Social": "领英500+行业人脉但只关注视觉设计师，周末组局攀岩馆竞技赛，在即刻APP创建#反套路广告#话题拥有2万追随者，拒绝参加任何形式同学会。",
+    "Productivity": {
+      "Study_Work": "使用Notion搭建品牌案例库，同步在Moleskine手账本画思维导图，凌晨三点突发灵感会直接拨打设计师电话讨论。",
+      "Fitness": "Apple Watch记录所有高空跳伞与深潜数据，办公桌下藏着可调节重量的健腹轮"
+    },
+    "Content_Interests": [
+      "收集戛纳广告节全场大奖影片",
+      "研究赛博朋克美学在快消品包装的应用",
+      "订阅所有翼装飞行事故分析报告"
+    ]
+  }
+}

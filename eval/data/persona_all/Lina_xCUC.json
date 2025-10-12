@@ -1,0 +1,47 @@
+{
+  "Name": "Lina",
+  "Demographics": {
+    "Age": 24,
+    "Gender": "女",
+    "Nationality": "中国",
+    "Language": [
+      "中文",
+      "英文"
+    ],
+    "Career_Information": "研究生，专攻国际关系，关注新兴大国在全球政治中的角色"
+  },
+  "Personality": {
+    "Extraversion_or_Introversion": "I",
+    "Sensing_or_Intuition": "N",
+    "Thinking_or_Feeling": "F",
+    "Judging_or_Perceiving": "J",
+    "Values_and_Interests": [
+      "对社会公正和人权问题很关注",
+      "支持多边主义",
+      "热爱阅读，尤其是历史和政治类书籍",
+      "喜欢参加各种文化交流活动"
+    ]
+  },
+  "Preference": {
+    "Local_Life": {
+      "Food_Drinks": "偏爱独立咖啡馆和社区小餐馆，常在点评软件收藏具有异国文化特色的餐厅。每周会固定光顾学校附近的素食轻食店，对公平贸易咖啡有执念。",
+      "Entertainment": "定期参观国际艺术展览，周末泡在图书馆或二手书店。偶尔看政治题材电影，但会刻意避开爆米花商业片。",
+      "Shopping": "习惯在实体书店购买外文原版书，网购以社科类书籍和文化创意周边为主，对快时尚品牌持批判态度。",
+      "TravelDaily_Outings": "日常通勤地铁出行，但参加学术论坛时会预约专车确保准时"
+    },
+    "Travel": {
+      "Business_Trips": "参与国际学术会议时必定考察当地NGO组织，商务酒店偏好配备小型讨论区的精品酒店。",
+      "Leisure_Travel": "规划年度旅行时总包含至少一个新兴经济体目的地，会提前三个月研究当地政治经济史，行李箱里永远装着《枪炮、病菌与钢铁》"
+    },
+    "Social": "在领英关注智库学者动态，线下定期组织读书会但严格控制人数在6人以内。使用Telegram参与跨国青年学者群组，却从不在朋友圈发私人动态。",
+    "Productivity": {
+      "Study_Work": "用Mendeley管理文献库，会议笔记按地缘板块分类归档。撰写论文时会在墙上贴满时间轴便利贴，对联合国官网数据库如数家珍。",
+      "Fitness": "坚持每周三次晨间瑜伽，手机计步器常年锁定在8000步以上，认为散步是整理思维的最佳方式"
+    },
+    "Content_Interests": [
+      "追踪金砖国家合作动态",
+      "收藏各国宪法修订案例",
+      "反复观看《国宝档案》历史纪录片"
+    ]
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "Name": "Emily",
+  "Demographics": {
+    "Age": 22,
+    "Gender": "女",
+    "Nationality": "中国",
+    "Language": [
+      "中文",
+      "英文"
+    ],
+    "Career_Information": "法学院一年级学生，专攻刑法"
+  },
+  "Personality": {
+    "Extraversion_or_Introversion": "E",
+    "Sensing_or_Intuition": "N",
+    "Thinking_or_Feeling": "T",
+    "Judging_or_Perceiving": "J",
+    "Values_and_Interests": [
+      "渴望掌握交叉审问技巧",
+      "推崇公平正义",
+      "热爱辩论和演讲",
+      "关注法律对社会的影响"
+    ]
+  },
+  "Preference": {
+    "Local_Life": {
+      "Food_Drinks": "习惯在学校附近的独立咖啡馆自习，点美式咖啡搭配三明治。周末常与辩论队成员聚餐，偏爱川菜馆的热辣氛围。",
+      "Entertainment": "每周参与法律社团的模拟法庭活动，偶尔去影院看犯罪悬疑类电影并分析剧情逻辑漏洞。",
+      "Shopping": "网购以二手法律典籍和专业西装为主，会在二手平台出售不再需要的参考书。",
+      "TravelDaily_Outings": "固定坐地铁上学，周五傍晚会步行至市法院旁听公开庭审"
+    },
+    "Travel": {
+      "Business_Trips": "寒暑假参加跨省模拟法庭竞赛时入住快捷酒店，随身携带《刑事证据规则》随时温习。",
+      "Leisure_Travel": "偏爱参观古代司法遗址，曾在西安碑林博物馆对着《唐律疏议》石碑抄录整天"
+    },
+    "Social": "担任校法律援助中心接线员，在知乎撰写刑事案件评析专栏。线下定期组织「罪案重构」读书会，随身携带便携式白板用于即兴推演案情。",
+    "Productivity": {
+      "Study_Work": "用XMind构建案例逻辑树，录音笔记录教授课堂提到的经典判例，考试前制作九宫格记忆卡片贴在寝室墙面。",
+      "Fitness": "清晨在法学院梧桐大道反向快走背诵法条，手机里存着刑事审讯录像当背景音做平板支撑"
+    },
+    "Content_Interests": [
+      "收集各国冤案平反纪录片",
+      "订阅犯罪心理学播客",
+      "反复观看《十二怒汉》分析陪审团话术"
+    ]
+  }
+}

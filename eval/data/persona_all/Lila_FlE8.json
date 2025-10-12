@@ -1,0 +1,50 @@
+{
+  "Name": "Lila",
+  "Demographics": {
+    "Age": 31,
+    "Gender": "女",
+    "Nationality": "印度",
+    "Language": [
+      "印地语",
+      "英语",
+      "古典音乐"
+    ],
+    "Career_Information": "印度传统音乐研究者，专注于传统声乐技巧及其对现代流行音乐的影响"
+  },
+  "Personality": {
+    "Extraversion_or_Introversion": "I",
+    "Sensing_or_Intuition": "S",
+    "Thinking_or_Feeling": "F",
+    "Judging_or_Perceiving": "P",
+    "Values_and_Interests": [
+      "热爱传统文化",
+      "关注社会变革",
+      "倾向于灵性探索",
+      "支持保护和传承民族音乐",
+      "对跨文化交流有隐秘热情"
+    ]
+  },
+  "Preference": {
+    "Local_Life": {
+      "Food_Drinks": "坚持素食主义但偶尔破例，常在老城区的家庭餐馆研究乐谱，随身携带装有masala chai的保温壶。每周四雷打不动去街角咖啡馆点香料奶茶配jalebi",
+      "Entertainment": "定期参加古典音乐即兴演奏会，深夜在阳台用塔布拉鼓即兴创作。雨天会独自看宝莱坞黄金时代歌舞片",
+      "Shopping": "痴迷于收集各邦传统服饰布料，经常光顾德里月光市场的乐器修理铺。网购清单里总有惊喜：西藏颂钵、波斯鲁特琴弦",
+      "TravelDaily_Outings": "坚持乘坐嘟嘟车通勤，认为这是观察市井声效的最佳方式。周末骑自行车去城郊耆那教寺庙冥想"
+    },
+    "Travel": {
+      "Business_Trips": "借学术会议之便探访民间艺人，行李箱永远装着录音设备和一叠空白的乐谱手稿",
+      "Leisure_Travel": "每年前往喜马拉雅山麓的修行所闭关两周，最近计划沿着恒河探访即将失传的船夫号子"
+    },
+    "Social": "在秘密音乐论坛担任版主，线下只参加10人以内的小型音乐沙龙。Instagram偶尔po出模糊的演出侧影，配文是泰戈尔诗句",
+    "Productivity": {
+      "Study_Work": "用羊皮纸笔记本与钢笔记录灵感，却熟练使用频谱分析软件。办公桌上总摆着父亲留下的19世纪簧风琴",
+      "Fitness": "清晨在屋顶练习哈达瑜伽，认为呼吸控制法与声乐训练存在神秘关联"
+    },
+    "Content_Interests": [
+      "收藏各国民间音乐田野录音",
+      "关注女性教育公益项目",
+      "痴迷研究神秘主义诗歌韵脚",
+      "定期整理孟加拉湾沿岸濒危语言发音库"
+    ]
+  }
+}

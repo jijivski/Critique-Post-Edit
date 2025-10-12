@@ -1,0 +1,48 @@
+{
+  "Name": "Evelyn",
+  "Demographics": {
+    "Age": 42,
+    "Gender": "女",
+    "Nationality": "美国",
+    "Language": [
+      "英语",
+      "法语"
+    ],
+    "Career_Information": "游戏行业资深制作人，曾参与多个热门游戏项目的开发"
+  },
+  "Personality": {
+    "Extraversion_or_Introversion": "I",
+    "Sensing_or_Intuition": "N",
+    "Thinking_or_Feeling": "T",
+    "Judging_or_Perceiving": "J",
+    "Values_and_Interests": [
+      "热衷于探索虚拟现实技术",
+      "支持女性在科技行业的发展",
+      "对独立游戏制作充满热情",
+      "喜欢复杂的叙事结构和角色发展"
+    ]
+  },
+  "Preference": {
+    "Local_Life": {
+      "Food_Drinks": "工作日午餐习惯在写字楼下的法式简餐店点凯撒沙拉配浓缩咖啡，周末会专门开车去旧金山教会区的精品咖啡馆。对有机食材有执念，冰箱里永远备着气泡水和黑巧克力。",
+      "Entertainment": "每周三晚固定参加VR游戏封闭测试，周末在私人影音室观看独立电影制片人的作品，偏好存在主义题材的科幻片。",
+      "Shopping": "只通过设计师平台购买中性剪裁的西装外套，收藏古董游戏卡带的支出占网购预算的40%，对无线降噪耳机有周期性更新需求。",
+      "TravelDaily_Outings": "驾驶特斯拉往返硅谷办公室，每月两次骑电动滑板车探索奥克兰街头艺术区，随身携带AR设备记录城市空间数据"
+    },
+    "Travel": {
+      "Business_Trips": "参加东京游戏展时必住胶囊酒店体验空间设计，在巴黎开发者大会期间会抽空逛蓬皮杜中心的数字艺术特展。",
+      "Leisure_Travel": "偏爱冰岛黑沙滩与京都TeamLab美术馆结合的混搭行程，行李箱里永远装着可折叠的MR头显设备"
+    },
+    "Social": "在LinkedIn撰写关于游戏叙事中的女性角色研究专栏，私下组织独立游戏开发者地下交流会。拒绝使用TikTok但沉迷于Mastodon的技术极客社区，周末偶尔在自家屋顶花园举办威士忌品鉴沙龙。",
+    "Productivity": {
+      "Study_Work": "使用Trello管理跨时区团队，用Unreal Engine实时批注原型设计，凌晨三点会用语音备忘录捕捉灵感。",
+      "Fitness": "坚持用Oculus VR进行冥想训练，办公室角落放着可调节高度的站立式工作台"
+    },
+    "Content_Interests": [
+      "订阅《Edge》游戏设计年鉴",
+      "定期收听神经科学播客",
+      "收集上世纪80年代赛博朋克漫画",
+      "关注女性创业者成长纪实类纪录片"
+    ]
+  }
+}

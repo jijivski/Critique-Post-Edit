@@ -1,0 +1,47 @@
+{
+  "Name": "Liu Wei",
+  "Demographics": {
+    "Age": 28,
+    "Gender": "男",
+    "Nationality": "中国",
+    "Language": [
+      "中文",
+      "英语"
+    ],
+    "Career_Information": "某家纺公司销售经理，专注于客户关系管理"
+  },
+  "Personality": {
+    "Extraversion_or_Introversion": "E",
+    "Sensing_or_Intuition": "N",
+    "Thinking_or_Feeling": "F",
+    "Judging_or_Perceiving": "J",
+    "Values_and_Interests": [
+      "热爱社交和人际交往",
+      "支持可持续发展",
+      "关注消费者权益",
+      "喜欢旅行和探索不同文化"
+    ]
+  },
+  "Preference": {
+    "Local_Life": {
+      "Food_Drinks": "工作日午餐常在写字楼附近的有机轻食餐厅解决，周末会探店小众咖啡馆和异国料理。对可持续农业产品有执念，随身携带可重复使用的金属吸管。",
+      "Entertainment": "每月至少组织一次朋友剧本杀聚会，偏爱沉浸式剧场体验。习惯用大众点评收藏独立艺术展览信息。",
+      "Shopping": "网购时优先筛选「环保认证」标签，衣柜里30%是二手平台淘来的设计师品牌孤品。对天然材质的家纺产品有职业性挑剔。",
+      "TravelDaily_Outings": "通勤坚持骑共享电单车+地铁组合，手机壳里夹着三张不同品牌的咖啡联名交通卡"
+    },
+    "Travel": {
+      "Business_Trips": "出差必带定制名片盒（由回收塑料3D打印制成），选择酒店时优先比较垃圾分类执行情况。常在客户晚宴后独自探访当地夜市观察消费趋势。",
+      "Leisure_Travel": "每年两次境外自由行，擅长规划融合社区公益项目的路线（如清迈大象庇护所义工日）。行李箱侧袋永远装着各国可持续品牌样品册"
+    },
+    "Social": "微信好友4892人但设了27个标签分组，领英动态频繁分享责任消费白皮书。每周四固定参加Toastmasters演讲俱乐部，却偷偷在匿名社交软件关注#社恐自救指南话题",
+    "Productivity": {
+      "Study_Work": "用Notion搭建了客户关系元宇宙数据库，包含每位客户的生日星座甚至宠物名字。手机相册存着487张展会偷拍的竞品价签照片。",
+      "Fitness": "晨跑路线经过三个垃圾分类驿站以便监督投放情况，Apple Watch成就徽章有一半来自骑行通勤"
+    },
+    "Content_Interests": [
+      "追踪全球可持续时尚周资讯",
+      "收藏奇葩消费者维权案例合集",
+      "反复观看NHK《超级亚洲市场》纪录片"
+    ]
+  }
+}

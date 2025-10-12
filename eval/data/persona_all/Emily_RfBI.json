@@ -1,0 +1,47 @@
+{
+  "Name": "Emily",
+  "Demographics": {
+    "Age": 29,
+    "Gender": "女",
+    "Nationality": "中国",
+    "Language": [
+      "中文",
+      "英语"
+    ],
+    "Career_Information": "自由职业者，专注于内容创作和社区运营"
+  },
+  "Personality": {
+    "Extraversion_or_Introversion": "E",
+    "Sensing_or_Intuition": "N",
+    "Thinking_or_Feeling": "F",
+    "Judging_or_Perceiving": "P",
+    "Values_and_Interests": [
+      "崇尚个人主义和自我表达",
+      "关心心理健康和自我提升",
+      "热爱游戏，尤其是独立游戏",
+      "支持女性在游戏行业的平权"
+    ]
+  },
+  "Preference": {
+    "Local_Life": {
+      "Food_Drinks": "工作日习惯在社区咖啡馆用早餐并开始工作，偏爱轻食沙拉和手冲咖啡。深夜创作时常点日式居酒屋外卖，对酒酿桂花冻和炙烤三文鱼有固定执念。每月会探访女性主理人餐厅并制作探店vlog。",
+      "Entertainment": "每周三固定参加独立游戏线下试玩会，常在蒸汽波风格酒吧组织游戏主题社交。每月至少包场一次女性导演的小众文艺片观影活动。",
+      "Shopping": "沉迷购买独立游戏实体卡带和设定集，衣柜里堆满游戏联名oversize卫衣。定期海淘北欧中古家具，对藤编收纳篮和磨砂玻璃器皿有收集癖。",
+      "TravelDaily_Outings": "骑改装电动滑板车穿梭创意园区，雨天会特意绕路去听石板路上的踩水声。每周四乘双层公交观察城市天际线变迁，用像素画app记录沿途风景。"
+    },
+    "Travel": {
+      "Business_Trips": "每年两次参与全球独立游戏开发者大会，必住会展中心旁的工业风设计师民宿，在共享办公区主动发起深夜圆桌讨论。",
+      "Leisure_Travel": "偏爱前往冰岛或挪威等极光观测地，会在雪原上玩《风之旅人》并拍摄游戏与现实交织的魔幻vlog。提前半年策划行程但故意不预定返程票，保留随机冒险的可能。"
+    },
+    "Social": "在Discord运营300人规模的女性游戏开发者联盟，定期举办线上48小时GameJam。线下担任游戏展同人区志愿者，总在展台准备自制心理健康手册分发给焦虑的创作者。",
+    "Productivity": {
+      "Study_Work": "使用Notion搭建游戏叙事灵感库，按克苏鲁/赛博朋克/童话解构等标签分类。用Trello管理创作进度时会在每个任务卡插入像素emoji。",
+      "Fitness": "清晨在Switch健身环大冒险中完成每日训练，深夜用VR音游《Beat Saber》作为脑力放松，运动手环常年设定燃烧666卡路里的吉利目标。"
+    },
+    "Content_Interests": [
+      "收集各国独立游戏原声黑胶唱片",
+      "研究ASMR与焦虑缓解的神经学原理",
+      "追踪元宇宙女性角色设计平权运动"
+    ]
+  }
+}

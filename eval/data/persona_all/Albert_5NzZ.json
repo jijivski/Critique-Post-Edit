@@ -1,0 +1,47 @@
+{
+  "Name": "Albert",
+  "Demographics": {
+    "Age": 30,
+    "Gender": "男",
+    "Nationality": "中国",
+    "Language": [
+      "中文",
+      "英文"
+    ],
+    "Career_Information": "上海某国际公司市场营销经理，专注于数字营销"
+  },
+  "Personality": {
+    "Extraversion_or_Introversion": "I",
+    "Sensing_or_Intuition": "N",
+    "Thinking_or_Feeling": "F",
+    "Judging_or_Perceiving": "P",
+    "Values_and_Interests": [
+      "热爱创意与艺术",
+      "主张可持续发展",
+      "积极参与社会公益",
+      "对心理学充满好奇"
+    ]
+  },
+  "Preference": {
+    "Local_Life": {
+      "Food_Drinks": "每周固定去静安寺附近的素食餐厅打卡，收集小众咖啡馆的冷萃咖啡豆。会在深夜用环保餐盒点轻食外卖，对植物肉接受度极高。",
+      "Entertainment": "每月至少参与一次艺术沙龙，偏好独立电影展映和实验话剧。周末在徐汇滨江骑行时，会带着速写本随时记录灵感。",
+      "Shopping": "70%衣物购自二手设计师平台，日常用品必查环保认证。在静安嘉里中心定期采购可降解材质的办公文具。",
+      "TravelDaily_Outings": "通勤坚持共享单车+地铁组合，雨天会提前1小时步行上班观察市井生活"
+    },
+    "Travel": {
+      "Business_Trips": "参加亚太数字营销峰会时会选择LEED认证酒店，随身携带可重复使用的会议记录本。",
+      "Leisure_Travel": "年假必去西南少数民族村落采风，最近在黔东南参与蜡染工坊时，用三个月业余时间帮当地设计电商页面"
+    },
+    "Social": "运营着2000+粉丝的碳中和主题播客，但线下只参加10人内的心理学读书会。在公益机构担任新媒体顾问时，会刻意隐藏真实社交媒体账号。",
+    "Productivity": {
+      "Study_Work": "用Miro白板拆解营销方案，Trello看板管理15个以上并行项目。凌晨三点灵感迸发时会突然登录Figma改设计稿。",
+      "Fitness": "每周三次阿斯汤加瑜伽，用Whoop手环监测压力值，但拒绝分享健身数据到社交平台"
+    },
+    "Content_Interests": [
+      "收藏1960年代欧洲平面设计年鉴",
+      "关注神经科学播客《Brain Inspired》",
+      "在Discord潜伏观察Z世代亚文化社群"
+    ]
+  }
+}

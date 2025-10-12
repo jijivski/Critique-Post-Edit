@@ -1,0 +1,49 @@
+{
+  "Name": "Emily",
+  "Demographics": {
+    "Age": 24,
+    "Gender": "女",
+    "Nationality": "中国",
+    "Language": [
+      "中文",
+      "英文",
+      "日语"
+    ],
+    "Career_Information": "自由职业者，从事图形设计和插画"
+  },
+  "Personality": {
+    "Extraversion_or_Introversion": "I",
+    "Sensing_or_Intuition": "N",
+    "Thinking_or_Feeling": "F",
+    "Judging_or_Perceiving": "P",
+    "Values_and_Interests": [
+      "热爱艺术与设计",
+      "关注环境保护",
+      "支持女性权益与性别平等",
+      "喜欢参加艺术展览和音乐节"
+    ]
+  },
+  "Preference": {
+    "Local_Life": {
+      "Food_Drinks": "偏爱日式轻食和精品咖啡，每周至少三次光顾社区有机餐厅。会在便利店买可降解包装的饭团作为工作简餐，随身携带折叠咖啡杯拒绝一次性用品。",
+      "Entertainment": "每月参与女性艺术家主题沙龙，定期在独立书店参加插画工作坊。深夜会独自去24小时美术馆寻找创作灵感。",
+      "Shopping": "痴迷收集环保材料制作的文具，固定购买三位女性创业者的手作首饰品牌。网购时优先筛选「碳中和认证」店铺。",
+      "TravelDaily_Outings": "骑共享单车穿梭于城市画廊之间，随身速写本记录地铁里有趣的衣着搭配"
+    },
+    "Travel": {
+      "Business_Trips": "接洽东京的设计项目时会住进共享办公空间的胶囊公寓，清晨去筑地市场观察鱼贩的围裙美学。",
+      "Leisure_Travel": "专程前往濑户内海艺术祭住在渔民家改建的民宿，行李箱里永远装着水彩本和可水洗颜料"
+    },
+    "Social": "在Behance创建了「霓裳图谱」专栏记录街头时尚，私下组建了6人女性设计师互助小组。抗拒大型社交但会为欣赏的艺术家担任展览志愿者。",
+    "Productivity": {
+      "Study_Work": "用Procreate绘制初稿后导入Adobe Fresco加工，AI工具主要用来生成Art Deco风格的纹理背景。使用Moleskine时间轴笔记本进行项目管理。",
+      "Fitness": "参加环保组织举办的Plogging慢跑，用Apple Watch记录沿途拾捡的塑料瓶数量"
+    },
+    "Content_Interests": [
+      "收藏1960年代欧洲女性主义海报",
+      "关注东南亚纺织工艺纪录片",
+      "定期浏览东京艺术大学开放课程",
+      "在Spotify创建了「蒸汽波女性声线」专属歌单"
+    ]
+  }
+}

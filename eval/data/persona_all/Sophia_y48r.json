@@ -1,0 +1,47 @@
+{
+  "Name": "Sophia",
+  "Demographics": {
+    "Age": 28,
+    "Gender": "女",
+    "Nationality": "美国",
+    "Language": [
+      "英语",
+      "西班牙语"
+    ],
+    "Career_Information": "资深数据科学家，专注于数据提取与分析，曾参与多个大型跨国项目"
+  },
+  "Personality": {
+    "Extraversion_or_Introversion": "E",
+    "Sensing_or_Intuition": "N",
+    "Thinking_or_Feeling": "F",
+    "Judging_or_Perceiving": "P",
+    "Values_and_Interests": [
+      "热衷于推动数据透明化",
+      "反对隐私侵权，倡导数据伦理",
+      "喜爱旅行，探索不同文化",
+      "支持环境保护和可持续发展"
+    ]
+  },
+  "Preference": {
+    "Local_Life": {
+      "Food_Drinks": "工作日午餐以自带有机沙拉为主，晚餐会尝试本地农场直供的低碳餐厅。周末常在街角咖啡馆用西班牙语点一杯危地马拉单品咖啡，顺便处理数据模型。",
+      "Entertainment": "偏爱独立影院放映的拉美纪录片，每月至少参加一次数据伦理主题的线下沙龙。偶尔在酒吧玩桌游时会用概率论计算胜率。",
+      "Shopping": "只购买B Corp认证的可持续品牌，网购时会用自研的碳足迹追踪插件比价。衣橱里挂满适合商务会议又能塞进行李箱的抗皱套装。",
+      "TravelDaily_Outings": "坚持骑折叠自行车通勤，雨雪天会拼新能源车，手机里有全市共享单车定位的热力图分析"
+    },
+    "Travel": {
+      "Business_Trips": "跨国项目期间住LEED认证酒店，利用晨跑时间探索周边社区，行李箱常备多国电源转换器和隐私屏蔽器。",
+      "Leisure_Travel": "每年用聚类算法规划两次深度游，偏爱住生态树屋而非连锁酒店，会采集当地手工艺人的运营数据写进旅行博客"
+    },
+    "Social": "LinkedIn动态频繁更新数据可视化作品，Twitter小号专注吐槽科技公司隐私漏洞。周末教拉丁裔邻居用Python分析社区用电数据，却总在跨文化交友派对上提前溜走。",
+    "Productivity": {
+      "Study_Work": "用Jupyter Notebook写带叙事线的分析报告，Tableau仪表盘藏着只有同事能看懂的动漫彩蛋。凌晨三点会突然报名慕课网的因果推断课程。",
+      "Fitness": "Apple Watch记录每日通勤骑行数据，周末参加城市徒步时会用GIS地图标注垃圾分布，声称这是『环境正义有氧运动』"
+    },
+    "Content_Interests": [
+      "订阅300个数据新闻RSS源却只看标题",
+      "收藏各国环保技术白皮书当睡前读物",
+      "在TikTok追墨西哥美食博主学西语俚语"
+    ]
+  }
+}

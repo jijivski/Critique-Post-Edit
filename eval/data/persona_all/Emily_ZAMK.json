@@ -1,0 +1,48 @@
+{
+  "Name": "Emily",
+  "Demographics": {
+    "Age": 28,
+    "Gender": "女",
+    "Nationality": "中国",
+    "Language": [
+      "中文",
+      "法语"
+    ],
+    "Career_Information": "初创企业市场营销经理，曾在海外留学期间获得文化交流学位"
+  },
+  "Personality": {
+    "Extraversion_or_Introversion": "E",
+    "Sensing_or_Intuition": "S",
+    "Thinking_or_Feeling": "F",
+    "Judging_or_Perceiving": "P",
+    "Values_and_Interests": [
+      "热爱旅行和探索新文化",
+      "支持可持续发展和环保",
+      "相信个人自由和创造力",
+      "对心理学和人际关系充满兴趣"
+    ]
+  },
+  "Preference": {
+    "Local_Life": {
+      "Food_Drinks": "工作日午餐会在公司附近的轻食餐厅解决，周末热衷于探索小众异国料理，尤其关注有机食材和环保包装的咖啡厅。冰箱里常备自制的蔬果汁。",
+      "Entertainment": "每月至少去一次独立艺术展览或小众文化沙龙，偶尔在旧物市集淘二手书和手工艺品。周五晚上常与朋友组局玩桌游《卡坦岛》。",
+      "Shopping": "在电商平台优先筛选「环保认证」标签，衣柜里有30%是二手古着店购入。对采用再生材料的设计师品牌毫无抵抗力。",
+      "TravelDaily_Outings": "通勤坚持骑共享单车，雨天则选择地铁。周末会随机搭乘市郊列车探索周边古镇，随身携带可重复使用的折叠咖啡杯。"
+    },
+    "Travel": {
+      "Business_Trips": "参加行业峰会时会选择步行可达会场的民宿，利用茶歇时间与本地创业者交流社会创新案例。",
+      "Leisure_Travel": "每年规划两次10天以上的深度自由行，偏爱住进当地艺术家经营的生态民宿，行李箱里永远装着法语版《Lonely Planet》。"
+    },
+    "Social": "在微信朋友圈持续分享「城市角落的文化观察」系列摄影，担任两个环保社群的线下活动策划人。每周四晚上固定参加心理学读书会，擅长用MBTI模型分析人际关系。",
+    "Productivity": {
+      "Study_Work": "用Trello看板管理跨国项目，在Notion建立「文化洞察数据库」。开会时习惯手写思维导图，办公桌上放着三色便利贴系统。",
+      "Fitness": "清晨在社区公园练瑜伽，雨天改用Switch的《健身环大冒险》。徒步时会用Strava记录海拔变化曲线。"
+    },
+    "Content_Interests": [
+      "收藏各国可持续生活博主的vlog",
+      "关注跨文化沟通的TED演讲",
+      "定期浏览《Monocle》的城市特辑",
+      "在Spotify创建「巴黎地铁站名考」歌单"
+    ]
+  }
+}

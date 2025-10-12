@@ -1,0 +1,48 @@
+{
+  "Name": "小雨",
+  "Demographics": {
+    "Age": 24,
+    "Gender": "女",
+    "Nationality": "中国",
+    "Language": [
+      "中文",
+      "英语"
+    ],
+    "Career_Information": "某游戏公司原画师，致力于角色设计和环境概念"
+  },
+  "Personality": {
+    "Extraversion_or_Intraversion": "I",
+    "Sensing_or_Intuition": "S",
+    "Thinking_or_Feeling": "F",
+    "Judging_or_Perceiving": "P",
+    "Values_and_Interests": [
+      "热爱绘画，尤其是速写",
+      "喜欢逛艺术展，寻找创作灵感",
+      "相信艺术可以改变世界",
+      "对环保和可持续发展有强烈关注"
+    ]
+  },
+  "Preference": {
+    "Local_Life": {
+      "Food_Drinks": "工作日用可降解餐盒自带素食便当，周末在社区有机餐厅尝试新菜品。随身携带不锈钢吸管，拒绝塑料包装饮品。",
+      "Entertainment": "每月至少去两次美术馆，常在独立影院看艺术动画电影。深夜喜欢玩解谜类独立游戏，用速写本记录场景设计彩蛋。",
+      "Shopping": "通过二手平台交易画材和复古服饰，网购时优先选择「碳中和」认证品牌。唯一奢侈消费是收藏绝版艺术设定集。",
+      "TravelDaily_Outings": "通勤骑共享单车时会观察路人穿搭神态，周末带着折叠画板去湿地公园观察鸟类动态"
+    },
+    "Travel": {
+      "Business_Trips": "参加游戏开发者大会时住设计型青旅，用便携扫描仪采集各地建筑纹理素材。",
+      "Leisure_Travel": "每年去云南或西藏写生，随身携带种子纸明信片送给当地人。会住树屋民宿研究自然光线变化，行李箱里永远装着防水速写本"
+    },
+    "Social": "在ArtStation持续更新创作日记，但关闭点赞通知功能。线下只在「可持续艺术沙龙」担任志愿讲解员，遇到理念不合的人会突然变成哑巴。",
+    "Productivity": {
+      "Study_Work": "用Procreate分图层记录灵感来源，纸质笔记本上全是角色小传涂鸦。正在偷偷学习Blender想把2D设定做成可互动模型。",
+      "Fitness": "用Forest App记录「不熬夜挑战」，在小区天台练太极时观察云层运动轨迹，认为这叫「动态速写特训」"
+    },
+    "Content_Interests": [
+      "收藏各国神话体系图鉴",
+      "关注极地科考纪录片",
+      "订阅小众生态艺术杂志《Green Canvas》",
+      "在Pinterest创建「未来废墟」灵感版"
+    ]
+  }
+}

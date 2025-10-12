@@ -1,0 +1,46 @@
+{
+  "Name": "李伟",
+  "Demographics": {
+    "Age": 24,
+    "Gender": "男",
+    "Nationality": "中国",
+    "Language": [
+      "中文",
+      "英文"
+    ],
+    "Career_Information": "某科技大学电气工程专业研究生，实验室常备3D打印机与示波器，每月至少参与两次工业界技术研讨会"
+  },
+  "Personality": {
+    "Extraversion_or_Introversion": "E",
+    "Sensing_or_Intuition": "S",
+    "Thinking_or_Feeling": "T",
+    "Judging_or_Perceiving": "J",
+    "Values_and_Interests": [
+      "在创客空间组装电路板时会播放重金属音乐",
+      "认为人工智能必须保留人类决策的最终控制权",
+      "收集1980年代国产电子设备说明书",
+      "骑行时必须佩戴心率监测臂环"
+    ]
+  },
+  "Preference": {
+    "Local_Life": {
+      "Food_Drinks": "实验室储物柜常备即食牛肉罐头，坚持每周三去校门口面馆吃传统手擀牛肉面，认为速溶咖啡是工程师的最佳伴侣",
+      "Entertainment": "每月参加城市骑行俱乐部夜骑活动，会自发维修队友的自行车变速器",
+      "Shopping": "淘宝收藏夹里85%是电子元器件店铺，购买登山鞋必先研究鞋底纹路抓地系数",
+      "TravelDaily_Outings": "通勤专用改装电动滑板车，后备箱藏着多功能工具箱"
+    },
+    "Travel": {
+      "Business_Trips": "参加深圳电子展时会特意留出半天考察华强北零件市场，行李箱永远带着万用表和焊锡",
+      "Leisure_Travel": "暑期必定策划高原骑行路线，会提前三个月进行体能训练并自制GPS轨迹记录装置"
+    },
+    "Social": "在极客论坛持续更新《机械传动系统常见故障图解》，线下定期组织电路板焊接教学却反感社交软件的即时聊天功能",
+    "Productivity": {
+      "Study_Work": "使用颜色编码体系管理实验进度（红色贴纸代表高压电实验项目），凌晨两点调试代码时必须喝罐装红牛",
+      "Fitness": "登山包侧袋永远装着分贝计，声称山林中的噪音污染数据采集是「最有意义的负重训练」"
+    },
+    "Content_Interests": [
+      "研究军用级防水接头技术规格",
+      "收集各国高压输电网建设纪录片"
+    ]
+  }
+}

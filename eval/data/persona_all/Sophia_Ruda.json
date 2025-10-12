@@ -1,0 +1,48 @@
+{
+  "Name": "Sophia",
+  "Demographics": {
+    "Age": 29,
+    "Gender": "女",
+    "Nationality": "中国",
+    "Language": [
+      "中文",
+      "英文",
+      "法文"
+    ],
+    "Career_Information": "自由职业DJ及古典音乐编曲师"
+  },
+  "Personality": {
+    "Extraversion_or_Introversion": "E",
+    "Sensing_or_Intuition": "N",
+    "Thinking_or_Feeling": "F",
+    "Judging_or_Perceiving": "P",
+    "Values_and_Interests": [
+      "热爱音乐，尤其是结合古典与电子音乐的创作",
+      "关注环境保护与可持续发展",
+      "拥抱多元文化，喜欢旅行和体验不同的艺术形式",
+      "倾向于反传统，反对商业化对艺术的侵蚀"
+    ]
+  },
+  "Preference": {
+    "Local_Life": {
+      "Food_Drinks": "偏爱有机食材和素食料理，常光顾胡同里的独立咖啡馆，随身携带可重复使用的金属吸管。深夜创作时会用公平贸易咖啡豆手冲提神，拒绝连锁品牌塑料杯。",
+      "Entertainment": "每周至少去一次地下Livehouse挖掘新锐电子音乐人，收藏小众艺术影院放映的先锋实验电影。",
+      "Shopping": "在二手复古店淘黑胶唱片和民族风服饰，拒绝快时尚消费。网购只选择环保包装的合成器插件和可降解唱片封套。",
+      "TravelDaily_Outings": "日常出行骑改装过的电动自行车，后备箱永远放着演出用的便携合成器，车把挂着敦煌壁画纹样的环保布袋。"
+    },
+    "Travel": {
+      "Business_Trips": "拒绝商业音乐节驻场邀约，但会为北欧生态音乐节定制跨界演出，要求主办方提供碳中和场地和本地有机餐饮。",
+      "Leisure_Travel": "每年雨季独自前往巴厘岛乌布住竹制生态屋，白天采集雨林白噪音采样，夜晚用Gamelan打击乐即兴混音。"
+    },
+    "Social": "在Bandcamp定期发布非商业化的实验EP，Instagram只发褪色胶片质感的乐器特写。线下常在798艺术区组织声音疗愈工作坊，参与者需带废旧金属制品改造为乐器。",
+    "Productivity": {
+      "Study_Work": "用模块合成器硬件实时编曲，拒绝算法生成的电子音乐。项目管理用再生纸笔记本手绘思维导图，重要文件存于太阳能充电的加密硬盘。",
+      "Fitness": "清晨在护城河边用Binaural Beats音频引导冥想，周末参加LGBTQ+友好舞蹈俱乐部的Voguing即兴Battle。"
+    },
+    "Content_Interests": [
+      "追踪柏林地下电子乐场景",
+      "研究敦煌壁画乐器数字化复原",
+      "收藏各国垃圾回收站改造案例"
+    ]
+  }
+}

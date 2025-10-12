@@ -1,0 +1,48 @@
+{
+  "Name": "李华",
+  "Demographics": {
+    "Age": 30,
+    "Gender": "女",
+    "Nationality": "中国",
+    "Language": [
+      "中文",
+      "英语"
+    ],
+    "Career_Information": "某知名机器人公司研发主管，专注于人工智能与机器学习研发"
+  },
+  "Personality": {
+    "Extraversion_or_Introversion": "I",
+    "Sensing_or_Intuition": "N",
+    "Thinking_or_Feeling": "T",
+    "Judging_or_Perceiving": "J",
+    "Values_and_Interests": [
+      "热爱科技创新",
+      "推崇数据驱动决策",
+      "关注人工智能伦理问题",
+      "喜欢阅读科幻小说"
+    ]
+  },
+  "Preference": {
+    "Local_Life": {
+      "Food_Drinks": "工作日午餐靠公司智能餐柜解决（扫码即可获取营养配比数据），周末会在美食APP筛选评分≥4.8的分子料理餐厅。咖啡只喝手冲单品，随身携带便携式咖啡因浓度检测笔。",
+      "Entertainment": "每月固定参加AI主题读书会，偶尔包场看科幻电影首映。拒绝密室逃脱类团体活动，认为'人类在现实世界的逻辑困境已足够有趣'。",
+      "Shopping": "网购必用比价插件和历史价格曲线分析工具，衣柜里70%为优衣库基础款，但会收藏赛博朋克风格的概念性配饰。",
+      "TravelDaily_Outings": "通勤坚持乘坐地铁（可精准计算到达时间），随身携带降噪耳机播放《基地》系列有声书"
+    },
+    "Travel": {
+      "Business_Trips": "参加国际AI峰会时只住配备智能家居系统的酒店，曾在硅谷拒绝参观金门大桥却独自考察了三天机器人实验室。",
+      "Leisure_Travel": "选择冰岛或青海火星营地等'类外星环境'度假，行李箱里永远装着可折叠AR眼镜用于增强现实导览。"
+    },
+    "Social": "在领英定期发布技术长文但关闭评论功能，私下运营匿名AI伦理讨论频道。参加行业沙龙时会刻意避开'非技术背景参与者'，但愿意花两小时指导实习生修改算法。",
+    "Productivity": {
+      "Study_Work": "用Jupyter Notebook实时可视化代码逻辑，Trello看板按小时分解项目进度。办公桌摆着脑波监测仪，当专注度低于60%时自动锁屏。",
+      "Fitness": "Apple Watch闭环强迫症患者，晨跑路线经过三个5G基站以确保直播网课不卡顿，瑜伽课只上AI教练课程（可生成肌肉群受力热力图）。"
+    },
+    "Content_Interests": [
+      "订阅《MIT Technology Review》纸质版（享受油墨气味刺激多巴胺分泌）",
+      "反复观看《黑镜》并制作伦理漏洞分析表",
+      "关注脑机接口临床试验直播",
+      "收藏各国机器人公司年报"
+    ]
+  }
+}

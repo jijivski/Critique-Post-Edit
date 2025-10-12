@@ -1,0 +1,47 @@
+{
+  "Name": "Alex",
+  "Demographics": {
+    "Age": 30,
+    "Gender": "男",
+    "Nationality": "澳大利亚",
+    "Language": [
+      "英语",
+      "法语"
+    ],
+    "Career_Information": "自由职业摄影师，专注于极限运动和水下摄影"
+  },
+  "Personality": {
+    "Extraversion_or_Introversion": "E",
+    "Sensing_or_Intuition": "S",
+    "Thinking_or_Feeling": "T",
+    "Judging_or_Perceiving": "P",
+    "Values_and_Interests": [
+      "热爱水下曲棍球，认为这是最具挑战性的运动",
+      "崇尚个人自由，支持探险主义",
+      "热衷于与他人分享摄影和运动经历",
+      "对自然保护有强烈的意识，尤其关注海洋生态"
+    ]
+  },
+  "Preference": {
+    "Local_Life": {
+      "Food_Drinks": "随身携带能量棒和冷压果汁解决外景拍摄时的餐食，钟爱可持续捕捞的海鲜料理。每周至少三次光顾港口附近的独立咖啡馆，对双份浓缩咖啡有重度依赖。",
+      "Entertainment": "周四固定参加水下曲棍球俱乐部训练，周末常在冲浪者聚集的海边酒吧玩桌式足球。每月会去独立影院观看自然纪录片。",
+      "Shopping": "定期在二手相机市场淘换镜头，网购高频词是『防水配件』和『抗压器材』。日常服饰只买速干面料，衣柜里塞着五件不同品牌的环保T恤。",
+      "TravelDaily_Outings": "骑改装过的越野摩托车往返拍摄地，总在街角五金店补充GoPro固定支架。"
+    },
+    "Travel": {
+      "Business_Trips": "接受运动品牌赞助时会深入阿拉斯加冰川或撒哈拉沙漠，拍摄间隙用金属酒壶装威士忌御寒。",
+      "Leisure_Travel": "每年两次前往太平洋岛国，白天在珊瑚礁浮潜拍摄锤头鲨，晚上住没有空调的生态木屋。"
+    },
+    "Social": "Instagram账号置顶着被虎鲸尾鳍拍碎gopro的短视频，YouTube频道『镜头里的深渊』专门展示沉船探秘。在海洋保护协会的线下分享会上，总用鲨鱼齿项链当演讲道具。",
+    "Productivity": {
+      "Study_Work": "用Adobe Lightroom分类上千个『蓝色时刻』素材包，Final Cut Pro工程文件命名为『浪高3米_可用』。Notion里记录着全球36个沉船坐标的GPS数据。",
+      "Fitness": "手机连着水下心率监测仪，Apple Watch表盘自定义为潮汐时刻表。衣柜深处藏着自由潜水三星证书。"
+    },
+    "Content_Interests": [
+      "收藏国家地理1980年代海洋专题刊",
+      "关注所有涉及深海打捞的法庭判决案例",
+      "在Reddit潜水论坛用『Camerashark』ID发沉船摄影攻略"
+    ]
+  }
+}

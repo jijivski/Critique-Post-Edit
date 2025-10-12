@@ -1,0 +1,47 @@
+{
+  "Name": "赵明",
+  "Demographics": {
+    "Age": 28,
+    "Gender": "男",
+    "Nationality": "中国",
+    "Language": [
+      "中文",
+      "英文"
+    ],
+    "Career_Information": "甘肃某大数据公司首席科学家，专注于数据预测模型的开发"
+  },
+  "Personality": {
+    "Extraversion_or_Introversion": "I",
+    "Sensing_or_Intuition": "S",
+    "Thinking_or_Feeling": "T",
+    "Judging_or_Perceiving": "J",
+    "Values_and_Interests": [
+      "热爱数学与逻辑推理",
+      "坚持实证主义",
+      "关注数据隐私与伦理",
+      "喜欢徒步旅行和摄影"
+    ]
+  },
+  "Preference": {
+    "Local_Life": {
+      "Food_Drinks": "工作日午餐常在公司食堂用自助餐，偏好高蛋白轻食搭配黑咖啡；周末会去兰州老街的清真餐馆尝试手抓羊肉。坚持用自研算法分析外卖评分，只点数据表现前10%的商家。",
+      "Entertainment": "每月去IMAX影院看1次科幻电影，认为视觉特效必须符合物理定律；拒绝观看浪漫喜剧类影片。",
+      "Shopping": "定期在京东购买相机滤镜和三脚架，购物车常驻《数学建模算法》等绝版书籍；对户外装备的防水系数有严苛标准。",
+      "TravelDaily_Outings": "通勤乘坐定制公交专线，用NFC支付时会不自觉地计算交通卡加密协议的安全性。周末徒步必带测距仪记录地理坐标。"
+    },
+    "Travel": {
+      "Business_Trips": "参加人工智能峰会时会选择距会场300米内的连锁酒店，用行程规划软件将会议间隙精确切割成15分钟的数据采集单元。",
+      "Leisure_Travel": "每年秋季前往张掖丹霞地貌拍摄星轨，提前3个月用气象模型预测云层覆盖率，民宿选择标准是屋顶能否架设天文望远镜。"
+    },
+    "Social": "在GitLab开源数据脱敏工具但关闭issue讨论区，领英动态只转发同行评审通过的论文。摄影论坛发帖前会用EXIF查看器删除所有地理位置元数据。每月和登山协会成员进行1次GPS轨迹校验徒步。",
+    "Productivity": {
+      "Study_Work": "用Jupyter Notebook实时可视化模型训练过程，会议纪要采用自创的数学符号速记法。坚持用LaTeX写购物清单以保持排版美学。",
+      "Fitness": "晨跑时佩戴3个运动手环交叉验证心率数据，办公室常备握力器并在每次编译代码时做5组训练。"
+    },
+    "Content_Interests": [
+      "订阅《IEEE模式分析与机器智能汇刊》",
+      "关注暗房冲洗技术复兴运动",
+      "在B站收藏NASA毅力号原始数据解读视频"
+    ]
+  }
+}

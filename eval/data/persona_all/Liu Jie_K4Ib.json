@@ -1,0 +1,52 @@
+{
+  "Name": "Liu Jie",
+  "Demographics": {
+    "Age": 32,
+    "Gender": "男",
+    "Nationality": "中国",
+    "Language": [
+      "中文",
+      "藏语"
+    ],
+    "Career_Information": "青海某盐湖采盐工"
+  },
+  "Personality": {
+    "Extraversion_or_Introversion": "E",
+    "Sensing_or_Intuition": "S",
+    "Thinking_or_Feeling": "T",
+    "Judging_or_Perceiving": "P",
+    "Values_and_Interests": [
+      "热爱自然和户外活动",
+      "认为劳动是最有价值的生活方式",
+      "支持地方文化和传统",
+      "喜欢尝试不同的盐湖料理"
+    ]
+  },
+  "Preference": {
+    "Local_Life": {
+      "Food_Drinks": "每日必喝自酿青稞酒，早餐偏爱糌粑配酥油茶。常光顾藏式餐馆尝试盐湖羊杂汤，周末用盐湖矿物盐腌制风干肉",
+      "Entertainment": "参加赛马节和锅庄舞聚会，拒绝电子游戏厅等现代娱乐，认为转经筒冥想是最好的放松方式",
+      "Shopping": "每月固定采购耐磨工装靴，网购仅限于藏银饰品和唐卡画册，坚持在牧区集市购买手工牦牛毛毯",
+      "TravelDaily_Outings": "骑改装摩托车上下班，固定路线穿越盐湖无人区，每月初骑牦牛去30公里外的喇嘛庙"
+    },
+    "Travel": {
+      "Business_Trips": "每年冬季前往西藏盐井考察传统采盐法，住藏式家庭旅馆并与当地工匠交换工具",
+      "Leisure_Travel": "开二手皮卡穿越青藏线探访废弃盐场遗址，在无人区露营时用盐岩搭建临时灶台"
+    },
+    "Social": "担任采盐队工会联络人，组织每月篝火故事会。用华为手机拍摄盐湖星轨发朋友圈，但拒绝短视频平台。定期带青稞酒拜访老采盐人听行业掌故",
+    "Productivity": {
+      "Study_Work": "手写盐结晶观察日记，用红漆在采盐机操作面板标注藏语提示，收集不同矿区盐样制作对比标本",
+      "Fitness": "每日搬运盐包替代举铁，周末通过登山采集野生黑枸杞锻炼耐力"
+    },
+    "Content_Interests": [
+      "关注高原湿地生态论文",
+      "收藏八十年代盐业技术手册",
+      "追踪藏式建筑保护动态"
+    ]
+  },
+  "Bias": {
+    "Cultural_View": "认为机械化采盐破坏工匠精神，坚持手工装袋时哼唱采盐号子",
+    "WorkEthic": "鄙视使用自动采盐机的同事，随身携带父辈的铸铁盐铲作为护身符",
+    "EnvironmentalConcern": "秘密记录工厂违规排污证据，用传统煨桑仪式祭祀受污染的盐湖"
+  }
+}

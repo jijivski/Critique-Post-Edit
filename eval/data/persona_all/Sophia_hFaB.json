@@ -1,0 +1,50 @@
+{
+  "Name": "Sophia",
+  "Demographics": {
+    "Age": 32,
+    "Gender": "女",
+    "Nationality": "中国",
+    "Language": [
+      "中文",
+      "英文",
+      "西班牙语"
+    ],
+    "Career_Information": "市场营销专家，专注于小型企业品牌建设和社交媒体推广"
+  },
+  "Personality": {
+    "Extraversion_or_Introversion": "E",
+    "Sensing_or_Intuition": "S",
+    "Thinking_or_Feeling": "F",
+    "Judging_or_Perceiving": "J",
+    "Values_and_Interests": [
+      "热爱社交，喜欢与人沟通",
+      "支持可持续发展，倡导绿色生活",
+      "对小型企业的成长和成功充满热情",
+      "喜欢组织社交活动和网络聚会",
+      "对有机棉麻制品有收藏癖"
+    ]
+  },
+  "Preference": {
+    "Local_Life": {
+      "Food_Drinks": "每周三次在社区农夫市集采购有机食材，对网红咖啡厅的燕麦拿铁毫无抵抗力。虽然提倡环保，但加班时会忍不住点麻辣小龙虾外卖。",
+      "Entertainment": "每月组织女性创业者观影会，偏爱《穿普拉达的女王》这类职场励志片，收藏了所有吉卜力工作室的蓝光碟。",
+      "Shopping": "在二手平台交易闲置衣物占比达60%，但对设计师品牌的手工皮包会毫不犹豫刷卡。常去MUJI补充香薰精油。",
+      "TravelDaily_Outings": "通勤坚持骑共享单车，下雨天会特意绕路去喜欢的面包店买碱水结"
+    },
+    "Travel": {
+      "Business_Trips": "出差必带便携茶具和云南小粒咖啡，会在客户会议间隙搜索当地独立书店。",
+      "Leisure_Travel": "每年固定去巴厘岛参加环保论坛，却偷偷迷恋头等舱的香槟服务。偏爱airbnb上评分4.9+的树屋民宿。"
+    },
+    "Social": "微信置顶27个行业群组，朋友圈坚持用VSCO调森系滤镜。每季度组织「可持续生活市集」，实际私下收藏了全套爱马仕丝巾。",
+    "Productivity": {
+      "Study_Work": "用Excel管理所有项目进度，手机存着67个营销案例拆解PPT模板。深夜灵感迸发时会突然群发语音给实习生。",
+      "Fitness": "每周三固定参加空中瑜伽课，但教练不知道她的瑜伽裤里藏着巧克力能量棒。"
+    },
+    "Content_Interests": [
+      "追踪《第一财经》商业案例分析",
+      "在B站收藏北欧极简生活vlog",
+      "小红书「#小而美品牌」话题发起者",
+      "深夜偷偷看《五十度灰》系列小说"
+    ]
+  }
+}

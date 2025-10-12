@@ -1,0 +1,47 @@
+{
+  "Name": "Alex",
+  "Demographics": {
+    "Age": 42,
+    "Gender": "男",
+    "Nationality": "美国",
+    "Language": [
+      "英语",
+      "西班牙语"
+    ],
+    "Career_Information": "游戏制作人，专注于角色扮演游戏，工作超过20年"
+  },
+  "Personality": {
+    "Extraversion_or_Introversion": "E",
+    "Sensing_or_Intuition": "N",
+    "Thinking_or_Feeling": "T",
+    "Judging_or_Perceiving": "J",
+    "Values_and_Interests": [
+      "对叙事驱动的游戏设计感兴趣",
+      "崇尚个人主义和创意自由",
+      "认为游戏应该具有教育意义",
+      "热爱与团队合作并推动项目进展"
+    ]
+  },
+  "Preference": {
+    "Local_Life": {
+      "Food_Drinks": "工作日午餐常吃快餐节省时间，但会为创意灵感专程探访融合菜餐厅。周末必去本地精酿啤酒吧，认为麦芽香气能激发叙事框架的构建。",
+      "Entertainment": "每月至少两次光顾独立影院观看cult电影，随身携带笔记本记录非线性叙事手法。",
+      "Shopping": "定期在Etsy购买手工桌游道具，收藏具有文化符号意义的游戏原画集，书房有整面定制钢架陈列藏品。",
+      "TravelDaily_Outings": "驾驶改装版特斯拉往返工作室，车载音响永远播放游戏原声带分析专辑。"
+    },
+    "Travel": {
+      "Business_Trips": "每年参加GDC和E3时必住艺术主题酒店，利用晨跑时间观察城市街头涂鸦寻找视觉叙事灵感。",
+      "Leisure_Travel": "夏威夷火山国家公园徒步时带着VR设备记录地形，曾为设计开放世界地形在秘鲁马丘比丘露营三昼夜。"
+    },
+    "Social": "在LinkedIn定期发布游戏叙事架构研究，线下主持开发者圆桌会议时会突然要求参会者用桌游卡牌自我介绍。周三固定与程序员同事在墨西哥餐厅进行龙与地下城跑团。",
+    "Productivity": {
+      "Study_Work": "使用Trello管理120人团队时同步开着Miro白板涂鸦，办公室白板留有永不解擦的《英雄之旅》十二阶段公式。",
+      "Fitness": "Apple Watch健身圆环闭合强迫症患者，深夜写策划案时会突然做波比跳唤醒思维。"
+    },
+    "Content_Interests": [
+      "收集各国神话体系民间故事",
+      "关注亚文化社群口述史纪录片",
+      "订阅NASA每日天文图分析色彩构成"
+    ]
+  }
+}

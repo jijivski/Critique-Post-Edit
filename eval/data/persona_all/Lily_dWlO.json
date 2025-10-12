@@ -1,0 +1,48 @@
+{
+  "Name": "Lily",
+  "Demographics": {
+    "Age": 30,
+    "Gender": "女",
+    "Nationality": "中国",
+    "Language": [
+      "中文",
+      "英文"
+    ],
+    "Career_Information": "知名科技公司市场营销经理，专注于社交媒体策略"
+  },
+  "Personality": {
+    "Extraversion_or_Introversion": "E",
+    "Sensing_or_Intuition": "S",
+    "Thinking_or_Feeling": "F",
+    "Judging_or_Perceiving": "P",
+    "Values_and_Interests": [
+      "热衷于探索新兴社交平台",
+      "喜欢与人沟通，尤其是陌生人",
+      "信奉个人主义，倡导多元文化",
+      "热爱旅行和尝试新食物"
+    ]
+  },
+  "Preference": {
+    "Local_Life": {
+      "Food_Drinks": "工作日靠外卖解决午餐，偏爱轻食沙拉与东南亚风味。周末必探访两家新开业餐厅，尤其钟爱融合料理与精品咖啡馆，对网红脏脏包这类高热量食物毫无抵抗力",
+      "Entertainment": "每月至少体验一次沉浸式剧场或剧本杀，定期参与城市艺术快闪活动。深夜刷抖音时会收藏小众酒吧livehouse演出信息",
+      "Shopping": "70%的服饰购自设计师买手店，对可持续环保品牌有收集癖。每周三固定浏览海淘网站，曾为抢限量版帆布包定过凌晨闹钟",
+      "TravelDaily_Outings": "通勤依赖滴滴优享，雨天会加价到最高档位。周末常去文创园区拍摄短视频素材，熟知城市所有网红斑马线位置"
+    },
+    "Travel": {
+      "Business_Trips": "参加行业峰会时会选择带屋顶酒吧的设计酒店，用酒店信纸收集各地前台经理的签名。行李箱常备便携香薰机和降噪耳机",
+      "Leisure_Travel": "每年两次境外自由行，热衷在清迈夜市做街头访谈，在巴黎玛黑区能准确指出三家以上vintage店铺。旅行箱永远装着折叠环保袋和多功能转换插头"
+    },
+    "Social": "在小红书运营着2.3万粉丝的职场博主账号，Instagram私密账号记录调酒学习过程。每周参加陌生人饭局，曾在脱口秀开放麦用甲方段子获得满堂彩",
+    "Productivity": {
+      "Study_Work": "用Miro白板构建营销漏斗模型，Trello看板按网红分级标注合作优先级。手机相册存着487张截屏的灵感碎片",
+      "Fitness": "每周三次瑜伽直播跟练，晨跑时会用AirPods听《疯投圈》播客。运动手环数据同步五个社交平台"
+    },
+    "Content_Interests": [
+      "TikTok最新挑战赛机制拆解",
+      "Z世代亚文化社群观察报告",
+      "城市废弃空间改造案例",
+      "小众香水品牌创始人纪录片"
+    ]
+  }
+}

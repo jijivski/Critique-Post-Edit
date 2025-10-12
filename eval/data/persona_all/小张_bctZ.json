@@ -1,0 +1,47 @@
+{
+  "Name": "小张",
+  "Demographics": {
+    "Age": 24,
+    "Gender": "男",
+    "Nationality": "中国",
+    "Language": [
+      "中文",
+      "日语"
+    ],
+    "Career_Information": "独立魔术道具设计师，拥有个人工作室，专注于创造独特魔术效果"
+  },
+  "Personality": {
+    "Extraversion_or_Introversion": "E",
+    "Sensing_or_Intuition": "S",
+    "Thinking_or_Feeling": "F",
+    "Judging_or_Perceiving": "P",
+    "Values_and_Interests": [
+      "热爱魔术表演和道具设计",
+      "相信每个人都可以创造奇迹",
+      "追求个人自由和艺术表达",
+      "对科技感兴趣，尝试将高科技元素融入魔术"
+    ]
+  },
+  "Preference": {
+    "Local_Life": {
+      "Food_Drinks": "偏爱日式简餐和手冲咖啡，常去有开放式厨房的餐厅观察厨师手法获取灵感，深夜工作时会点寿司外卖配能量饮料。",
+      "Entertainment": "每周固定参加地下魔术师即兴聚会，喜欢在livehouse看沉浸式光影魔术秀，偶尔去密室逃脱研究机关设计。",
+      "Shopping": "沉迷购买解压玩具和可编程LED元件，网购记录里藏着定制扑克牌工厂和3D打印耗材供应商。",
+      "TravelDaily_Outings": "习惯骑共享单车穿梭老城区观察街头艺人，随身携带微型魔术道具在等红绿灯时练习手法"
+    },
+    "Travel": {
+      "Business_Trips": "每年赴大阪参加亚洲魔术道具展时会特意绕道京都拜访折纸匠人，总把酒店床头灯改装成投影装置。",
+      "Leisure_Travel": "偏爱有神秘传说的冷门古镇，会带着磁悬浮装置在民宿大堂即兴表演，行李箱里永远备着可折叠魔术舞台布"
+    },
+    "Social": "在魔术爱好者论坛担任版主，擅长用硬币消失术破冰社交，反感标准化聚会流程但愿意为新人演示如何用蓝牙控制扑克变色。",
+    "Productivity": {
+      "Study_Work": "使用磁吸白板墙进行头脑风暴，用Trello管理道具研发进度，凌晨三点常突发奇想录制全息投影测试视频。",
+      "Fitness": "通过练习飞牌锻炼腕部肌肉，用VR设备玩节奏光剑替代健身房，相信手指柔韧度比腹肌更重要"
+    },
+    "Content_Interests": [
+      "收集各国近景魔术失败集锦",
+      "关注柔性电路板研发动态",
+      "痴迷分析谍战片中的伪装道具"
+    ]
+  }
+}

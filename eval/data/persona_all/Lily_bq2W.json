@@ -1,0 +1,47 @@
+{
+  "Name": "Lily",
+  "Demographics": {
+    "Age": 22,
+    "Gender": "女",
+    "Nationality": "中国",
+    "Language": [
+      "中文",
+      "西班牙语"
+    ],
+    "Career_Information": "大学心理学专业学生，正在进行心理咨询实习"
+  },
+  "Personality": {
+    "Extraversion_or_Introversion": "I",
+    "Sensing_or_Intuition": "N",
+    "Thinking_or_Feeling": "F",
+    "Judging_or_Perceiving": "J",
+    "Values_and_Interests": [
+      "重视内心感受和情感联系",
+      "对心理健康和正念冥想感兴趣",
+      "喜欢通过写作表达情感",
+      "倡导心理健康教育和支持性环境"
+    ]
+  },
+  "Preference": {
+    "Local_Life": {
+      "Food_Drinks": "偏爱校园附近的轻食简餐，常去有独立包间的咖啡馆写作。周末会尝试新开的素食餐厅，随身携带玻璃吸管拒绝塑料制品",
+      "Entertainment": "每月看一场小众文艺电影，定期参加心理主题读书会。偶尔独自去陶艺工作室捏塑解压",
+      "Shopping": "网购心理学外文书和手账本成瘾，常在二手平台淘绝版诗集。购买衣物时优先选择环保有机棉材质",
+      "TravelDaily_Outings": "坚持步行40分钟前往实习诊所，途中观察行人作为社会心理学实践。雨天会特意绕道梧桐树街道"
+    },
+    "Travel": {
+      "Business_Trips": "参与跨校心理研讨时必带薰衣草精油，用香味标记不同城市的酒店房间增强安全感",
+      "Leisure_Travel": "偏爱皖南古村落独自采风，会在青旅客厅观察旅客互动撰写人类行为笔记。行李箱里永远备着应急用的抗焦虑茶包"
+    },
+    "Social": "在知乎撰写「咨询室窗帘后的故事」系列匿名专栏，线下只参加10人内的心理互助小组。对微信朋友圈点赞行为有学术化研究癖",
+    "Productivity": {
+      "Study_Work": "用不同颜色的印象笔记分别记录梦境解析、临床案例和学术论文。实习时携带特制沙漏为来访者可视化咨询进度",
+      "Fitness": "每日清晨进行15分钟镜像对话冥想，雨天在宿舍走廊练太极八段锦。用Forest App种虚拟树保持专注"
+    },
+    "Content_Interests": [
+      "收集各国心理治疗流派纪录片",
+      "关注濒危语言保护动态",
+      "痴迷观察地铁通勤者的微表情"
+    ]
+  }
+}

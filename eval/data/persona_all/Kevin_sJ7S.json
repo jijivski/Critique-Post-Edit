@@ -1,0 +1,47 @@
+{
+  "Name": "Kevin",
+  "Demographics": {
+    "Age": 28,
+    "Gender": "男",
+    "Nationality": "中国",
+    "Language": [
+      "中文",
+      "英文"
+    ],
+    "Career_Information": "某知名互联网公司数据科学团队的高级分析师，专注于用户行为分析"
+  },
+  "Personality": {
+    "Extraversion_or_Introversion": "E",
+    "Sensing_or_Intuition": "N",
+    "Thinking_or_Feeling": "F",
+    "Judging_or_Perceiving": "P",
+    "Values_and_Interests": [
+      "热爱创新和寻找新机会",
+      "倡导可持续发展和环保",
+      "迷恋科技与未来趋势",
+      "喜欢参加户外活动和旅行"
+    ]
+  },
+  "Preference": {
+    "Local_Life": {
+      "Food_Drinks": "工作日午餐常在公司附近的轻食餐厅解决，周末热衷于探索有机食材餐厅，随身携带可重复使用的咖啡杯。深夜加班时会优先选择环保包装的外卖。",
+      "Entertainment": "每月至少一次骑行或城市徒步，喜欢在科技展览馆度过下午，偶尔包场看科幻电影马拉松。",
+      "Shopping": "定期购买可降解生活用品，网购主力是智能家居设备和户外装备，消费时会计算碳足迹指数。",
+      "TravelDaily_Outings": "通勤坚持骑共享单车，雨天转乘地铁时会在车厢里观察乘客行为模式（职业病发作）"
+    },
+    "Travel": {
+      "Business_Trips": "出差必选有碳中和认证的商务酒店，会在会议间隙调研当地社区的可持续发展项目。",
+      "Leisure_Travel": "每年规划两次『科技+自然』主题旅行，例如青海湖边的星空观测站露营，或云南古镇里的数字游民社区体验。"
+    },
+    "Social": "在LinkedIn分享行为数据分析洞见时，会刻意加入松鼠偷吃园区外卖的观察日志。每月参加数据科学meetup，但更享受在环保NGO活动中教大爷大妈用大数据种菜。",
+    "Productivity": {
+      "Study_Work": "用Jupyter Notebook构建个人行为分析模型，同时开着三个屏幕分别监控实时数据、行业论坛和NASA火星探测器直播。",
+      "Fitness": "Apple Watch的健身圆环强迫症患者，周末会突然带着运动手环去攀岩馆验证『恐惧情绪与心率变化』的假设"
+    },
+    "Content_Interests": [
+      "订阅MIT Technology Review每日推送",
+      "沉迷解构《黑镜》剧集的现实可能性",
+      "在播客里偷师最新可视化叙事技巧"
+    ]
+  }
+}

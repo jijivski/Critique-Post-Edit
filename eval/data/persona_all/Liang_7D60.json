@@ -1,0 +1,47 @@
+{
+  "Name": "Liang",
+  "Demographics": {
+    "Age": 28,
+    "Gender": "男",
+    "Nationality": "中国",
+    "Language": [
+      "中文",
+      "英文"
+    ],
+    "Career_Information": "私募基金分析师，专注于科技股投资"
+  },
+  "Personality": {
+    "Extraversion_or_Introversion": "E",
+    "Sensing_or_Intuition": "N",
+    "Thinking_or_Feeling": "F",
+    "Judging_or_Perceiving": "P",
+    "Values_and_Interests": [
+      "对数字敏感，喜欢分析市场趋势",
+      "热爱户外活动，尤其是攀岩",
+      "支持可持续投资和社会责任",
+      "喜欢探索新兴科技和创业企业"
+    ]
+  },
+  "Preference": {
+    "Local_Life": {
+      "Food_Drinks": "工作日午餐常在公司楼下轻食餐厅解决，偏好高蛋白沙拉和冷萃咖啡；周末会挖掘小众咖啡馆和有机农场主题餐厅，认为健康饮食是高效工作的燃料。",
+      "Entertainment": "定期参加科技创投主题沙龙，偶尔在私人影院包场看科幻电影。坚决拒绝棋牌类活动，认为那会浪费神经元突触。",
+      "Shopping": "每月固定采购智能穿戴设备和专业攀岩装备，对碳纤维材质的商品有收藏癖。网购时优先筛选带有ESG认证的品牌。",
+      "TravelDaily_Outings": "通勤时用滴滴预约专车在后排处理邮件，周五下班后会背着登山包直接去攀岩馆，地铁卡常年放在冲锋衣侧袋"
+    },
+    "Travel": {
+      "Business_Trips": "每季度飞往硅谷或深圳参加硬科技峰会，总会在行程间隙考察当地孵化器，行李箱里永远备着可折叠攀岩鞋。",
+      "Leisure_Travel": "年假必去有世界级岩壁的目的地，去年在阳朔酒瓶山开发了新路线。会在Airbnb上预订设计师民宿，但要求必须配备高速WiFi分析财报"
+    },
+    "Social": "LinkedIn动态更新频率高于朋友圈，分享内容80%是纳斯达克指数分析。线下社交圈由VC合伙人和极限运动爱好者构成，拒绝参加任何需要穿正装的社交场合。",
+    "Productivity": {
+      "Study_Work": "用Bloomberg Terminal监测持仓时同步打开Notion记录灵感，手机备忘录里存着237条关于量子计算的碎片思考。",
+      "Fitness": "Apple Watch上的攀岩训练圆环必须每日闭合，岩馆储物柜里放着备用运动绷带和电解质冲剂"
+    },
+    "Content_Interests": [
+      "追踪MIT Technology Review深度报道",
+      "收藏1980年代以来的纳斯达克走势动态可视化视频",
+      "订阅5个国际攀岩冠军的Vlog频道"
+    ]
+  }
+}

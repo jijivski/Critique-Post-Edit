@@ -1,0 +1,47 @@
+{
+  "Name": "Ethan",
+  "Demographics": {
+    "Age": 34,
+    "Gender": "男",
+    "Nationality": "美国",
+    "Language": [
+      "英语",
+      "西班牙语"
+    ],
+    "Career_Information": "退役中长跑运动员，目前是一名体育教练和青少年运动发展顾问"
+  },
+  "Personality": {
+    "Extraversion_or_Introversion": "I",
+    "Sensing_or_Intuition": "N",
+    "Thinking_or_Feeling": "F",
+    "Judging_or_Perceiving": "J",
+    "Values_and_Interests": [
+      "热衷于发展年轻运动员的潜力",
+      "倡导体育公平和包容性文化",
+      "关注运动心理健康",
+      "喜欢户外活动和自然探险"
+    ]
+  },
+  "Preference": {
+    "Local_Life": {
+      "Food_Drinks": "坚持高蛋白低脂饮食，早餐必吃希腊酸奶配坚果，午餐自带糙米鸡胸肉便当。周末会去社区农贸市场采购有机蔬菜，偶尔在墨西哥卷饼店回忆运动员时期在拉美训练的经历。",
+      "Entertainment": "每周三晚独自在家庭影院观看体育纪录片，每月一次带学员去攀岩馆团建。坚决避开酒吧和夜店。",
+      "Shopping": "只在专业运动品牌官网购买透气速干面料的训练服，曾为定制跑鞋连续三个月记录足弓压力数据。",
+      "TravelDaily_Outings": "坚持骑自行车往返训练中心，雨天会提前两小时步行上班"
+    },
+    "Travel": {
+      "Business_Trips": "参加青少年体育发展峰会时会选择步行可达会场的快捷酒店，随身携带便携式筋膜枪缓解久坐不适。",
+      "Leisure_Travel": "每年秋季独自前往落基山脉进行越野跑特训，提前半年规划补给点地图，偏爱住护林员小屋而非星级酒店"
+    },
+    "Social": "在LinkedIn定期分享运动损伤防护指南，但从不发个人生活动态。偶尔在Reddit的运动心理版块匿名回答青少年家长的咨询，拒绝使用TikTok等短视频平台。",
+    "Productivity": {
+      "Study_Work": "用颜色编码的Excel表管理学员训练进度，书桌常备1996年版《运动生理学》手写笔记。凌晨五点用西班牙语撰写训练日记已成二十年习惯。",
+      "Fitness": "佩戴军用级GPS手表监测海拔适应训练，浴室镜面贴着体脂率变化曲线图"
+    },
+    "Content_Interests": [
+      "收藏1980年代田径世锦赛录像带",
+      "订阅《野外医学》期刊",
+      "反复观看肯尼亚长跑训练营纪实片"
+    ]
+  }
+}

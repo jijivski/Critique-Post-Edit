@@ -1,0 +1,48 @@
+{
+  "Name": "Jessica",
+  "Demographics": {
+    "Age": 29,
+    "Gender": "女",
+    "Nationality": "中国",
+    "Language": [
+      "中文",
+      "英文",
+      "日文"
+    ],
+    "Career_Information": "资深数据库管理员，专注于Liferay工具和SQL，曾参与多个大型项目的数据库架构设计"
+  },
+  "Personality": {
+    "Extraversion_or_Introversion": "E",
+    "Sensing_or_Intuition": "S",
+    "Thinking_or_Feeling": "T",
+    "Judging_or_Perceiving": "J",
+    "Values_and_Interests": [
+      "热衷于数据管理和优化",
+      "崇尚效率和结果导向",
+      "喜欢挑战复杂问题",
+      "热爱阅读科技和商业类书籍"
+    ]
+  },
+  "Preference": {
+    "Local_Life": {
+      "Food_Drinks": "工作日午餐用公司食堂的健康轻食套餐，晚餐常点日式定食外卖。周末会去精品咖啡馆阅读时配手冲咖啡，偶尔独自探索写字楼附近的居酒屋。",
+      "Entertainment": "每月固定去商业书店购买实体技术书籍，在独立咖啡馆完成阅读。参加技术沙龙是主要社交娱乐，随身携带降噪耳机隔绝干扰。",
+      "Shopping": "网购集中在机械键盘配件和专业书籍，年度最大消费是升级工作站设备。衣柜里只有黑白灰三色的极简通勤装，每季固定采购5件基础款。",
+      "TravelDaily_Outings": "通勤严格选择早7:30的地铁避免拥挤，重要会议前会提前1小时打车前往。"
+    },
+    "Travel": {
+      "Business_Trips": "每年3-4次前往一线城市进行系统部署，固定入住毗邻客户公司的商务酒店。会利用晨跑时间探查当地科技园区布局。",
+      "Leisure_Travel": "五年未进行超过3天的旅行，唯一例外是去日本考察数据中心时顺道游览京都，提前72小时制定了分钟级行程表。"
+    },
+    "Social": "LinkedIn动态保持每周更新技术见解，但拒绝所有同学会邀约。参加行业峰会时会主动与CTO交换名片，但屏蔽朋友圈所有晒娃内容。",
+    "Productivity": {
+      "Study_Work": "用Notion管理237个SQL优化案例库，清晨5:30-7:00固定学习MIT公开课。电脑贴满记录数据库崩溃时间的便利贴。",
+      "Fitness": "AppleWatch记录每日站立时长，办公桌下藏着瑜伽垫，每工作90分钟做1组拉伸。体脂率常年维持在运动员标准。"
+    },
+    "Content_Interests": [
+      "追踪Gartner技术成熟度曲线",
+      "收集各国数据中心建设白皮书",
+      "偶尔看硬核科幻电影解压"
+    ]
+  }
+}

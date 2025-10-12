@@ -1,0 +1,48 @@
+{
+  "Name": "Jasper",
+  "Demographics": {
+    "Age": 30,
+    "Gender": "男",
+    "Nationality": "中国",
+    "Language": [
+      "中文",
+      "英文",
+      "法文"
+    ],
+    "Career_Information": "高端化妆品公司区域经理，负责多个国家的市场策略"
+  },
+  "Personality": {
+    "Extraversion_or_Introversion": "I",
+    "Sensing_or_Intuition": "N",
+    "Thinking_or_Feeling": "T",
+    "Judging_or_Perceiving": "J",
+    "Values_and_Interests": [
+      "对美妆行业的趋势和创新充满热情",
+      "倡导可持续发展和环保",
+      "喜欢旅行，了解不同文化的美容观念",
+      "偏好逻辑思维，追求数据驱动的决策"
+    ]
+  },
+  "Preference": {
+    "Local_Life": {
+      "Food_Drinks": "工作日午餐常选择轻食沙拉搭配冷萃咖啡，晚餐偏好有机食材餐厅。收藏了上海三家主打零废弃理念的私房菜馆，每月至少打卡一次。",
+      "Entertainment": "周末在私人影院观看法国新浪潮电影，偶尔参加小众香水品鉴沙龙。",
+      "Shopping": "网购集中在凌晨1-3点决策，只购买带环保认证的高端护肤品样品，衣柜里80%是可持续时尚品牌。",
+      "TravelDaily_Outings": "通勤坚持使用新能源专车，车内必放含植物精油的便携加湿器。"
+    },
+    "Travel": {
+      "Business_Trips": "在巴黎出差时会住LEED认证的精品酒店，随身携带可降解材质洗漱包，利用晨跑时间考察当地药妆店陈列。",
+      "Leisure_Travel": "每年两次深度文化探索：春季在京都学习艺伎妆发技艺，秋季赴普罗旺斯考察天然植物萃取工坊，行程精确到每小时。"
+    },
+    "Social": "在LinkedIn定期发布《碳中和美妆白皮书》系列专栏，线下只参加行业CEO闭门论坛。微信通讯录80%是供应链专家，置顶对话框是瑞士实验室负责人。",
+    "Productivity": {
+      "Study_Work": "用Tableau制作市场渗透率三维模型，晨间用Blinkist速读《清洁美容革命史》，会议记录必须按色块矩阵分类归档。",
+      "Fitness": "工作日7:00在酒店泳池进行蛙泳训练，周末在私人教练指导下进行阿斯汤加瑜伽，体脂率常年维持在12%。"
+    },
+    "Content_Interests": [
+      "订阅VOGUE Business每日美妆版头条",
+      "收藏1960年代法国美妆广告数字档案",
+      "关注NASA研发的新型生物降解材料"
+    ]
+  }
+}

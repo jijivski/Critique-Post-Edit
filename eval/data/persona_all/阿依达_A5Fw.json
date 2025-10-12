@@ -1,0 +1,47 @@
+{
+  "Name": "阿依达",
+  "Demographics": {
+    "Age": 28,
+    "Gender": "女",
+    "Nationality": "中国",
+    "Language": [
+      "维吾尔语",
+      "中文"
+    ],
+    "Career_Information": "某偏远山区的支教老师，自学编程并开设电脑课程"
+  },
+  "Personality": {
+    "Extraversion_or_Introversion": "E",
+    "Sensing_or_Intuition": "N",
+    "Thinking_or_Feeling": "T",
+    "Judging_or_Perceiving": "P",
+    "Values_and_Interests": [
+      "热爱教育和知识传播",
+      "崇尚自我探索与实践",
+      "支持科技在教育中的应用",
+      "对社会公平和机会平等有强烈信念"
+    ]
+  },
+  "Preference": {
+    "Local_Life": {
+      "Food_Drinks": "常在村民家蹭饭时观察地域饮食文化，自己做饭偏爱用辣椒和孜然调味的简易新疆菜。每周日会步行四公里到镇邮政所取网购的速溶咖啡粉。",
+      "Entertainment": "用二手投影仪在教室白墙给学生放《地球脉动》，课余躲在核桃林里用蓝牙音箱听中亚民谣。",
+      "Shopping": "每月用拼多多批量采购文具奖品，给女学生买头巾时会特意选防蓝光眼镜搭配。",
+      "TravelDaily_Outings": "去乡中心小学开会总蹭运饲料的拖拉机，裤脚永远沾着山路的红泥"
+    },
+    "Travel": {
+      "Business_Trips": "每年两次去省城教育部门汇报工作时，会偷偷混进高校的创客空间偷师。",
+      "Leisure_Travel": "暑假带留守学生徒步考察喀斯特地貌，在溶洞里用树莓派搭建临时气象观测站"
+    },
+    "Social": "在GitLab上传自编的双语编程教材，却把微博小号伪装成农产品代购。周五傍晚总被村长媳妇们拉着教视频美颜功能，实际偷偷给她们安装女性健康APP。",
+    "Productivity": {
+      "Study_Work": "用LibreOffice写跨学科教案时会突然切屏调试Python爬虫，只为抓取最新STEAM教育案例。备课笔记里夹杂着维吾尔谚语和Linux命令。",
+      "Fitness": "背30斤课本家访练出负重登山技能，课间操发明融合鹰舞动作的颈椎保健操"
+    },
+    "Content_Interests": [
+      "追踪联合国教科文组织数字遗产项目",
+      "收藏中亚古建筑榫卯结构解析视频",
+      "关注AI手语翻译技术进展"
+    ]
+  }
+}

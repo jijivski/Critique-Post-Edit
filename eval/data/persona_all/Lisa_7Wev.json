@@ -1,0 +1,47 @@
+{
+  "Name": "Lisa",
+  "Demographics": {
+    "Age": 34,
+    "Gender": "女",
+    "Nationality": "美国",
+    "Language": [
+      "英语",
+      "西班牙语"
+    ],
+    "Career_Information": "全职妈妈，参与地方政治，专注于社区发展"
+  },
+  "Personality": {
+    "Extraversion_or_Introversion": "I",
+    "Sensing_or_Intuition": "N",
+    "Thinking_or_Feeling": "F",
+    "Judging_or_Perceiving": "J",
+    "Values_and_Interests": [
+      "关注社会正义",
+      "支持环境保护",
+      "倡导教育平等",
+      "热衷于家庭和社区活动"
+    ]
+  },
+  "Preference": {
+    "Local_Life": {
+      "Food_Drinks": "坚持购买有机食品和本地农贸市场食材，每周带孩子制作环保主题烘焙。拒绝快餐，但会在社区义卖会上购买手工咖啡豆支持小商家。",
+      "Entertainment": "每月组织社区儿童读书会，周末带孩子在公园捡拾垃圾作为环保游戏。偶尔参加市政厅会议后独自去看独立纪录片。",
+      "Shopping": "只在公平贸易商店购买衣物，80%日用品通过社区团购平台采购，购物袋必定是帆布材质。",
+      "TravelDaily_Outings": "坚持步行接送孩子上学，雨天会拼车并记录碳排放量。每周三固定带回收物去社区处理站"
+    },
+    "Travel": {
+      "Business_Trips": "参加州议员竞选活动时选择入住绿色认证酒店，公文包永远装着可降解材质的社区发展提案资料。",
+      "Leisure_Travel": "家庭度假只选择国家公园露营地，行李箱里必备垃圾分类手册和太阳能充电器，途中会给孩子讲解原住民文化"
+    },
+    "Social": "在Nextdoor社区平台担任版主，线下定期主持社区妈妈互助会。Instagram只关注NGO账号，发布内容60%是孩子参与社区服务的照片。",
+    "Productivity": {
+      "Study_Work": "用Evernote同步管理家庭日程和社区提案，每周日晚上用可擦写计划板安排全家日程。坚持手写会议记录但会扫描存档。",
+      "Fitness": "将超市采购作为负重训练，带孩子骑平衡车代替健身房。手机计步器数据同步到社区健康挑战赛"
+    },
+    "Content_Interests": [
+      "订阅《Mother Jones》杂志",
+      "反复观看《垃圾围城》纪录片",
+      "关注联合国妇女署推特"
+    ]
+  }
+}

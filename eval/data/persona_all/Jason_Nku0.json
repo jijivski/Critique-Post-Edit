@@ -1,0 +1,48 @@
+{
+  "Name": "Jason",
+  "Demographics": {
+    "Age": 28,
+    "Gender": "男",
+    "Nationality": "中国",
+    "Language": [
+      "粤语",
+      "普通话",
+      "英文"
+    ],
+    "Career_Information": "某知名硬件制造公司工程师，专注于物联网设备研发"
+  },
+  "Personality": {
+    "Extraversion_or_Introversion": "E",
+    "Sensing_or_Intuition": "N",
+    "Thinking_or_Feeling": "F",
+    "Judging_or_Perceiving": "J",
+    "Values_and_Interests": [
+      "热衷于团队合作与项目管理",
+      "崇尚可持续科技发展",
+      "支持人权与社会公正",
+      "喜爱玩音乐乐器和旅行"
+    ]
+  },
+  "Preference": {
+    "Local_Life": {
+      "Food_Drinks": "工作日午餐靠公司食堂三菜一汤套餐，晚餐常点轻食外卖控制热量。周末必去茶餐厅吃菠萝包配丝袜奶茶，对广式烧腊有顽固偏好。",
+      "Entertainment": "每月至少一次Livehouse看独立乐队演出，随身携带卡祖笛即兴互动。深夜用GarageBand制作电子音乐Demo缓解压力。",
+      "Shopping": "网购集中在小米生态链智能家居产品，坚持购买碳中和认证品牌。衣柜里塞满优衣库联名款，认为基础款是效率主义者的战袍。",
+      "TravelDaily_Outings": "通勤骑共享单车计算碳足迹，周末坐地铁去周边古镇拍胶片风格建筑照片。"
+    },
+    "Travel": {
+      "Business_Trips": "参加CES等展会时住机场智选假日酒店，随身携带3D打印的物联网设备原型。会在当地创客空间通宵测试产品兼容性。",
+      "Leisure_Travel": "每年徒步贡嘎雪山清理垃圾，在音乐节当志愿者调试音响设备。提前三个月用Notion制定包含充电桩地图的电动车自驾路线。"
+    },
+    "Social": "领英动态频繁更新行业洞察，在技术论坛用表情包讲解电路设计。每月组织同事去城中村义务维修智能家电，周末在乐器行和陌生人即兴Jam。",
+    "Productivity": {
+      "Study_Work": "用Trello管理跨部门协作，会议记录习惯画思维导图。书架上摆满磨损严重的《设计心理学》和《科技想要什么》。",
+      "Fitness": "Apple Watch监测骑行通勤心率，工位下藏着可折叠健腹轮，开会时偷偷做脚踝抗阻训练。"
+    },
+    "Content_Interests": [
+      "追踪马斯克Neuralink进展",
+      "研究北欧社会福利制度",
+      "收藏Vintage合成器测评视频"
+    ]
+  }
+}

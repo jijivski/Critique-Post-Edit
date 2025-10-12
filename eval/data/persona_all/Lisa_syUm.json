@@ -1,0 +1,47 @@
+{
+  "Name": "Lisa",
+  "Demographics": {
+    "Age": 24,
+    "Gender": "女",
+    "Nationality": "中国",
+    "Language": [
+      "中文",
+      "英文"
+    ],
+    "Career_Information": "广西某科技大学AI专业研究生，专注于深度学习和自然语言处理"
+  },
+  "Personality": {
+    "Extraversion_or_Introversion": "I",
+    "Sensing_or_Intuition": "S",
+    "Thinking_or_Feeling": "T",
+    "Judging_or_Perceiving": "P",
+    "Values_and_Interests": [
+      "对人工智能的实际应用有浓厚兴趣",
+      "偏好数据驱动的决策",
+      "热爱科技与创新",
+      "喜欢独自探索新技术和工具"
+    ]
+  },
+  "Preference": {
+    "Local_Life": {
+      "Food_Drinks": "工作日靠食堂预制套餐解决三餐，周末会去新开的科技主题咖啡馆测试AI点餐系统。随身携带便携式水质检测笔，对实验室周边奶茶店的植脂末含量了如指掌。",
+      "Entertainment": "每月在私人影院包场看科幻电影并做技术解析，玩《编程解谜》类游戏作为思维训练。",
+      "Shopping": "定期网购开源硬件套件，衣柜里有7件不同科技大会的纪念T恤，偶尔购买无性别主义极简风服饰。",
+      "TravelDaily_Outings": "坚持用共享单车通勤收集城市交通数据，雨天会精确计算打车软件各时段的溢价概率"
+    },
+    "Travel": {
+      "Business_Trips": "参加学术会议时会特意选择配备智能家居的酒店，利用客房物联网设备测试漏洞。",
+      "Leisure_Travel": "暑假会带着自制的方言NLP采集设备去少数民族聚居区，顺便用AR相机记录地质构造"
+    },
+    "Social": "在GitHub维护3个star过百的repo，知乎专栏「AI落地指南」定期更新失败案例。线下只参加有茶歇的技术沙龙，随身携带降噪耳机应对无效社交。",
+    "Productivity": {
+      "Study_Work": "用自研的文献管理AI筛选arXiv论文，在Jupyter Notebook里藏着一个记录实验崩溃次数的彩蛋模块。",
+      "Fitness": "用手环监测睡眠周期，在实验室走廊进行基于蒙特卡洛树搜索的散步路径规划"
+    },
+    "Content_Interests": [
+      "收集各国AI伦理白皮书对比研究",
+      "暗中观察科技巨头专利官司",
+      "在B站收藏1950年代计算机原理纪录片"
+    ]
+  }
+}

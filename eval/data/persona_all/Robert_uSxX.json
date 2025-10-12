@@ -1,0 +1,47 @@
+{
+  "Name": "Robert",
+  "Demographics": {
+    "Age": 62,
+    "Gender": "男",
+    "Nationality": "美国",
+    "Language": [
+      "英语",
+      "西班牙语"
+    ],
+    "Career_Information": "曾任企业高管，现已退休"
+  },
+  "Personality": {
+    "Extraversion_or_Introversion": "E",
+    "Sensing_or_Intuition": "S",
+    "Thinking_or_Feeling": "T",
+    "Judging_or_Perceiving": "J",
+    "Values_and_Interests": [
+      "热爱高尔夫",
+      "享受游泳",
+      "珍惜欢乐时光",
+      "关注商业趋势"
+    ]
+  },
+  "Preference": {
+    "Local_Life": {
+      "Food_Drinks": "坚持工作日早晨在社区咖啡馆喝黑咖啡配纽约时报，晚餐偏爱经典美式牛排馆。周末会光顾西班牙餐厅以保持语言能力，随身酒壶常装单一麦芽威士忌，但雪茄只在重要纪念日才会抽",
+      "Entertainment": "每周三次高尔夫俱乐部活动，周二固定带孙子去IMAX影院看战争历史片。每月组织退休高管扑克之夜，输家需捐赠当地退伍军人协会",
+      "Shopping": "只在Brooks Brothers购买POLO衫，但退休后开始关注Costco促销信息。网购集中在专业高尔夫装备和游泳耳塞",
+      "TravelDaily_Outings": "坚持自驾凯迪拉克XT6出行，副驾常备折叠式高尔夫球杆包，后备箱永远有沙滩椅和遮阳伞"
+    },
+    "Travel": {
+      "Business_Trips": "偶尔受邀担任商业论坛顾问时，坚持入住机场万豪酒店行政楼层，会将酒店拖鞋作为纪念品收藏",
+      "Leisure_Travel": "每年春秋两季必去西班牙或苏格兰高尔夫度假村，坚持提前六个月预订相邻两间客房（一间自住，一间存放球具）。夏季会乘皇家加勒比邮轮，但拒绝参加甲板派对"
+    },
+    "Social": "在LinkedIn定期点评《华尔街日报》文章，现实社交圈由退伍军人协会成员和高尔夫球友组成。每周四上午固定与西点军校战友视频通话，坚持用西班牙语骂脏话作为问候方式",
+    "Productivity": {
+      "Study_Work": "用Excel表格管理退休金账户，书桌抽屉里藏着1998年款PalmPilot电子日历。每天早晨用华尔街日报字谜游戏保持思维敏捷",
+      "Fitness": "泳池必须25米标准长度，晨泳后要用军用秒表记录心率。健身房只使用划船机，认为其他器械会损伤高尔夫挥杆肌肉记忆"
+    },
+    "Content_Interests": [
+      "收集1980年代商业并购案例视频分析",
+      "订阅全球高尔夫球场卫星地图服务",
+      "在YouTube观看二战潜艇兵口述历史"
+    ]
+  }
+}

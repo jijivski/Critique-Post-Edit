@@ -1,0 +1,48 @@
+{
+  "Name": "Emily",
+  "Demographics": {
+    "Age": 29,
+    "Gender": "女",
+    "Nationality": "美国",
+    "Language": [
+      "英语",
+      "西班牙语"
+    ],
+    "Career_Information": "自由职业网页开发者，专注于创建互动健身平台和用户友好界面"
+  },
+  "Personality": {
+    "Extraversion_or_Intraversion": "E",
+    "Sensing_or_Intuition": "S",
+    "Thinking_or_Feeling": "T",
+    "Judging_or_Perceiving": "P",
+    "Values_and_Interests": [
+      "热爱运动和健身",
+      "欣赏简约设计",
+      "倡导健康生活方式",
+      "偏爱直接有效的沟通方式"
+    ]
+  },
+  "Preference": {
+    "Local_Life": {
+      "Food_Drinks": "工作日摄入高蛋白轻食和冷压果汁，偏爱有机超市采购食材；周末会去新开的健康餐厅探店，但遇到项目截止期时靠蛋白棒和代餐奶昔续命。唯一放纵是每月一次的牛肉汉堡配精酿啤酒，之后必然加倍健身消耗热量。",
+      "Entertainment": "每周三参加本地CrossFit社群训练，周五晚在公寓顶楼露天泳池边看设计类纪录片。对酒吧夜店嗤之以鼻，但会为了研究UI动效玩健身环大冒险到凌晨。",
+      "Shopping": "在Everlane和Outdoor Voices官网定期补货基础款运动服，亚马逊订阅智能水壶替换滤芯。逛家具店只拍下极简主义家居设计作为灵感，实际购买决策需经过三次比价才会下单。",
+      "TravelDaily_Outings": "骑电动滑板车去共享办公空间，途中在精品咖啡店外带冷萃咖啡。午休必去三个街区外的智能健身房完成今日训练计划。"
+    },
+    "Travel": {
+      "Business_Trips": "参加网页设计峰会时选择带健身房的商务酒店，利用会议间隙在酒店泳池完成晨泳。随身携带降噪耳机应对航班延误，候机时用Figma修改客户提案。",
+      "Leisure_Travel": "年度假期必去有徒步路线的国家公园，最近迷上哥斯达黎加冲浪营。旅行箱里永远塞着折叠瑜伽垫和运动追踪器，但会故意不带笔记本电脑制造断网时间。"
+    },
+    "Social": "在LinkedIn主动分享健身科技产品测评，线下定期组织用户体验设计研讨会。对低效社交零容忍，遇到话痨客户时会假装Apple Watch收到健身提醒借故离场。Tinder资料写着'寻找能一起做波比跳的约会对象'。",
+    "Productivity": {
+      "Study_Work": "用Figma制作可交互原型时同步开着Trello看板，浏览器常驻Notion知识库标签页。会将客户需求拆解成30分钟任务块，用番茄钟配合站立办公桌完成。",
+      "Fitness": "Apple Watch全天监测活动圆环，MyFitnessPal记录每口食物，但拒绝参加同事的步数挑战赛，认为'数据可视化不该沦为社交货币'。"
+    },
+    "Content_Interests": [
+      "订阅UX Collective和Smashing Magazine",
+      "关注运动生理学播客Huberman Lab",
+      "收藏TikTok上#GamifiedFitness挑战视频",
+      "深夜刷Reddit的MealPrepSunday板块"
+    ]
+  }
+}

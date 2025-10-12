@@ -1,0 +1,47 @@
+{
+  "Name": "小雨",
+  "Demographics": {
+    "Age": 24,
+    "Gender": "女",
+    "Nationality": "中国",
+    "Language": [
+      "中文",
+      "日语"
+    ],
+    "Career_Information": "动画工作室分镜师，擅长将剧本转化为动态画面，常为角色微表情设计通宵工作"
+  },
+  "Personality": {
+    "Extraversion_or_Introversion": "E",
+    "Sensing_or_Intuition": "N",
+    "Thinking_or_Feeling": "F",
+    "Judging_or_Perceiving": "J",
+    "Values_and_Interests": [
+      "在二手平台交易手办时会优先考虑包装完整性",
+      "坚持用玻璃饭盒自带午餐上班",
+      "认为宫崎骏动画里的飞行器具有哲学意义",
+      "给小橘定制了可降解猫砂盆"
+    ]
+  },
+  "Preference": {
+    "Local_Life": {
+      "Food_Drinks": "每周三固定去社区素食餐厅支持环保计划，对日式茶泡饭情有独钟，喝咖啡时坚持自带竹纤维杯套",
+      "Entertainment": "每月至少两次独自包场看动画电影，会带着分镜本临摹运镜，周末在手工坊用废布料改造猫咪玩具",
+      "Shopping": "在闲鱼蹲守绝版手办时计算碳足迹，固定购买无包装替换装洗衣液，收集动画公司官方废稿拍卖品",
+      "TravelDaily_Outings": "骑共享单车往返工作室时会特意绕行樱花道，雨天抱着小橘坐公交时会给猫包垫手绘坐垫"
+    },
+    "Travel": {
+      "Business_Trips": "参加东京动画展时会住胶囊旅馆，随身携带可折叠硅胶碗给小橘喂食",
+      "Leisure_Travel": "冬季去北海道寻找《银狐》取景地，提前三个月规划JR PASS最省碳排放路线"
+    },
+    "Social": "在LOFTER连载《分镜师观察日志》漫画，线下组织「废弃物料改造手办底座」工作坊，定期向流浪猫救助站捐赠画稿义卖",
+    "Productivity": {
+      "Study_Work": "用Procreate在iPad上绘制动态分镜，纸质工作笔记永远用单面打印废纸装订，电脑贴满工作室淘汰的角色贴纸",
+      "Fitness": "跟着《美少女战士》片尾曲跳减脂操，每晚用逗猫棒和小橘玩半小时当作有氧运动"
+    },
+    "Content_Interests": [
+      "收藏吉卜力工作室未采用的分镜集",
+      "研究昭和年代动画赛璐璐片处理技术",
+      "关注京都动画火灾后修复进展纪录片"
+    ]
+  }
+}

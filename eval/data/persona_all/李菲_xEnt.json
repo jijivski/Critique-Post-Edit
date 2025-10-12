@@ -1,0 +1,47 @@
+{
+  "Name": "李菲",
+  "Demographics": {
+    "Age": 24,
+    "Gender": "女",
+    "Nationality": "中国",
+    "Language": [
+      "中文",
+      "英语"
+    ],
+    "Career_Information": "基因检测实验室技术员，负责生物信息学数据建模与基因序列分析"
+  },
+  "Personality": {
+    "Extraversion_or_Introversion": "E",
+    "Sensing_or_Intuition": "S",
+    "Thinking_or_Feeling": "F",
+    "Judging_or_Perceiving": "J",
+    "Values_and_Interests": [
+      "坚信基因技术能改变人类未来",
+      "享受实验室集体协作氛围",
+      "用科学方法论指导生活决策",
+      "在多肉植物培育中实践观察记录"
+    ]
+  },
+  "Preference": {
+    "Local_Life": {
+      "Food_Drinks": "工作日午餐习惯在实验室食堂与同事边吃边讨论项目，下班后常光顾写字楼下的健康轻食餐厅，周末会特意探访有绿植装饰的网红咖啡馆拍照打卡",
+      "Entertainment": "每月至少两次去花卉市场挑选多肉，周五晚上固定参加生物医药圈电影沙龙，偶尔在手工市集尝试植物标本DIY",
+      "Shopping": "淘宝主要购买实验室专用笔记本和便携式显微镜，拼多多收藏了27家多肉店铺，愿意为稀有品种支付溢价但会详细比价",
+      "TravelDaily_Outings": "通勤坚持骑共享单车观察街边绿植，周末常去市植物园进行多肉生长环境调研"
+    },
+    "Travel": {
+      "Business_Trips": "参加基因检测峰会时会提前研究当地生物科技园区，用午餐时间与同行交换实验室管理经验",
+      "Leisure_Travel": "年假必选生态保护区，行李箱常备便携式培养皿用于收集特殊土壤样本，住宿偏好有植物温房的民宿"
+    },
+    "Social": "在实验室担任新人导师，组建了50人规模的多肉爱好者微信群，微博专门记录#菲常观察日记#话题，但拒绝参加无主题的聚餐活动",
+    "Productivity": {
+      "Study_Work": "用GraphPad精准记录实验数据，手机存有237条多肉生长周期语音备忘录，办公桌按实验器材标准分类收纳文具",
+      "Fitness": "早晨用瑜伽唤醒身体感知力，运动手环设定每小时提醒检查植物光照"
+    },
+    "Content_Interests": [
+      "追踪《Nature》基因编辑专栏",
+      "研究不同波长LED对多肉显色影响",
+      "收藏1960年代实验室纪录片"
+    ]
+  }
+}

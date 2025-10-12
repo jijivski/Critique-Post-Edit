@@ -1,0 +1,43 @@
+### model
+model_name_or_path: /mnt/data/end_side/model/Qwen2.5-3B-Instruct
+trust_remote_code: true
+
+### method
+stage: dpo
+do_train: true
+finetuning_type: full
+pref_beta: 0.2
+pref_ftx: 0.1
+pref_loss: sigmoid # choices: [sigmoid (dpo), orpo, simpo]
+deepspeed: examples/deepspeed/ds_z3_config.json
+
+### dataset
+dataset: dpo
+template: qwen
+cutoff_len: 8192
+overwrite_cache: true
+preprocessing_num_workers: 16
+
+### output
+output_dir: /mnt/data/chenghao/rollout_rephrase/LLaMA-Factory/save/dpo/test3_E1_CLR1e-5_BSZ128_MiniBSZ64_ALR1e-6_rolloutN2_4omini_edit_tmp_0_9_sft_1e-6_epoch1_wp0.1_bs128_sigmoid_beta0.2_ftx0.1
+logging_steps: 10
+save_steps: 50
+plot_loss: true
+overwrite_output_dir: true
+
+### train
+per_device_train_batch_size: 1
+gradient_accumulation_steps: 16
+learning_rate: 1.0e-6
+num_train_epochs: 1.0
+lr_scheduler_type: cosine
+warmup_ratio: 0.1
+bf16: true
+ddp_timeout: 180000000
+
+### eval
+# val_size: 0.1
+# per_device_eval_batch_size: 1
+# eval_strategy: steps
+# eval_steps: 500
+

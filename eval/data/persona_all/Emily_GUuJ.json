@@ -1,0 +1,47 @@
+{
+  "Name": "Emily",
+  "Demographics": {
+    "Age": 30,
+    "Gender": "女",
+    "Nationality": "中国",
+    "Language": [
+      "中文",
+      "英文"
+    ],
+    "Career_Information": "高校计算机科学讲师，专注于人工智能和数据分析"
+  },
+  "Personality": {
+    "Extraversion_or_Introversion": "I",
+    "Sensing_or_Intuition": "N",
+    "Thinking_or_Feeling": "T",
+    "Judging_or_Perceiving": "J",
+    "Values_and_Interests": [
+      "对技术的未来发展持悲观态度",
+      "倾向于支持个人隐私权",
+      "热衷于推动女性参与科技领域",
+      "喜欢阅读科幻小说和参与技术讲座"
+    ]
+  },
+  "Preference": {
+    "Local_Life": {
+      "Food_Drinks": "工作日用美团点轻食沙拉外卖，周末会去独立咖啡馆阅读纸质书。对融合科技元素的分子料理餐厅有探索欲，但实际消费控制在每月1次",
+      "Entertainment": "定期参加科技馆的AI主题展览，每月独自观看科幻电影首映场次",
+      "Shopping": "通过京东购买电子设备前会进行3个月的数据比价，衣柜里80%为无LOGO基础款，偏好使用加密货币支付隐私敏感类消费",
+      "TravelDaily_Outings": "坚持步行通勤（距学校1.5公里），雨天使用滴滴时必选隐私保护模式"
+    },
+    "Travel": {
+      "Business_Trips": "参加国际会议时选择距会场500米内的四星级酒店，利用茶歇时间观察各国学者的技术伦理争论",
+      "Leisure_Travel": "每年前往1个具有科幻地标属性的城市（如重庆洪崖洞/贵阳FAST望远镜），行程精确到30分钟单位"
+    },
+    "Social": "在GitHub维护女性开发者互助项目，知乎专栏『技术棱镜』拥有2.3万关注者。线下仅限于参加不超过10人的科技伦理研讨会，随身携带电磁屏蔽袋存放手机",
+    "Productivity": {
+      "Study_Work": "使用Notion搭建跨平台知识库，为每篇论文创建三维影响力图谱。课堂板书坚持手写推导过程以对抗AI依赖症",
+      "Fitness": "每周3次清晨瑜伽，用Apple Watch监测压力值但拒绝上传云端"
+    },
+    "Content_Interests": [
+      "深度追踪《Nature Machine Intelligence》的算法伦理专栏",
+      "收集80年代国产科幻连环画",
+      "研究日本机器人动画中的技术隐喻"
+    ]
+  }
+}

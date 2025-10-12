@@ -1,0 +1,48 @@
+{
+  "Name": "Sophia",
+  "Demographics": {
+    "Age": 24,
+    "Gender": "女",
+    "Nationality": "美国",
+    "Language": [
+      "英语",
+      "法语"
+    ],
+    "Career_Information": "美国一流大学研究生，专攻现代司法与社会政策"
+  },
+  "Personality": {
+    "Extraversion_or_Introversion": "I",
+    "Sensing_or_Intuition": "N",
+    "Thinking_or_Feeling": "T",
+    "Judging_or_Perceiving": "P",
+    "Values_and_Interests": [
+      "关注社会公平与正义",
+      "对数据分析与量化研究充满热情",
+      "支持刑事司法改革",
+      "热爱阅读心理学和政治学书籍"
+    ]
+  },
+  "Preference": {
+    "Local_Life": {
+      "Food_Drinks": "工作日习惯在学校咖啡厅买黑咖啡配三明治，周末会去社区有机餐厅支持本地农业。对食物碳足迹有执念，拒绝连锁快餐。",
+      "Entertainment": "每月固定参加社区图书馆的犯罪题材读书会，偶尔独自去艺术影院看社会议题纪录片。",
+      "Shopping": "网购二手教材和绝版学术著作，衣橱里全是黑白灰三色的模块化穿搭单品。在Etsy购买手工司法天平摆件作为书桌装饰。",
+      "TravelDaily_Outings": "坚持骑自行车通勤，随身携带可折叠电动滑板应对紧急行程。周末常去布鲁克林刑事法庭旁听真实案件审理。"
+    },
+    "Travel": {
+      "Business_Trips": "参加刑事司法研讨会时会入住会议酒店，但坚持每天晨跑探索周边社区治安状况。",
+      "Leisure_Travel": "假期选择自驾探访民权运动历史遗迹，随身携带《美国宪政历程》对照现实场景做批注。"
+    },
+    "Social": "在LinkedIn分享量刑算法研究，在Reddit匿名版辩论监狱私有化问题。线下只参加法律援助志愿者活动，拒绝任何形式的办公室八卦闲聊。",
+    "Productivity": {
+      "Study_Work": "用Notion搭建刑事案例数据库，R语言处理量刑差异数据时会在代码注释里写辛辣社会评论。坚持手写庭审观察笔记并扫描存档。",
+      "Fitness": "通过冥想调节理性思维过载，用Apple Watch监测压力值，当心率变异率低于临界点时自动触发图书馆自习模式。"
+    },
+    "Content_Interests": [
+      "收集各州监狱改革白皮书",
+      "订阅《大西洋月刊》司法专栏",
+      "反复观看《杀戮演绎》并制作结构主义分析表",
+      "在Spotify创建名为「法理悖论」的播客清单"
+    ]
+  }
+}

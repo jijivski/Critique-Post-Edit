@@ -1,0 +1,47 @@
+{
+  "Name": "Edward",
+  "Demographics": {
+    "Age": 42,
+    "Gender": "男",
+    "Nationality": "英国",
+    "Language": [
+      "英语",
+      "德语"
+    ],
+    "Career_Information": "历史学家，专注于20世纪英国公务员制度研究，常参与政府档案解密项目"
+  },
+  "Personality": {
+    "Extraversion_or_Introversion": "I",
+    "Sensing_or_Intuition": "S",
+    "Thinking_or_Feeling": "T",
+    "Judging_or_Perceiving": "J",
+    "Values_and_Interests": [
+      "认为下午茶时间神圣不可侵犯",
+      "坚持用钢笔手写研究笔记",
+      "鄙视现代化改造的历史景点",
+      "定期向《泰晤士报》投书批评政府档案开放政策"
+    ]
+  },
+  "Preference": {
+    "Local_Life": {
+      "Food_Drinks": "工作日午餐在剑桥大学教师餐厅解决，周末固定光顾舰队街的老派酒馆。坚持用骨瓷茶具喝早餐茶，对连锁咖啡店的纸杯深恶痛绝。",
+      "Entertainment": "每月第三个周六参观国家档案馆未公开区域，周三晚在BBC历史频道观看二战纪录片重播。",
+      "Shopping": "只在查令十字街二手书店采购绝版历史文献，定制西装必选萨维尔街百年老店。",
+      "TravelDaily_Outings": "坚持步行或搭乘伦敦地铁环线，认为Uber是破坏城市交通生态的元凶"
+    },
+    "Travel": {
+      "Business_Trips": "每年两次赴柏林查阅冷战时期档案，下榻学院合作的老式招待所，拒绝使用酒店保险箱而自备铁皮文件箱。",
+      "Leisure_Travel": "暑期自驾探访苏格兰废弃军事碉堡，提前三个月规划路线并预订乡村民宿，要求房东必须能说标准牛津英语。"
+    },
+    "Social": "在LinkedIn仅与帝国战争博物馆馆长互关，参加学术沙龙时永远坐在第二排靠过道位置。用1920年代制式的烟斗作为社交道具，实际只用来夹便签条。",
+    "Productivity": {
+      "Study_Work": "用Zotero整理1901-1997年公务员薪资数据，Excel表格精确到便士单位。写作时强制关闭所有电子设备，打字机旁必备放大镜和直尺。",
+      "Fitness": "每天傍晚在圣詹姆斯公园逆时针绕湖三周，随身携带计步器但拒绝连接智能手机。"
+    },
+    "Content_Interests": [
+      "解密档案交叉验证",
+      "英联邦国家宪政演变",
+      "狄更斯小说中的官僚主义隐喻"
+    ]
+  }
+}

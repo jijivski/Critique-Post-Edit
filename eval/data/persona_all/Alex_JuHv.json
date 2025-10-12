@@ -1,0 +1,47 @@
+{
+  "Name": "Alex",
+  "Demographics": {
+    "Age": 30,
+    "Gender": "男",
+    "Nationality": "美国",
+    "Language": [
+      "英语",
+      "西班牙语"
+    ],
+    "Career_Information": "自由职业者，专注于游戏开发和数字艺术创作"
+  },
+  "Personality": {
+    "Extraversion_or_Introversion": "E",
+    "Sensing_or_Intuition": "S",
+    "Thinking_or_Feeling": "T",
+    "Judging_or_Perceiving": "P",
+    "Values_and_Interests": [
+      "热爱复古游戏",
+      "喜欢收集老游戏机",
+      "认为现代游戏缺乏创新",
+      "推崇独立游戏开发"
+    ]
+  },
+  "Preference": {
+    "Local_Life": {
+      "Food_Drinks": "习惯用披萨和能量饮料解决工作餐，但每周会去一次独立游戏主题咖啡馆，边喝美式咖啡边调试代码。深夜创作时沉迷于墨西哥卷饼外卖。",
+      "Entertainment": "定期参加本地复古游戏玩家聚会，在二手商店淘卡带时会和店主聊90年代游戏秘闻。周四晚上固定去街机酒吧挑战《吃豆人》高分榜。",
+      "Shopping": "70%网购预算花在eBay竞拍稀有游戏机，其余用于购买数位板耗材。衣橱里全是游戏主题T恤，认为正装是‘反人类设计’。",
+      "TravelDaily_Outings": "骑改装过的公路自行车去旧货市场，车把挂着装有GameBoy的防水包，等红灯时也要玩两局《俄罗斯方块》"
+    },
+    "Travel": {
+      "Business_Trips": "每年飞两次西海岸参加独立游戏展，总把商务酒店升级成带游戏室的民宿，行李箱里永远装着可折叠的CRT显示器。",
+      "Leisure_Travel": "专程去日本秋叶原淘中古游戏，却在街角发现了更好的秘宝——昭和时代街机维修店老板的毕生笔记。"
+    },
+    "Social": "在Twitter用像素风头像讨论游戏设计原理，现实中最长的对话发生在维修雅达利2600时与五金店老板的焊接技术辩论。参加开发者沙龙只为寻找能用红白机芯片做电子乐的程序员。",
+    "Productivity": {
+      "Study_Work": "用Trello管理项目却从不按计划执行，老式拍纸簿上画满游戏机制脑图。坚持用开源软件创作，声称‘Adobe是创意的裹脚布’。",
+      "Fitness": "把《健身环大冒险》改造接入自己开发的8-bit音效模组，但通关后就让环在墙角吃灰三个月"
+    },
+    "Content_Interests": [
+      "研究16-bit色彩限制下的视觉叙事",
+      "追踪全球独立游戏破解小组的创意hack",
+      "订阅80年代任天堂开发者的口述史播客"
+    ]
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "Name": "Aamir",
+  "Demographics": {
+    "Age": 24,
+    "Gender": "男",
+    "Nationality": "巴基斯坦",
+    "Language": [
+      "乌尔都语",
+      "英语"
+    ],
+    "Career_Information": "巴基斯坦军事学院毕业生，现为安全分析师"
+  },
+  "Personality": {
+    "Extraversion_or_Introversion": "I",
+    "Sensing_or_Intuition": "N",
+    "Thinking_or_Feeling": "T",
+    "Judging_or_Perceiving": "P",
+    "Values_and_Interests": [
+      "对军事战略和国际关系感兴趣",
+      "持怀疑态度，倾向于批判性思维",
+      "支持技术在安全领域的应用",
+      "热爱阅读历史和科幻小说"
+    ]
+  },
+  "Preference": {
+    "Local_Life": {
+      "Food_Drinks": "工作日以军营食堂简餐为主，偏爱辛辣的巴基斯坦传统咖喱和烤馕；深夜分析数据时会冲泡浓咖啡并搭配坚果零食，拒绝含糖饮料以保持思维清醒。",
+      "Entertainment": "每月在军事俱乐部玩战争模拟沙盘游戏，周末独自观看冷战纪录片或科幻电影，认为《三体》的黑暗森林理论具有现实隐喻。",
+      "Shopping": "网购集中在军用级户外装备和加密电子设备，曾在暗网论坛购买二手战术背心，对品牌溢价持嘲讽态度。",
+      "TravelDaily_Outings": "驾驶改装过的二手铃木摩托车通勤，车上装有自制的GPS干扰器实验装置。"
+    },
+    "Travel": {
+      "Business_Trips": "定期参与伊斯兰堡反恐技术研讨会，总选择距离会场3公里内的高安保酒店，用假名登记入住。",
+      "Leisure_Travel": "休假时独自前往古印度河文明遗址考察，携带盖革计数器在边境地区寻找冷战时期遗留的军事设施。"
+    },
+    "Social": "在Telegram加密频道参与地缘政治推演，现实社交仅限于军校同期生组成的五人小组，每年在奎达的射击场聚会。",
+    "Productivity": {
+      "Study_Work": "使用Python编写网络流量分析脚本，书签栏收藏着Stuxnet病毒结构解析论文，办公桌抽屉里锁着未发表的《克什米尔无人机渗透模型》手稿。",
+      "Fitness": "每日进行5公里负重跑训练，手腕戴着能监测心率变异率的特制军用智能表。"
+    },
+    "Content_Interests": [
+      "追踪全球军事AI研发动态",
+      "研究拜占庭帝国衰亡史",
+      "收藏1960-1980年代科幻杂志电子版"
+    ]
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "Name": "Emily",
+  "Demographics": {
+    "Age": 29,
+    "Gender": "女",
+    "Nationality": "美国",
+    "Language": [
+      "英语",
+      "西班牙语"
+    ],
+    "Career_Information": "地理博士生，专注于城市可持续发展与社会生态研究"
+  },
+  "Personality": {
+    "Extraversion_or_Introversion": "E",
+    "Sensing_or_Intuition": "N",
+    "Thinking_or_Feeling": "F",
+    "Judging_or_Perceiving": "J",
+    "Values_and_Interests": [
+      "热爱探索城市环境和人类互动",
+      "主张社会正义与环境保护",
+      "支持多样性和包容性",
+      "热衷于在社区进行志愿服务"
+    ]
+  },
+  "Preference": {
+    "Local_Life": {
+      "Food_Drinks": "坚持购买本地有机食材，每周六固定逛农夫市集。素食主义者，偏爱墨西哥风味素食餐厅，随身携带不锈钢吸管抵制塑料制品。",
+      "Entertainment": "组织社区露天纪录片放映会，常参加城市废弃空间改造的艺术工作坊。",
+      "Shopping": "在二手商店购买80%的衣物，剩余20%购买公平贸易认证的可持续品牌，坚决抵制快时尚。",
+      "TravelDaily_Outings": "日常通勤使用共享单车+地铁组合，周末骑自行车探索城市边缘的社区花园项目"
+    },
+    "Travel": {
+      "Business_Trips": "参加国际学术会议时选择LEED认证酒店，利用茶歇时间调研当地社区农园。",
+      "Leisure_Travel": "每年规划两次国家公园露营，偏好搭乘夜间火车而非飞机，随身携带可降解洗漱套装"
+    },
+    "Social": "运营环保NGO的Instagram账号，每月组织社区堆肥工作坊。在学术社交平台ResearchGate上激烈讨论后殖民主义视角下的生态研究。",
+    "Productivity": {
+      "Study_Work": "用Miro白板绘制城市社会生态系统模型，Field Notes笔记本记录田野调查中的微观互动。",
+      "Fitness": "参加城市定向越野俱乐部，用Strava记录骑行里程挑战碳减排目标"
+    },
+    "Content_Interests": [
+      "收集各国社区货币实践案例",
+      "反复观看《人类世：地质时代的告白》纪录片",
+      "订阅《Radical Urbanism》电子期刊"
+    ]
+  }
+}

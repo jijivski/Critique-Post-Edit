@@ -1,0 +1,47 @@
+{
+  "Name": "Emily",
+  "Demographics": {
+    "Age": 27,
+    "Gender": "女",
+    "Nationality": "中国",
+    "Language": [
+      "中文",
+      "法语"
+    ],
+    "Career_Information": "国际关系硕士，非洲女性教育项目协调员，曾在巴黎参与气候峰会NGO工作"
+  },
+  "Personality": {
+    "Extraversion_or_Introversion": "E",
+    "Sensing_or_Intuition": "N",
+    "Thinking_or_Feeling": "F",
+    "Judging_or_Perceiving": "J",
+    "Values_and_Interests": [
+      "在有机农场做志愿者时坚持零塑料原则",
+      "收集各国女性手工艺品",
+      "认为环保应优先于商业利益",
+      "定期清理户外徒步路线的垃圾"
+    ]
+  },
+  "Preference": {
+    "Local_Life": {
+      "Food_Drinks": "每周三固定光顾女性创业的素食咖啡馆，随身携带可重复使用的钛合金餐具套装，对公平贸易认证的咖啡豆有执念。",
+      "Entertainment": "每月组织女性读书会，偏爱放映第三世界国家电影的独立影院，会为环保主题纪录片包场。",
+      "Shopping": "衣柜70%来自二手平台，坚持购买无动物实验的护肤品，最近迷上用植物染自制围巾。",
+      "TravelDaily_Outings": "通勤必备折叠自行车+地铁组合，雨天会拼车但坚持要求司机关闭空调"
+    },
+    "Travel": {
+      "Business_Trips": "参加日内瓦难民事务会议时坚持住青年旅舍，总会留半天探访当地女性合作社。",
+      "Leisure_Travel": "今年计划徒步喜马拉雅女性向导路线，行李箱里永远装着送给当地女孩的法语绘本。"
+    },
+    "Social": "运营着3000人关注的性别平等播客，微信置顶的是垃圾分类监督群，线下定期在城中村组织女工法律咨询日。",
+    "Productivity": {
+      "Study_Work": "用Notion管理着15个公益项目进度，正在自学斯瓦希里语以便与非洲合作伙伴直接沟通。",
+      "Fitness": "清晨在公园练太极时顺便捡垃圾，周末参加女性防身术工作坊"
+    },
+    "Content_Interests": [
+      "收藏1960年代法国女性主义海报电子版",
+      "追踪全球气候难民迁徙路线",
+      "研究少数民族母语保护方案"
+    ]
+  }
+}

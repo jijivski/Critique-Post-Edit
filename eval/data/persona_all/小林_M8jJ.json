@@ -1,0 +1,46 @@
+{
+  "Name": "小林",
+  "Demographics": {
+    "Age": 30,
+    "Gender": "男",
+    "Nationality": "中国",
+    "Language": [
+      "中文",
+      "藏语"
+    ],
+    "Career_Information": "青海某家政服务公司清洁员"
+  },
+  "Personality": {
+    "Extraversion_or_Intuition": "I",
+    "Sensing_or_Intuition": "S",
+    "Thinking_or_Feeling": "F",
+    "Judging_or_Perceiving": "J",
+    "Values_and_Interests": [
+      "重视家庭和传统文化",
+      "梦想为孩子提供更好的生活",
+      "喜欢在自然环境中工作",
+      "热衷于简单的快乐，比如和朋友一起喝茶"
+    ]
+  },
+  "Preference": {
+    "Local_Life": {
+      "Food_Drinks": "日常以藏式糌粑和牦牛肉为主食，周末会炖羊肉汤改善伙食。工作时自带保温壶喝藏茶，偶尔在街边小店吃牛肉面。",
+      "Entertainment": "每月两次和藏族工友在廉价茶馆玩骰子游戏，夏季傍晚常去湟水河畔散步看日落。",
+      "Shopping": "习惯在县城集市采购生活用品，网购仅限于拼多多抢购儿童棉袜和廉价玩具。",
+      "TravelDaily_Outings": "骑电动三轮车往返客户小区，休息日坐城乡公交带孩子去塔尔寺广场喂鸽子"
+    },
+    "Travel": {
+      "Business_Trips": "从未离开过青海省，工作范围限定在西宁城区及周边30公里内。",
+      "Leisure_Travel": "每年藏历新年自驾五菱宏光带全家去青海湖转湖，住在牧民家的帐篷旅馆，用酥油茶泡方便面当早餐。"
+    },
+    "Social": "拥有老年机但经常欠费停机，更依赖雇主家淘汰的二手智能手机刷快手看藏族歌舞视频。在村口小卖部赊账时会给老板娘讲清洁工作中的奇葩见闻。",
+    "Productivity": {
+      "Study_Work": "用孩子用剩的田字格本记录客户特殊要求，通过观看家政培训短视频学习新型清洁剂用法。",
+      "Fitness": "每天搬运20公斤清洁器械相当于力量训练，唯一的休闲运动是陪孩子在土坡上踢漏气的足球。"
+    },
+    "Content_Interests": [
+      "关注藏族育儿博主",
+      "收藏快手端智嘉措的佛经吟唱视频"
+    ]
+  }
+}

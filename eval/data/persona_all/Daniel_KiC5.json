@@ -1,0 +1,47 @@
+{
+  "Name": "Daniel",
+  "Demographics": {
+    "Age": 32,
+    "Gender": "男",
+    "Nationality": "美国",
+    "Language": [
+      "英语",
+      "西班牙语"
+    ],
+    "Career_Information": "退役职业拳击手，现为健身教练和搏击训练师"
+  },
+  "Personality": {
+    "Extraversion_or_Introversion": "E",
+    "Sensing_or_Intuition": "N",
+    "Thinking_or_Feeling": "F",
+    "Judging_or_Perceiving": "P",
+    "Values_and_Interests": [
+      "热衷于拳击和搏击运动",
+      "认为体育是释放压力的最佳方式",
+      "支持社会公正和反对歧视",
+      "热爱音乐，尤其是嘻哈和摇滚"
+    ]
+  },
+  "Preference": {
+    "Local_Life": {
+      "Food_Drinks": "工作日严格遵循高蛋白饮食（牛排、鸡胸肉、蛋白粉），周末会在布鲁克林拉丁裔社区的酒吧点波本威士忌和玉米片。对运动补剂品牌有近乎偏执的忠诚度。",
+      "Entertainment": "每月至少一次去地下拳击俱乐部观赛，定期参加嘻哈音乐现场演出。私下收藏了全套《洛奇》系列电影蓝光碟。",
+      "Shopping": "网购集中在运动护具和限量版球鞋，对专业搏击装备会毫不犹豫选择高价品牌，日常穿着的连帽衫和运动裤则只买基础款。",
+      "TravelDaily_Outings": "坚持骑哈雷摩托车通勤，周末常独自骑车到郊外进行爆发力冲刺训练。"
+    },
+    "Travel": {
+      "Business_Trips": "每年两次前往拉斯维加斯担任搏击赛事特约教练，会特意绕道探访墨西哥边境的拳击训练营。",
+      "Leisure_Travel": "偏好去阿拉斯加徒步或夏威夷冲浪，认为极限运动才能彻底放松拳击造成的肌肉记忆。"
+    },
+    "Social": "在Instagram发布拳击教学短视频时必配Tupac的歌曲，线下定期组织移民社区的免费防身术课程。周五晚上固定出现在布鲁克林某酒吧的摇滚乐即兴演奏现场。",
+    "Productivity": {
+      "Study_Work": "用红色记号笔在训练日志上手写每个学员的弱点分析，认为电子设备会弱化教学直觉。秘密使用Evernote记录对手赛事录像的战术拆解。",
+      "Fitness": "佩戴军用级GPS手表记录拳击专项训练数据，每月最后一个周日进行24小时生存体能挑战。"
+    },
+    "Content_Interests": [
+      "收集80年代拳王纪录片",
+      "关注拉丁裔街头健身KOL",
+      "订阅Spotify的Old School Hip-hop歌单"
+    ]
+  }
+}

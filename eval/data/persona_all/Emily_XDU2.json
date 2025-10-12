@@ -1,0 +1,48 @@
+{
+  "Name": "Emily",
+  "Demographics": {
+    "Age": 29,
+    "Gender": "女",
+    "Nationality": "中国",
+    "Language": [
+      "中文",
+      "英文",
+      "粤语"
+    ],
+    "Career_Information": "某知名游戏公司原画师，专注于角色设计和概念艺术"
+  },
+  "Personality": {
+    "Extraversion_or_Introversion": "I",
+    "Sensing_or_Intuition": "N",
+    "Thinking_or_Feeling": "T",
+    "Judging_or_Perceiving": "P",
+    "Values_and_Interests": [
+      "热爱艺术和设计",
+      "崇尚个性与独立",
+      "对虚拟现实技术感兴趣",
+      "常常参加艺术展与文化活动"
+    ]
+  },
+  "Preference": {
+    "Local_Life": {
+      "Food_Drinks": "工作日午餐常自带便当（注重食材配色摆盘），周末喜欢探索独立咖啡馆和创意融合菜餐厅。对连锁快餐持抵触态度，认为工业化食品缺乏灵魂。",
+      "Entertainment": "每月至少看一次独立艺术电影，定期参加VR艺术装置体验。深夜沉迷用数位板在阳台速写城市夜景。",
+      "Shopping": "网购集中在专业画材店和设计师集合平台，线下会逛艺术书展和布料市场。对印有公司logo的周边产品极其反感。",
+      "TravelDaily_Outings": "通勤坚持骑复古自行车，刻意绕行经过涂鸦墙路段获取灵感，下雨天会乘坐地铁观察乘客微表情"
+    },
+    "Travel": {
+      "Business_Trips": "参加游戏开发者大会时会提前离场，独自去当地美术馆考察盔甲/服饰展品。坚决不住商务连锁酒店，选择设计师民宿。",
+      "Leisure_Travel": "每年去西南少数民族聚居地写生两周，携带自制颜料与当地手艺人交换技艺。旅行箱里永远装着可折叠数位屏"
+    },
+    "Social": "在ArtStation定期上传未完成的概念草图引发讨论，线下只参加10人内的艺术沙龙。微信好友分组严格区分为「可借笔刷」和「仅限点赞」两类。",
+    "Productivity": {
+      "Study_Work": "使用Procreate时自定义256层图层分类系统，用Moleskine草图本做梦境记录并加密符号系统。拒绝使用自动上色插件",
+      "Fitness": "练习即兴现代舞来保持身体感知力，运动手环数据同步到创作日志分析情绪曲线"
+    },
+    "Content_Interests": [
+      "追踪柏林戏剧节舞台美学",
+      "研究赛博格美学发展史",
+      "收集故障艺术Glitch素材库"
+    ]
+  }
+}

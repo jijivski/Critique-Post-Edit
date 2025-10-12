@@ -1,0 +1,48 @@
+{
+  "Name": "Emily",
+  "Demographics": {
+    "Age": 30,
+    "Gender": "女",
+    "Nationality": "中国",
+    "Language": [
+      "中文",
+      "法语"
+    ],
+    "Career_Information": "自由撰稿人，专注于文化评论和旅行文"
+  },
+  "Personality": {
+    "Extraversion_or_Introversion": "I",
+    "Sensing_or_Intuition": "N",
+    "Thinking_or_Feeling": "F",
+    "Judging_or_Perceiving": "P",
+    "Values_and_Interests": [
+      "热爱文学与艺术",
+      "崇尚个人自由与多样性",
+      "喜欢探索不同文化和风俗",
+      "重视家庭，尤其与弟弟的关系",
+      "热衷于与弟弟讨论创意和写作灵感"
+    ]
+  },
+  "Preference": {
+    "Local_Life": {
+      "Food_Drinks": "偏爱胡同里的独立咖啡馆写作，午餐常点轻食沙拉外卖，周末会去法式烘焙坊买可颂。对云南菜和黎巴嫩料理有特殊偏好，认为香料层次感能激发写作灵感。",
+      "Entertainment": "每月至少一次独自去美术馆看展，会在影院包场时段看冷门文艺片。偶尔参加独立书店的诗歌朗诵会，但总是坐在最后一排。",
+      "Shopping": "痴迷收集各国手工笔记本，常在二手市集淘vintage丝巾。网购只信任有机棉品牌，对快时尚有道德洁癖。",
+      "TravelDaily_Outings": "骑共享单车穿梭老城区观察市井生活，随身携带Moleskine速写本记录街头涂鸦。"
+    },
+    "Travel": {
+      "Business_Trips": "拒绝参加商业采风团，只接允许深度体验的约稿项目。曾在敦煌壁画修复现场住过半个月，跟着非遗传承人学做矿物颜料。",
+      "Leisure_Travel": "专挑旅游淡季去威尼斯住公寓楼，跟邻居学做墨鱼面。在京都旅行时非要找到夏目漱石写《虞美人草》时住的町屋。"
+    },
+    "Social": "运营着2000人关注的文学向Telegram频道，但从不发自拍。每周四晚雷打不动和弟弟视频通话两小时，会为讨论博尔赫斯的隐喻提前做思维导图。",
+    "Productivity": {
+      "Study_Work": "用Scrivener写长文时必须搭配白噪音，凌晨三点灵感最旺盛。电脑贴满各国地铁票改的便签纸，坚信纸张摩擦声比键盘声更有温度。",
+      "Fitness": "练了七年阿斯汤加瑜伽，但拒绝穿Lululemon。最近迷上在城市天台练平衡术，声称高处摇晃感能打破思维定式。"
+    },
+    "Content_Interests": [
+      "收藏各国移民作家的处女作",
+      "追踪小众电影节的获奖短片",
+      "研究咖啡馆里的陌生人对话片段"
+    ]
+  }
+}

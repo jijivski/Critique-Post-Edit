@@ -1,0 +1,47 @@
+{
+  "Name": "James",
+  "Demographics": {
+    "Age": 34,
+    "Gender": "男",
+    "Nationality": "英国",
+    "Language": [
+      "英语",
+      "法语"
+    ],
+    "Career_Information": "退役军人，现从事建筑行业，负责项目管理"
+  },
+  "Personality": {
+    "Extraversion_or_Introversion": "E",
+    "Sensing_or_Intuition": "S",
+    "Thinking_or_Feeling": "F",
+    "Judging_or_Perceiving": "P",
+    "Values_and_Interests": [
+      "热爱团队合作和交流",
+      "崇尚个人自由与独立",
+      "对建筑设计充满热情",
+      "喜欢冒险与户外活动"
+    ]
+  },
+  "Preference": {
+    "Local_Life": {
+      "Food_Drinks": "工作日午餐常在工地附近买三明治配黑咖啡，周末会去工业风精酿酒吧尝试新口味啤酒。讨厌过度加工的食品，但对法式烘焙羊角包毫无抵抗力。",
+      "Entertainment": "每周三固定参加攀岩俱乐部，雨季则改在室内射击场。总能用军用指南针找到城市周边冷门徒步路线。",
+      "Shopping": "每月网购专业级建筑测量工具，偶尔冲动购买户外生存装备。对战术背包有收集癖，但会偷偷撕掉价签。",
+      "TravelDaily_Outings": "开改装过的路虎卫士通勤，却总在副驾扔着沾满泥巴的登山靴。手机地图记录显示常绕道去观察在建中的地标建筑。"
+    },
+    "Travel": {
+      "Business_Trips": "出差必带军用级激光测距仪，在客户面前随手测算大堂层高后总能赢得信任。",
+      "Leisure_Travel": "每年独自前往阿尔卑斯山脉进行无补给徒步，手机相册里全是建筑结构细节和悬崖自拍。"
+    },
+    "Social": "LinkedIn动态全是建筑工地合影，但Ins小号充斥着激流划艇视频。会在退伍军人协会教新人绑战术绳结，却谎称是从油管教程学的。",
+    "Productivity": {
+      "Study_Work": "用褪色的军用笔记本手绘施工图，同时开着Trello跟踪五个项目进度。坚信实体模型比BIM软件更能发现问题。",
+      "Fitness": "晨跑时佩戴心率带监测数据，但遇到街头健身器材会忍不住做单杠双力臂炫技。"
+    },
+    "Content_Interests": [
+      "订阅所有先锋建筑期刊却只看图片",
+      "反复观看SAS生存纪录片并挑战术错误",
+      "暗中关注前战友的极限运动vlog"
+    ]
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "Name": "Oliver",
+  "Demographics": {
+    "Age": 30,
+    "Gender": "男",
+    "Nationality": "美国",
+    "Language": [
+      "英语",
+      "西班牙语"
+    ],
+    "Career_Information": "数据分析师，专注于利用远程信息处理数据提升车队效率"
+  },
+  "Personality": {
+    "Extraversion_or_Introversion": "E",
+    "Sensing_or_Intuition": "N",
+    "Thinking_or_Feeling": "T",
+    "Judging_or_Perceiving": "P",
+    "Values_and_Interests": [
+      "热爱科技创新",
+      "支持自动化和智能化发展",
+      "崇尚实证主义",
+      "对环保和可持续发展抱有浓厚兴趣"
+    ]
+  },
+  "Preference": {
+    "Local_Life": {
+      "Food_Drinks": "工作日依赖智能订餐APP选择低碳排放餐厅，偏好冷压果汁和植物基蛋白餐。周末会去布鲁克林的零废弃咖啡馆，用自带杯购买公平贸易咖啡。",
+      "Entertainment": "定期参加科技博物馆的VR展览，收藏小众科幻桌游。深夜用算法生成个性化歌单，边听电子音乐边调试家庭物联网系统。",
+      "Shopping": "在亚马逊订阅环保洗护用品和模块化电子产品，衣柜里70%是二手平台淘到的智能温控服饰。",
+      "TravelDaily_Outings": "通勤骑电动滑板车并同步运动数据，雨天呼叫无人驾驶出租车时会优先选择新能源车队"
+    },
+    "Travel": {
+      "Business_Trips": "常被派遣至得克萨斯州监测货车自动驾驶系统，会入住配备能源监控系统的智慧酒店，用区块链会议系统远程接入拉美分公司研讨会。",
+      "Leisure_Travel": "年度假期选择哥斯达黎加生态保护区，住树屋酒店时用GIS工具记录生物多样性数据，自驾特斯拉穿越国家公园必带太阳能充电装备"
+    },
+    "Social": "在LinkedIn分享交通碳排放算法研究成果，Twitter小号追踪NASA火星计划技术细节。线下参加智能城市Meetup时带着脑波监测头环，认为人类社交能量消耗应该被量化分析。",
+    "Productivity": {
+      "Study_Work": "用Python脚本自动生成数据看板，沉迷改造开源物流优化模型。书桌放着三屏工作站，其中一块实时显示全球车队动态热力图。",
+      "Fitness": "佩戴生物识别戒指监测压力值，晨跑路线经过三个空气质量监测站，运动数据自动同步到公司健康激励系统兑换积分"
+    },
+    "Content_Interests": [
+      "订阅《麻省理工科技评论》深度解析",
+      "关注SpaceX星链计划的物流应用",
+      "收藏上世纪交通规划史纪录片"
+    ]
+  }
+}

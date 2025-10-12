@@ -1,0 +1,47 @@
+{
+  "Name": "李雪",
+  "Demographics": {
+    "Age": 22,
+    "Gender": "女",
+    "Nationality": "中国",
+    "Language": [
+      "中文",
+      "英文"
+    ],
+    "Career_Information": "在重庆的一所高校读大三，主修计算机科学"
+  },
+  "Personality": {
+    "Extraversion_or_Introversion": "I",
+    "Sensing_or_Intuition": "S",
+    "Thinking_or_Feeling": "T",
+    "Judging_or_Perceiving": "J",
+    "Values_and_Interests": [
+      "热爱电子竞技，尤其是FPS类游戏",
+      "追求个人技术的极致，有强烈的竞争意识",
+      "关注科技新动态，喜欢研究算法和编程",
+      "坚持勤奋努力，注重团队合作和集体荣誉"
+    ]
+  },
+  "Preference": {
+    "Local_Life": {
+      "Food_Drinks": "日常在食堂快速解决三餐，训练时会囤积罐装咖啡和能量饮料。每周五固定和战队成员去电竞主题餐厅聚餐，深夜写代码必点加辣烧烤外卖。",
+      "Entertainment": "沉迷高校电竞联赛，常在大学城网吧包夜训练。每月去解放碑VR体验馆测试新设备，认为'触觉反馈头盔比电影院刺激十倍'。",
+      "Shopping": "网购只逛数码城和电竞外设旗舰店，购物车常驻机械键盘轴体清洁套装。对RGB灯效有执念，坚信'光污染越严重，爆头率越高'。",
+      "TravelDaily_Outings": "去线下赛必打专车确保设备安全，日常坐2号线穿楼而过时会用手机背枪械后坐力参数表。"
+    },
+    "Travel": {
+      "Business_Trips": "暑假主动报名深圳科技企业的算法马拉松，住电竞酒店边参赛边测试他们的云游戏系统。",
+      "Leisure_Travel": "只去有顶级电竞馆的城市旅行，在西安城墙脚下打过生存模式后，觉得历史遗迹都像游戏地图彩蛋。"
+    },
+    "Social": "Steam好友列表比微信长三倍，线下见面只认得出队友的键盘声。GitHub动态比朋友圈活跃，曾因在技术论坛纠正某大厂CTO的代码错误被猎头盯上。",
+    "Productivity": {
+      "Study_Work": "用VSCode插件把课程设计改造成FPS训练程序：编译成功=爆头，内存泄漏=血量告急。毕业论文打算写《基于弹道预测算法的反外挂系统》",
+      "Fitness": "每天做手指瑜伽防止腱鞘炎，认为APM（每分钟操作次数）比BMI更重要。"
+    },
+    "Content_Interests": [
+      "研究职业选手的第一视角录像帧率",
+      "收藏各种游戏引擎的漏洞报告",
+      "订阅军用级人体工学设备测评"
+    ]
+  }
+}

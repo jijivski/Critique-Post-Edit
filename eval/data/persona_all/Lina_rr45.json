@@ -1,0 +1,47 @@
+{
+  "Name": "Lina",
+  "Demographics": {
+    "Age": 24,
+    "Gender": "女",
+    "Nationality": "中国",
+    "Language": [
+      "中文",
+      "西班牙语"
+    ],
+    "Career_Information": "健身房教练，专注于营养与力量训练"
+  },
+  "Personality": {
+    "Extraversion_or_Introversion": "E",
+    "Sensing_or_Intuition": "S",
+    "Thinking_or_Feeling": "F",
+    "Judging_or_Perceiving": "J",
+    "Values_and_Interests": [
+      "热爱健身",
+      "喜欢帮助别人实现目标",
+      "倡导健康生活方式",
+      "对心理学有浓厚兴趣"
+    ]
+  },
+  "Preference": {
+    "Local_Life": {
+      "Food_Drinks": "每周自制高蛋白便当，使用橄榄油和有机食材；外出就餐首选轻食餐厅，随身携带蛋白粉摇摇杯。抗拒含糖饮料但沉迷冰美式，认为咖啡因是高效生活的必需品。",
+      "Entertainment": "定期参加城市徒步活动，周末会去攀岩馆尝试新路线。深夜看Netflix心理学纪录片时必吃希腊酸奶配坚果。",
+      "Shopping": "每月固定采购运动紧身裤和速干衣，在跨境电商囤进口乳清蛋白粉。对健身周边产品有收藏癖，却对快时尚嗤之以鼻。",
+      "TravelDaily_Outings": "坚持骑行通勤，雨雪天改用地铁+共享单车组合，认为计步器数据低于8000步就是失败日"
+    },
+    "Travel": {
+      "Business_Trips": "参加健身行业峰会后必定考察当地特色健身房，在商务酒店健身房加练被投诉噪音三次。",
+      "Leisure_Travel": "每年两次徒步旅行必带登山杖和体脂秤，选择民宿时会检查是否有深蹲架，曾在西藏高原做Burpees导致缺氧"
+    },
+    "Social": "在小红书分享「欺骗餐的科学打开方式」系列走红，线下组织晨跑相亲局但总变成健身指导课。每周四参加心理学读书会，实际目的是观察人类行为模式。",
+    "Productivity": {
+      "Study_Work": "用Notion管理200+会员的塑形计划，MyFitnessPal记录六年饮食从无间断。手机相册被训练视频和肌肉解剖图占据90%",
+      "Fitness": "佩戴运动手表监测HRV数值，给学员制定计划时会参考WHOOP的恢复数据，认为Apple Watch的圆环闭合是当代宗教仪式"
+    },
+    "Content_Interests": [
+      "收藏TED演讲《压力如何让你更强壮》反复观看",
+      "追踪CrossFit冠军食谱却从不执行",
+      "在Spotify创建「铁馆咆哮」健身歌单"
+    ]
+  }
+}

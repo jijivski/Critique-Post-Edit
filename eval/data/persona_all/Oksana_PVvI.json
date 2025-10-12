@@ -1,0 +1,48 @@
+{
+  "Name": "Oksana",
+  "Demographics": {
+    "Age": 30,
+    "Gender": "女",
+    "Nationality": "乌克兰",
+    "Language": [
+      "乌克兰语",
+      "俄语",
+      "英语"
+    ],
+    "Career_Information": "公共卫生政策分析师，专注于传染病预防与控制"
+  },
+  "Personality": {
+    "Extraversion_or_Introversion": "I",
+    "Sensing_or_Intuition": "S",
+    "Thinking_or_Feeling": "T",
+    "Judging_or_Perceiving": "P",
+    "Values_and_Interests": [
+      "重视科学证据与数据分析",
+      "支持公共卫生改革",
+      "喜欢旅行与探索新文化",
+      "对社会公正与人权问题有强烈关注"
+    ]
+  },
+  "Preference": {
+    "Local_Life": {
+      "Food_Drinks": "工作日自带健康便当，周末尝试基辅小众异国餐厅（尤其偏爱中亚料理）。拒绝含糖饮料，但会收集各地特色茶叶。",
+      "Entertainment": "每月在独立影院观看纪录片，周末沿第聂伯河骑行。偶尔参观医疗历史博物馆并做笔记。",
+      "Shopping": "在环保品牌店购买基础款服装，网购防疫用品时会比对10+平台数据表。",
+      "TravelDaily_Outings": "通勤坚持步行30分钟+地铁，随身携带紫外线消毒笔擦拭扶手"
+    },
+    "Travel": {
+      "Business_Trips": "参加日内瓦WHO会议时必去当地贫民社区做非正式田野调查，行李箱常备多国电源转换器和应急医疗包。",
+      "Leisure_Travel": "独自背包探索高加索地区古村落，住青旅但随身携带睡袋内衬。提前三个月规划路线，但允许临时更改20%行程"
+    },
+    "Social": "在专业论坛匿名撰写疫情模型分析文章，线下只参加难民救助NGO的志愿活动。拒绝同事聚餐邀请，但会记住每个人的过敏原信息。",
+    "Productivity": {
+      "Study_Work": "用Python自动抓取各国公共卫生数据，办公桌贴着『如果无法量化就不要讨论』的乌克兰语标语。",
+      "Fitness": "用智能手表监测静息心率，但认为健身房是『反人类的机械牢笼』，更倾向在森林公园负重徒步"
+    },
+    "Content_Interests": [
+      "收集各国疫苗接种率可视化报告",
+      "订阅战地记者拍摄的医疗救援纪录片",
+      "深夜偷偷看苏联时代科幻小说（认为这是理性思维的叛逆出口）"
+    ]
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "Name": "Lily",
+  "Demographics": {
+    "Age": 30,
+    "Gender": "女",
+    "Nationality": "中国",
+    "Language": [
+      "中文",
+      "英文"
+    ],
+    "Career_Information": "在一家大型科技公司担任STEM协调员，专注于教育项目和技术推广"
+  },
+  "Personality": {
+    "Extraversion_or_Introversion": "E",
+    "Sensing_or_Intuition": "N",
+    "Thinking_or_Feeling": "F",
+    "Judging_or_Perceiving": "J",
+    "Values_and_Interests": [
+      "推动科技在教育中的应用",
+      "热衷于促进女性在科技领域的参与",
+      "支持可持续发展和环保理念",
+      "喜欢参加社交活动和网络交流"
+    ]
+  },
+  "Preference": {
+    "Local_Life": {
+      "Food_Drinks": "工作日午餐在科技园区的有机轻食餐厅解决，周末常去独立咖啡馆参加女性科技从业者沙龙。拒绝使用一次性餐具的外卖，偏爱自带环保餐盒打包。",
+      "Entertainment": "每月组织一次教育科技主题读书会，周末参与公益性质的儿童编程体验营。偶尔在露天电影院观看女性科学家纪录片。",
+      "Shopping": "固定购买环保认证的科技产品配件，在支持女性创业的电商平台选购手工制品。日常服饰偏好中性简约风格，常逛可持续时尚买手店。",
+      "TravelDaily_Outings": "坚持共享单车+地铁通勤组合，周末骑公路车探访城市里的绿色科技建筑"
+    },
+    "Travel": {
+      "Business_Trips": "出差时会特意考察当地STEM教育试点项目，常选择配备智能会议系统的绿色认证酒店。在机场候机时撰写跨区域合作方案。",
+      "Leisure_Travel": "年假必去国内外知名的可持续发展示范区，随身携带可降解材料制作的旅行套装，热衷入住由女性主理的生态民宿"
+    },
+    "Social": "在LinkedIn持续分享科技教育行业洞察，运营着300+人的STEM女性互助微信群。每月第一个周六固定参加跨界创新论坛，随身携带可重复使用的定制名片。",
+    "Productivity": {
+      "Study_Work": "使用Miro白板进行跨部门协作，办公电脑贴满「Girls Can Code」主题贴纸。会议记录本专门划分「女性学员成长追踪」板块，用不同颜色标签区分项目进度。",
+      "Fitness": "清晨在智能健身镜前练习职场减压瑜伽，Apple Watch全天监测运动数据，周末在滨江跑道组织STEM家长晨跑团"
+    },
+    "Content_Interests": [
+      "持续关注联合国妇女署科技赋能报告",
+      "收藏各国STEM教育成功案例视频",
+      "订阅《自然》杂志可持续发展专栏",
+      "反复观看《隐藏人物》等女性科技题材影视"
+    ]
+  }
+}

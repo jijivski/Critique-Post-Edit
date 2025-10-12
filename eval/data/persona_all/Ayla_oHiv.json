@@ -1,0 +1,47 @@
+{
+  "Name": "Ayla",
+  "Demographics": {
+    "Age": 32,
+    "Gender": "女",
+    "Nationality": "中国",
+    "Language": [
+      "中文",
+      "维吾尔语"
+    ],
+    "Career_Information": "新疆某手工艺品店主，专注于刺绣和编织"
+  },
+  "Personality": {
+    "Extraversion_or_Introversion": "E",
+    "Sensing_or_Intuition": "S",
+    "Thinking_or_Feeling": "F",
+    "Judging_or_Perceiving": "P",
+    "Values_and_Interests": [
+      "热爱传统手工艺",
+      "喜欢与游客交流文化",
+      "尊重不同的文化背景",
+      "关注可持续发展和环保"
+    ]
+  },
+  "Preference": {
+    "Local_Life": {
+      "Food_Drinks": "偏爱新疆传统饮食如手抓饭和馕，每周至少三次自制奶茶。常在巴扎采购有机葡萄干和核桃，对过度加工食品有天然抵触。",
+      "Entertainment": "每月参加一次民族音乐舞蹈聚会，偶尔在店铺打烊后看中亚题材纪录片。周末带游客体验羊毛染色工坊。",
+      "Shopping": "90%布料采购自喀什老城集市，网购只买天然植物染料。随身携带手工刺绣零钱包拒绝塑料袋。",
+      "TravelDaily_Outings": "骑电动三轮车往返工作室与住所，每周三固定去郊外牧区收购新鲜驼绒"
+    },
+    "Travel": {
+      "Business_Trips": "每年参加两次非物质文化遗产博览会，总带着未完成的绣品在高铁上赶工。",
+      "Leisure_Travel": "每三年一次探访中亚丝绸之路古城，住当地家庭民宿学习濒临失传的锁绣技法"
+    },
+    "Social": "在抖音展示双面异色绣制作过程，但拒绝直播带货。每天用维吾尔语与牧区老人视频通话收集纹样故事。定期组织女性手工艺者茶话会。",
+    "Productivity": {
+      "Study_Work": "用桦树皮笔记本记录灵感，工作台永远放着祖传的英吉沙小刀裁布。最近在学波斯语图解刺绣典籍。",
+      "Fitness": "清晨在胡杨林采风兼散步，用手机计步功能记录寻找原料的徒步距离"
+    },
+    "Content_Interests": [
+      "中亚古建筑纹样研究",
+      "游牧民族生态智慧",
+      "女性创业者纪录片"
+    ]
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "Name": "Alice",
+  "Demographics": {
+    "Age": 32,
+    "Gender": "女",
+    "Nationality": "中国",
+    "Language": [
+      "中文",
+      "英文"
+    ],
+    "Career_Information": "某跨国公司的数据分析师，专注于市场趋势分析"
+  },
+  "Personality": {
+    "Extraversion_or_Introversion": "I",
+    "Sensing_or_Intuition": "N",
+    "Thinking_or_Feeling": "T",
+    "Judging_or_Perceiving": "J",
+    "Values_and_Interests": [
+      "热爱数据分析和统计建模",
+      "崇尚实证主义",
+      "关注女性权益与职场平等",
+      "喜欢旅行和摄影"
+    ]
+  },
+  "Preference": {
+    "Local_Life": {
+      "Food_Drinks": "工作日午餐习惯在公司楼下轻食餐厅解决，偏好低卡高蛋白餐食；周末会探索胡同里的精品咖啡馆，尤其注重店内装修是否适合拍摄静物照片。",
+      "Entertainment": "每月独自观看一次独立电影院的社会议题纪录片，认为这是数据工作外的另一种社会观察方式。",
+      "Shopping": "网购集中于摄影器材升级和职业装采购，对日本文具品牌有执着偏好，认为纸质笔记本能提升工作仪式感。",
+      "TravelDaily_Outings": "通勤坚持使用共享单车，认为这是平衡数据分析师久坐工作的必要运动"
+    },
+    "Travel": {
+      "Business_Trips": "常往返于上海和新加坡分公司，会利用清晨会议前的时间拍摄城市天际线延时摄影。",
+      "Leisure_Travel": "每年规划两次主题旅行：一次人文摄影行（如敦煌壁画数字化保护项目考察），一次自然风光行（需携带三脚架拍摄星空）"
+    },
+    "Social": "在LinkedIn定期分享数据可视化的社会议题分析，线下仅参加女性科技从业者沙龙。曾在798艺术区组织过手机摄影工作坊，但结束后会立刻躲进书店独处充电。",
+    "Productivity": {
+      "Study_Work": "使用Notion搭建个人知识库，按季度更新市场分析模板库。坚持用R语言处理非机密数据，认为Excel函数是给外行用的玩具。",
+      "Fitness": "办公室常备瑜伽垫，每天完成三组15分钟办公室瑜伽，但拒绝参加团课以避免无意义社交"
+    },
+    "Content_Interests": [
+      "长期订阅《经济学人》的数据板块",
+      "关注Instagram上的极简主义摄影账号",
+      "在得到APP学习社会学课程以完善分析模型"
+    ]
+  }
+}

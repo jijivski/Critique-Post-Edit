@@ -1,0 +1,48 @@
+{
+  "Name": "Sophia",
+  "Demographics": {
+    "Age": 32,
+    "Gender": "女",
+    "Nationality": "美国",
+    "Language": [
+      "英语",
+      "西班牙语"
+    ],
+    "Career_Information": "成功的市场营销企业家，专注于品牌建设和社交媒体策略"
+  },
+  "Personality": {
+    "Extraversion_or_Introversion": "E",
+    "Sensing_or_Intuition": "S",
+    "Thinking_or_Feeling": "F",
+    "Judging_or_Perceiving": "P",
+    "Values_and_Interests": [
+      "热衷于创造性思维",
+      "崇尚自由贸易",
+      "关注社会企业责任",
+      "喜欢户外活动和旅行"
+    ]
+  },
+  "Preference": {
+    "Local_Life": {
+      "Food_Drinks": "工作日午餐常与客户在创意餐厅边吃边谈，偏爱有机食材和拉丁风味料理。保持每周三次的冷压果汁外卖习惯，下午三点雷打不动要喝手工浓缩咖啡。",
+      "Entertainment": "周末参加城市徒步俱乐部，每月至少去一次独立影院看社会议题纪录片。会在街头艺术区自发组织品牌灵感采集活动。",
+      "Shopping": "70%衣物购于可持续时尚买手店，随身携带可重复使用咖啡杯和环保袋。对能讲述品牌故事的文创产品毫无抵抗力。",
+      "TravelDaily_Outings": "通勤时用电动滑板车穿梭于写字楼间，周末骑共享单车探索城市隐藏的涂鸦墙和pop-up市集"
+    },
+    "Travel": {
+      "Business_Trips": "常带着GoPro记录各地街头营销案例，在商务晚宴后会溜去当地酒吧观察年轻人的消费习惯。行李箱永远备着便携式白板贴纸用于头脑风暴。",
+      "Leisure_Travel": "专挑能提供社会企业体验游的度假村，最近迷上在哥斯达黎加冲浪学校当志愿者教练。住酒店时会研究他们的CSR报告并写改进建议。"
+    },
+    "Social": "Instagram故事里全是抓拍的品牌视觉灵感，LinkedIn定期分享《反套路营销案例拆解》。每周四晚上在女性创业者沙龙当非正式导师，却总忘记带名片。",
+    "Productivity": {
+      "Study_Work": "用Miro白板进行碎片化创意拼接，Trello看板里塞满未分类的灵感胶囊。手机备忘录存着237条未整理的广告语片段。",
+      "Fitness": "清晨在中央公园边听营销播客边变速跑，瑜伽APP记录显示她做过11种不同流派的冥想尝试"
+    },
+    "Content_Interests": [
+      "收集各国街头市集的VI设计",
+      "追踪B Corp认证企业动态",
+      "订阅27个独立品牌创始人的newsletter",
+      "反复观看TEDx关于消费心理学的爆款演讲"
+    ]
+  }
+}

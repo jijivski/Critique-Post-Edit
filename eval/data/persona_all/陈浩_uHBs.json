@@ -1,0 +1,47 @@
+{
+  "Name": "陈浩",
+  "Demographics": {
+    "Age": 30,
+    "Gender": "男",
+    "Nationality": "中国",
+    "Language": [
+      "中文",
+      "英语"
+    ],
+    "Career_Information": "某三甲医院呼吸科医生，疫情期间因连续36小时值班引发轻度神经性耳鸣"
+  },
+  "Personality": {
+    "Extraversion_or_Introversion": "I",
+    "Sensing_or_Intuition": "N",
+    "Thinking_or_Feeling": "T",
+    "Judging_or_Perceiving": "J",
+    "Values_and_Interests": [
+      "认为AI诊断系统终将超越人类医生",
+      "私下反对中医的模糊理论体系",
+      "钓鱼时会将捕获的稀有鱼类制成标本",
+      "收藏各国呼吸防护面具"
+    ]
+  },
+  "Preference": {
+    "Local_Life": {
+      "Food_Drinks": "值班时靠自动贩卖机的罐装咖啡续命，周末钓鱼会带着自热火锅在河边野餐。对河鲜料理有近乎偏执的挑剔，认为非活鱼现杀的餐厅都是欺诈。",
+      "Entertainment": "每月固定去私人影院包间看医疗纪录片，手机里存着1960年代《星际迷航》全系列作为减压神器。",
+      "Shopping": "在1688批量采购医用级洗手液和防护服，淘宝收藏夹里全是户外钓鱼装备定制店。",
+      "TravelDaily_Outings": "通勤坚持骑改装过的电动助力自行车，声称这是对抗久坐性血栓的最佳方案"
+    },
+    "Travel": {
+      "Business_Trips": "参加国际医疗会议时会带着便携式空气检测仪，拒绝入住中央空调系统的酒店。",
+      "Leisure_Travel": "每年休假必去未开发的自然水域，曾因在长白山无人区寻找冷水鱼被搜救队警告。"
+    },
+    "Social": "在丁香园论坛用解剖学知识怼养生帖，现实社交圈仅限于同科室三人。钓鱼俱乐部成员都以为他是水产研究所退休人员。",
+    "Productivity": {
+      "Study_Work": "用自建知识图谱系统管理病例数据，手术录像按ICD-11分类存储在私有云。",
+      "Fitness": "办公室常备握力器和平衡垫，查房时故意绕远走消防通道作为有氧训练"
+    },
+    "Content_Interests": [
+      "订阅《柳叶刀》呼吸医学专刊",
+      "暗网关注生物黑客社区动态",
+      "B站收藏夹有132个鱼类解剖视频"
+    ]
+  }
+}

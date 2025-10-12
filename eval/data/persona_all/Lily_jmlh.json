@@ -1,0 +1,48 @@
+{
+  "Name": "Lily",
+  "Demographics": {
+    "Age": 32,
+    "Gender": "女",
+    "Nationality": "中国",
+    "Language": [
+      "中文",
+      "法语",
+      "英语"
+    ],
+    "Career_Information": "环保科技行业首席执行官，专注于可持续发展和绿色能源创新"
+  },
+  "Personality": {
+    "Extraversion_or_Introversion": "I",
+    "Sensing_or_Intuition": "N",
+    "Thinking_or_Feeling": "F",
+    "Judging_or_Perceiving": "P",
+    "Values_and_Interests": [
+      "热衷于环保和可持续发展",
+      "关注社会公正和公平贸易",
+      "支持女性在科技行业的地位提升",
+      "热爱旅行与探索不同文化"
+    ]
+  },
+  "Preference": {
+    "Local_Life": {
+      "Food_Drinks": "坚持植物基饮食，偏爱本地有机农场直送的素食餐厅。办公室常备公平贸易认证的咖啡豆，周末会去胡同里的零废弃咖啡馆阅读",
+      "Entertainment": "每月参加小众环保纪录片放映会，偶尔在二手书店淘法语原版哲学书",
+      "Shopping": "只购买B Corp认证的品牌，衣柜由可回收面料主导，随身帆布包印着'Carbon Neutral Since 1990'字样",
+      "TravelDaily_Outings": "通勤使用共享电动滑板车，雨天会带折叠竹纤维雨伞乘地铁"
+    },
+    "Travel": {
+      "Business_Trips": "参加全球气候峰会时坚持入住LEED认证酒店，随身携带可降解材质的商务名片",
+      "Leisure_Travel": "每年安排两次'再生旅行'，最近在云南参与生态修复项目时学会了传统草木染技艺"
+    },
+    "Social": "在领英发起#WomenInGreenTech话题，线下定期主持碳中和主题沙龙。拒绝参加任何使用一次性餐具的社交活动",
+    "Productivity": {
+      "Study_Work": "使用区块链记录碳足迹的日程管理APP，会议纪要写在由咖啡渣制成的再生纸上",
+      "Fitness": "清晨在公园进行生态冥想，周末参加城市农场里的瑜伽工作坊"
+    },
+    "Content_Interests": [
+      "收集各国环保政策白皮书",
+      "关注女性科技领袖传记",
+      "研究殖民地时期法属非洲的建筑可持续性改造"
+    ]
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "Name": "Emily",
+  "Demographics": {
+    "Age": 31,
+    "Gender": "女",
+    "Nationality": "美国",
+    "Language": [
+      "英语",
+      "西班牙语"
+    ],
+    "Career_Information": "国际广播制作人，专注于多语言配音与文化适配"
+  },
+  "Personality": {
+    "Extraversion_or_Introversion": "E",
+    "Sensing_or_Intuition": "S",
+    "Thinking_or_Feeling": "F",
+    "Judging_or_Perceiving": "P",
+    "Values_and_Interests": [
+      "重视文化表达与真实性",
+      "热爱电影与舞台艺术",
+      "倡导多样性与包容性",
+      "对社会问题有强烈的关注"
+    ]
+  },
+  "Preference": {
+    "Local_Life": {
+      "Food_Drinks": "热衷于探索纽约多元文化社区的家庭餐厅，尤其偏爱拉丁美洲街头小吃和亚洲融合料理。周末会在布鲁克林农夫市集采购有机食材，自制混合萨尔萨酱作为社交礼物。",
+      "Entertainment": "每月至少两次光顾独立影院观看原声字幕电影，定期参加外百老汇实验戏剧的即兴表演工作坊。",
+      "Shopping": "在Williamsburg的独立设计师店铺选购带有民族刺绣元素的工装外套，坚持购买公平贸易认证的手工艺品。",
+      "TravelDaily_Outings": "习惯骑Citi Bike穿梭于曼哈顿多元文化社区，随身携带Moleskine速写本记录街头语言景观"
+    },
+    "Travel": {
+      "Business_Trips": "前往墨西哥城协调动画配音项目时，坚持入住由殖民时期建筑改造的艺术家公寓，清晨在宪法广场观察街头艺人发声方式。",
+      "Leisure_Travel": "每年夏季在安达卢西亚参加弗拉门戈文化沉浸营，刻意选择住在吉普赛家族经营的民宿学习卡米尼托唱法"
+    },
+    "Social": "运营名为『声景人类学』的Instagram账号，拍摄各国菜市场叫卖声的ASMR视频。每周四晚在Strand书店参加移民作家读书会，随身携带自制的多语言俚语对照手册。",
+    "Productivity": {
+      "Study_Work": "使用ProTools剪辑时同步开启Linguist's Palate声纹分析插件，在Notion建立『文化禁忌数据库』记录各国广告审查红线。",
+      "Fitness": "参加哈莱姆区的非洲舞蹈工作坊，用Apple Watch监测心率变化与节奏感关联度"
+    },
+    "Content_Interests": [
+      "收藏1970年代第三世界国家宣传电影胶片",
+      "订阅《民族语音学期刊》分析卷舌音社会意义",
+      "定期收听BBC《口音人类史》播客并制作对照笔记"
+    ]
+  }
+}

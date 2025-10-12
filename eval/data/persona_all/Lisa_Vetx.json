@@ -1,0 +1,48 @@
+{
+  "Name": "Lisa",
+  "Demographics": {
+    "Age": 29,
+    "Gender": "女",
+    "Nationality": "美国",
+    "Language": [
+      "英语",
+      "西班牙语"
+    ],
+    "Career_Information": "国际贸易硕士，曾在多个国家的跨国公司实习"
+  },
+  "Personality": {
+    "Extraversion_or_Introversion": "E",
+    "Sensing_or_Intuition": "S",
+    "Thinking_or_Feeling": "F",
+    "Judging_or_Perceiving": "P",
+    "Values_and_Interests": [
+      "热衷于可持续发展",
+      "支持女性在职场的平等权利",
+      "喜欢体验不同文化的美食",
+      "热爱旅行和拍摄风景"
+    ]
+  },
+  "Preference": {
+    "Local_Life": {
+      "Food_Drinks": "工作日午餐选择自带有机沙拉，晚餐则在本地家庭经营的融合餐厅用餐，周末必去新开业的异国风味餐馆。随身携带可重复使用的金属吸管，对一次性包装食品有明显抵触。",
+      "Entertainment": "每月参加女性创业者沙龙，周末常去农夫市集采购食材并拍摄街头艺术。下雨天会窝在公寓看Netflix美食纪录片。",
+      "Shopping": "网购频率较低，偏爱实体店购买手工制品。衣橱60%来自环保品牌，对使用再生面料的服饰有执念。",
+      "TravelDaily_Outings": "通勤坚持骑电动滑板车，周末租共享汽车探索城市周边秘境，车内必备专业级手持云台"
+    },
+    "Travel": {
+      "Business_Trips": "出差时会特意预定带屋顶花园的商务酒店，利用清晨拍摄城市天际线。随身携带可降解材质名片盒，会议间隙必找当地女企业家交流。",
+      "Leisure_Travel": "每年两次独自背包旅行，偏爱住生态树屋或女性经营的民宿。行程表只规划拍摄黄金时段的景点，其余时间随性游荡"
+    },
+    "Social": "Instagram专门开设#WomenInTrade话题，分享职场女性穿搭与各国菜市场见闻。线下定期组织跨国视频聚餐，要求参与者必须带一道祖母传授的传家菜。",
+    "Productivity": {
+      "Study_Work": "用Notion建立跨国时区协调系统，办公电脑贴着'拒绝塑料瓶装水'贴纸。参加所有线上峰会都会追问嘉宾企业的碳足迹计算方式。",
+      "Fitness": "每周三次 sunrise yoga，手机里装着五个不同语言的徒步路线APP。运动手环数据同步给环保组织作城市热岛效应研究"
+    },
+    "Content_Interests": [
+      "可持续时尚播客",
+      "女性领导力TED演讲",
+      "小众国家美食探店vlog",
+      "手机摄影构图教程"
+    ]
+  }
+}

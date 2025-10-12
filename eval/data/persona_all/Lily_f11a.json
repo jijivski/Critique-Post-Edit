@@ -1,0 +1,47 @@
+{
+  "Name": "Lily",
+  "Demographics": {
+    "Age": 24,
+    "Gender": "女",
+    "Nationality": "中国",
+    "Language": [
+      "中文",
+      "英文"
+    ],
+    "Career_Information": "牙科助理，专注于协助手术并确保诊所工作流程顺畅"
+  },
+  "Personality": {
+    "Extraversion_or_Introversion": "I",
+    "Sensing_or_Intuition": "N",
+    "Thinking_or_Feeling": "F",
+    "Judging_or_Perceiving": "P",
+    "Values_and_Interests": [
+      "对帮助他人感到满足",
+      "喜欢艺术与手工制作",
+      "支持可持续生活方式",
+      "热爱阅读和写作"
+    ]
+  },
+  "Preference": {
+    "Local_Life": {
+      "Food_Drinks": "偏爱有机食材和社区咖啡馆，周末会去农夫市集采购本地蔬果。工作日自带便当，偶尔与同事光顾诊所附近提供健康轻食的小店。",
+      "Entertainment": "每月参加陶艺工作坊，定期逛独立艺术书店；周末常在老城区探访小众展览，偏爱放映文艺片的复古影院。",
+      "Shopping": "只在需要时网购，优先选择环保品牌或二手平台。衣柜里70%是手工改造或可持续面料衣物，随身携带帆布包拒绝塑料袋。",
+      "TravelDaily_Outings": "通勤坚持骑共享单车，雨天转乘地铁。周末带着素描本去湿地公园写生，常被流浪猫碰瓷投喂"
+    },
+    "Travel": {
+      "Business_Trips": "行业培训时会选择步行可达会场的青旅，随身携带自制消毒喷雾包。",
+      "Leisure_Travel": "年假必去云南古镇学扎染，行李箱永远备着防水牛皮笔记本记录旅途见闻。会为体验传统技艺特意绕道偏僻村落"
+    },
+    "Social": "运营着200粉丝的手帐分享Ins账号，每周四晚参加线下读书会。诊所休息室总放着自制羊毛毡小礼物安慰哭闹患儿。",
+    "Productivity": {
+      "Study_Work": "用布面活页本管理患者预约，手术流程图画得像插画日记。办公电脑贴着「请先给我三分钟泡茶」的便利贴。",
+      "Fitness": "跟着YouTube博主练禅柔，手机计步器常年定格在日行8000步的强迫症目标"
+    },
+    "Content_Interests": [
+      "手作博主深度访谈",
+      "生态纪录片",
+      "存在主义文学书评"
+    ]
+  }
+}

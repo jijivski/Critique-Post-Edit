@@ -1,0 +1,47 @@
+{
+  "Name": "Ethelred",
+  "Demographics": {
+    "Age": 30,
+    "Gender": "男",
+    "Nationality": "英国",
+    "Language": [
+      "英语",
+      "德语"
+    ],
+    "Career_Information": "维多利亚时代农民，经营小麦田与马铃薯地，兼任村庄公共牧羊人"
+  },
+  "Personality": {
+    "Extraversion_or_Introversion": "E",
+    "Sensing_or_Intuition": "S",
+    "Thinking_or_Feeling": "T",
+    "Judging_or_Perceiving": "P",
+    "Values_and_Interests": [
+      "坚持用月相指导播种时机",
+      "收集雨水灌溉的专家",
+      "认为牲畜比机械更可靠",
+      "擅长用草药治疗牲口疾病"
+    ]
+  },
+  "Preference": {
+    "Local_Life": {
+      "Food_Drinks": "每日主食是黑麦面包配腌菜，只在丰收节购买蜂蜜酒。坚持用陶罐而非新式铁器储存食物，认为金属容器会破坏风味。",
+      "Entertainment": "每月参加村庄谷仓舞会，常在酒馆玩掷马蹄铁游戏。最大的乐趣是给孩子们讲沼泽精灵的民间故事。",
+      "Shopping": "只在季度市集采购铁匠铺打造的农具，格外关注镰刀握柄的桦木材质。会用手工奶酪向货郎换取粗盐与灯油。",
+      "TravelDaily_Outings": "骑骡子往返于自家农田与公共牧场，每周日驾马车带全家去教堂"
+    },
+    "Travel": {
+      "Business_Trips": "每年两次赶着羊群去郡集市，夜宿沿途牧羊人石屋。会带着自制熏肉与邻镇农民交换种子。",
+      "Leisure_Travel": "十五年未离开过本郡，唯一远行是年轻时徒步三天去北海悬崖看信天翁迁徙"
+    },
+    "Social": "担任教区委员负责调解土地纠纷，每周四在磨坊主持农耕经验交流会。随身携带锡制鼻烟盒作为社交破冰工具，但拒绝使用新式名片。",
+    "Productivity": {
+      "Study_Work": "用炭笔在桦树皮上记录作物轮作周期，根据云层形状预测天气。工具箱里永远备着蜂蜡保养皮具。",
+      "Fitness": "每日劈柴代替健身，深秋参与集体挖渠时会在泥地里赤脚行走以'连接地气'"
+    },
+    "Content_Interests": [
+      "收集不同土壤样本进行比较",
+      "关注《农民年鉴》上的占星预测",
+      "能背诵三十种鸟类的求偶叫声"
+    ]
+  }
+}

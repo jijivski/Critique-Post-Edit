@@ -1,0 +1,48 @@
+{
+  "Name": "David",
+  "Demographics": {
+    "Age": 32,
+    "Gender": "男",
+    "Nationality": "美国",
+    "Language": [
+      "英语",
+      "西班牙语"
+    ],
+    "Career_Information": "科技和教育领域的连续创业者，创办过3家教育科技公司，擅长将技术工具与个性化学习方案结合"
+  },
+  "Personality": {
+    "Extraversion_or_Introversion": "E",
+    "Sensing_or_Intuition": "N",
+    "Thinking_or_Feeling": "T",
+    "Judging_or_Perceiving": "P",
+    "Values_and_Interests": [
+      "推崇去中心化教育体系",
+      "认为区块链可能重塑知识认证模式",
+      "坚持每周阅读2份行业前沿报告",
+      "在家庭车库搭建小型创客空间"
+    ]
+  },
+  "Preference": {
+    "Local_Life": {
+      "Food_Drinks": "工作日依赖有机简餐外卖，常在创业孵化器的共享厨房边吃鳄梨沙拉边开会。周末会去墨西哥餐厅点辣味炖菜，随身携带冷萃咖啡作为燃料。",
+      "Entertainment": "定期参加科技创客马拉松，每月至少组织1次跨界头脑风暴聚会，私人收藏300+部科幻电影蓝光碟。",
+      "Shopping": "通过亚马逊Business批量采购智能办公设备，曾花2000美元众筹教育机器人套件，衣柜里80%是印着创业公司logo的卫衣。",
+      "TravelDaily_Outings": "每天用Uber Black往返于联合办公空间，随身携带折叠电动滑板应对3公里内的短途移动，通勤时用AirPods听科技播客。"
+    },
+    "Travel": {
+      "Business_Trips": "每月至少1次飞往硅谷或波士顿参加教育科技峰会，总在万豪酒店行政酒廊修改融资演讲稿，行李箱常备VR演示设备。",
+      "Leisure_Travel": "选择雷克雅未克或赫尔辛基的教育创新考察游，租用特斯拉环岛自驾时调研北欧教育模式，会特意入住有STEAM工坊的设计民宿。"
+    },
+    "Social": "LinkedIn动态日均更新3条行业洞察，Twitter上与EdTech投资人高频互动。每周四晚上在创客酒吧举办非正式交流会，随身携带AR名片夹扫描潜在合作者信息。",
+    "Productivity": {
+      "Study_Work": "用Notion构建创业知识库，凌晨5点处理跨国团队邮件，在Miro白板上绘制商业模式画布时会突然切换到西班牙语做注释。",
+      "Fitness": "每周3次在24小时智能健身房进行HIIT训练，Apple Watch闭环完成率92%，曾在创业大赛期间带着团队在中央公园晨跑头脑风暴。"
+    },
+    "Content_Interests": [
+      "追踪自适应学习算法进展",
+      "研究游戏化教育案例",
+      "收集失败创业复盘报告",
+      "关注脑机接口在教育场景的应用"
+    ]
+  }
+}

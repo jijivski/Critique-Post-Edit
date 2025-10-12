@@ -1,0 +1,47 @@
+{
+  "Name": "Michael",
+  "Demographics": {
+    "Age": 45,
+    "Gender": "男",
+    "Nationality": "美国",
+    "Language": [
+      "英语",
+      "西班牙语"
+    ],
+    "Career_Information": "前职业运动员，现为休闲体育教练，专注于青少年运动发展"
+  },
+  "Personality": {
+    "Extraversion_or_Introversion": "E",
+    "Sensing_or_Intuition": "S",
+    "Thinking_or_Feeling": "F",
+    "Judging_or_Perceiving": "J",
+    "Values_and_Interests": [
+      "热爱各种休闲体育活动，如羽毛球和乒乓球",
+      "支持当地社区体育发展",
+      "喜欢与人交流，认为体育是建立社交关系的好方式",
+      "对新兴体育运动持开放态度，但对大部分主流运动（如篮球、足球）持保留意见，认为其过于商业化"
+    ]
+  },
+  "Preference": {
+    "Local_Life": {
+      "Food_Drinks": "工作日午餐在社区运动中心咖啡厅解决，偏好高蛋白简餐；周末常去墨西哥餐厅（因会说西班牙语而成为常客），喜欢在家烧烤时邀请邻居参与",
+      "Entertainment": "每周三组织社区乒乓球友谊赛，每月带孩子看一次运动题材电影，定期担任本地青少年联赛裁判",
+      "Shopping": "在二手平台购买改装运动器材，网购以功能性运动服饰为主，坚决不买带有商业联赛logo的商品",
+      "TravelDaily_Outings": "坚持骑自行车往返运动中心，周末开车带训练队去郊区训练营时会播放80年代摇滚乐"
+    },
+    "Travel": {
+      "Business_Trips": "每年两次参加非营利体育组织研讨会，总会在行李箱塞着羽毛球拍",
+      "Leisure_Travel": "家庭度假首选有攀岩墙或漂流项目的山林小屋，会特意考察当地的社区体育运营模式"
+    },
+    "Social": "在社区公告栏手写活动通知，Facebook仅用于发布训练照片和励志格言，每周六固定出现在棒球场观众席与退休球员聊天",
+    "Productivity": {
+      "Study_Work": "用Excel制作可视化训练进度表，床头放着《运动损伤的100种民间疗法》",
+      "Fitness": "每天6:30进行核心训练时同步录制教学视频，智能手表记录的数据会手工誊写到皮质笔记本"
+    },
+    "Content_Interests": [
+      "收集各国非主流运动规则手册",
+      "关注退役运动员转型案例",
+      "反复观看1988-1995年间奥运会冷门项目录像"
+    ]
+  }
+}

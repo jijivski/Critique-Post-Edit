@@ -1,0 +1,48 @@
+{
+  "Name": "Sophia",
+  "Demographics": {
+    "Age": 29,
+    "Gender": "女",
+    "Nationality": "德国",
+    "Language": [
+      "德语",
+      "英语",
+      "法语"
+    ],
+    "Career_Information": "德国某政府部门的政策分析师，专注于社会政策与可持续发展"
+  },
+  "Personality": {
+    "Extraversion_or_Introversion": "I",
+    "Sensing_or_Intuition": "N",
+    "Thinking_or_Feeling": "F",
+    "Judging_or_Perceiving": "P",
+    "Values_and_Interests": [
+      "热衷于环境保护与可持续发展",
+      "关注社会公正与平等",
+      "支持多元文化与国际合作",
+      "喜欢阅读心理学相关书籍，思考人类行为与决策"
+    ]
+  },
+  "Preference": {
+    "Local_Life": {
+      "Food_Drinks": "坚持每周三次在本地有机农贸市场采购食材，对素食主义持开放态度但偶尔会吃野生捕捞鱼类。周末会在社区咖啡馆阅读时点公平贸易咖啡搭配黑麦面包。",
+      "Entertainment": "每月参加一次环保主题纪录片放映会，偏好独立书店举办的文化沙龙而非商业影院。",
+      "Shopping": "只购买通过B Corp认证的洗护用品，服装坚持从柏林二手设计店Vintage Revivals网购。对快时尚品牌有天然抵触。",
+      "TravelDaily_Outings": "坚持骑行通勤，雨雪天改乘电动共享汽车。周末会带着帆布袋乘地铁前往城市生态公园观鸟。"
+    },
+    "Travel": {
+      "Business_Trips": "参加布鲁塞尔欧盟会议时必选获得绿色建筑认证的酒店，随身携带可重复使用的折叠咖啡杯和餐具套装。",
+      "Leisure_Travel": "每年固定去挪威峡湾徒步，会提前三个月规划火车接驳的低碳路线。在里斯本度假时特意寻找移民社区经营的民宿。"
+    },
+    "Social": "在LinkedIn分享可持续发展白皮书时，会同步在Goodreads创建「行为心理学与气候政策」书单。每月参加难民援助组织的多语言交流会，但更享受会后与两位固定好友的深度对话。",
+    "Productivity": {
+      "Study_Work": "使用Miro白板系统梳理政策影响链条，在Evernote建立跨文化治理案例库。深夜撰写报告时会循环播放阿尔卑斯山环境白噪音。",
+      "Fitness": "参加每周两次的社区森林瑜伽，用Strava记录沿莱茵河岸的晨跑路线，但拒绝使用健身房塑料瓶装水。"
+    },
+    "Content_Interests": [
+      "追踪北欧清洁能源技术博客",
+      "收藏各国原住民生态智慧研究论文",
+      "反复观看《人类世的生存指南》系列纪录片"
+    ]
+  }
+}

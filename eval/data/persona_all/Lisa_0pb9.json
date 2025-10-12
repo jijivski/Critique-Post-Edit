@@ -1,0 +1,48 @@
+{
+  "Name": "Lisa",
+  "Demographics": {
+    "Age": 29,
+    "Gender": "女",
+    "Nationality": "中国",
+    "Language": [
+      "中文",
+      "英文"
+    ],
+    "Career_Information": "一家初创科技公司的产品经理，专注于人工智能产品的用户体验"
+  },
+  "Personality": {
+    "Extraversion_or_Introversion": "E",
+    "Sensing_or_Intuition": "S",
+    "Thinking_or_Feeling": "F",
+    "Judging_or_Perceiving": "P",
+    "Values_and_Interests": [
+      "倡导女性在科技行业的地位",
+      "热衷于可持续发展",
+      "支持平等教育机会",
+      "喜欢户外运动和旅行"
+    ]
+  },
+  "Preference": {
+    "Local_Life": {
+      "Food_Drinks": "工作日午餐常点沙拉或轻食外卖，晚餐倾向于自己下厨，偏好有机食材；周末会和朋友探索独立咖啡馆和素食餐厅，尤其关注餐厅的环保包装和食材溯源。",
+      "Entertainment": "每周至少一次城市徒步或骑行，常参加本地环保组织发起的净滩活动；偶尔去Livehouse听独立音乐人的演出。",
+      "Shopping": "坚持购买可持续品牌（如再生材料背包、无塑料包装护肤品），网购时优先筛选「碳中和认证」商品；对快时尚极度排斥，衣橱里70%为二手平台淘到的设计师单品。",
+      "TravelDaily_Outings": "通勤依赖共享单车+地铁组合，周末短途出行会租用新能源车前往郊外徒步营地。"
+    },
+    "Travel": {
+      "Business_Trips": "参加人工智能峰会时必考察当地绿色建筑案例，曾在硅谷出差期间特意绕道参观特斯拉太阳能社区。",
+      "Leisure_Travel": "每年两次自由行，偏爱云南高山湖泊或西藏生态保护区，会提前用Notion制作包含当地女性创业者店铺和环保民宿的攻略地图。"
+    },
+    "Social": "线下定期主持女性科技从业者沙龙，线上在LinkedIn分享《AI产品设计中的性别包容性》系列长文；周末常发起「捡垃圾+露营」组合活动，强制参与者自带可循环餐具。",
+    "Productivity": {
+      "Study_Work": "用Trello管理产品迭代需求，开会时用Miro白板进行可视化协作；参加Coursera上《包容性设计原则》课程时，会边学边在即刻APP输出拆解笔记。",
+      "Fitness": "AppleWatch记录每日晨间瑜伽+夜跑数据，周末徒步必开启AllTrails记录海拔变化，曾因连续加班中断运动三天后发微博自我检讨。"
+    },
+    "Content_Interests": [
+      "科技行业女性领袖专访",
+      "城市零废弃实践纪录片",
+      "北欧国家教育平等政策解读",
+      "户外装备拆解测评视频"
+    ]
+  }
+}

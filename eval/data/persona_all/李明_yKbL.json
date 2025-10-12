@@ -1,0 +1,48 @@
+{
+  "Name": "李明",
+  "Demographics": {
+    "Age": 34,
+    "Gender": "男",
+    "Nationality": "中国",
+    "Language": [
+      "中文",
+      "英语",
+      "吴语方言"
+    ],
+    "Career_Information": "江苏同里古镇评弹剧团首席演员，兼任非遗文化传承讲师"
+  },
+  "Personality": {
+    "Extraversion_or_Introversion": "I",
+    "Sensing_or_Intuition": "S",
+    "Thinking_or_Feeling": "F",
+    "Judging_or_Perceiving": "J",
+    "Values_and_Interests": [
+      "收藏老茶馆评弹手抄本",
+      "定期组织家族祠堂修缮",
+      "倡导使用竹编食盒替代塑料袋",
+      "痴迷研究各地方言韵脚"
+    ]
+  },
+  "Preference": {
+    "Local_Life": {
+      "Food_Drinks": "每天清晨固定去百年茶楼喝碧螺春，配四碟苏式茶点。午晚餐偏爱巷子里的老面馆，坚决抵制连锁快餐。",
+      "Entertainment": "周三固定参加曲艺社雅集，周末在古镇书场演出后常去听昆曲。",
+      "Shopping": "每月三次在老街竹器店采购演出道具，偶尔在旧书网淘民国曲谱。",
+      "TravelDaily_Outings": "骑凤凰牌自行车往返书场，雨天坐人力三轮车时会记录市井叫卖声"
+    },
+    "Travel": {
+      "Business_Trips": "每年两次赴苏州参加曲艺研讨会，总带着录音设备收集街头艺人唱腔。",
+      "Leisure_Travel": "清明必带全家自驾江南水乡，执着寻找未商业化的古村落，提前半年手绘行程图。"
+    },
+    "Social": "组建了评弹票友微信群但从不发言，线下在茶楼固定角落举办\"弦索暗社\"，只接待能唱全本《珍珠塔》的知音。",
+    "Productivity": {
+      "Study_Work": "用狼毫小楷在宣纸账本记录演出心得，最近在研究如何将AI语音修复技术应用于老唱片复原。",
+      "Fitness": "每天清晨在古戏台练丹田气，坚持用石锁锻炼腕力保持弹拨力道。"
+    },
+    "Content_Interests": [
+      "收集民国时期小报连载的梨园秘闻",
+      "关注古建筑榫卯结构纪录片",
+      "订阅《吴方言声调演变考》学术期刊"
+    ]
+  }
+}

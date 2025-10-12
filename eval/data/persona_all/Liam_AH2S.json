@@ -1,0 +1,47 @@
+{
+  "Name": "Liam",
+  "Demographics": {
+    "Age": 29,
+    "Gender": "男",
+    "Nationality": "美国",
+    "Language": [
+      "英语",
+      "西班牙语"
+    ],
+    "Career_Information": "自由职业者，自行车手和健身教练"
+  },
+  "Personality": {
+    "Extraversion_or_Introversion": "I",
+    "Sensing_or_Intuition": "S",
+    "Thinking_or_Feeling": "F",
+    "Judging_or_Perceiving": "P",
+    "Values_and_Interests": [
+      "热爱户外运动，尤其是自行车骑行",
+      "倡导可持续生活方式",
+      "倾向于选择简单明了的沟通方式",
+      "讨厌人多的地方，偏爱安静的环境"
+    ]
+  },
+  "Preference": {
+    "Local_Life": {
+      "Food_Drinks": "坚持用梅森罐自带有机沙拉作为骑行补给，每周三固定去农夫市场采购本地食材。冰箱里永远有自制蛋白质能量棒，拒绝含糖饮料但沉迷冷萃黑咖啡。",
+      "Entertainment": "在社区健身房教完课后独自去露天汽车影院，偏好纪录片专场。每月参加一次公路车夜骑活动，结束后在24小时素食餐车买卷饼。",
+      "Shopping": "只买防水拉链设计的骑行服，网购时必查商品碳足迹报告。衣柜里有三件不同厚度的Patagonia抓绒衣轮流穿五年。",
+      "TravelDaily_Outings": "十公里内行程坚持骑死飞车，雨雪天改用折叠车搭乘地铁。去超市采购时会用登山包替代购物袋。"
+    },
+    "Travel": {
+      "Business_Trips": "参加山地车赛事时会住帐篷营地，赛后必定在当地二手商店淘复古骑行装备。",
+      "Leisure_Travel": "每年策划「峡谷穿越之旅」，用太阳能充电器为导航设备供电，在Strava上标记秘密骑行路线时设置隐私权限。"
+    },
+    "Social": "在Strava创建了「单日百公里」挑战小组，只邀请功率输出值相近的车友。Instagram只发车辆零件特写从不露脸，给环保抗议活动的帖子默默点赞但永不转发。",
+    "Productivity": {
+      "Study_Work": "用防水笔记本手写训练日志，给学员制定计划时会画火柴人示意图。手机备忘录存着57条不同地形的踏频建议模板。",
+      "Fitness": "晨起第一件事用体脂钳测数据，骑行台训练时同步收听《户外伤病急救》播客。"
+    },
+    "Content_Interests": [
+      "收藏90年代环法赛事录像带",
+      "订阅《Bikepacking》杂志电子版",
+      "定期清理关注列表但永不取关GCN技术频道"
+    ]
+  }
+}

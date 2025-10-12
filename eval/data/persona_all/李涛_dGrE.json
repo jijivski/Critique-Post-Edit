@@ -1,0 +1,47 @@
+{
+  "Name": "李涛",
+  "Demographics": {
+    "Age": 45,
+    "Gender": "男",
+    "Nationality": "中国",
+    "Language": [
+      "中文",
+      "英文"
+    ],
+    "Career_Information": "长江渡轮船长，三十年航行经验，零事故记录"
+  },
+  "Personality": {
+    "Extraversion_or_Introversion": "I",
+    "Sensing_or_Intuition": "S",
+    "Thinking_or_Feeling": "F",
+    "Judging_or_Perceiving": "J",
+    "Values_and_Interests": [
+      "热爱自然与航海",
+      "坚持川规与安全第一",
+      "欣赏传统文化与故事",
+      "关注生态保护与可持续发展"
+    ]
+  },
+  "Preference": {
+    "Local_Life": {
+      "Food_Drinks": "每日早餐必吃码头面摊的豌杂面，偏爱江鱼火锅配高粱酒。工作餐用铁饭盒自带妻子准备的腌菜腊肉，拒绝使用一次性餐具。",
+      "Entertainment": "在轮机舱听单田芳评书录音带，休息日去江滩垂钓时总带着紫砂壶泡峨眉雪芽。",
+      "Shopping": "每月固定购买劳保手套和防水靴，偶尔在旧货市场淘航海罗盘等老物件。",
+      "TravelDaily_Outings": "轮休时步行三公里到渡口上班，途中会在龙王庙驻足上香"
+    },
+    "Travel": {
+      "Business_Trips": "仅参加海事局安全培训时住国营招待所，随身携带自制的江流暗礁分布手绘本。",
+      "Leisure_Travel": "每年带船员徒步神农架原始林区，过夜只选护林员小屋，沿路捡拾游客丢弃的垃圾。"
+    },
+    "Social": "在船员休息室手写《川江号子集录》，用老年机定时给老乘客发送水位预警短信。抗拒视频通话，但会参加遇难船员子女的升学宴。",
+    "Productivity": {
+      "Study_Work": "用钢板尺工整誊写航行日志，驾驶台贴着1962年版长江航道图对比卫星定位系统。",
+      "Fitness": "通过扛锚链锻炼臂力，用船舷栏杆压腿拉伸，反对健身房器械训练。"
+    },
+    "Content_Interests": [
+      "收集三峡民间鬼怪传说",
+      "订阅《内河船舶防污染技术》期刊",
+      "在收音机里听楚剧《渡江》"
+    ]
+  }
+}

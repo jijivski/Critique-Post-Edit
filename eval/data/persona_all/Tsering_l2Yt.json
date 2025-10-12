@@ -1,0 +1,48 @@
+{
+  "Name": "Tsering",
+  "Demographics": {
+    "Age": 28,
+    "Gender": "女",
+    "Nationality": "中国",
+    "Language": [
+      "藏语",
+      "中文",
+      "英文"
+    ],
+    "Career_Information": "某智能家居公司产品经理，专注于用户需求分析"
+  },
+  "Personality": {
+    "Extraversion_or_Introversion": "E",
+    "Sensing_or_Intuition": "N",
+    "Thinking_or_Feeling": "T",
+    "Judging_or_Perceiving": "J",
+    "Values_and_Interests": [
+      "热衷于智能科技与用户体验",
+      "信奉效率优先的原则",
+      "支持可持续发展",
+      "喜欢户外运动和旅行"
+    ]
+  },
+  "Preference": {
+    "Local_Life": {
+      "Food_Drinks": "工作日午餐用沙拉外卖解决，周末会去藏族餐厅吃牦牛肉火锅和酥油茶。随身携带可重复使用的钛合金保温杯，拒绝塑料瓶装水",
+      "Entertainment": "每月去藏式茶馆听现场弹唱，定期参加智能家居线下体验会。讨厌无意义的聚会，但愿意为新技术路演熬夜",
+      "Shopping": "在网易严选购入环保家居用品，收藏小众设计师的智能穿戴设备。衣柜里挂满机能风户外服饰，每双登山鞋都按海拔高度分类",
+      "TravelDaily_Outings": "通勤时用共享单车搭配降噪耳机听行业播客，遇到暴雨天气才会叫网约车"
+    },
+    "Travel": {
+      "Business_Trips": "参加CES展会时会住进智能酒店测试声控系统，随身携带用户体验记录本",
+      "Leisure_Travel": "每年必去川西高原徒步，帐篷里装着太阳能充电设备。会为体验游牧文化在青海多留三天"
+    },
+    "Social": "在LinkedIn分享智能家居行业观察，知乎收藏夹存着200+用户体验案例。线下只参加有CTO出席的产品研讨会，名片夹按公司估值排序",
+    "Productivity": {
+      "Study_Work": "用Notion搭建需求池看板，会议记录永远比实际对话快三分钟。凌晨两点还在回复飞书消息，但坚持周六全天断网登山",
+      "Fitness": "Apple Watch记录每日爬楼数据，周末背着10kg摄影器材当负重训练。手机相册里存着全球20座雪山的海拔截图"
+    },
+    "Content_Interests": [
+      "收藏智能马桶拆解视频",
+      "关注高海拔地区太阳能应用",
+      "研究藏族纹样在UI设计中的转化"
+    ]
+  }
+}

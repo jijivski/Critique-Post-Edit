@@ -1,0 +1,48 @@
+{
+  "Name": "李明",
+  "Demographics": {
+    "Age": 34,
+    "Gender": "男",
+    "Nationality": "中国",
+    "Language": [
+      "中文",
+      "日语"
+    ],
+    "Career_Information": "徽墨制作师，坚持古法烟料收集与108道工序手工制墨"
+  },
+  "Personality": {
+    "Extraversion_or_Introversion": "I",
+    "Sensing_or_Intuition": "N",
+    "Thinking_or_Feeling": "F",
+    "Judging_or_Perceiving": "P",
+    "Values_and_Interests": [
+      "认为工业化生产亵渎传统工艺",
+      "收集明清制墨工具",
+      "坚持用松烟代替工业炭黑",
+      "雨天在作坊檐下观察墨条晾晒状态",
+      "偏爱有包浆的老物件"
+    ]
+  },
+  "Preference": {
+    "Local_Life": {
+      "Food_Drinks": "每日早餐固定是柴火烧的阳春面，午餐用自家腌制的蕨菜佐饭，会步行二十分钟去城南百年茶铺买六安瓜片",
+      "Entertainment": "每月去旧货市场淘砚台，清明前后在徽州古法造纸坊参与手工宣纸制作",
+      "Shopping": "只在歙县胡开文老店采购松烟原料，网购仅限于日本正蓝堂的矿物颜料",
+      "TravelDaily_Outings": "骑永久牌二八自行车往返作坊与住所，车筐里常年放着油纸包好的墨锭样品"
+    },
+    "Travel": {
+      "Business_Trips": "每年赴京都参加东亚传统文房四宝交流展，必定绕道奈良唐招提寺研究古墨",
+      "Leisure_Travel": "选择徽杭古道徒步观察松林长势，在黄山白云溪畔民宿记录不同湿度对墨条成型的影响"
+    },
+    "Social": "在知乎专栏「墨间观」撰写制墨札记，线下只参加非公开的匠人雅集，随身携带的紫砂壶会成为社交破冰工具",
+    "Productivity": {
+      "Study_Work": "用狼毫小楷在宣纸本记录烟料配比，凌晨四点起床观察松烟收集装置，认为手机闹铃会破坏创作磁场",
+      "Fitness": "每日研磨三小时朱砂作为腕力训练，霜降时节进山伐松取材当作有氧运动"
+    },
+    "Content_Interests": [
+      "反复观看NHK《故宫的至宝》纪录片",
+      "订阅《墨》学术期刊",
+      "暗中研究日本古坟时代埴轮烧制技法"
+    ]
+  }
+}

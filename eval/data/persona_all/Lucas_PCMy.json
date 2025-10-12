@@ -1,0 +1,47 @@
+{
+  "Name": "Lucas",
+  "Demographics": {
+    "Age": 30,
+    "Gender": "男",
+    "Nationality": "中国",
+    "Language": [
+      "中文",
+      "英文"
+    ],
+    "Career_Information": "电视剧编剧及分析师，拥有电影和传媒专业的硕士学位"
+  },
+  "Personality": {
+    "Extraversion_or_Introversion": "E",
+    "Sensing_or_Intuition": "N",
+    "Thinking_or_Feeling": "T",
+    "Judging_or_Perceiving": "P",
+    "Values_and_Interests": [
+      "热爱深入分析电视剧情和角色发展",
+      "支持多元文化表达",
+      "对编剧的创作过程充满好奇",
+      "喜欢在社交媒体上发表对剧集的看法"
+    ]
+  },
+  "Preference": {
+    "Local_Life": {
+      "Food_Drinks": "工作日靠外卖解决三餐，但会特意寻找有戏剧场景感的餐厅进行沉浸式体验。周末习惯在咖啡馆写作，只喝不加糖的冷萃咖啡。",
+      "Entertainment": "每周固定去独立影院观影，热衷参与剧本朗读会和影视节展映活动。",
+      "Shopping": "定期购买编剧理论书籍和导演访谈录，对能提升工作效率的科技产品有执念。",
+      "TravelDaily_Outings": "地铁通勤时观察乘客互动模式，打车必选「安静模式」以便思考剧情"
+    },
+    "Travel": {
+      "Business_Trips": "频繁出席亚洲影视节展，会在酒店会议室组织即兴剧本头脑风暴。",
+      "Leisure_Travel": "偏爱去有百年剧院和电影博物馆的城市，曾在布拉格偶遇剧组后当了两周跟组观察员"
+    },
+    "Social": "在微博创建#镜头语言解剖学#话题，线下定期组织编剧沙龙。对爆米花电影爱好者有隐秘优越感，但会伪装成平等讨论。",
+    "Productivity": {
+      "Study_Work": "用Final Draft写剧本时会同步打开心理分析软件，建立角色人格模型数据库。",
+      "Fitness": "坚信散步是最佳创作辅助，每天绕影视园区快走时用录音笔捕捉灵感"
+    },
+    "Content_Interests": [
+      "收集各国审查制度对剧本的影响案例",
+      "关注Netflix编剧室的幕后工作流纪录片",
+      "沉迷解构经典电影中的跨文化误读现象"
+    ]
+  }
+}

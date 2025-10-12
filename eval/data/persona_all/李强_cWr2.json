@@ -1,0 +1,47 @@
+{
+  "Name": "李强",
+  "Demographics": {
+    "Age": 32,
+    "Gender": "男",
+    "Nationality": "中国",
+    "Language": [
+      "中文",
+      "西班牙语"
+    ],
+    "Career_Information": "重庆火锅店老板，经营火锅店已有五年，致力于推广重庆火锅文化"
+  },
+  "Personality": {
+    "Extraversion_or_Introversion": "E",
+    "Sensing_or_Intuition": "S",
+    "Thinking_or_Feeling": "F",
+    "Judging_or_Perceiving": "P",
+    "Values_and_Interests": [
+      "热爱与顾客互动",
+      "推崇传统美食",
+      "享受户外运动，如爬山和骑行",
+      "认为生活应该重视享乐和当下的体验"
+    ]
+  },
+  "Preference": {
+    "Local_Life": {
+      "Food_Drinks": "每日必吃麻辣火锅试味，但私下更偏爱街角老字号的豌杂面和冰粉。深夜打烊后会去隔壁烧烤摊喝山城啤酒，坚称'重庆人的胃需要烟火气'。",
+      "Entertainment": "每周三闭店日下午固定去南山步道骑行，周末常带员工到长江边露天KTV唱《重庆野玫瑰》。",
+      "Shopping": "在菜市场采购牛油和毛肚时像侦探般挑剔，但对个人衣物只逛解放碑地下商城，'能砍价才有江湖味'。",
+      "TravelDaily_Outings": "坚持骑改装电动车巡店，后座永远绑着给熟客带的自家酸梅汤。"
+    },
+    "Travel": {
+      "Business_Trips": "每年参加成都国际美食展时，总溜去苍蝇馆子偷师，行李箱里塞满青花椒和泡菜坛子。",
+      "Leisure_Travel": "雨季自驾川藏线寻找牦牛火锅灵感，会在318国道边支起便携火锅请驴友共食。"
+    },
+    "Social": "在抖音开'强哥火锅夜话'直播切毛肚教学，却总被粉丝带偏聊登山装备。每周组织'麻辣读书会'，实际是火锅配金庸小说朗读。",
+    "Productivity": {
+      "Study_Work": "用红色塑料笔记本手写秘制底料配方，收银台日历上画满辣椒符号标记客流高峰。",
+      "Fitness": "手机装Strava只为跟骑友较劲歌乐山爬坡速度，把火锅食材搬运当负重训练。"
+    },
+    "Content_Interests": [
+      "收藏80年代重庆码头老照片",
+      "关注西班牙火腿制作视频幻想改良酥肉",
+      "深夜循环播放《火锅英雄》当白噪音"
+    ]
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "Name": "Isabella",
+  "Demographics": {
+    "Age": 30,
+    "Gender": "女",
+    "Nationality": "美国",
+    "Language": [
+      "英语",
+      "法语"
+    ],
+    "Career_Information": "知名文化评论家，专注于艺术与社会现象"
+  },
+  "Personality": {
+    "Extraversion_or_Introversion": "I",
+    "Sensing_or_Intuition": "N",
+    "Thinking_or_Feeling": "F",
+    "Judging_or_Perceiving": "P",
+    "Values_and_Interests": [
+      "热爱古典音乐，尤其是巴赫和德彪西",
+      "主张艺术应该反映社会现实",
+      "支持女性在艺术界的平权运动",
+      "对文学和电影有浓厚兴趣，常撰写评论"
+    ]
+  },
+  "Preference": {
+    "Local_Life": {
+      "Food_Drinks": "偏爱有机食品和精品咖啡馆，每周至少三次光顾布鲁克林的手工烘焙坊。晚餐习惯用红酒搭配奶酪拼盘，认为这是对欧洲生活方式的致敬。",
+      "Entertainment": "定期在MoMA现代艺术馆做义务导览员，周四夜晚固定参加地下爵士酒吧的即兴演奏会。",
+      "Shopping": "只购买独立书店的纸质书和女性艺术家设计的首饰，拒绝快时尚品牌。",
+      "TravelDaily_Outings": "坚持骑复古自行车通勤，雨天才会叫Lyft专车并要求司机关闭广播保持安静"
+    },
+    "Travel": {
+      "Business_Trips": "每年两次前往巴黎参加左岸艺术论坛，总会绕道第戎小镇收集民间手工艺品作为研究素材。",
+      "Leisure_Travel": "痴迷探访废弃剧院和艺术家故居，曾在普罗旺斯租下荒废的薰衣草农场写作三个月"
+    },
+    "Social": "运营名为「解构维纳斯」的Substack专栏，线下只参加不超过10人的文学沙龙。对Instagram上过度修图的网红艺术家有生理性厌恶。",
+    "Productivity": {
+      "Study_Work": "用1927年产打字机撰写初稿，再用Bear软件同步电子版。书桌永远堆满贴着彩色便签的企鹅出版社旧书。",
+      "Fitness": "每天黎明在中央公园练习即兴现代舞，认为健身房是反人类的钢铁牢笼"
+    },
+    "Content_Interests": [
+      "收集冷战时期东欧地下艺术档案",
+      "追踪全球女性主义街头艺术运动"
+    ]
+  }
+}

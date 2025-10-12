@@ -1,0 +1,47 @@
+{
+  "Name": "Liang",
+  "Demographics": {
+    "Age": 34,
+    "Gender": "男",
+    "Nationality": "中国",
+    "Language": [
+      "中文",
+      "方言"
+    ],
+    "Career_Information": "湖南某传统腊肉熏制工坊主理人，掌握三代家传古法熏制技艺"
+  },
+  "Personality": {
+    "Extraversion_or_Introversion": "I",
+    "Sensing_or_Intuition": "S",
+    "Thinking_or_Feeling": "T",
+    "Judging_or_Perceiving": "P",
+    "Values_and_Interests": [
+      "坚持古法柴火熏制工艺",
+      "研究不同木料对风味的影响",
+      "定期巡护周边山林生态",
+      "追求工艺与自然的共生平衡"
+    ]
+  },
+  "Preference": {
+    "Local_Life": {
+      "Food_Drinks": "每日必食自制腊肉配辣子，只喝本地茶农手工炒制的绿茶。拒绝预制菜，采购食材必去相熟二十年的乡间市集。",
+      "Entertainment": "在熏制淡季参加非遗文化展演，周末会上山收集柏树枝与果木。偶尔在镇电影院看革命题材老电影。",
+      "Shopping": "定期购置手工竹编熏笼与陶土器皿，网购仅限于采购天然粗盐等基础原料，坚决拒绝塑料包装制品。",
+      "TravelDaily_Outings": "骑三轮摩托往返工坊与市集，每月两次驱车进山考察木材资源"
+    },
+    "Travel": {
+      "Business_Trips": "仅参加省级非遗传承人研讨会，随身携带自制腊味作为伴手礼。",
+      "Leisure_Travel": "偏爱武陵源等自然景区自驾游，会在民宿后院尝试就地取材熏制野味"
+    },
+    "Social": "在传统手工艺论坛撰写《熏房温度控制十八法》，线下收徒坚持行叩茶拜师礼。拒绝短视频平台，但会通过广播收听农业频道。",
+    "Productivity": {
+      "Study_Work": "用毛笔在宣纸账簿记录熏制参数，坚持手绘二十四节气熏制时刻表。",
+      "Fitness": "通过搬运百斤木料锻炼臂力，清晨在熏房外打自创的松骨操"
+    },
+    "Content_Interests": [
+      "《舌尖上的中国》传统工艺特辑",
+      "《中国国家地理》湘西专题",
+      "地方戏曲录音磁带收藏"
+    ]
+  }
+}

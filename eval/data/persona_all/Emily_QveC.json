@@ -1,0 +1,47 @@
+{
+  "Name": "Emily",
+  "Demographics": {
+    "Age": 30,
+    "Gender": "女",
+    "Nationality": "美国",
+    "Language": [
+      "英文",
+      "西班牙语"
+    ],
+    "Career_Information": "市场研究员，专注于可持续商业模式的研究"
+  },
+  "Personality": {
+    "Extraversion_or_Introversion": "E",
+    "Sensing_or_Intuition": "S",
+    "Thinking_or_Feeling": "T",
+    "Judging_or_Perceiving": "P",
+    "Values_and_Interests": [
+      "倡导长期可持续性",
+      "反对短视商业策略",
+      "热衷于数据分析和市场趋势研究",
+      "喜欢户外活动和环保项目"
+    ]
+  },
+  "Preference": {
+    "Local_Life": {
+      "Food_Drinks": "坚持购买本地农场有机食材，每周三固定参加社区农贸市场。自带不锈钢吸管和可降解餐盒购买墨西哥卷饼，对星巴克推出的咖啡渣循环利用计划有固定消费记录。",
+      "Entertainment": "每月参加两次河流清理志愿活动，在户外装备店租赁皮划艇进行周末短途探险。会特意选择放映环保主题纪录片的独立影院。",
+      "Shopping": "在thredUP购买二手职业装，使用Good On You应用扫描服装品牌可持续评分。对无包装商店的散装洗发水和竹制牙刷有高频复购记录。",
+      "TravelDaily_Outings": "通勤坚持拼车软件绿色模式（只匹配同方向乘客），雨雪天会租赁电动滑板车而非打车。"
+    },
+    "Travel": {
+      "Business_Trips": "主动选择获得LEED认证的酒店，将会议资料打印量作为供应商选择标准。曾因客户坚持使用一次性宣传物料而取消合作。",
+      "Leisure_Travel": "每年参加哥斯达黎加热带雨林监测志愿者项目，随身携带碳中和计算器规划行程。会特意预订有海龟孵化项目的生态度假村。"
+    },
+    "Social": "在LinkedIn发布企业碳足迹分析工具测评，组织可持续咖啡晨会时总带着可重复使用的马克杯套装。私下创建了『零浪费登山者』Meetup小组，但拒绝添加使用一次性水瓶的成员。",
+    "Productivity": {
+      "Study_Work": "用Tableau制作碳排放可视化模板时会同步打开Forest应用种虚拟树，坚持使用太阳能充电的电子墨水屏阅读器处理PDF报告。",
+      "Fitness": "通过Strava记录城市徒步考察路线，瑜伽垫选用天然橡胶材质并定期参加户外沙滩平衡训练。"
+    },
+    "Content_Interests": [
+      "追踪Bloomberg Green专栏",
+      "收藏TED演讲《用经济学思维解决塑料污染》",
+      "订阅Patagonia环保日志播客"
+    ]
+  }
+}

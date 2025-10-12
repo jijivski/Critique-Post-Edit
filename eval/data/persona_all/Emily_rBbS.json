@@ -1,0 +1,47 @@
+{
+  "Name": "Emily",
+  "Demographics": {
+    "Age": 34,
+    "Gender": "女",
+    "Nationality": "美国",
+    "Language": [
+      "英语",
+      "西班牙语"
+    ],
+    "Career_Information": "某知名大学工业工程教授，专注于材料制造中的先进仿真方法"
+  },
+  "Personality": {
+    "Extraversion_or_Introversion": "I",
+    "Sensing_or_Intuition": "S",
+    "Thinking_or_Feeling": "F",
+    "Judging_or_Perceiving": "J",
+    "Values_and_Interests": [
+      "倡导可持续发展和绿色科技",
+      "热衷于教育和培养学生",
+      "支持多样性与包容性",
+      "喜欢园艺和钓鱼"
+    ]
+  },
+  "Preference": {
+    "Local_Life": {
+      "Food_Drinks": "工作日午餐在校园食堂吃简餐，偏好有机蔬菜和公平贸易咖啡；周末会去本地农贸市场采购食材，自制低碳素食。钓鱼收获的鲈鱼常成为家庭晚餐主菜。",
+      "Entertainment": "每月一次带学生参观环保科技展览，偶尔独自去社区剧院看生态纪录片；周五傍晚固定打理自家后院的香草花园。",
+      "Shopping": "坚持购买二手家具改造使用，只在环保品牌（如Patagonia）购买必需衣物，随身携带帆布袋拒绝塑料包装。",
+      "TravelDaily_Outings": "通勤骑电动自行车，雨天改乘校车；周末带折叠钓竿去城郊溪流，随身携带水质检测工具包"
+    },
+    "Travel": {
+      "Business_Trips": "每年3-4次赴欧洲参加材料科学峰会，坚持入住LEED认证酒店，用会议间隙考察当地工业废料回收系统。",
+      "Leisure_Travel": "暑假在阿拉斯加生态营地担任志愿者，教孩子们制作再生材料工艺品；春假自驾去新墨西哥州考察土著陶艺传统"
+    },
+    "Social": "在ResearchGate定期分享可持续制造论文，匿名运营环保科普博客；担任校园LGBTQ+联盟顾问，每月组织跨学科茶话会。线下只参加本地园艺俱乐部的种子交换活动。",
+    "Productivity": {
+      "Study_Work": "使用ANSYS仿真软件时必配实体工程笔记本手绘流程图，办公桌常备可降解3D打印耗材。通过Moodle平台给学生布置实地考察作业。",
+      "Fitness": "将园艺作为核心锻炼，用手持式土壤湿度计时同步做深蹲；冬季改用室内攀岩馆年卡，运动手表设置碳排放量成就徽章"
+    },
+    "Content_Interests": [
+      "订阅《Materials Today》期刊",
+      "收藏1970年代工业设计图鉴",
+      "关注NASA新材料研发进展直播"
+    ]
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "Name": "陈浩",
+  "Demographics": {
+    "Age": 24,
+    "Gender": "男",
+    "Nationality": "中国",
+    "Language": [
+      "中文",
+      "英文"
+    ],
+    "Career_Information": "电子科技大学计算机本科毕业，现为一家游戏公司的测试员"
+  },
+  "Personality": {
+    "Extraversion_or_Introversion": "I",
+    "Sensing_or_Intuition": "N",
+    "Thinking_or_Feeling": "F",
+    "Judging_or_Perceiving": "J",
+    "Values_and_Interests": [
+      "热爱游戏，尤其是角色扮演类和策略类游戏",
+      "关注游戏中的叙事与角色塑造",
+      "相信艺术和技术可以完美结合",
+      "支持包容性游戏设计，倡导多样性"
+    ]
+  },
+  "Preference": {
+    "Local_Life": {
+      "Food_Drinks": "工作日靠公司食堂和便利店速食解决三餐，周末会点外卖探索新开业的二次元主题餐厅。对奶茶和咖啡因饮料有轻度依赖，尤其喜欢收集联名游戏杯套。",
+      "Entertainment": "每周固定参加独立游戏线下试玩会，深夜常混迹steam创意工坊。偶尔去私人影院包间重温《巫师3》改编电影，认为游戏衍生作品应更注重原作精神内核。",
+      "Shopping": "在淘宝定期采购游戏周边，尤其偏爱设定集和美术原画集。对3C产品讲究参数性价比，但会为限量版主机外壳支付溢价。",
+      "TravelDaily_Outings": "通勤坚持坐地铁观察乘客掌机使用习惯，周末骑共享单车探索城市里的独立游戏工作室聚集地。"
+    },
+    "Travel": {
+      "Business_Trips": "参加ChinaJoy等展会时必逛indie游戏展区，会偷偷记录竞争对手的UI交互细节。住酒店要求必须配备高性能PC接口显示器。",
+      "Leisure_Travel": "规划年度旅行必选有游戏原型取景地的城市，曾在京都三十三间堂对照《只狼》场景建模精度，行李箱常备任天堂本地化游戏卡带作为社交货币。"
+    },
+    "Social": "在NGA论坛用专业视角撰写游戏机制解析长文，但拒绝加入任何粉丝群组。线下仅与测试组同事定期组织「找bug轰趴」，认为游戏角色的台词比现实社交更有共鸣。",
+    "Productivity": {
+      "Study_Work": "用Trello严格管理测试用例，却为突发灵感在Obsidian里创建200+关联游戏叙事文档。坚持手写测试报告，但会为关键BUG附上meme表情包示意图。",
+      "Fitness": "Switch健身环大冒险连续打卡137天，认为体感操作延迟率是检验游戏公司技术实力的隐秘指标。"
+    },
+    "Content_Interests": [
+      "持续追踪小岛秀夫推文中的符号学隐喻",
+      "研究UE5引擎在京剧数字化保护中的应用",
+      "在ArtStation围观概念设计师失业转型vlog"
+    ]
+  }
+}

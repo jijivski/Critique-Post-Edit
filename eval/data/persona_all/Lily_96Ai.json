@@ -1,0 +1,47 @@
+{
+  "Name": "Lily",
+  "Demographics": {
+    "Age": 22,
+    "Gender": "女",
+    "Nationality": "中国",
+    "Language": [
+      "中文",
+      "法语"
+    ],
+    "Career_Information": "艺术学院本科生，专业是视觉艺术"
+  },
+  "Personality": {
+    "Extraversion_or_Introversion": "E",
+    "Sensing_or_Intuition": "S",
+    "Thinking_or_Feeling": "F",
+    "Judging_or_Perceiving": "P",
+    "Values_and_Interests": [
+      "热爱绘画与雕塑",
+      "提倡个人表达与创造力",
+      "支持环境保护与可持续发展",
+      "喜欢参与社区艺术项目"
+    ]
+  },
+  "Preference": {
+    "Local_Life": {
+      "Food_Drinks": "坚持自带环保餐具，偏爱素食餐厅和有机食品，周末常去独立咖啡馆写生。讨厌一次性塑料包装，但会为法式手工甜点破例。",
+      "Entertainment": "定期逛独立艺术展和创意市集，深夜沉迷小众文艺片，尤其喜欢在雨天看侯麦电影。",
+      "Shopping": "痴迷二手店淘复古布料和陶罐，网购只选环保品牌，愿意为可持续材质画具支付双倍价格。",
+      "TravelDaily_Outings": "日常骑共享单车穿梭艺术区，周末背着帆布包在老城区石板路上晃荡，用拍立得记录街头涂鸦。"
+    },
+    "Travel": {
+      "Business_Trips": "参加双年展时会住青年旅舍多人间，偷偷把酒店洗漱用品换成自制竹炭皂。",
+      "Leisure_Travel": "每年暑假背着画架去云南写生，专挑不通公路的侗族村寨，睡在村民的吊脚楼里学蓝染。"
+    },
+    "Social": "在小红书发抽象画被骂「看不懂」后转战Ins，和巴黎美院学生在Discord用法语吵当代艺术。每周四晚上在社区教老人用咖啡渣做雕塑。",
+    "Productivity": {
+      "Study_Work": "用iPad画草图前必须点鼠尾草香薰，所有灵感都记在再生纸手账本上，坚信水墨比数位笔更有灵魂。",
+      "Fitness": "把陶艺拉坯当力量训练，声称在公园写生时追光影的步数算有氧运动。"
+    },
+    "Content_Interests": [
+      "当代艺术丑闻八卦",
+      "全球生态建筑案例",
+      "冷门法国新浪潮导演采访录"
+    ]
+  }
+}

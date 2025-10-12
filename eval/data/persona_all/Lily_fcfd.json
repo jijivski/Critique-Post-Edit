@@ -1,0 +1,47 @@
+{
+  "Name": "Lily",
+  "Demographics": {
+    "Age": 24,
+    "Gender": "女",
+    "Nationality": "中国",
+    "Language": [
+      "中文",
+      "英文"
+    ],
+    "Career_Information": "某游戏公司原画师，专注于角色设计和环境艺术"
+  },
+  "Personality": {
+    "Extraversion_or_Introversion": "E",
+    "Sensing_or_Intuition": "S",
+    "Thinking_or_Feeling": "F",
+    "Judging_or_Perceiving": "J",
+    "Values_and_Interests": [
+      "热爱艺术与设计",
+      "喜欢逛艺术展寻找灵感",
+      "关注社会议题，支持女性权益",
+      "独立思考，反对盲目跟随潮流"
+    ]
+  },
+  "Preference": {
+    "Local_Life": {
+      "Food_Drinks": "工作日午餐在园区便利店解决，晚餐偏爱有设计感的轻食餐厅。周末会去独立咖啡馆尝试手冲咖啡，对网红店持矛盾态度——偶尔打卡但批判性评价摆盘审美。",
+      "Entertainment": "每月至少去两次美术馆，偏爱装置艺术展；深夜沉迷画稿时用Switch玩《塞尔达传说》解压，认为游戏交互本身就是行为艺术。",
+      "Shopping": "网购集中在画材和设计师品牌，拒绝快时尚但会为小众刺绣工坊溢价买单。随身帆布包印着‘Patriarchy is boring’标语。",
+      "TravelDaily_Outings": "通勤坚持骑共享单车（除非暴雨），坚信地铁早高峰会扼杀灵感细胞"
+    },
+    "Travel": {
+      "Business_Trips": "参加游戏开发者大会时会偷溜去当地独立画廊，在商务酒店床头柜留下速写涂鸦",
+      "Leisure_Travel": "每年攒钱去一个艺术之都（去年是濑户内海），住Airbnb与房东聊本地女艺术家生存现状，旅行箱永远装着数位板和防噪耳机"
+    },
+    "Social": "微博关注300+女性艺术家，朋友圈发水彩写生必配伍尔夫语录。线下参与性别主题读书会，但对强行社交的行业酒局嗤之以鼻。",
+    "Productivity": {
+      "Study_Work": "用Procreate画草图时听后摇歌单，桌面永远有3个以上未保存的PSD文件。定期整理灵感库时会暴力删除半年前‘黑历史’作品。",
+      "Fitness": "跟练天鹅臂只为保持握笔稳定性，运动手环监测到连续久坐会播放《搏击俱乐部》台词语音提醒"
+    },
+    "Content_Interests": [
+      "追踪东欧动画工作室动态",
+      "收藏古董珠宝设计图鉴",
+      "在B站看《使女的故事》二创混剪"
+    ]
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "Name": "Julia",
+  "Demographics": {
+    "Age": 34,
+    "Gender": "女",
+    "Nationality": "美国",
+    "Language": [
+      "英语",
+      "西班牙语"
+    ],
+    "Career_Information": "自由职业者，专注于插画和视觉艺术"
+  },
+  "Personality": {
+    "Extraversion_or_Introversion": "I",
+    "Sensing_or_Intuition": "N",
+    "Thinking_or_Feeling": "F",
+    "Judging_or_Perceiving": "P",
+    "Values_and_Interests": [
+      "热爱自然与户外活动",
+      "支持艺术教育与社区项目",
+      "对瑜伽和冥想有浓厚兴趣",
+      "关心社会公正与环保议题"
+    ]
+  },
+  "Preference": {
+    "Local_Life": {
+      "Food_Drinks": "偏好有机食材和植物性饮食，每周固定光顾社区农贸市场。习惯在独立咖啡馆边喝抹茶拿铁边速写，外卖订单集中于提供环保包装的素食餐厅。",
+      "Entertainment": "每月参加本地艺术家的画廊开幕，周末在社区中心义务教授儿童绘画课。雨天会独自去放映独立纪录片的复古影院。",
+      "Shopping": "70%的消费用于购买水彩颜料和再生纸手账，固定光顾一家售卖拉美编织品的公平贸易商店。网购时优先筛选「碳中和配送」选项。",
+      "TravelDaily_Outings": "日常骑电动滑板车往返工作室，周三傍晚固定参加河岸生态保护区的志愿清洁活动"
+    },
+    "Travel": {
+      "Business_Trips": "承接美术馆委托时会入住设计型酒店，总在行李箱里备着便携式水彩套装，利用工作间隙速写城市天际线。",
+      "Leisure_Travel": "每年雨季前往哥斯达黎加参加生态瑜伽静修，坚持选择使用太阳能的热带树屋民宿，旅行日记本里夹着各种落叶标本"
+    },
+    "Social": "在Instagram分享带#SlowArt标签的创作过程视频，但拒绝使用TikTok。每周四参加社区花园的冥想圈，与三位固定好友在陶瓷工作室举办「无声茶话会」。",
+    "Productivity": {
+      "Study_Work": "用Procreate绘制数字插画时必须播放白噪音，纸质草图本按色系分类归档。使用Trello管理项目时会手绘进度条贴纸",
+      "Fitness": "清晨在客厅跟随西班牙语引导做流瑜伽，周末去州立公园的悬崖边练习平衡冥想，运动手环数据同步给生态徒步小组"
+    },
+    "Content_Interests": [
+      "收藏1960年代迷幻摇滚专辑封面解析视频",
+      "订阅拉丁美洲女性主义艺术家的播客",
+      "定期检索新型可降解画材的评测报告"
+    ]
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "Name": "Liang",
+  "Demographics": {
+    "Age": 30,
+    "Gender": "女",
+    "Nationality": "中国",
+    "Language": [
+      "中文",
+      "英语",
+      "普通话"
+    ],
+    "Career_Information": "某重工企业车间主任，负责生产流程优化和团队管理"
+  },
+  "Personality": {
+    "Extraversion_or_Introversion": "E",
+    "Sensing_or_Intuition": "S",
+    "Thinking_or_Feeling": "T",
+    "Judging_or_Perceiving": "J",
+    "Values_and_Interests": [
+      "热爱机械工程",
+      "倡导女性在技术领域的参与",
+      "认为效率和团队合作至关重要",
+      "喜欢参加行业博览会和技术交流会"
+    ]
+  },
+  "Preference": {
+    "Local_Life": {
+      "Food_Drinks": "工作日午餐在工厂食堂解决，晚餐常打包湘菜馆的辣椒炒肉。周末会尝试日式居酒屋的清酒配烧鸟，但坚决拒绝网红奶茶，认为‘糖分影响大脑转速’",
+      "Entertainment": "每月带团队去工业主题密室逃脱团建，独自放松时在B站观看《大国重器》系列纪录片",
+      "Shopping": "京东定期采购德国进口工具箱，淘宝收藏夹全是工装裤店铺，对‘女性工程师必备’的粉红色安全帽深恶痛绝",
+      "TravelDaily_Outings": "自驾二手哈弗H6往返三个厂区，后备箱永远备着反光背心和绝缘手套"
+    },
+    "Travel": {
+      "Business_Trips": "每年四次北上广深参加装备展，住全季酒店行政房只为书桌够大，顺道考察当地工厂的5S管理落实情况",
+      "Leisure_Travel": "国庆假期必去德国鲁尔区工业遗迹，在废弃高炉前拍照时比参观卢浮宫更兴奋"
+    },
+    "Social": "领英动态全是行业白皮书节选，知乎匿名吐槽‘女工程师相亲总被问能不能做家务’。每季度组织市级女性工程师技术沙龙，但拒绝参加插花类‘伪女性赋能活动’",
+    "Productivity": {
+      "Study_Work": "用Project做三年期产能规划，晨会用墨刀画车间动线优化草图，电脑壁纸是‘六西格玛管理口诀’思维导图",
+      "Fitness": "清晨6点在厂区跑步监测PM2.5数值，游泳只去25米标准池并计算划水次数"
+    },
+    "Content_Interests": [
+      "收藏1950年代苏联机床结构图",
+      "追更《重卡女司机生存实录》vlog",
+      "订阅《哈佛商业评论》中关于非科层制管理的文章"
+    ]
+  }
+}

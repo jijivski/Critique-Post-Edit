@@ -1,0 +1,48 @@
+{
+  "Name": "小丽",
+  "Demographics": {
+    "Age": 28,
+    "Gender": "女",
+    "Nationality": "中国",
+    "Language": [
+      "中文",
+      "西班牙语"
+    ],
+    "Career_Information": "云南某偏远山区支教老师，自学编程并开设电脑课程"
+  },
+  "Personality": {
+    "Extraversion_or_Introversion": "I",
+    "Sensing_or_Intuition": "N",
+    "Thinking_or_Feeling": "T",
+    "Judging_or_Perceiving": "J",
+    "Values_and_Interests": [
+      "热爱教育和知识传播",
+      "信仰自我提升与独立思考",
+      "关注儿童心理发展",
+      "喜欢探索新技术和编程",
+      "倡导环保和可持续发展"
+    ]
+  },
+  "Preference": {
+    "Local_Life": {
+      "Food_Drinks": "在山区自种蔬菜，偏好简单烹饪的粗粮和菌菇汤；每月下山采购时固定光顾镇上的手工豆腐坊，坚决不使用一次性餐具",
+      "Entertainment": "周末用投影仪给学生放西班牙语动画片时同步观影，雨季在宿舍用二手游戏机玩编程解谜类单机游戏",
+      "Shopping": "在拼多多批量采购文具奖品时会顺便买五元包邮的电子元件，二手平台定期出售旧教材置换教具",
+      "TravelDaily_Outings": "每天步行40分钟山路到教学点，途中用帆布袋收集可回收垃圾"
+    },
+    "Travel": {
+      "Business_Trips": "每年两次前往省城参加乡村教师培训，必去科技馆测试新教学软件，返程时行李箱塞满捐赠的二手平板",
+      "Leisure_Travel": "暑假会带着学生徒步勘察周边喀斯特地貌，用树莓派制作地理坐标记录仪，住帐篷时给孩子们讲解星座"
+    },
+    "Social": "在GitLab维护自编的少数民族语言编程教材，知乎专栏记录山区儿童认知行为观察日记，赶集日帮老乡调试智能手机时顺便教垃圾分类",
+    "Productivity": {
+      "Study_Work": "用Obsidian构建跨学科教学知识图谱，凌晨四点批改作业后习惯用Python写自动化评分脚本",
+      "Fitness": "通过搬运山泉水锻炼臂力，课间操带领学生跳自编的二进制手势舞"
+    },
+    "Content_Interests": [
+      "收藏各国教育体系论文",
+      "研究竹制计算机外壳DIY教程",
+      "订阅NASA地外文明儿童科普视频"
+    ]
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "Name": "Katarzyna",
+  "Demographics": {
+    "Age": 29,
+    "Gender": "女",
+    "Nationality": "波兰",
+    "Language": [
+      "波兰语",
+      "英语",
+      "德语"
+    ],
+    "Career_Information": "在硅谷一家初创公司担任人工智能工程师，专注于机器学习和自然语言处理"
+  },
+  "Personality": {
+    "Extraversion_or_Introversion": "E",
+    "Sensing_or_Intuition": "N",
+    "Thinking_or_Feeling": "T",
+    "Judging_or_Perceiving": "J",
+    "Values_and_Interests": [
+      "热衷技术创新",
+      "倡导性别平等",
+      "喜欢极限运动和户外探险",
+      "支持数据隐私和安全"
+    ]
+  },
+  "Preference": {
+    "Local_Life": {
+      "Food_Drinks": "工作日以快捷健康的沙拉和蛋白棒为主，周末会去米其林餐厅尝试分子料理。保持每周一次自制波兰饺子（Pierogi）的习惯，常光顾旧金山教会区的东欧杂货店",
+      "Entertainment": "每月参加湾区科技沙龙，在红牛运动APP预约室内攀岩馆。深夜用VR设备观看太空探索纪录片",
+      "Shopping": "在REI购买专业户外装备，亚马逊订阅AI技术期刊。坚持使用加密货币支付网购以保护隐私",
+      "TravelDaily_Outings": "通勤骑电动滑板车，暴雨天用加密叫车软件。每月至少一次自驾到塔玛佩斯山观测星空"
+    },
+    "Travel": {
+      "Business_Trips": "每年3次往返欧洲参加AI伦理峰会，会提前用区块链技术加密会议资料。在柏林出差时必去当地黑客空间",
+      "Leisure_Travel": "冬季去阿拉斯加冰攀时住太阳能小屋，夏季优胜美地徒步携带自编程的GPS轨迹记录仪。坚持使用可生物降解的户外装备"
+    },
+    "Social": "在LinkedIn发起女性技术领袖联盟，用Signal组建加密通讯的户外探险小组。每月在教会区波兰侨民俱乐部教女孩编程",
+    "Productivity": {
+      "Study_Work": "用自研的AI助手管理Jira看板，所有代码提交前必须通过量子加密验证。使用脑电波监测仪优化深度工作时间段",
+      "Fitness": "手腕全天佩戴军用级运动手表，特别关注攀岩时的最大摄氧量数据。每周三次CrossFit训练前会分析肌肉激活模式"
+    },
+    "Content_Interests": [
+      "追踪量子计算对NLP的影响论文",
+      "收藏女性探险家传记影音",
+      "订阅暗网安全漏洞周报",
+      "关注火星殖民地的生态构建技术"
+    ]
+  }
+}

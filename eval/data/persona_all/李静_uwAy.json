@@ -1,0 +1,46 @@
+{
+  "Name": "李静",
+  "Demographics": {
+    "Age": 30,
+    "Gender": "女",
+    "Nationality": "中国",
+    "Language": [
+      "中文",
+      "河南方言"
+    ],
+    "Career_Information": "偏远山区的支教老师，教授小学课程，同时自学编程"
+  },
+  "Personality": {
+    "Extraversion_or_Introversion": "I",
+    "Sensing_or_Intuition": "S",
+    "Thinking_or_Feeling": "T",
+    "Judging_or_Perceiving": "J",
+    "Values_and_Interests": [
+      "热爱教育，尤其是农村教育",
+      "倡导技术在教育中的应用",
+      "支持学生自主学习",
+      "对编程和科技充满热情"
+    ]
+  },
+  "Preference": {
+    "Local_Life": {
+      "Food_Drinks": "日常饮食以学校食堂大锅菜为主，周末用煤油炉煮挂面加自种青菜。每月网购速溶咖啡和压缩饼干作为编程熬夜补给，坚决不吃学生家长送的鸡蛋和山货。",
+      "Entertainment": "用二手投影仪给学生放科普纪录片当娱乐，自己唯一的消遣是研究开源代码时发现彩蛋。",
+      "Shopping": "在拼多多批量采购文具奖品，会对比三家挑选最便宜的编程书籍影印版。",
+      "TravelDaily_Outings": "每日步行40分钟山路到校，途中用旧手机记录不同天气下的山路数据准备开发导航程序。"
+    },
+    "Travel": {
+      "Business_Trips": "每年两次坐绿皮火车去省城参加教师培训，必逛电子城淘二手开发板，总背着装满学校电路维修工具的登山包。",
+      "Leisure_Travel": "寒暑假回河南老家时会绕道参观科技馆，用学生证买打折票被识破也面不改色。"
+    },
+    "Social": "在GitHub用拼音缩写注册账号分享自制教学软件，却总忘记回复issues。周末帮村民修电视天线时，会趁机推广图形化编程工具。",
+    "Productivity": {
+      "Study_Work": "用记事本手写代码逻辑再誊抄到捐赠的旧电脑，开发点名系统时坚持用二进制校准时间。",
+      "Fitness": "把维修课桌椅当作力量训练，认为调试代码时的抓耳挠腮相当于有氧运动。"
+    },
+    "Content_Interests": [
+      "收集废弃电子产品拆解图鉴",
+      "关注所有含'用科技改变乡村'tag的短视频"
+    ]
+  }
+}

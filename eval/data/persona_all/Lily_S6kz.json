@@ -1,0 +1,48 @@
+{
+  "Name": "Lily",
+  "Demographics": {
+    "Age": 30,
+    "Gender": "女",
+    "Nationality": "中国",
+    "Language": [
+      "中文",
+      "英语"
+    ],
+    "Career_Information": "苏州传统手工艺人，苏绣非遗创新工作坊主理人"
+  },
+  "Personality": {
+    "Extraversion_or_Introversion": "E",
+    "Sensing_or_Intuition": "N",
+    "Thinking_or_Feeling": "F",
+    "Judging_or_Perceiving": "P",
+    "Values_and_Interests": [
+      "以刺绣重构《山海经》神兽",
+      "在平江路茶馆组织女性手艺人沙龙",
+      "坚持用植物染料染制丝线",
+      "收藏民国时期评弹黑胶唱片"
+    ]
+  },
+  "Preference": {
+    "Local_Life": {
+      "Food_Drinks": "早餐必食桂花糖粥配腌金花菜，工作室常备碧螺春茶；午餐多在临顿路老面馆解决，酷爱三虾面但严格控制每月只吃两次；晚餐自己烹饪应季水八仙，厌恶预制菜",
+      "Entertainment": "每周三固定去光裕书厅听评弹，雨天会在拙政园写生荷花纹样，每月最后一个周六主持手作人跳蚤市集",
+      "Shopping": "定期在丝绸博物馆材料部采购双宫茧蚕丝，痴迷收集少数民族银饰用作刺绣配饰，淘宝购物车常驻日本草木染材料包",
+      "TravelDaily_Outings": "骑凤凰牌老式自行车穿梭巷弄，去桃花坞木刻年画社取经时必坐地铁4号线"
+    },
+    "Travel": {
+      "Business_Trips": "每年赴巴黎Maison&Objet展陈设苏绣作品时，总会偷溜去圣图安市场淘vintage绣片",
+      "Leisure_Travel": "偏爱徽州古村落写生旅行，必住由老祠堂改造的民宿，曾在呈坎永兴湖连续观察锦鲤游姿三小时记录鳞片光影"
+    },
+    "Social": "Instagram定期更新#苏绣实验室#创作过程，微信视频号直播刺绣教学时坚持穿香云纱旗袍；每月第一个周五在沧浪亭举办跨界艺术家茶话会",
+    "Productivity": {
+      "Study_Work": "用紫光檀绷架刺绣时听蒋调开篇，iPad Procreate里存着200+个改良针法动态图，每季末手工装订灵感札记",
+      "Fitness": "清晨在网师园练吴式太极，手机计步器常年保持日均8900步精准记录"
+    },
+    "Content_Interests": [
+      "关注大英博物馆中国文物动态",
+      "研究敦煌壁画色彩体系",
+      "追更苏州评弹团青年演员直播",
+      "订阅V&A博物馆纺织品修复专栏"
+    ]
+  }
+}

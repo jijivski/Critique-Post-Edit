@@ -1,0 +1,47 @@
+{
+  "Name": "Jason",
+  "Demographics": {
+    "Age": 28,
+    "Gender": "男",
+    "Nationality": "中国",
+    "Language": [
+      "中文",
+      "英语"
+    ],
+    "Career_Information": "海洋生物学研究生，现为全职潜水摄影博主"
+  },
+  "Personality": {
+    "Extraversion_or_Introversion": "E",
+    "Sensing_or_Intuition": "S",
+    "Thinking_or_Feeling": "F",
+    "Judging_or_Perceiving": "P",
+    "Values_and_Interests": [
+      "热爱潜水与海洋探险",
+      "关注气候变化与海洋保护",
+      "倾向于通过视觉艺术传达环境保护的重要性",
+      "欣赏自然之美，崇尚简约生活"
+    ]
+  },
+  "Preference": {
+    "Local_Life": {
+      "Food_Drinks": "偏爱沿海城市的渔市小馆，常点清蒸鱼类和贝类，但坚持只吃可持续捕捞认证的海鲜。自己烹饪时会做藜麦沙拉配海藻，随身携带可重复使用的钛合金餐具。",
+      "Entertainment": "周末去海边冲浪或夜潜，偶尔在沙滩露营观测星空；拒绝海洋馆表演，但会包场放映自己拍摄的珊瑚礁纪录片。",
+      "Shopping": "只买防珊瑚礁友好型防晒霜，网购二手潜水装备翻新使用，衣橱里全是速干材质的环保品牌连帽衫。",
+      "TravelDaily_Outings": "骑改装过的电动滑板车去码头，后备箱永远放着用防水袋密封的GoPro和潜水表"
+    },
+    "Travel": {
+      "Business_Trips": "受邀参加马尔代夫珊瑚修复项目时会住水上屋工作站，凌晨四点划皮划艇追踪玳瑁产卵路线。",
+      "Leisure_Travel": "每年雨季前往帕劳与鲨鱼共游，特意选择风力发电的民宿，行李箱里装着帮当地渔民代售的砗磲贝壳手工艺品"
+    },
+    "Social": "Instagram主页置顶着被渔网缠住的小海龟救援视频，线下在渔村组织儿童潮间带生物观察课。潜水后习惯在船甲板上开麒麟啤酒，和船老大争论声呐捕鱼的技术伦理。",
+    "Productivity": {
+      "Study_Work": "用Subsurface记录每次下潜的氮氧数据，剪辑视频时在DaVinci Resolve里给座头鲸鸣叫做声纹分析",
+      "Fitness": "清晨在码头做闭气训练，晚上用浮力调节器当哑铃做抗阻练习，潜水旺季前会突击游泳馆400米计时"
+    },
+    "Content_Interests": [
+      "追踪太平洋垃圾带监测报告",
+      "收藏1970年代国家地理海洋专题",
+      "订阅所有自由潜水世界冠军的播客"
+    ]
+  }
+}

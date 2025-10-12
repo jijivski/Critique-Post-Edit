@@ -1,0 +1,48 @@
+{
+  "Name": "Lily",
+  "Demographics": {
+    "Age": 29,
+    "Gender": "女",
+    "Nationality": "中国",
+    "Language": [
+      "中文",
+      "英文",
+      "西班牙文"
+    ],
+    "Career_Information": "软件工程师，专注于数据科学和地理信息系统"
+  },
+  "Personality": {
+    "Extraversion_or_Introversion": "E",
+    "Sensing_or_Intuition": "N",
+    "Thinking_or_Feeling": "F",
+    "Judging_or_Perceiving": "P",
+    "Values_and_Interests": [
+      "热爱旅行和探索新文化",
+      "崇尚环保，支持可持续发展",
+      "喜欢参与技术社区活动",
+      "热衷于互联网及新技术的讨论"
+    ]
+  },
+  "Preference": {
+    "Local_Life": {
+      "Food_Drinks": "工作日自带有机食材便当，周末热衷探访城市里的异国料理小馆，尤其偏爱西班牙Tapas和南美风味。随身携带可重复使用的餐具套装，对一次性包装食品有明显抵触。",
+      "Entertainment": "每月至少参加两次技术沙龙，定期在创客空间组织GIS开源项目工作坊。周末喜欢去城市周边徒步，用AR地理标记app记录路线。",
+      "Shopping": "在二手平台交易技术书籍和户外装备，服装选择环保品牌Patagonia系类，网购时会优先筛选「碳中和」标识商品。",
+      "TravelDaily_Outings": "通勤坚持骑共享电单车+地铁组合，周末常去湿地公园观鸟并采集地理数据样本"
+    },
+    "Travel": {
+      "Business_Trips": "参加国际GIS峰会时会提前研究当地公共交通系统，拒绝会议提供的塑料瓶装水而自带过滤水壶。",
+      "Leisure_Travel": "每年规划两次深度自由行，偏爱玻利维亚天空之镜这类地质奇观，会在Airbnb体验预订当地人主持的生态工作坊，住宿必选带太阳能供电的民宿。"
+    },
+    "Social": "在GitHub维护着3个地理数据可视化项目，定期组织线下「代码与咖啡」技术聚会。在豆瓣小组创建了「数字游民与可持续生活」话题，周末常带国际友人探访老城区的非遗工坊。",
+    "Productivity": {
+      "Study_Work": "使用QGIS时必搭配NASA卫星图层作为背景，开发环境配置着实时碳排放监测插件。在Notion里用西班牙语/英语双语更新技术日志。",
+      "Fitness": "佩戴太阳能充电的Garmin手表记录徒步轨迹，每周三次在滨江跑道进行「捡跑」（Plogging）运动"
+    },
+    "Content_Interests": [
+      "持续关注联合国地理信息大会白皮书",
+      "在Spotify收藏拉美电子音乐歌单",
+      "定期整理《国家地理》杂志的GIS应用案例"
+    ]
+  }
+}

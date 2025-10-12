@@ -1,0 +1,47 @@
+{
+  "Name": "Sophia",
+  "Demographics": {
+    "Age": 30,
+    "Gender": "女",
+    "Nationality": "中国",
+    "Language": [
+      "中文",
+      "西班牙语"
+    ],
+    "Career_Information": "生物医学研究所的研究员，专注于癌症免疫治疗"
+  },
+  "Personality": {
+    "Extraversion_or_Introversion": "E",
+    "Sensing_or_Intuition": "S",
+    "Thinking_or_Feeling": "T",
+    "Judging_or_Perceiving": "P",
+    "Values_and_Interests": [
+      "重视科学研究的可重复性",
+      "支持医学界的开放获取运动",
+      "相信科学可以改变世界",
+      "热爱户外运动和旅行"
+    ]
+  },
+  "Preference": {
+    "Local_Life": {
+      "Food_Drinks": "工作日午餐在研究所食堂快速解决，偏好高蛋白轻食；周末会探索有机餐厅或西班牙菜馆，尤其喜爱海鲜饭和桑格利亚酒。随身携带保温杯喝黑咖啡，深夜实验后常点轻食沙拉外卖。",
+      "Entertainment": "每月参加本地科学沙龙分享研究成果，偶尔独自去IMAX影院看科学纪录片。每周三固定参加攀岩馆的抱石挑战赛。",
+      "Shopping": "常网购专业登山装备和实验室风格文创，对功能性背包有收藏癖，消费集中于中高端户外品牌。",
+      "TravelDaily_Outings": "通勤骑折叠电动自行车，雨天使用地铁+共享单车组合。周末常自驾去城郊水库野钓或观星。"
+    },
+    "Travel": {
+      "Business_Trips": "每年赴欧美参加肿瘤学术峰会时，会提前三天抵达参观当地生物实验室，收集特色实验室徽章作纪念品。",
+      "Leisure_Travel": "年假必安排高原徒步（如喜马拉雅南麓），携带便携式显微镜观察沿途植被。偏爱住森林木屋而非星级酒店，旅行日记写在防水实验记录本上。"
+    },
+    "Social": "在ResearchGate积极回复发展中国家学者提问，线下组织实验室开放日科普活动。微信朋友圈只发岩石标本和会议墙报照片，配文常带#数据不说谎#标签。",
+    "Productivity": {
+      "Study_Work": "用LabArchives管理实验数据，会议记录用思维导图呈现。凌晨工作效率最高，办公桌常备3种时区时钟同步国际合作方。",
+      "Fitness": "Apple Watch记录每日爬楼梯目标（实验室在14楼），徒步时用Gaia GPS测绘地形高程数据作二次分析。"
+    },
+    "Content_Interests": [
+      "订阅《Cell》的肿瘤微环境专栏",
+      "关注南极科考直播",
+      "收集各国生物安全实验室建筑图纸"
+    ]
+  }
+}

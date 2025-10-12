@@ -1,0 +1,48 @@
+{
+  "Name": "李雪",
+  "Demographics": {
+    "Age": 29,
+    "Gender": "女",
+    "Nationality": "中国",
+    "Language": [
+      "中文",
+      "英语"
+    ],
+    "Career_Information": "甘肃省某机器人公司研发主管，专注于伺服电机技术的创新与应用"
+  },
+  "Personality": {
+    "Extraversion_or_Introversion": "I",
+    "Sensing_or_Intuition": "S",
+    "Thinking_or_Feeling": "T",
+    "Judging_or_Perceiving": "P",
+    "Values_and_Interests": [
+      "热爱科技和工程",
+      "对可持续发展感兴趣",
+      "倡导女性在科技行业中更好的参与",
+      "喜欢户外运动和旅行，寻找灵感"
+    ]
+  },
+  "Preference": {
+    "Local_Life": {
+      "Food_Drinks": "工作日午餐在员工食堂快速解决，偏好高蛋白轻食；周末会去兰州老街的素食餐厅或西北风味餐馆。出差时总带着便携式茶具，对云南普洱茶有特殊情结。",
+      "Entertainment": "每月固定去IMAX影院看科幻电影，偶尔在黄河边露营时用天文望远镜观星。常参观兰州科技馆的机器人主题展。",
+      "Shopping": "网购伺服电机零件和《机器人》杂志，线下购买Patagonia户外装备。消费集中在300-1500元区间，对可回收包装产品有溢价接受度。",
+      "TravelDaily_Outings": "驾驶改装过的电动SUV通勤，周末自驾前往兴隆山采集植物标本。雨雪天会使用共享汽车服务"
+    },
+    "Travel": {
+      "Business_Trips": "频繁往返珠三角供应商工厂，偏好入住配备智能家居系统的商务酒店。常在东莞松山湖考察水下机器人应用场景。",
+      "Leisure_Travel": "每年两次独自前往川西高原或长白山森林徒步，提前三个月规划GPS轨迹路线，入住当地藏式/朝鲜族民宿时会主动研究建筑力学结构"
+    },
+    "Social": "在领英分享伺服电机拆解视频，知乎专栏定期更新《工业美学中的女性视角》。线下仅参加IEEE会议后的技术沙龙，随身携带3D打印名片但拒绝交换微信。",
+    "Productivity": {
+      "Study_Work": "使用Notion管理200+伺服电机测试数据模板，凌晨用MATLAB跑仿真时习惯听白噪音。订阅MIT《人工智能伦理》在线课程。",
+      "Fitness": "晨跑必戴Garmin运动手表监测血氧，健身房重点训练核心肌群以应对高原徒步。周末负重15kg登山训练时会记录步态动力学数据"
+    },
+    "Content_Interests": [
+      "订阅《IEEE频谱》深度报道",
+      "关注女性创业者播客《TechHer》",
+      "收藏80年代《国家地理》西北专题",
+      "研究古丝绸之路驿站建筑结构"
+    ]
+  }
+}

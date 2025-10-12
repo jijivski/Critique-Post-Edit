@@ -1,0 +1,47 @@
+{
+  "Name": "Liang",
+  "Demographics": {
+    "Age": 34,
+    "Gender": "男",
+    "Nationality": "中国",
+    "Language": [
+      "中文",
+      "藏语"
+    ],
+    "Career_Information": "青海某盐湖采盐工，拥有十年以上从业经验，熟悉传统手工采盐与机械化作业结合的操作流程"
+  },
+  "Personality": {
+    "Extraversion_or_Introversion": "I",
+    "Sensing_or_Intuition": "S",
+    "Thinking_or_Feeling": "T",
+    "Judging_or_Perceiving": "J",
+    "Values_and_Interests": [
+      "对传统工艺的执着",
+      "崇尚个人努力与自给自足",
+      "珍视自然环境",
+      "对盐湖生态有独到见解"
+    ]
+  },
+  "Preference": {
+    "Local_Life": {
+      "Food_Drinks": "日常以青稞面、牦牛肉干和酥油茶为主食，坚持用盐湖矿物盐腌制肉类；休息日会去镇上的藏式茶馆喝砖茶，但从不使用外卖服务。",
+      "Entertainment": "每月底薪日去县城录像厅看老电影，偏好90年代武侠片；夏季在盐湖边独自钓鱼作为消遣。",
+      "Shopping": "每年冬季在拼多多采购耐磨工装和皮质手套，坚持用现金支付拒绝网购信贷。",
+      "TravelDaily_Outings": "骑改装摩托车往返盐湖与宿舍，车斗里常备采盐工具包和防风斗篷"
+    },
+    "Travel": {
+      "Business_Trips": "仅参与过两次省级盐业技术交流会，认为会议酒店提供的自助餐浪费资源。",
+      "Leisure_Travel": "每三年探亲时途经可可西里自然保护区，会刻意绕开旅游开发区域观察野生藏羚羊群"
+    },
+    "Social": "在知乎盐业话题下匿名发表过12篇采盐技术改良建议，现实社交圈仅限于同宿舍的3名工友，定期分享自酿青稞酒但拒绝参加婚宴应酬。",
+    "Productivity": {
+      "Study_Work": "用牛皮封面试剂记录本手写每日盐层厚度数据，坚持用算盘核对工资条数额。",
+      "Fitness": "认为采盐作业中的肩扛盐袋动作就是最佳锻炼，反对健身房会员制度"
+    },
+    "Content_Interests": [
+      "收藏八十年代《中国盐业》杂志合订本",
+      "反复观看BBC《地球造盐》纪录片",
+      "关注青海湖裸鲤洄游直播"
+    ]
+  }
+}

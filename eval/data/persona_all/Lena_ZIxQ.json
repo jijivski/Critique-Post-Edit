@@ -1,0 +1,48 @@
+{
+  "Name": "Lena",
+  "Demographics": {
+    "Age": 30,
+    "Gender": "女",
+    "Nationality": "俄罗斯",
+    "Language": [
+      "俄语",
+      "德语",
+      "英文"
+    ],
+    "Career_Information": "跨国公司市场经理，专注于数字营销"
+  },
+  "Personality": {
+    "Extraversion_or_Introversion": "E",
+    "Sensing_or_Intuition": "N",
+    "Thinking_or_Feeling": "T",
+    "Judging_or_Perceiving": "J",
+    "Values_and_Interests": [
+      "热爱旅行与探险",
+      "对时尚和社交媒体感兴趣",
+      "支持性别平等",
+      "倾向于采取积极的生活态度"
+    ]
+  },
+  "Preference": {
+    "Local_Life": {
+      "Food_Drinks": "工作日午餐习惯用健康轻食外卖解决，周末会探索小众融合餐厅，尤其偏爱北欧极简风咖啡馆。对俄罗斯传统甜点有隐秘的怀旧情结，但严格控制摄入频率。",
+      "Entertainment": "每月至少参加一次本地独立艺术展或先锋话剧，订阅了城市博物馆会员。周末晚上常去爵士酒吧，但拒绝任何需要排队的网红场所。",
+      "Shopping": "70%衣物通过Net-a-Porter等奢侈品电商购买，偏好剪裁利落的职业装和极简设计品牌。会为环保理念支付溢价，但厌恶过度包装。",
+      "TravelDaily_Outings": "通勤坚持使用高端网约车服务，认为这是「用金钱购买思考时间」。周末骑电动滑板车探索城市新街区，手机里存有5个不同共享交通APP。"
+    },
+    "Travel": {
+      "Business_Trips": "每次出差必携带当地市场洞察清单，会特意体验竞品公司的线下活动。商务酒店只选择配备站立式办公桌的行政房，凌晨两点还在回复邮件是常态。",
+      "Leisure_Travel": "每年规划两次「数字排毒」旅行，目的地多为信号微弱的秘鲁高原或冰岛小镇。坚持手写旅行手账，但会精心设计Instagrammable的构图拍摄后立即断网。"
+    },
+    "Social": "LinkedIn动态经过算法优化，每周二定时发布行业观察。Instagram小号秘密关注所有竞品公司高管的度假动态。线下社交严格控制在专业论坛后的鸡尾酒会，随身携带可降解名片。",
+    "Productivity": {
+      "Study_Work": "使用Notion搭建了跨国协作仪表盘，会议纪要必附3个可执行action points。早晨用AI语音简报替代咖啡，通勤时只听德语播客《市场营销的黑暗心理学》。",
+      "Fitness": "聘请私教进行高强度间歇训练，但要求训练计划必须适配跨国时差。Apple Watch的健身圆环闭合率是自我管理能力的KPI。"
+    },
+    "Content_Interests": [
+      "追踪硅谷新锐DTC品牌案例",
+      "收藏1980年代苏联平面设计档案",
+      "定期清理关注列表但永不取关Margaret Howell官方账号"
+    ]
+  }
+}

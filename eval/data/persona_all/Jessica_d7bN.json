@@ -1,0 +1,48 @@
+{
+  "Name": "Jessica",
+  "Demographics": {
+    "Age": 31,
+    "Gender": "女",
+    "Nationality": "美国",
+    "Language": [
+      "英文",
+      "西班牙文"
+    ],
+    "Career_Information": "软件开发经理，专注于使用Liferay工具和SQL管理数据库"
+  },
+  "Personality": {
+    "Extraversion_or_Introversion": "E",
+    "Sensing_or_Intuition": "N",
+    "Thinking_or_Feeling": "F",
+    "Judging_or_Perceiving": "J",
+    "Values_and_Interests": [
+      "热衷于团队合作和领导",
+      "对数据隐私和安全问题持强烈关注",
+      "支持可持续发展和环保项目",
+      "喜爱阅读科幻小说和参与社区服务"
+    ]
+  },
+  "Preference": {
+    "Local_Life": {
+      "Food_Drinks": "坚持购买有机食品和本地农场的季节性蔬果，周末常光临社区农夫市集。工作日自带午餐，加班时会选择提供环保包装的素食外卖。对西班牙Tapas有特殊情结，每月会去一家拉丁裔家庭经营的小餐馆。",
+      "Entertainment": "每周四固定参加科幻主题书友会，担任社区图书馆「未来科技与伦理」月度电影夜的组织者。偶尔在游戏厅玩VR星际探索类游戏，但会严格控制时长。",
+      "Shopping": "80%日用品通过环保电商平台订阅配送，衣柜里有7件不同颜色的Patagonia抓绒衣。对「碳中和认证」标签毫无抵抗力，曾为购买竹纤维床单支付三倍溢价。",
+      "TravelDaily_Outings": "驾驶特斯拉往返硅谷园区，通勤途中必听《Wired》科技播客。每月两次拼车参加社区垃圾分类督导活动，随身帆布包里永远备着可重复使用的金属吸管。"
+    },
+    "Travel": {
+      "Business_Trips": "参加技术峰会时坚持入住LEED认证酒店，会在Keynote演讲后溜去当地科技博物馆。行李箱里永远装着便携式VPN路由器和加密U盘。",
+      "Leisure_Travel": "年度度假必选生态保护区，最近刚完成哥斯达黎加树冠步道徒步。会精心制作「零塑料旅行指南」，甚至计算过不同交通方式的碳排放差值。"
+    },
+    "Social": "领英动态更新频率是Instagram的三倍，关注列表里挤满女性科技领袖。担任本地「Girls Who Code」导师，周三晚上固定出现在移民社区的免费编程课。在Nextdoor上发起过「智能家居安全隐患」万人签名活动。",
+    "Productivity": {
+      "Study_Work": "用Miro白板管理敏捷开发流程，Trello看板按零信任架构分级标注。周末用Notion策划社区服务项目，曾为志愿者培训制作过交互式SQL教学模块。",
+      "Fitness": "Apple Watch闭环强迫症患者，晨跑路线经过三个社区花园。最近迷上碳中和瑜伽馆的空中瑜伽，运动Bra里植入了心率监测芯片。"
+    },
+    "Content_Interests": [
+      "订阅《MIT Technology Review》和《Clarkesworld》电子刊",
+      "沉迷研究区块链在碳排放追踪中的应用",
+      "收藏1960-80年代黄金时代科幻初版书",
+      "关注科技伦理纪录片和TEDx演讲"
+    ]
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "Name": "李明",
+  "Demographics": {
+    "Age": 32,
+    "Gender": "男",
+    "Nationality": "中国",
+    "Language": [
+      "中文",
+      "俄语"
+    ],
+    "Career_Information": "黑龙江省著名冰雕师，冬季在哈尔滨冰雪大世界驻场创作，夏季为国际冰雕赛事设计图纸"
+  },
+  "Personality": {
+    "Extraversion_or_Introversion": "E",
+    "Sensing_or_Intuition": "S",
+    "Thinking_or_Feeling": "F",
+    "Judging_or_Perceiving": "J",
+    "Values_and_Interests": [
+      "认为冰雕是转瞬即逝的极致艺术",
+      "坚持用松花江天然冰创作",
+      "收藏满族剪纸和鄂伦春族桦树皮手工艺品",
+      "凌晨三点灵感最旺盛"
+    ]
+  },
+  "Preference": {
+    "Local_Life": {
+      "Food_Drinks": "每天必喝自酿的蓝莓烧酒御寒，偏爱铁锅炖大鹅配玉米贴饼子。创作期间会囤积俄罗斯黑巧克力补充热量。",
+      "Entertainment": "每月去老道外听二人转，冬季周末在亚布力滑雪场当义务教练。",
+      "Shopping": "定期网购瑞典冰镩和日本除冰剂，中央大街的秋林商厦是购买貂皮护膝的固定地点。",
+      "TravelDaily_Outings": "冬季骑雪地摩托往返工作室，其他季节骑永久牌二八大杠自行车"
+    },
+    "Travel": {
+      "Business_Trips": "每年前往雅库茨克进行冰层结构考察，总要在当地东正教堂冰窖里研究半天。",
+      "Leisure_Travel": "每隔两年冬季去摩尔曼斯克追极光，夏季自驾去黔东南侗寨收集风雨桥木构灵感"
+    },
+    "Social": "在知乎回答#冰雕冷知识#话题时异常活跃，抖音账号只发冰屑飞溅的特写创作过程。每周三晚在兆麟公园教俄罗斯游客冰雕基础。",
+    "Productivity": {
+      "Study_Work": "用Rhino做3D冰结构建模，但坚持用哈尔滨铅笔厂的马头牌笔记本画手稿。工具箱里永远备着温度湿度双显仪。",
+      "Fitness": "认为零下30℃连续雕刻8小时就是最佳锻炼，小米手环7专门监测低温环境心率"
+    },
+    "Content_Interests": [
+      "追踪阿拉斯加冰雕大赛直播",
+      "收藏BBC冰冻星球系列纪录片",
+      "订阅《民间手工艺复兴》电子刊"
+    ]
+  }
+}

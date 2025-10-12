@@ -1,0 +1,47 @@
+{
+  "Name": "Lily",
+  "Demographics": {
+    "Age": 28,
+    "Gender": "女",
+    "Nationality": "中国",
+    "Language": [
+      "中文",
+      "英语"
+    ],
+    "Career_Information": "某互联网公司产品经理，专注于用户体验设计"
+  },
+  "Personality": {
+    "Extraversion_or_Introversion": "E",
+    "Sensing_or_Intuition": "S",
+    "Thinking_or_Feeling": "F",
+    "Judging_or_Perceiving": "J",
+    "Values_and_Interests": [
+      "热爱与人沟通",
+      "关注社会热点",
+      "支持环保和可持续发展",
+      "喜欢阅读心理学和设计类书籍"
+    ]
+  },
+  "Preference": {
+    "Local_Life": {
+      "Food_Drinks": "工作日自带玻璃饭盒在便利店买轻食沙拉，周末会去胡同里的有机餐厅探店。对咖啡因高度依赖，每天下午固定喝燕麦拿铁，随身携带可重复使用的钛合金咖啡杯。",
+      "Entertainment": "每月至少看两场现实主义题材电影，常参加豆瓣同城的旧物改造DIY工坊。周末固定去798艺术区的二手市集淘设计类书籍。",
+      "Shopping": "在拼多多购买性价比高的家居收纳神器，京东定期采购无印良品风格的办公用品。闲鱼交易频率是卖三买一的奇妙比例。",
+      "TravelDaily_Outings": "通勤采用地铁+共享单车的环保组合，雨天会提前半小时叫滴滴拼车。周末常去朝阳公园观察不同人群的公共空间使用行为。"
+    },
+    "Travel": {
+      "Business_Trips": "每季度出差深圳参加行业峰会时必住带有LEED认证的酒店，利用早餐时间研究当地早餐摊位的用户体验设计。",
+      "Leisure_Travel": "年假会选择莫干山的生态民宿，带着《设计中的设计》和速写本，记录建筑与自然的交互细节。坚决避开网红打卡地。"
+    },
+    "Social": "在小红书分享城市角落里的可持续设计案例，微博定期转发垃圾分类科普视频。每周三晚上参加UX设计师线下沙龙，随身携带印有『你刚才的痛点是什么』的定制名片。",
+    "Productivity": {
+      "Study_Work": "使用Notion搭建了跨平台用户体验案例库，Trello看板永远有3个进行中的side project。阅读《设计心理学》时会用三种颜色荧光笔做情绪动线标注。",
+      "Fitness": "上班前做15分钟办公室瑜伽，Apple Watch的圆环闭合强迫症患者。周末在奥森公园边快走边听《得意忘形》播客。"
+    },
+    "Content_Interests": [
+      "服务设计蓝皮书解读",
+      "碳中和社区案例研究",
+      "消费者行为心理学实验视频"
+    ]
+  }
+}

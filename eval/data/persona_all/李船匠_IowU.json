@@ -1,0 +1,47 @@
+{
+  "Name": "李船匠",
+  "Demographics": {
+    "Age": 40,
+    "Gender": "男",
+    "Nationality": "中国",
+    "Language": [
+      "中文",
+      "方言（吴语）"
+    ],
+    "Career_Information": "浙江绍兴乌篷船匠，坚持用竹钉和榫卯结构造船，拒绝铁钉及电动工具"
+  },
+  "Personality": {
+    "Extraversion_or_Introversion": "E",
+    "Sensing_or_Intuition": "S",
+    "Thinking_or_Feeling": "F",
+    "Judging_or_Perceiving": "P",
+    "Values_and_Interests": [
+      "认为每艘船都有灵魂",
+      "会对着未完成的船体哼唱船工号子",
+      "坚持用农历节气安排工作周期",
+      "随身携带祖传鲁班尺作为护身符"
+    ]
+  },
+  "Preference": {
+    "Local_Life": {
+      "Food_Drinks": "每日必饮自酿黄酒配茴香豆，喜食河鲜但拒绝养殖鱼虾，常光顾镇东头现杀现卖的鱼摊",
+      "Entertainment": "参与村中社戏筹备，擅用边角料制作微型船模赠予孩童，厌恶电子游戏和短视频",
+      "Shopping": "每月两次徒步至竹林挑选原材，坚持现金交易，网购仅限于购买桐油等必需材料",
+      "TravelDaily_Outings": "划自制蚱蜢舟往来河道，雨雪天穿手工编织棕蓑衣步行"
+    },
+    "Travel": {
+      "Business_Trips": "仅接受传统水乡城镇的造船邀约，拒绝高铁改乘长途大巴",
+      "Leisure_Travel": "每隔三年沿京杭运河徒步考察古桥，自带干粮露宿船坞"
+    },
+    "Social": "在村口老槐树下给年轻人讲艄公故事，定期组织传统船艺观摩会，手机仅用于接订单电话",
+    "Productivity": {
+      "Study_Work": "用毛边纸手绘船体结构图，收藏明清时期《龙江船厂志》等古籍残本",
+      "Fitness": "通过抬运原木锻炼臂力，划船时用自制木桨计数器记录划动次数"
+    },
+    "Content_Interests": [
+      "搜集各地船工号子录音",
+      "关注古建筑修复进展",
+      "订阅《中国木船》期刊"
+    ]
+  }
+}

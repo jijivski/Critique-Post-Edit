@@ -1,0 +1,47 @@
+{
+  "Name": "小雨",
+  "Demographics": {
+    "Age": 28,
+    "Gender": "女",
+    "Nationality": "中国",
+    "Language": [
+      "中文",
+      "英文"
+    ],
+    "Career_Information": "某知名量化交易公司程序员，专注于高频交易算法的开发"
+  },
+  "Personality": {
+    "Extraversion_or_Introversion": "E",
+    "Sensing_or_Intuition": "S",
+    "Thinking_or_Feeling": "T",
+    "Judging_or_Perceiving": "P",
+    "Values_and_Interests": [
+      "热爱竞争和挑战",
+      "对金融市场有强烈的好奇心",
+      "喜欢尝试新的技术和工具",
+      "偏好实证主义和数据驱动的决策"
+    ]
+  },
+  "Preference": {
+    "Local_Life": {
+      "Food_Drinks": "工作日用沙拉轻食外卖解决午餐，会在公司茶水间囤积无糖乌龙茶和冷萃咖啡。周末热衷于探索CBD新开的分子鸡尾酒吧和融合菜餐厅，坚持用Excel记录每道菜品的性价比评分",
+      "Entertainment": "定期参加金融圈狼人杀局，擅长用博弈论主导游戏。深夜沉迷量化策略主题的密室逃脱，曾因破解比特币矿机谜题获得店家年度最快解谜记录",
+      "Shopping": "每月固定网购机械键盘轴体测试套装和华尔街交易员传记，衣柜里挂满印着「E=MC²」「Black-Scholes方程」等极客文化衫",
+      "TravelDaily_Outings": "通勤坚持用地铁+共享单车的组合测算最优路径，手机里有6个叫车软件用于比价突发加班场景"
+    },
+    "Travel": {
+      "Business_Trips": "参加香港金融科技峰会时会提前研究参展机构的夏普比率，用剩余电量给酒店床头插座设计充电设备轮询方案",
+      "Leisure_Travel": "北海道滑雪旅行带着自建雪场人流预测模型，在二世谷暴风雪天准确预判缆车排队空窗期"
+    },
+    "Social": "领英动态充斥着《基于蒙特卡洛模拟的奶茶店投资模型》等硬核文章，现实社交圈由量化圈扑克锦标赛维系。对闺蜜的星座运势分析总会不自觉用上贝叶斯定理",
+    "Productivity": {
+      "Study_Work": "用Python脚本自动生成周报KPI图表，显示器边缘贴满波动率曲面便利贴。开发过自动回复相亲对象消息的RNN模型",
+      "Fitness": "Apple Watch健身圆环闭合强迫症患者，用跑步机数据训练步频优化算法，最近在尝试用期权对冲健身房跑路风险"
+    },
+    "Content_Interests": [
+      "高频交易暗池解析视频",
+      "冷战时期密码学纪录片",
+      "《鱿鱼游戏》经济学分析长文"
+    ]
+  }
+}

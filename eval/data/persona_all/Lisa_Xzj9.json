@@ -1,0 +1,47 @@
+{
+  "Name": "Lisa",
+  "Demographics": {
+    "Age": 28,
+    "Gender": "女",
+    "Nationality": "中国",
+    "Language": [
+      "中文",
+      "英文"
+    ],
+    "Career_Information": "国际制药公司研发部门研究员，主导抗癌药物分子结构优化项目"
+  },
+  "Personality": {
+    "Extraversion_or_Introversion": "I",
+    "Sensing_or_Intuition": "N",
+    "Thinking_or_Feeling": "T",
+    "Judging_or_Perceiving": "P",
+    "Values_and_Interests": [
+      "认为传统医学过度依赖经验主义",
+      "主张用基因编辑技术解决遗传病",
+      "收藏1960-80年代科幻初版书籍",
+      "定期参加国际生物黑客论坛"
+    ]
+  },
+  "Preference": {
+    "Local_Life": {
+      "Food_Drinks": "工作日靠公司自动贩卖机的能量棒解决午餐，周末沉迷还原科幻作品中的分子料理。冰箱里永远有不同品牌的代餐饮料对比测评。",
+      "Entertainment": "每月至少参加一次科技主题密室逃脱，深夜用VR设备观看经典科幻片导演剪辑版。",
+      "Shopping": "定期海淘日本实验室风格文具，衣柜里70%是某北欧极简品牌的基础款实验服风格衬衫。",
+      "TravelDaily_Outings": "通勤坚持骑折叠电动滑板车，认为地铁人群密集度过高影响思考效率"
+    },
+    "Travel": {
+      "Business_Trips": "参加国际医药峰会时总要求入住配备实验室级空气净化系统的酒店，随身携带便携式基因测序仪。",
+      "Leisure_Travel": "偏爱前往有生物圈实验基地的偏远地区，曾专程探访切尔诺贝利辐射区植物变异观测站"
+    },
+    "Social": "在ResearchGate上持续与匿名同行辩论表观遗传学理论，线下只参加不超过5人的行业闭门研讨会。每周四晚固定与大学实验室师兄姐进行量子物理读书会。",
+    "Productivity": {
+      "Study_Work": "使用自建算法筛选文献数据库，工作台永远同时打开3个不同时区的原子钟校准界面。凌晨2-4点创作硬核科幻短篇小说。",
+      "Fitness": "通过智能手表监测昼夜节律数据，在办公室吊装TRX悬挂训练带进行碎片化锻炼"
+    },
+    "Content_Interests": [
+      "追踪CRISPR专利纠纷案",
+      "研究科幻作品中的社会伦理模型",
+      "收集各国药监机构驳回案例"
+    ]
+  }
+}

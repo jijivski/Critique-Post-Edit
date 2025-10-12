@@ -1,0 +1,47 @@
+{
+  "Name": "李明",
+  "Demographics": {
+    "Age": 28,
+    "Gender": "男",
+    "Nationality": "中国",
+    "Language": [
+      "中文",
+      "英文"
+    ],
+    "Career_Information": "自由职业者，主要从事游戏开发和设计"
+  },
+  "Personality": {
+    "Extraversion_or_Introversion": "E",
+    "Sensing_or_Intuition": "S",
+    "Thinking_or_Feeling": "T",
+    "Judging_or_Perceiving": "P",
+    "Values_and_Interests": [
+      "热衷于游戏设计与开发",
+      "喜爱挑战性的极限运动",
+      "拥护个人自由与选择",
+      "支持游戏中的社群和合作元素"
+    ]
+  },
+  "Preference": {
+    "Local_Life": {
+      "Food_Drinks": "工作日习惯用便利店速食解决三餐，开发游戏时囤积大量能量饮料。周末会去尝试新开的主题咖啡馆，对美式汉堡和精酿啤酒有特殊偏好。",
+      "Entertainment": "每周固定参加本地电竞馆的开放日活动，偶尔组织朋友去VR游戏馆或密室逃脱。深夜常混迹于24小时街机厅测试游戏原型。",
+      "Shopping": "每月在Steam购买3-5款独立游戏，定期更换机械键盘轴体。服装以机能风户外品牌为主，对带有反光条的装备情有独钟。",
+      "TravelDaily_Outings": "日常骑共享单车穿梭于联合办公空间，下雨天必叫网约车且指定宽敞的SUV车型。每月至少一次骑行至郊外速降山地车道。"
+    },
+    "Travel": {
+      "Business_Trips": "每年参加两次国际游戏展时会选择青年旅舍多人间，特意与海外独立开发者同住交流。总会在行李箱里塞着便携式游戏测试设备。",
+      "Leisure_Travel": "冬季必去北方滑雪场担任业余教练，夏季偏好海岛悬崖跳水。痛恨跟团游，但会为体验滑翔伞临时更改行程。"
+    },
+    "Social": "在Discord运营300人规模的游戏测试群组，定期组织线下Game Jam活动。对菜鸟玩家缺乏耐心，但会花整晚帮朋友调试游戏引擎报错。",
+    "Productivity": {
+      "Study_Work": "使用物理沙漏强制进入25分钟工作法，在Trello看板上用军用级术语标注任务优先级。电脑永远开着Unity和Aseprite双屏协作。",
+      "Fitness": "用手环记录每次攀岩馆的难点攻克数据，坚持用GoPro拍摄滑板动作进行帧分析。认为健身房固定器械是反人类设计。"
+    },
+    "Content_Interests": [
+      "收集各国街机厅纪录片",
+      "关注脑机接口在游戏中的应用",
+      "定期观看极限运动失败集锦解压"
+    ]
+  }
+}

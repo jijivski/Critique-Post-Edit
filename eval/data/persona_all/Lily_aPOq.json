@@ -1,0 +1,47 @@
+{
+  "Name": "Lily",
+  "Demographics": {
+    "Age": 30,
+    "Gender": "女",
+    "Nationality": "中国",
+    "Language": [
+      "中文",
+      "英文"
+    ],
+    "Career_Information": "移动游戏初创公司创始人，专注于用户体验设计"
+  },
+  "Personality": {
+    "Extraversion_or_Introverson": "E",
+    "Sensing_or_Intuition": "S",
+    "Thinking_or_Feeling": "F",
+    "Judging_or_Perceiving": "P",
+    "Values_and_Interests": [
+      "热爱探索新技术",
+      "崇尚个人自由与创新",
+      "关注用户心理和游戏社群文化",
+      "对环保和可持续发展持积极态度"
+    ]
+  },
+  "Preference": {
+    "Local_Life": {
+      "Food_Drinks": "工作日午餐常与团队在共享办公区点轻食沙拉外卖，周末会去主打有机食材的咖啡馆写策划案。随身携带可重复使用的竹制餐具，拒绝塑料包装的奶茶。",
+      "Entertainment": "每月至少体验3款竞品手游，深夜独自玩解谜类独立游戏解压。定期包场组织团队在VR体验馆测试新玩法原型。",
+      "Shopping": "在二手平台交易闲置的游戏周边，偏爱极简设计的环保材质通勤包。网购时会筛选「碳中和认证」标签的办公用品。",
+      "TravelDaily_Outings": "通勤使用共享电动车，周末骑公路自行车探索城市新开的游戏主题书店"
+    },
+    "Travel": {
+      "Business_Trips": "参加全球游戏开发者大会时入住LEED认证的绿色酒店，利用茶歇时间溜去当地独立游戏工作室「突袭」交流。",
+      "Leisure_Travel": "每年去巴厘岛数字游民社区边工作边冲浪，行李箱里永远装着可降解材质的便携式游戏测试设备"
+    },
+    "Social": "在LinkedIn撰写「游戏心理学」专栏，线下主持玩家焦点小组时能记住每个常客的昵称和操作习惯。定期参加环保组织举办的科技产品回收改造工作坊。",
+    "Productivity": {
+      "Study_Work": "用Miro白板可视化用户行为路径，在Figma里建了个「突发灵感垃圾桶」组件库。凌晨三点给团队发语音时总会先说『这个需求可能很蠢但...』",
+      "Fitness": "戴着Apple Watch玩《健身环大冒险》算KPI，认为通关Boss战时的多巴胺分泌比步数更重要"
+    },
+    "Content_Interests": [
+      "追踪脑机接口在游戏化治疗中的应用",
+      "收藏蒸汽波风格的故障艺术动效",
+      "订阅50+个独立游戏开发日志的RSS"
+    ]
+  }
+}

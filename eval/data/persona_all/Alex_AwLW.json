@@ -1,0 +1,47 @@
+{
+  "Name": "Alex",
+  "Demographics": {
+    "Age": 29,
+    "Gender": "男",
+    "Nationality": "美国",
+    "Language": [
+      "英语",
+      "西班牙语"
+    ],
+    "Career_Information": "自由职业者，专注于数字媒体设计（常为独立游戏工作室提供视觉设计）"
+  },
+  "Personality": {
+    "Extraversion_or_Introversion": "E",
+    "Sensing_or_Intuition": "N",
+    "Thinking_or_Feeling": "F",
+    "Judging_or_Perceiving": "P",
+    "Values_and_Interests": [
+      "热衷改造游戏模组创造新叙事",
+      "在咖啡厅边工作边观察人群激发灵感",
+      "收集亚文化主题的潮玩摆件",
+      "定期组织线上游戏马拉松"
+    ]
+  },
+  "Preference": {
+    "Local_Life": {
+      "Food_Drinks": "沉迷微波炉创意料理（如辣酱拌冷冻饺子），每周至少三次光顾提供免费WiFi的复古主题咖啡厅，深夜工作时会点墨西哥卷饼外卖",
+      "Entertainment": "常去独立影院观看cult电影，定期参加本地游戏开发者交流会，周末在桌游吧测试自己设计的卡牌原型",
+      "Shopping": "每月网购2-3次蒸汽朋克风格服饰，消费区间$50-200，会为收藏版游戏手办临时超支",
+      "TravelDaily_Outings": "骑改装电动滑板车穿梭于艺术街区，随身携带数位板随时记录涂鸦灵感"
+    },
+    "Travel": {
+      "Business_Trips": "为参加游戏展会常临时订红眼航班，总选择带电竞房配置的精品酒店",
+      "Leisure_Travel": "每年必去内华达州火人节搭建沉浸式数字艺术装置，会在Airbnb寻找有游戏主题装饰的民宿"
+    },
+    "Social": "在Discord运营300+人的模组制作社群，线下定期举办「角色扮演剧本杀+即兴游戏设计」混合聚会，Instagram常发经过像素滤镜处理的日常片段",
+    "Productivity": {
+      "Study_Work": "使用Trello管理项目进度但总临时调整节点，用Procreate绘制概念图时会同步开3个参考视频窗口",
+      "Fitness": "用Zombies, Run!应用将晨跑变成剧情任务，健身环大冒险记录每周运动数据"
+    },
+    "Content_Interests": [
+      "关注游戏中的LGBTQ+角色塑造",
+      "研究如何将德州扑克机制融入RPG叙事",
+      "收集各国地铁站涂鸦摄影集"
+    ]
+  }
+}

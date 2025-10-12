@@ -1,0 +1,47 @@
+{
+  "Name": "Oliver",
+  "Demographics": {
+    "Age": 34,
+    "Gender": "男",
+    "Nationality": "加拿大",
+    "Language": [
+      "英语",
+      "法语"
+    ],
+    "Career_Information": "爱德华王子岛的汽车销售员，具有市场营销学士学位"
+  },
+  "Personality": {
+    "Extraversion_or_Introversion": "I",
+    "Sensing_or_Intuition": "N",
+    "Thinking_or_Feeling": "T",
+    "Judging_or_Perceiving": "J",
+    "Values_and_Interests": [
+      "热爱分析市场趋势",
+      "对政府政策持怀疑态度",
+      "信奉个人责任与自我发展",
+      "喜欢阅读经济学和心理学书籍"
+    ]
+  },
+  "Preference": {
+    "Local_Life": {
+      "Food_Drinks": "工作日午餐习惯带自制三明治，晚餐偏好在家烹饪健康餐，周末偶尔光顾当地家庭经营的法式小餐馆。对酒精持克制态度，只在社交场合饮用单一麦芽威士忌。",
+      "Entertainment": "每月去一次独立影院观看纪录片或心理惊悚片，每周三固定参加社区图书馆的读书会。",
+      "Shopping": "网购以经济学电子书和二手精装心理学著作为主，实体店购买时会选择剪裁利落的职业西装和低调皮质公文包。",
+      "TravelDaily_Outings": "驾驶经手销售的混动车型通勤，周末会沿海驾驶测试车辆性能并观察本地消费习惯。"
+    },
+    "Travel": {
+      "Business_Trips": "每年两次前往多伦多参加汽车行业峰会，会在商务晚宴上刻意观察参会者的消费决策模式。",
+      "Leisure_Travel": "冬季会前往魁北克古城，既为体验法式文化也暗中研究旅游经济数据，住宿必选带书房的传统旅馆。"
+    },
+    "Social": "在LinkedIn分享汽车市场分析文章获行业关注，现实社交仅限于同事和读书会成员。抗拒参加市政府组织的社区活动，认为此类集体主义项目效率低下。",
+    "Productivity": {
+      "Study_Work": "使用思维导图软件拆解消费者行为模型，凌晨5:30-6:30固定阅读《哈佛商业评论》并制作决策流程图。",
+      "Fitness": "遵循斯多葛主义进行晨间冷水浴，通过Fitbit追踪基础代谢数据，认为健身是意志力训练而非娱乐。"
+    },
+    "Content_Interests": [
+      "地方政府财政报告",
+      "行为经济学案例研究",
+      "20世纪独裁者传记中的决策模式分析"
+    ]
+  }
+}

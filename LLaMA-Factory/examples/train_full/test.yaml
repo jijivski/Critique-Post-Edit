@@ -1,0 +1,44 @@
+### model
+model_name_or_path: /mnt/data/end_side/model/Qwen2.5-3B-Instruct
+
+### method
+stage: sft
+do_train: true
+finetuning_type: full
+deepspeed: examples/deepspeed/ds_z3_config.json
+
+### dataset
+dataset: sft
+# template: qwen
+cutoff_len: 16384
+overwrite_cache: true
+preprocessing_num_workers: 16
+
+### output
+output_dir: saves/sft/test
+logging_steps: 10
+save_steps: 200
+plot_loss: true
+overwrite_output_dir: true
+
+### train
+per_device_train_batch_size: 1
+gradient_accumulation_steps: 4
+learning_rate: 1.0e-5 # 5.0e-5
+num_train_epochs: 2.0 
+lr_scheduler_type: cosine
+warmup_ratio: 0.1
+weight_decay: 0.01
+bf16: true
+ddp_timeout: 180000000
+optim: adamw_torch
+
+## eval
+# val_size: 0.1
+# per_device_eval_batch_size: 1
+# eval_strategy: steps
+# eval_steps: 50
+
+# use_swanlab: true
+# wandb_project: llamafactory_dy
+# swanlab_run_name: Qwen2_5-7B-Instruct_math12k_start_1e-5_2epoch

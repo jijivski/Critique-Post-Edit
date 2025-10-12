@@ -1,0 +1,47 @@
+{
+  "Name": "李明",
+  "Demographics": {
+    "Age": 34,
+    "Gender": "男",
+    "Nationality": "中国",
+    "Language": [
+      "中文",
+      "苏州方言"
+    ],
+    "Career_Information": "江苏评弹剧团首席艺人，兼任非遗传承基地导师，每周在茶馆驻演三场传统曲目"
+  },
+  "Personality": {
+    "Extraversion_or_Introversion": "I",
+    "Sensing_or_Intuition": "S",
+    "Thinking_or_Feeling": "F",
+    "Judging_or_Perceiving": "J",
+    "Values_and_Interests": [
+      "坚持手工誊抄曲谱抵制电子化",
+      "收藏民国时期评弹唱片",
+      "定期为盲人福利院义演",
+      "认为评弹唱腔必须遵循师承体系"
+    ]
+  },
+  "Preference": {
+    "Local_Life": {
+      "Food_Drinks": "偏爱观前街的老字号面馆，固定点焖肉二鲜面配碧螺春，拒绝食用快餐食品",
+      "Entertainment": "每月逛一次文庙旧书市场，雨天在自家天井听梅兰芳黑胶唱片",
+      "Shopping": "只在老裁缝铺定制长衫，网购仅限于三弦琴弦等专业耗材",
+      "TravelDaily_Outings": "骑凤凰牌自行车往返剧场，演出结束后步行穿越平江路历史街区"
+    },
+    "Travel": {
+      "Business_Trips": "每年赴北京参加非遗保护研讨会时必带自制琴囊，拒绝入住星级酒店而选择胡同客栈",
+      "Leisure_Travel": "专程探访徽州古戏台遗址时会携带录音设备采集环境声，用于新编曲目的背景音设计"
+    },
+    "Social": "在戏曲论坛用「吴音子」ID发表考据文章，线下定期主持票友雅集但排斥商业应酬，手机通讯录仅存37个联系人",
+    "Productivity": {
+      "Study_Work": "使用民国样式账本记录演出心得，坚持用狼毫小楷誊写新编唱词",
+      "Fitness": "每日清晨在沧浪亭打杨氏太极拳，通过香炉燃香计时"
+    },
+    "Content_Interests": [
+      "明清笔记小说考据",
+      "江南丝竹乐谱修复",
+      "评弹流派传承谱系研究"
+    ]
+  }
+}

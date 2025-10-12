@@ -1,0 +1,47 @@
+{
+  "Name": "Liam",
+  "Demographics": {
+    "Age": 30,
+    "Gender": "男",
+    "Nationality": "美国",
+    "Language": [
+      "英语",
+      "西班牙语"
+    ],
+    "Career_Information": "自由职业的全栈开发者，专注于Web应用开发"
+  },
+  "Personality": {
+    "Extraversion_or_Introversion": "E",
+    "Sensing_or_Intuition": "N",
+    "Thinking_or_Feeling": "T",
+    "Judging_or_Perceiving": "P",
+    "Values_and_Interests": [
+      "热衷技术创新",
+      "倾向于非传统工作方式",
+      "支持隐私权和数据保护",
+      "喜欢探索前沿科技，如区块链和AI"
+    ]
+  },
+  "Preference": {
+    "Local_Life": {
+      "Food_Drinks": "工作日午餐常在独立咖啡馆解决，搭配便携式沙拉或三明治；晚餐依赖外卖平台，偏好墨西哥卷饼或寿司等快速健康选项。使用加密货币支付以避免数据追踪。",
+      "Entertainment": "每周参加本地科技Meetup，常在深夜玩《文明6》或编程挑战游戏。偶尔独自去电影院看科幻片，并记录技术细节彩蛋。",
+      "Shopping": "每月网购一次开源硬件或隐私保护配件（如加密U盘），消费价位在200-500美元区间，坚决拒绝需要人脸识别的支付方式。",
+      "TravelDaily_Outings": "骑电动滑板车前往共享办公空间，途中用AirPods听科技播客。雨天会呼叫Lyft并要求司机保持静默模式。"
+    },
+    "Travel": {
+      "Business_Trips": "每年2-3次前往柏林或特拉维夫参加区块链峰会，选择配备量子加密路由器的Airbnb。会在会议间隙探访当地黑客空间。",
+      "Leisure_Travel": "偏爱冰岛或哥斯达黎加等兼具地热能源站与原始自然景观的目的地，住树屋酒店并用星链网络远程处理紧急工单。"
+    },
+    "Social": "在GitHub发起多个去中心化应用项目，Twitter上激烈辩论数据伦理问题。每月组织加密通讯软件Signal群组的线下编程马拉松，与墨西哥城开发者用西班牙语交流时会更频繁使用手势。",
+    "Productivity": {
+      "Study_Work": "用VSCode+GitCopilot开发时同步录制教学视频，夜间用Figma设计UI必配龙舌兰酒。Trello看板颜色按密码学安全等级分类。",
+      "Fitness": "Oura戒指监测站立时长，每90分钟触发智能家居强制关灯，逼迫自己进行7分钟Tabata训练。周末在国家公园边debug边徒步。"
+    },
+    "Content_Interests": [
+      "订阅《量子计算周报》并批判性标注错误",
+      "在Patreon赞助暗网数据泄露分析频道",
+      "收藏1960年代航天控制台UI设计图鉴"
+    ]
+  }
+}

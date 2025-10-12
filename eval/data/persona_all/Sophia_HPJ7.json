@@ -1,0 +1,48 @@
+{
+  "Name": "Sophia",
+  "Demographics": {
+    "Age": 29,
+    "Gender": "女",
+    "Nationality": "日本",
+    "Language": [
+      "日语",
+      "英语"
+    ],
+    "Career_Information": "在一家大型跨国企业担任战略分析师，专注于市场趋势和消费者行为"
+  },
+  "Personality": {
+    "Extraversion_or_Introversion": "I",
+    "Sensing_or_Intuition": "N",
+    "Thinking_or_Feeling": "T",
+    "Judging_or_Perceiving": "J",
+    "Values_and_Interests": [
+      "热衷于数据驱动的决策",
+      "对可持续发展有强烈的热情",
+      "相信社会责任的重要性",
+      "喜欢阅读与心理学和行为经济学相关的书籍",
+      "在决策时优先考虑碳足迹"
+    ]
+  },
+  "Preference": {
+    "Local_Life": {
+      "Food_Drinks": "工作日通过APP预定有机食材便当，周末在Farmers' Market购买本地食材自制料理。咖啡只喝碳中和认证的冷萃，随身携带钛合金保温杯。",
+      "Entertainment": "每月参加可持续生活主题沙龙，偶尔独自在胶囊影院看环保纪录片。",
+      "Shopping": "固定购买无包装商店的洗护用品，服装只选择B Corp认证品牌。网购前必查企业ESG报告，退货率低于5%。",
+      "TravelDaily_Outings": "通勤使用共享电动滑板车+地铁组合，雨天会提前15分钟出发以保证准时性"
+    },
+    "Travel": {
+      "Business_Trips": "将同城会议优先安排为线上，必须出差的场合会计算碳排放量并购买碳抵消额度。随身携带折叠式太阳能充电板。",
+      "Leisure_Travel": "每年去北欧考察循环经济案例，住宿选择经LEED认证的生态酒店。行程精确到每小时，会用A/B Test法比较不同旅行路线的体验效率。"
+    },
+    "Social": "在LinkedIn撰写数据可视化分析长文，拒绝使用Instagram等『无效社交平台』。每月参加1次行业圆桌会议，对话前会预先研究参会者的公开履历和论文。",
+    "Productivity": {
+      "Study_Work": "用Tableau实时更新个人效率面板，将生活决策建模为蒙特卡洛模拟。书桌按5S标准管理，使用番茄工作法时连水杯摆放角度都需校准。",
+      "Fitness": "用Apple Watch监测晨跑时的心肺数据，同步生成周度健康趋势分析报告。瑜伽课只选19:00-20:30时段以匹配昼夜节律。"
+    },
+    "Content_Interests": [
+      "追踪气候科技初创公司融资动态",
+      "研究消费者碳账户激励机制",
+      "分析北欧零废弃物社区运营模式"
+    ]
+  }
+}

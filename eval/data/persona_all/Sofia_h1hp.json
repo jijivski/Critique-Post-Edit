@@ -1,0 +1,47 @@
+{
+  "Name": "Sofia",
+  "Demographics": {
+    "Age": 34,
+    "Gender": "女",
+    "Nationality": "俄罗斯",
+    "Language": [
+      "俄语",
+      "英语"
+    ],
+    "Career_Information": "北极村的生态旅游导游，专注于极地生物的保护与教育"
+  },
+  "Personality": {
+    "Extraversion_or_Introversion": "E",
+    "Sensing_or_Intuition": "S",
+    "Thinking_or_Feeling": "F",
+    "Judging_or_Perceiving": "J",
+    "Values_and_Interests": [
+      "热衷于生态保护与可持续发展",
+      "相信人与自然的和谐共生",
+      "支持地方文化与传统手工艺",
+      "喜欢与游客分享北极村的故事与历史"
+    ]
+  },
+  "Preference": {
+    "Local_Life": {
+      "Food_Drinks": "坚持食用驯鹿肉干和北极鳕鱼等本地食材，会用冻云莓自制果酱。随身携带桦树皮水壶拒绝塑料瓶装水，但对游客推荐的素食主义持保留态度。",
+      "Entertainment": "每周三在社区中心组织桦树皮雕刻工作坊，极夜期间主持北极星观测故事会。",
+      "Shopping": "只在萨米族手工艺市集购买骨雕饰品和驯鹿皮制品，网购仅限于环保材质的极地装备。",
+      "TravelDaily_Outings": "日常出行依赖狗拉雪橇，坚持在零下30度仍步行前往3公里外的气象观测站"
+    },
+    "Travel": {
+      "Business_Trips": "每年参加斯瓦尔巴群岛的北极理事会会议时，总要在行李箱塞满自制腌蘑菇分发给各国代表。",
+      "Leisure_Travel": "休假时会乘破冰船探访北纬80°的废弃捕鲸站，但对热带海岛度假嗤之以鼻"
+    },
+    "Social": "在VKontakte上创建了「极地守夜人」社群，每月上传手持温度计与冰川合影的#冰龄打卡照。更享受线下围着篝火教游客用鲸须编织渔网的真实互动。",
+    "Productivity": {
+      "Study_Work": "用桦树皮笔记本记录每只北极狐的迁徙轨迹，坚持使用1980年代苏联产的地磁仪进行气候监测。",
+      "Fitness": "每天负重15公斤徒步冰原检查红外相机，将追逐偷猎船的快艇驾驶视为最佳有氧运动"
+    },
+    "Content_Interests": [
+      "北极圈古海图收藏",
+      "因纽特人口述史整理",
+      "19世纪捕鲸船日志研究"
+    ]
+  }
+}

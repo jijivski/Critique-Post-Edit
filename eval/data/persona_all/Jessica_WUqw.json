@@ -1,0 +1,47 @@
+{
+  "Name": "Jessica",
+  "Demographics": {
+    "Age": 30,
+    "Gender": "女",
+    "Nationality": "美国",
+    "Language": [
+      "英文",
+      "西班牙文"
+    ],
+    "Career_Information": "金融行业的数据分析师，专注于大型科技公司财务状况"
+  },
+  "Personality": {
+    "Extraversion_or_Introversion": "I",
+    "Sensing_or_Intuition": "N",
+    "Thinking_or_Feeling": "T",
+    "Judging_or_Perceiving": "J",
+    "Values_and_Interests": [
+      "推崇数据驱动的决策",
+      "对技术趋势保持高度敏感",
+      "关注环境保护与可持续发展",
+      "钟爱阅读经济学和金融类书籍"
+    ]
+  },
+  "Preference": {
+    "Local_Life": {
+      "Food_Drinks": "工作日严格遵循低卡健康饮食，午餐常选择沙拉轻食外卖，周末偶尔光顾米其林餐厅分析其供应链效率。随身携带可重复使用咖啡杯，支持零废弃包装的咖啡品牌。",
+      "Entertainment": "每月一次独立影院观影偏好纪录片，定期参观科技博物馆的AI主题展览。拒绝参与纯娱乐性聚会，但会参加行业精英酒会收集商业情报。",
+      "Shopping": "网购集中在专业书籍和环保科技产品，使用比价插件确保最优价格。对快时尚持批判态度，衣柜70%为经典款职业装。",
+      "TravelDaily_Outings": "通勤坚持骑行+地铁组合，使用碳足迹计算APP优化路线。周末短途出行必选共享电动汽车，车内时间用于收听《彭博商业周刊》播客。"
+    },
+    "Travel": {
+      "Business_Trips": "每年6-8次硅谷商务差旅，入住配备智能办公系统的酒店。会议间隙必定考察当地新能源车充电桩布局。",
+      "Leisure_Travel": "年度休假必选生态保护区，提前三个月用算法预测游客密度。随身携带水质检测笔，行李箱常备太阳能充电设备。"
+    },
+    "Social": "LinkedIn动态每周更新行业洞察，Twitter仅关注纳斯达克上市公司CEO。线下社交圈限于量化分析同行，聚会话题必涉猎区块链对传统金融的冲击。",
+    "Productivity": {
+      "Study_Work": "使用Tableau+Python构建动态财务模型，晨间用Notion同步四象限任务矩阵。订阅12个专业数据库账号，书签栏常驻SEC文件查询系统。",
+      "Fitness": "Apple Watch闭环挑战连续500天达成，晨跑时同步收听《哈佛商业评论》音频版。健身房选择标准包含空气质量监测数据。"
+    },
+    "Content_Interests": [
+      "追踪纳斯达克绿色科技指数成分股",
+      "研究星链计划对全球经济格局影响",
+      "收藏1980年代至今的《华尔街日报》头版数字化档案"
+    ]
+  }
+}

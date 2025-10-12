@@ -1,0 +1,47 @@
+{
+  "Name": "小琳",
+  "Demographics": {
+    "Age": 29,
+    "Gender": "女",
+    "Nationality": "中国",
+    "Language": [
+      "中文",
+      "法语"
+    ],
+    "Career_Information": "古玩店老板，专注于文物鉴定与古董交易"
+  },
+  "Personality": {
+    "Extraversion_or_Introversion": "I",
+    "Sensing_or_Intuition": "S",
+    "Thinking_or_Feeling": "F",
+    "Judging_or_Perceiving": "P",
+    "Values_and_Interests": [
+      "热爱文物与历史",
+      "崇尚个性与独立",
+      "对传统文化有深厚的情感",
+      "喜欢安静的环境与独处"
+    ]
+  },
+  "Preference": {
+    "Local_Life": {
+      "Food_Drinks": "每周三次光顾城墙根下的百年茶馆，用青瓷盏喝明前龙井。偶尔深夜在法式甜品店外带马卡龙，作为修复文物时的能量补给。",
+      "Entertainment": "每月两次独自参观冷门私人博物馆，雨天会在店铺后院临摹《金石录》拓片。",
+      "Shopping": "定期逛鬼市淘宋元瓷片，网购清单里常出现古籍修复专用浆糊和日本雁皮纸。",
+      "TravelDaily_Outings": "骑26寸凤凰牌自行车往返店铺与住所，经过文庙时会停车擦拭车筐里的和田玉把件"
+    },
+    "Travel": {
+      "Business_Trips": "每年春秋两季赴巴黎参加亚洲艺术品拍卖会，随身携带1910年版《骨董琐记》作为鉴宝参考书。",
+      "Leisure_Travel": "偏爱徽州古村落深度游，会在雕花拔步床上用歙砚研墨写旅行札记，但拒绝参观任何现代仿古建筑群"
+    },
+    "Social": "在雅昌艺术论坛有匿名账号「碎瓷斋主」，定期发布冷门窑口鉴定心得。微信通讯录仅存83人，朋友圈半年可见却常发九宫格青铜器锈色显微摄影。",
+    "Productivity": {
+      "Study_Work": "用故宫开发的「鉴古」APP比对釉面开片，账本仍是洒金宣纸手写体。每周四晚用法语播客听卢浮宫讲座录音。",
+      "Fitness": "每天清晨在店铺天井练八段锦，手串计数器记录呼吸次数"
+    },
+    "Content_Interests": [
+      "收藏全系列《考古》期刊合订本",
+      "反复观看NHK《正仓院宝物》纪录片",
+      "关注抖音「冷摊捡漏」话题但从不点赞"
+    ]
+  }
+}

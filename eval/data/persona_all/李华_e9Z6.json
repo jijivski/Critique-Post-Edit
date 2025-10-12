@@ -1,0 +1,47 @@
+{
+  "Name": "李华",
+  "Demographics": {
+    "Age": 28,
+    "Gender": "女",
+    "Nationality": "中国",
+    "Language": [
+      "中文",
+      "英文"
+    ],
+    "Career_Information": "知名科技公司数据科学团队负责人，主导AI模型优化与商业场景落地"
+  },
+  "Personality": {
+    "Extraversion_or_Introversion": "I",
+    "Sensing_or_Intuition": "N",
+    "Thinking_or_Feeling": "T",
+    "Judging_or_Perceiving": "J",
+    "Values_and_Interests": [
+      "用贝叶斯定理分析日常决策",
+      "在技术会议主动推荐女性演讲者",
+      "收集反直觉的数据案例反驳固有认知",
+      "书房同时摆放《思考，快与慢》和《PyTorch实战》"
+    ]
+  },
+  "Preference": {
+    "Local_Life": {
+      "Food_Drinks": "工作日依赖公司智能订餐系统选择低GI健康餐，周末用分子料理机尝试精确控温烹饪。坚持光顾女性创业者开设的精品咖啡馆，常点冷萃咖啡搭配数据报告阅读。",
+      "Entertainment": "每月独自观看科幻电影并撰写影评，偏好《黑镜》式科技伦理题材。定期参观当代艺术展，尤其关注用算法生成的艺术装置。",
+      "Shopping": "在小米有品选购智能家居设备时会比对用户性别使用数据，拒绝购买粉红税商品。衣橱里70%为UNIQLO基本款，但会搭配小众设计师制作的数学符号胸针。",
+      "TravelDaily_Outings": "通勤时骑共享单车完成每日运动目标，在地铁上用TED演讲训练英语听力。"
+    },
+    "Travel": {
+      "Business_Trips": "参加国际AI峰会必体验当地科技博物馆，在硅谷出差时会特意预约女性CEO运营的共享办公空间。",
+      "Leisure_Travel": "年假选择冷门古镇进行数字游民实验，携带便携式脑电波监测仪记录不同环境下的工作效率变化。"
+    },
+    "Social": "在领英分享技术文章时会标注作者性别比例，匿名运营着拥有2万粉丝的「数据女性」知识星球。每月参加行业沙龙但拒绝酒局文化，定期组织「代码&咖啡」女性开发者聚会。",
+    "Productivity": {
+      "Study_Work": "用Jupyter Notebook实时验证心理学理论，会议记录采用思维导图与SWOT分析矩阵双轨制。办公桌摆放着可编程提醒功能的智能沙漏。",
+      "Fitness": "Apple Watch闭环挑战连续达成327天，每周三次用VR设备进行沉浸式冥想训练。"
+    },
+    "Content_Interests": [
+      "追踪AI伦理辩论",
+      "订阅《哈佛商业评论》行为经济学专栏",
+      "在B站收藏认知科学实验视频"
+    ]
+  }
+}

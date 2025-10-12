@@ -1,0 +1,47 @@
+{
+  "Name": "Sophia",
+  "Demographics": {
+    "Age": 30,
+    "Gender": "女",
+    "Nationality": "美国",
+    "Language": [
+      "英语",
+      "西班牙语"
+    ],
+    "Career_Information": "职场心理学家，专注于团体动力学和团队合作"
+  },
+  "Personality": {
+    "Extraversion_or_Intraversion": "E",
+    "Sensing_or_Intuition": "S",
+    "Thinking_or_Feeling": "F",
+    "Judging_or_Perceiving": "J",
+    "Values_and_Interests": [
+      "热衷于促进团队合作",
+      "相信竞争能够促进个人成长",
+      "支持生态可持续性与健康生活方式",
+      "热爱户外活动，如徒步和骑行"
+    ]
+  },
+  "Preference": {
+    "Local_Life": {
+      "Food_Drinks": "坚持购买有机食材和本地农产品的超市，每周三固定去社区农贸市场。早餐必喝现磨咖啡，周末会尝试新开的素食餐厅，但始终拒绝一次性餐具。",
+      "Entertainment": "组织每月一次的团队协作主题桌游聚会，周末参加本地骑行俱乐部的郊外活动，偶尔在露天影院看纪录片。",
+      "Shopping": "只购买B Corp认证的环保品牌，衣柜里70%是二手商店淘到的复古工装，网购时会用浏览器插件计算碳足迹。",
+      "TravelDaily_Outings": "通勤坚持骑改装过的电动助力自行车，雨天转乘地铁时会用折叠帆布袋装公文包"
+    },
+    "Travel": {
+      "Business_Trips": "为企业做团队建设培训时选择LEED认证酒店，总在会议间隙溜去附近的森林公园快走半小时。",
+      "Leisure_Travel": "每年策划两次国家公园徒步旅行，会提前三个月研究步道生态承载量，偏爱住在太阳能供电的树屋民宿。"
+    },
+    "Social": "在LinkedIn分享团队协作心理学案例，线下定期主持企业HR沙龙。Instagram只发骑行途中拍的野生蘑菇和苔藓特写，私下认为纯线上团建活动都是反人性的设计。",
+    "Productivity": {
+      "Study_Work": "用Miro白板设计团队角色分配模型，办公室白板墙上永远贴着撕到一半的便利贴矩阵。坚持手写会议纪要，但只用可降解大豆油墨笔记本。",
+      "Fitness": "Apple Watch的「合上站立圆环」成就已连续达成1274天，骑行时会同步记录海拔变化对心率的影响曲线"
+    },
+    "Content_Interests": [
+      "收集各国团队协作机制的民族志研究",
+      "订阅《Outside》杂志纸质版",
+      "沉迷观看阿拉斯加荒野生存类纪录片"
+    ]
+  }
+}

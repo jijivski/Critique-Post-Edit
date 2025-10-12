@@ -1,0 +1,47 @@
+{
+  "Name": "阿如",
+  "Demographics": {
+    "Age": 34,
+    "Gender": "男",
+    "Nationality": "中国",
+    "Language": [
+      "蒙古语",
+      "中文"
+    ],
+    "Career_Information": "内蒙古马头琴匠人，世代传承手工制作马头琴"
+  },
+  "Personality": {
+    "Extraversion_or_Introversion": "I",
+    "Sensing_or_Intuition": "S",
+    "Thinking_or_Feeling": "F",
+    "Judging_or_Perceiving": "P",
+    "Values_and_Interests": [
+      "热爱传统音乐与文化",
+      "崇尚自然与质朴生活",
+      "对马头木的选材有执着追求",
+      "关注环保与可持续发展"
+    ]
+  },
+  "Preference": {
+    "Local_Life": {
+      "Food_Drinks": "日常食用风干牛肉和蒙古奶茶，每周三次在镇上的传统餐馆吃手抓肉。拒绝塑料包装食品，用桦树皮饭盒自带午餐",
+      "Entertainment": "每月参加草原篝火音乐会，偶尔用老式投影仪看蒙古族电影。偏爱在河岸边雕刻未完工的琴头作为消遣",
+      "Shopping": "每季度驱车80公里到边境林场采购马尾和枫木原料，网购仅限于手工工具替换零件",
+      "TravelDaily_Outings": "晴天骑电动三轮车去白桦林挑选木材，雨季步行至镇文化站教授琴艺"
+    },
+    "Travel": {
+      "Business_Trips": "每年两次乘绿皮火车前往呼和浩特参加非遗展演，坚持携带自制便携式马头琴工具箱",
+      "Leisure_Travel": "夏季自驾吉普车横穿呼伦贝尔草原采风，夜间睡在车顶帐篷记录星空的方位"
+    },
+    "Social": "在敖包祭祀时担任琴师维持传统社交圈，运营着仅有37位老匠人的微信交流群。拒绝短视频平台，但会在民族音乐论坛上传琴声采样",
+    "Productivity": {
+      "Study_Work": "用狼毫笔记簿记录每把琴的共振频率，工具墙上挂着祖父传下的蒙文版《木材含水率对照表》",
+      "Fitness": "每日劈砍制作琴箱的原料桦木作为力量训练，清晨在马厩旁练习蒙古摔跤基本功"
+    },
+    "Content_Interests": [
+      "收藏1960年代蒙古语广播录音带",
+      "研究大兴安岭濒危树种年轮图谱",
+      "追踪游牧民族太阳能设备应用案例"
+    ]
+  }
+}

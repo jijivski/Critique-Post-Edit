@@ -1,0 +1,48 @@
+{
+  "Name": "Sophie",
+  "Demographics": {
+    "Age": 29,
+    "Gender": "女",
+    "Nationality": "中国",
+    "Language": [
+      "中文",
+      "英文",
+      "法文"
+    ],
+    "Career_Information": "自由撰稿人，专注于奢华生活方式和娱乐报道"
+  },
+  "Personality": {
+    "Extraversion_or_Introversion": "E",
+    "Sensing_or_Intuition": "N",
+    "Thinking_or_Feeling": "F",
+    "Judging_or_Perceiving": "P",
+    "Values_and_Interests": [
+      "热爱奢华生活和时尚",
+      "崇尚个人自由与创造性表达",
+      "喜欢参加社交活动，结识名人",
+      "对文化和艺术有浓厚的兴趣"
+    ]
+  },
+  "Preference": {
+    "Local_Life": {
+      "Food_Drinks": "每周至少三次在米其林或网红餐厅打卡，偏爱法式料理与分子料理。早晨必须喝手冲瑰夏咖啡，深夜写稿时会点高端日料外卖配香槟。",
+      "Entertainment": "流连于私人画廊开幕酒会和小众艺术影院，每月固定参加奢侈品品牌VIP体验活动。",
+      "Shopping": "只通过NET-A-PORTER和连卡佛网购，衣橱里70%是当季秀款。对限量和设计师联名款有雷达般的嗅觉。",
+      "TravelDaily_Outings": "使用豪华车专车服务通勤，随身携带爱马仕笔记本记录城市新开的买手店位置"
+    },
+    "Travel": {
+      "Business_Trips": "受品牌邀约参加巴黎时装周时会入住Le Meurice，将酒店下午茶写成行业观察报告",
+      "Leisure_Travel": "每年两次欧洲深度游，提前半年预定安缦酒店和米其林三星餐厅，在古堡晚宴中挖掘写作素材"
+    },
+    "Social": "Instagram和小红书头部时尚博主，会为某个高定秀场座位排序研究三小时。周三固定参加圈内人的威士忌雪茄沙龙，随身携带烫金名片盒收集潜在采访对象",
+    "Productivity": {
+      "Study_Work": "用Moleskine协作笔记本记录灵感，在Notion里用色块矩阵管理选题进度，采访名人前会研究其星座和MBTI",
+      "Fitness": "每周三在五星酒店空中瑜伽馆打卡，运动手环数据永远开启分享模式"
+    },
+    "Content_Interests": [
+      "追踪苏富比拍卖行动态",
+      "研究文艺复兴时期珠宝史",
+      "收集小众香氛品牌的创作故事"
+    ]
+  }
+}

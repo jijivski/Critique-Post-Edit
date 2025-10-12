@@ -1,0 +1,47 @@
+{
+  "Name": "Jason",
+  "Demographics": {
+    "Age": 30,
+    "Gender": "男",
+    "Nationality": "中国",
+    "Language": [
+      "中文",
+      "英文"
+    ],
+    "Career_Information": "米其林餐厅甜点主厨，专注于分子料理"
+  },
+  "Personality": {
+    "Extraversion_or_Introversion": "E",
+    "Sensing_or_Intuition": "S",
+    "Thinking_or_Feeling": "T",
+    "Judging_or_Perceiving": "J",
+    "Values_and_Interests": [
+      "热衷于烹饪和实验",
+      "相信科技能够改变烹饪艺术",
+      "支持传统和现代烹饪的结合",
+      "享受在厨房中创造新口味"
+    ]
+  },
+  "Preference": {
+    "Local_Life": {
+      "Food_Drinks": "工作日午餐在餐厅厨房用员工餐解决，常将失败实验品混搭成新菜品；深夜独自逛夜市小吃摊，研究市井食物的口感层次。",
+      "Entertainment": "每月固定参观当代艺术展，尤其关注装置艺术中的材料转化；周末去实验戏剧剧场观察非常规叙事结构。",
+      "Shopping": "痴迷收藏日本手工铜制裱花嘴，定期海淘北欧分子料理专用凝胶；对能精确到0.1克的古董天平有执念。",
+      "TravelDaily_Outings": "坚持骑共享单车通勤，声称颠簸路况能激发食材碰撞灵感；随身携带离心管收集偶遇的植物汁液。"
+    },
+    "Travel": {
+      "Business_Trips": "每年两次赴西班牙考察分子料理原料供应商，会伪装成游客潜入当地家庭厨房拍摄传统烹饪手法。",
+      "Leisure_Travel": "偏爱泰国清迈夜间动物园，观察灵长类动物进食时的表情变化；总在行李箱藏匿异国香料试图通关。"
+    },
+    "Social": "在高端美食沙龙扮演社交蝴蝶，实则用微型温度计偷测宾客手温研究甜品融化速率；Instagram只发料理断面显微摄影，配文是元素周期表符号。",
+    "Productivity": {
+      "Study_Work": "用3D打印机制作巧克力模具前会先进行有限元分析；实验室笔记像化学方程式般严谨，但错别字率高达37%。",
+      "Fitness": "发明了用擀面杖进行筋膜放松的独家技法；坚持认为揉面团是最好的腕部力量训练。"
+    },
+    "Content_Interests": [
+      "收集上世纪苏联太空食品开发纪录片",
+      "订阅《Materials Today》期刊寻找可食用材料",
+      "痴迷听ASMR敲击不同厨具的声音"
+    ]
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "Name": "Olena",
+  "Demographics": {
+    "Age": 30,
+    "Gender": "女",
+    "Nationality": "乌克兰",
+    "Language": [
+      "乌克兰语",
+      "英语",
+      "俄语"
+    ],
+    "Career_Information": "乌克兰公共卫生政策分析师，专注于卫生系统改革"
+  },
+  "Personality": {
+    "Extraversion_or_Introversion": "I",
+    "Sensing_or_Intuition": "S",
+    "Thinking_or_Feeling": "F",
+    "Judging_or_Perceiving": "J",
+    "Values_and_Interests": [
+      "关注公共卫生与健康公平",
+      "支持国家医疗系统的完善",
+      "热衷于环保与可持续发展",
+      "喜爱烹饪和传统乌克兰美食"
+    ]
+  },
+  "Preference": {
+    "Local_Life": {
+      "Food_Drinks": "坚持在家烹饪传统乌克兰菜肴，使用本地有机食材；周末会探访基辅的老城区餐厅以支持本土饮食文化，对工业化速食持批判态度。",
+      "Entertainment": "定期参加本土手工艺市集和环保主题纪录片放映会，偶尔在社区图书馆阅读苏联时期的公共卫生档案。",
+      "Shopping": "只购买带有公平贸易认证的商品，衣柜里70%是乌克兰设计师作品，坚持用帆布袋替代塑料包装。",
+      "TravelDaily_Outings": "每日骑自行车通勤，周日固定带帆布餐盒去第聂伯河岸野餐，沿途记录城市绿化带卫生状况。"
+    },
+    "Travel": {
+      "Business_Trips": "参加欧盟卫生峰会时会选择青年旅舍多人间，利用清晨考察当地社区诊所运营模式，行李箱常备消毒凝胶和纸质调研表格。",
+      "Leisure_Travel": "偏爱喀尔巴阡山脉生态小屋徒步，严格遵循无痕山林原则，旅行日记本贴满各地医疗废物处理设施的照片。"
+    },
+    "Social": "在Telegram公共卫生学者群组担任管理员，每月组织线下社区卫生志愿宣讲；Instagram只关注乌克兰刺绣传承人和北欧可持续发展博主。",
+    "Productivity": {
+      "Study_Work": "使用Trello管理卫生改革项目进度，Excel表格里存有1998年至今的医疗支出数据对比，书桌永远摆着贴满荧光标签的WHO白皮书。",
+      "Fitness": "坚持用Fitbit记录晨间瑜伽数据，周末参加反战主题城市定向越野，背包侧袋永远装着急救包和可降解垃圾袋。"
+    },
+    "Content_Interests": [
+      "收集各国基层医疗站运营案例",
+      "研究东欧传统食疗配方",
+      "追踪切尔诺贝利隔离区生态修复纪录片"
+    ]
+  }
+}

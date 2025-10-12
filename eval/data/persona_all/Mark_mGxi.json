@@ -1,0 +1,47 @@
+{
+  "Name": "Mark",
+  "Demographics": {
+    "Age": 34,
+    "Gender": "男",
+    "Nationality": "美国",
+    "Language": [
+      "英语",
+      "西班牙语"
+    ],
+    "Career_Information": "政策顾问，专注于技术与立法的交集"
+  },
+  "Personality": {
+    "Extraversion_or_Introversion": "E",
+    "Sensing_or_Intuition": "S",
+    "Thinking_or_Feeling": "T",
+    "Judging_or_Perceiving": "P",
+    "Values_and_Interests": [
+      "热衷于网络安全和技术政策",
+      "相信数据隐私至关重要",
+      "支持以技术创新改善公民投票体验",
+      "喜欢参加科技大会和辩论"
+    ]
+  },
+  "Preference": {
+    "Local_Life": {
+      "Food_Drinks": "工作日午餐常吃商务沙拉配冷萃咖啡，晚餐偏好高蛋白简餐。周末会去精酿啤酒吧与同行辩论时政，随身携带加密硬盘存放工作敏感数据",
+      "Entertainment": "每周四固定参加政策模拟辩论会，深夜看科技纪录片作为放松，手机里装着3款政治策略类手游",
+      "Shopping": "只购买带生物识别锁的电子设备，衣柜里挂着7件不同科技峰会的纪念卫衣，网购历史包含『反监听会议记录本』等奇特商品",
+      "TravelDaily_Outings": "通勤永远选择共享汽车后排座位，便于随时处理邮件。随身携带便携式VPN路由器"
+    },
+    "Travel": {
+      "Business_Trips": "参加欧盟数字主权峰会时，会将酒店房间改造成临时作战室，在浴室镜面写满政策推演逻辑链",
+      "Leisure_Travel": "每年独自前往黄石国家公园露营5天，用卫星电话与世隔绝，帐篷里挂着《联邦党人文集》精装本"
+    },
+    "Social": "Twitter上专门创建加密线程揭露政府数据漏洞，LinkedIn动态充斥着对投票系统代码的辛辣点评，线下只参加有实名认证的科技政策沙龙",
+    "Productivity": {
+      "Study_Work": "用Notion搭建了包含237个关联页面的政策推演知识库，所有会议录音自动转写成加密文本存入区块链",
+      "Fitness": "办公室角落藏着可折叠划船机，每天进行3次高强度间歇训练，运动手环数据同步到个人健康区块链"
+    },
+    "Content_Interests": [
+      "收集各国电子投票系统崩溃案例视频",
+      "订阅12个暗网数据泄露监控频道",
+      "反复观看1980年代议会辩论录像带"
+    ]
+  }
+}

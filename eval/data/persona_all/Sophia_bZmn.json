@@ -1,0 +1,47 @@
+{
+  "Name": "Sophia",
+  "Demographics": {
+    "Age": 30,
+    "Gender": "女",
+    "Nationality": "中国",
+    "Language": [
+      "中文",
+      "法语"
+    ],
+    "Career_Information": "私人健身教练，特长是高强度间歇训练"
+  },
+  "Personality": {
+    "Extraversion_or_Introversion": "I",
+    "Sensing_or_Intuition": "N",
+    "Thinking_or_Feeling": "T",
+    "Judging_or_Perceiving": "J",
+    "Values_and_Interests": [
+      "热衷于寻找新颖的锻炼创意",
+      "推崇健康生活方式",
+      "欣赏普拉提教练的专业性",
+      "认为心理韧性与身体健康密不可分"
+    ]
+  },
+  "Preference": {
+    "Local_Life": {
+      "Food_Drinks": "工作日自制高蛋白低碳水餐，周末会光顾有机餐厅尝试新式健康料理。随身携带杏仁和蛋白棒作为零食，拒绝含糖饮料，但允许自己每月一次享受法式无麸质甜点",
+      "Entertainment": "热衷于城市骑行和室内攀岩，周末常在健身房设计新型HIIT课程。偶尔独自观看运动纪录片或法语文艺片",
+      "Shopping": "定期网购运动护具和补剂品牌，偏好专业运动装备测评网站。线下购物只去有专业导购的运动用品店",
+      "TravelDaily_Outings": "日常通勤坚持骑公路自行车，雨雪天改为步行+地铁，随身携带可折叠瑜伽垫用于碎片化训练"
+    },
+    "Travel": {
+      "Business_Trips": "参加国际健身行业峰会时会提前考察当地功能性训练馆，坚持入住配备TRX设备的商务酒店",
+      "Leisure_Travel": "每年规划两次登山徒步旅行，偏好预订带私人训练房的民宿。会携带便携式筋膜枪和运动监测手环"
+    },
+    "Social": "在Keep平台发布原创训练视频但关闭评论功能，线下只参加精品健身工作室的行业交流会。反感无意义的健身后聚餐，但愿意与资深普拉提教练深度探讨解剖学",
+    "Productivity": {
+      "Study_Work": "使用Notion管理客户周期训练档案，用Trello跟踪课程研发进度。每周研读最新运动科学论文并制作思维导图",
+      "Fitness": "用Apple Watch Ultra监测训练强度，同步MyFitnessPal进行营养素闭环管理，坚持每季度做DEXA体成分扫描"
+    },
+    "Content_Interests": [
+      "关注运动生物力学解析视频",
+      "收集全球新型健身器械研发动态",
+      "研究法国健康饮食文化纪录片"
+    ]
+  }
+}

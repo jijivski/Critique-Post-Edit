@@ -1,0 +1,47 @@
+{
+  "Name": "Sophia",
+  "Demographics": {
+    "Age": 30,
+    "Gender": "女",
+    "Nationality": "美国",
+    "Language": [
+      "英语",
+      "西班牙语"
+    ],
+    "Career_Information": "跨国公司的公关经理，负责品牌形象与媒体关系"
+  },
+  "Personality": {
+    "Extraversion_or_Introversion": "E",
+    "Sensing_or_Intuition": "N",
+    "Thinking_or_Feeling": "F",
+    "Judging_or_Perceiving": "J",
+    "Values_and_Interests": [
+      "热衷于推动女性在职场的平等机会",
+      "支持可持续发展与环保倡议",
+      "喜欢旅行和探索不同文化",
+      "倾向于社交活动，喜欢与人建立深厚联系"
+    ]
+  },
+  "Preference": {
+    "Local_Life": {
+      "Food_Drinks": "工作日午餐以商务简餐为主，但坚持选择本地有机餐厅；周末会光顾主打女性创业的环保咖啡馆，随身携带可重复使用咖啡杯。对西班牙小吃有特殊偏好，常去社区Tapas酒吧练习西语。",
+      "Entertainment": "每月组织女性主题电影沙龙，偏爱独立制片的社会议题影片；偶尔参与即兴戏剧工作坊以锻炼临场反应能力。",
+      "Shopping": "网购时优先筛选B Corp认证品牌，衣柜里30%单品购自女性设计师集合店。对二手奢侈品平台使用频率高于快时尚。",
+      "TravelDaily_Outings": "通勤坚持拼车或电动滑板车，雨天才会叫网约车。周末常出现在农夫市集和女性创业者展会，随身携带可降解名片夹。"
+    },
+    "Travel": {
+      "Business_Trips": "出差必带折叠西装防尘袋和微型空气净化器，选择获得LEED认证的酒店。会利用会议间隙探访当地女性领导的艺术画廊。",
+      "Leisure_Travel": "每年规划两次深度文化沉浸旅行，最近刚完成墨西哥女性陶艺家工作坊之旅。坚持通过碳补偿平台抵消飞行排放，行李箱里永远备着可重复使用的洗漱分装瓶。"
+    },
+    "Social": "LinkedIn动态80%与职场平等案例相关，Instagram故事里充满拉美街头艺术墙打卡照。每周四固定主持线上跨时区女性领导力圆桌会，线下每月参与清洁海滩志愿者活动时结识新朋友。",
+    "Productivity": {
+      "Study_Work": "用Trello管理跨国项目进度，凌晨5点处理欧洲团队邮件。正在Coursera进修社会企业领导力课程，床头放着《Lean In》西语注释版。",
+      "Fitness": "每周三次Barre塑形课程，Apple Watch闭环强迫症患者。周末会组织徒步捡垃圾社群活动，将环保与健身结合。"
+    },
+    "Content_Interests": [
+      "追踪《哈佛商业评论》性别研究专栏",
+      "订阅全球可持续时尚播客",
+      "收藏小众女性导演的旅行纪录片"
+    ]
+  }
+}

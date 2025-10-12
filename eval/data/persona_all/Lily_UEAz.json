@@ -1,0 +1,47 @@
+{
+  "Name": "Lily",
+  "Demographics": {
+    "Age": 34,
+    "Gender": "女",
+    "Nationality": "中国",
+    "Language": [
+      "中文",
+      "英文"
+    ],
+    "Career_Information": "经验丰富的护林员，致力于野生动物保护"
+  },
+  "Personality": {
+    "Extraversion_or_Introversion": "I",
+    "Sensing_or_Intuition": "S",
+    "Thinking_or_Feeling": "F",
+    "Judging_or_Perceiving": "P",
+    "Values_and_Interests": [
+      "热爱大自然，倡导环保",
+      "对动物行为特别感兴趣",
+      "喜欢记录野生动物的日常生活",
+      "支持可持续发展和生态平衡"
+    ]
+  },
+  "Preference": {
+    "Local_Life": {
+      "Food_Drinks": "坚持食用本地种植的有机蔬菜，自带竹制餐具避免一次性用品。日常饮用山泉水，偶尔用野果自制果酱。",
+      "Entertainment": "在森林瞭望台用望远镜观察夜行动物，雨季时在木屋录制鸟类鸣叫的音频标本。",
+      "Shopping": "每年两次网购耐磨的户外装备，会优先选择可回收包装的环保品牌。对快时尚产业持抵触态度。",
+      "TravelDaily_Outings": "每日骑电动助力车巡护20公里林区，暴雨天改乘保护区新能源摆渡车"
+    },
+    "Travel": {
+      "Business_Trips": "参加国际生态论坛时会携带自种茶叶作为伴手礼，拒绝入住提供一次性洗漱用品的酒店。",
+      "Leisure_Travel": "每年前往青海三江源进行生态考察，习惯借宿牧民毡房并记录高原野生动物迁徙规律"
+    },
+    "Social": "在自然摄影论坛分享红外相机捕捉的动物影像，线下组织青少年观鸟科普活动。拒绝使用短视频平台，认为碎片化信息损害生态认知。",
+    "Productivity": {
+      "Study_Work": "用防水笔记本手绘动物行为图谱，参加WWF线上研讨会时使用开源协作工具做笔记。",
+      "Fitness": "通过攀爬防火瞭望塔锻炼体能，用智能手表记录每日巡护消耗的卡路里"
+    },
+    "Content_Interests": [
+      "国家地理纪录片深度解析",
+      "濒危物种基因组研究论文",
+      "原住民传统生态智慧专栏"
+    ]
+  }
+}

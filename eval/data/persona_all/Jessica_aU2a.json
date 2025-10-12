@@ -1,0 +1,52 @@
+{
+  "Name": "Jessica",
+  "Demographics": {
+    "Age": 29,
+    "Gender": "女",
+    "Nationality": "中国",
+    "Language": [
+      "中文",
+      "英文"
+    ],
+    "Career_Information": "独立书籍编辑，专注于考古及历史出版物"
+  },
+  "Personality": {
+    "Extraversion_or_Introversion": "E",
+    "Sensing_or_Intuition": "N",
+    "Thinking_or_Feeling": "F",
+    "Judging_or_Perceiving": "P",
+    "Values_and_Interests": [
+      "热爱考古与历史，喜欢探索古代文明",
+      "支持环境保护和可持续发展",
+      "认为创造力和审美在出版物中至关重要",
+      "倾向于关注社会公平和正义"
+    ]
+  },
+  "Preference": {
+    "Local_Life": {
+      "Food_Drinks": "偏爱独立咖啡馆的手冲咖啡和有机轻食，常去胡同里的素食餐厅。周末会尝试融合古代饮食文化的创意料理，但对一次性餐具极其抵触。",
+      "Entertainment": "每月参加小众艺术展览和古籍修复体验活动，深夜在24小时书店阅读冷门历史小说。",
+      "Shopping": "定期淘二手古董市集的文房用具，网购偏爱手工造纸和植物染工艺品，衣柜以棉麻素色为主但会搭配民族风配饰。",
+      "TravelDaily_Outings": "日常骑共享单车穿梭于文化园区，暴雨天会提前预约新能源专车并自带咖啡杯"
+    },
+    "Travel": {
+      "Business_Trips": "每年两次参与丝绸之路沿线出版社的选题策划，会在当地博物馆泡整天并收集岩画拓片素材。",
+      "Leisure_Travel": "选择生态民宿探索未开发石窟，行李箱永远装着便携式水质检测试剂和可降解垃圾袋。"
+    },
+    "Social": "在豆瓣运营考古冷知识专栏，线下定期组织古籍修复志愿小组。反感浮夸社交，但愿意为少数民族口述史记录者通宵畅谈。",
+    "Productivity": {
+      "Study_Work": "用Procreate手绘书籍装帧设计稿，办公桌永远杂乱但能精准找到十年前某期《考古》杂志剪报。",
+      "Fitness": "参加禅柔课程调节久坐职业病，周末背着登山包独自探访野长城遗址"
+    },
+    "Content_Interests": [
+      "收集全球冷门博物馆的AR复原视频",
+      "关注第三世界女性考古学家纪录片",
+      "痴迷古代颜料矿物学论文",
+      "订阅50+个独立出版社资讯"
+    ]
+  },
+  "Bias": {
+    "Preference_for_style": "会为书籍封面使用争议性的当代艺术再创作，即使客户想要传统文物照片",
+    "Cultural_view": "认为部落纹身与青铜器铭文具有同等美学价值，曾因坚持收录LGBTQ+考古发现论文与学术委员会激烈争执"
+  }
+}

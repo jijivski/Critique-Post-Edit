@@ -1,0 +1,48 @@
+{
+  "Name": "Oliver",
+  "Demographics": {
+    "Age": 38,
+    "Gender": "男",
+    "Nationality": "德国",
+    "Language": [
+      "德语",
+      "英语",
+      "法语"
+    ],
+    "Career_Information": "联邦政府政策顾问，专注于社会与环境政策"
+  },
+  "Personality": {
+    "Extraversion_or_Introversion": "I",
+    "Sensing_or_Intuition": "N",
+    "Thinking_or_Feeling": "T",
+    "Judging_or_Perceiving": "J",
+    "Values_and_Interests": [
+      "关心社会公正",
+      "支持可持续发展",
+      "重视个人隐私权",
+      "对数据分析与社会科学感兴趣"
+    ]
+  },
+  "Preference": {
+    "Local_Life": {
+      "Food_Drinks": "坚持购买有机食品和本地食材，工作日自带素食便当，周末在社区农贸市场采购。拒绝一次性包装外卖，只在家庭聚会时饮用精酿啤酒。",
+      "Entertainment": "每月去独立影院观看社会议题纪录片，周末在柏林郊外森林骑行或徒步。拒绝商业游乐园，认为其不符合生态伦理。",
+      "Shopping": "仅购买经环保认证的品牌商品，衣柜以耐用深色系正装为主，网购时优先选择碳中和物流选项。",
+      "TravelDaily_Outings": "坚持骑电动自行车通勤，雨天乘坐地铁时会用加密笔记本处理公务。"
+    },
+    "Travel": {
+      "Business_Trips": "参加欧盟环境政策会议时选择绿色建筑认证酒店，夜间考察当地社区太阳能项目实施情况。",
+      "Leisure_Travel": "每年前往北欧生态村进行田野调查，预订森林木屋时会核查木材来源合法性，旅行箱永远备有可降解采样袋。"
+    },
+    "Social": "定期组织小型政策沙龙讨论气候税改革，线上仅使用Signal与同行加密通讯。拒绝主流社交平台，但会在专业论坛匿名发布政策模拟数据。",
+    "Productivity": {
+      "Study_Work": "使用Notion构建政策影响因子数据库，每天早晨用R语言分析社会福利模型，纸质笔记本只记录加密后的关键决策链。",
+      "Fitness": "每周三次在政府健身房进行高强度间歇训练，智能手表持续监测碳排放量与运动消耗卡路里的换算比值。"
+    },
+    "Content_Interests": [
+      "追踪联合国气候报告数据可视化",
+      "收藏1970年代德国社会运动档案纪录片",
+      "研究区块链在碳足迹追踪中的应用"
+    ]
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "Name": "Lily",
+  "Demographics": {
+    "Age": 29,
+    "Gender": "女",
+    "Nationality": "中国",
+    "Language": [
+      "中文",
+      "壮语"
+    ],
+    "Career_Information": "广西某民族歌舞团演员，擅长传统舞蹈"
+  },
+  "Personality": {
+    "Extraversion_or_Introversion": "E",
+    "Sensing_or_Intuition": "S",
+    "Thinking_or_Feeling": "F",
+    "Judging_or_Perceiving": "P",
+    "Values_and_Interests": [
+      "热爱民族文化",
+      "倡导保护和传承传统艺术",
+      "支持地方文化的多样性",
+      "喜欢社交活动和组织文化交流"
+    ]
+  },
+  "Preference": {
+    "Local_Life": {
+      "Food_Drinks": "坚持每周三次在夜市吃螺蛳粉配酸嘢，但排练日会自带五色糯米饭便当。抗拒工业化的奶茶连锁店，却对街角壮族阿嬷熬的罗汉果茶毫无抵抗力",
+      "Entertainment": "每月至少看两场小众民族戏剧，但会边看商业电影边吐槽『铜鼓比这特效震撼多了』。偶尔在KTV点山歌改编的流行曲",
+      "Shopping": "网购清单里40%是手织壮锦材料包，常去菜市场跟摆摊老人买手工绣片。对快时尚嗤之以鼻却偷偷收藏改良旗袍店铺",
+      "TravelDaily_Outings": "骑电动车穿梭于剧团和民族村之间，周末会坐三小时城乡巴士去深山的歌圩采风"
+    },
+    "Travel": {
+      "Business_Trips": "每年带团去港澳台进行文化交流时，行李箱总塞满绣球工艺品作伴手礼",
+      "Leisure_Travel": "偏爱黔东南和西双版纳的少数民族村落，会住进吊脚楼跟着当地人跳竹竿舞，但坚决不住景区仿古民宿"
+    },
+    "Social": "抖音更新#今日壮饰穿搭 比自拍还勤快，在三月三歌节能组织起两百人的竹竿舞快闪。私下收藏着某侗族歌师的微信却从不点赞其朋友圈",
+    "Productivity": {
+      "Study_Work": "用泛黄笔记本记录师公舞步法，手机备忘录存着三百条山歌唱腔录音。定期参加非遗传承人研修班",
+      "Fitness": "把彩调剧基本功训练当健身，会用运动手环监测跳蚂拐舞时的心率峰值"
+    },
+    "Content_Interests": [
+      "追踪东南亚民族服饰变迁",
+      "研究古骆越壁画中的祭祀舞蹈元素"
+    ]
+  }
+}

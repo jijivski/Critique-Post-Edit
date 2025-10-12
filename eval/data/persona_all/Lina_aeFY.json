@@ -1,0 +1,47 @@
+{
+  "Name": "Lina",
+  "Demographics": {
+    "Age": 24,
+    "Gender": "女",
+    "Nationality": "中国",
+    "Language": [
+      "中文",
+      "英语"
+    ],
+    "Career_Information": "电影配乐师，专注于用音乐讲述故事"
+  },
+  "Personality": {
+    "Extraversion_or_Introversion": "E",
+    "Sensing_or_Intuition": "S",
+    "Thinking_or_Feeling": "F",
+    "Judging_or_Perceiving": "P",
+    "Values_and_Interests": [
+      "热爱音乐和电影艺术",
+      "相信音乐能够跨越语言的限制",
+      "喜欢收藏黑胶唱片，特别是60年代的摇滚乐",
+      "倾向于用音乐表达情感，而非过多言语"
+    ]
+  },
+  "Preference": {
+    "Local_Life": {
+      "Food_Drinks": "习惯在胡同里的独立咖啡馆创作剧本，沉迷冰美式与可颂的组合。深夜工作时会点日式居酒屋外卖，对鳗鱼饭和梅子酒有特殊执念。",
+      "Entertainment": "每周四固定去唱片店淘货，周末混迹Livehouse听地下乐队演出，对即兴爵士乐现场毫无抵抗力。",
+      "Shopping": "沉迷网购复古音箱零件和手工皮具，衣柜里塞满波西米亚风格围巾，但永远觉得缺一顶合适的宽檐帽。",
+      "TravelDaily_Outings": "坚持骑改装过的二八杠自行车通勤，车筐里永远放着降噪耳机和便携茶具"
+    },
+    "Travel": {
+      "Business_Trips": "参加国际电影节时会特意绕道探访当地唱片博物馆，行李箱里装着微型合成器随时记录灵感",
+      "Leisure_Travel": "每年雨季独自前往大理民宿闭关创作，认为苍山脚下的磁场能激发编曲灵感，回程必带三罐自制青梅酒"
+    },
+    "Social": "在SoundCloud匿名上传实验性电子音乐，却拒绝参加任何行业酒会。定期组织黑胶交换派对，但会故意把最爱的Pink Floyd唱片藏在衣柜深处",
+    "Productivity": {
+      "Study_Work": "用ProTools做音轨分镜表时会同步在泛黄笔记本画抽象波形图，坚信纸质媒介能捕捉微妙情绪",
+      "Fitness": "凌晨三点在工作室跳即兴现代舞释放压力，周末雷打不动去护城河暴走五公里收集环境音"
+    },
+    "Content_Interests": [
+      "沉迷研究冷战时期东欧地下音乐史",
+      "在豆瓣创建『电影原声带里的隐藏叙事』专题",
+      "偷偷关注ASMR音效制作教程"
+    ]
+  }
+}

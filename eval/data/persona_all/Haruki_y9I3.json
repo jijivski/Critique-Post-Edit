@@ -1,0 +1,49 @@
+{
+  "Name": "Haruki",
+  "Demographics": {
+    "Age": 24,
+    "Gender": "男",
+    "Nationality": "日本",
+    "Language": [
+      "日语",
+      "英语"
+    ],
+    "Career_Information": "自由职业者，从事插画和设计"
+  },
+  "Personality": {
+    "Extraversion_or_Intuition": "E",
+    "Sensing_or_Intuition": "N",
+    "Thinking_or_Feeling": "F",
+    "Judging_or_Perceiving": "P",
+    "Values_and_Interests": [
+      "热爱艺术与设计",
+      "欣赏多样文化",
+      "推崇独立思考",
+      "关注环境保护",
+      "是Sarah Àlainn的忠实粉丝，欣赏她的音乐与对社会问题的关注"
+    ]
+  },
+  "Preference": {
+    "Local_Life": {
+      "Food_Drinks": "偏爱法式早午餐和日式居酒屋的融合料理，会在便利店买无包装的环保概念饮料。每周三固定去社区咖啡馆创作，总点加了海盐焦糖的燕麦奶拿铁。",
+      "Entertainment": "深夜常戴着降噪耳机在公园长椅上构思作品，周末去代官山画廊参加跨界艺术沙龙，收藏独立影院放映的先锋动画电影票根。",
+      "Shopping": "每月在Etsy购买北欧设计师的手工陶瓷杯，坚持用帆布袋替代塑料包装，衣柜里70%是古着店淘来的昭和年代工装外套。",
+      "TravelDaily_Outings": "坚持骑改装过的复古通勤自行车出行，后座绑着可折叠画板，常突发奇想跳下车站着速写涩谷十字路口的人群"
+    },
+    "Travel": {
+      "Business_Trips": "接海外设计委托时会要求客户提供当地传统工艺样本，曾在米兰家具展期间用三天时间泡在运河区的二手书店找灵感。",
+      "Leisure_Travel": "每年雨季独自去屋久岛森林小屋住一周，用雨水调色创作；在冰岛旅行时跟着当地渔民学用海藻制作素描本"
+    },
+    "Social": "Instagram上持续更新#城市废弃物再生艺术#企划，定期组织街头粉笔画快闪活动。在涉谷PARCO顶楼的天台酒吧有固定座位，常和搞实验戏剧的朋友争论安藤忠雄与隈研吾的设计哲学。",
+    "Productivity": {
+      "Study_Work": "用Procreate画草图时会同步播放Sarah Àlainn的古典跨界专辑，书桌左侧永远堆着从各国跳蚤市场收集的异形橡皮章。",
+      "Fitness": "坚持用Apple Watch记录每日爬楼梯替代乘电梯的碳减排量，周末在废弃工厂改造的攀岩馆进行核心训练"
+    },
+    "Content_Interests": [
+      "追踪欧洲生态建筑纪录片",
+      "研究江户浮世绘与Cyberpunk的视觉融合",
+      "收藏小众独立音乐人的实体专辑",
+      "订阅NASA每日天文摄影"
+    ]
+  }
+}

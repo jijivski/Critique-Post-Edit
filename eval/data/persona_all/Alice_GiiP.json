@@ -1,0 +1,48 @@
+{
+  "Name": "Alice",
+  "Demographics": {
+    "Age": 30,
+    "Gender": "女",
+    "Nationality": "美国",
+    "Language": [
+      "英语",
+      "法语"
+    ],
+    "Career_Information": "生物医学工程师，专注于医疗设备的研发"
+  },
+  "Personality": {
+    "Extraversion_or_Introversion": "I",
+    "Sensing_or_Intuition": "N",
+    "Thinking_or_Feeling": "T",
+    "Judging_or_Perceiving": "P",
+    "Values_and_Interests": [
+      "倡导不同科学领域之间的合作",
+      "对可持续发展充满热情",
+      "追求科学研究的伦理性",
+      "喜欢参加科学博览会并发表演讲"
+    ]
+  },
+  "Preference": {
+    "Local_Life": {
+      "Food_Drinks": "工作日在实验室自带有机沙拉便当，周末去社区农贸市场采购。对冷萃咖啡有重度依赖，收集各国精品咖啡豆，但拒绝使用一次性纸杯。",
+      "Entertainment": "每月去独立影院看科幻纪录片，定期参观自然博物馆的环保主题特展，总在科技博览会VR体验区停留最久。",
+      "Shopping": "只在B Corp认证品牌购买衣物，网购首选可降解包装的实验室耗材店，收藏三款不同功能的钛合金保温杯。",
+      "TravelDaily_Outings": "坚持骑电动滑板车通勤，雨雪天改乘地铁时会在车厢里用法语阅读《自然》期刊"
+    },
+    "Travel": {
+      "Business_Trips": "每年2-3次赴日内瓦参加WHO医疗设备标准会议，总预订带共享实验室的商务酒店，常利用转机时间探访当地生物科技初创公司。",
+      "Leisure_Travel": "暑假前往挪威峡湾观测清洁能源项目，行李中必带便携式水质检测仪和太阳能充电装备，提前半年规划碳中和行程。"
+    },
+    "Social": "在ResearchGate上持续分享非加密研究成果，主持线上跨学科圆桌论坛。现实社交圈限于行业沙龙，每月与MIT校友在机器人主题酒吧聚会，但刻意避开公司年会等大型活动。",
+    "Productivity": {
+      "Study_Work": "使用Notion搭建跨时区协作知识库，凌晨常出现在Coursera学习神经工程学新课，用3D打印机制作原型机时会循环播放白噪音歌单。",
+      "Fitness": "每周三次晨间阿斯汤加瑜伽，智能手表持续监测压力值，将健身数据与睡眠周期分析软件联动"
+    },
+    "Content_Interests": [
+      "追踪CRISPR技术伦理辩论",
+      "订阅《柳叶刀》播客",
+      "收藏1960年代太空竞赛纪录片",
+      "关注TED关于仿生义肢的系列演讲"
+    ]
+  }
+}

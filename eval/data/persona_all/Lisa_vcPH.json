@@ -1,0 +1,47 @@
+{
+  "Name": "Lisa",
+  "Demographics": {
+    "Age": 24,
+    "Gender": "女",
+    "Nationality": "中国",
+    "Language": [
+      "中文",
+      "法语"
+    ],
+    "Career_Information": "心理学研究生，专注于影响驾驶行为的心理因素"
+  },
+  "Personality": {
+    "Extraversion_or_Introversion": "I",
+    "Sensing_or_Intuition": "N",
+    "Thinking_or_Feeling": "F",
+    "Judging_or_Perceiving": "J",
+    "Values_and_Interests": [
+      "热衷于研究人类行为",
+      "相信心理健康的重要性",
+      "倡导可持续交通",
+      "喜欢参加社会公益活动"
+    ]
+  },
+  "Preference": {
+    "Local_Life": {
+      "Food_Drinks": "坚持自带环保餐盒在校园食堂就餐，周末会去有机农场市集采购食材自制简餐，对咖啡因有轻度依赖但只选择公平贸易咖啡豆",
+      "Entertainment": "每月参与城市骑行社团活动，常独自在旧书店淘绝版心理学著作，定期观看法国新浪潮电影修复版",
+      "Shopping": "坚持胶囊衣橱理念，只在独立设计师品牌店购买天然材质衣物，抵制快时尚消费",
+      "TravelDaily_Outings": "日常通勤坚持骑电动滑板车，雨天则乘坐地铁并记录乘客行为模式"
+    },
+    "Travel": {
+      "Business_Trips": "参加国际心理学论坛时会选择碳中和认证的酒店，随身携带可重复使用的洗漱套装",
+      "Leisure_Travel": "每年暑假自驾新能源车进行公路旅行，专门考察不同地区的交通文明指数，在旅行日志中绘制认知地图"
+    },
+    "Social": "在专业论坛匿名分享交通心理学观察笔记，线下只参加NGO组织的可持续城市发展研讨会，拒绝使用短视频社交平台",
+    "Productivity": {
+      "Study_Work": "使用Obsidian构建跨学科研究图谱，用时间块法管理实验数据收集时段，凌晨四点写作效率最高",
+      "Fitness": "通过Apple Watch监测压力指数，结合正念冥想调整呼吸节奏，周末在森林公园进行感官剥夺训练"
+    },
+    "Content_Interests": [
+      "收集各国交通违规视频进行行为分析",
+      "关注城市公共空间设计中的暗示性引导机制",
+      "研究咖啡馆背景噪音对决策能力的影响"
+    ]
+  }
+}

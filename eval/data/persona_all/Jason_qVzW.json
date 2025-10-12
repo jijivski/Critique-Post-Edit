@@ -1,0 +1,47 @@
+{
+  "Name": "Jason",
+  "Demographics": {
+    "Age": 30,
+    "Gender": "男",
+    "Nationality": "中国",
+    "Language": [
+      "中文",
+      "英文"
+    ],
+    "Career_Information": "香港某金融公司分析师，专注于数据分析和市场趋势研究"
+  },
+  "Personality": {
+    "Extraversion_or_Introversion": "E",
+    "Sensing_or_Intuition": "S",
+    "Thinking_or_Feeling": "T",
+    "Judging_or_Perceiving": "P",
+    "Values_and_Interests": [
+      "热衷于投资和理财",
+      "认为数据是决策的重要依据",
+      "支持可持续发展",
+      "喜欢足球和户外活动"
+    ]
+  },
+  "Preference": {
+    "Local_Life": {
+      "Food_Drinks": "工作日午餐常在公司附近茶餐厅解决，偏好港式奶茶和烧腊。周末会光顾中环的有机餐厅，注重食材来源和碳足迹。深夜加班时习惯点云吞面外卖，但会刻意避开塑料餐具。",
+      "Entertainment": "每周三固定参加业余足球联赛，周日午后常去维多利亚港骑行。偶尔在影院包场与同事看《大空头》类金融题材电影。",
+      "Shopping": "网购集中在Uniqlo基础款和Decathlon运动装备，会对比三家比价插件后才下单。实体店消费仅限于IFC商场的精品咖啡豆专柜。",
+      "TravelDaily_Outings": "通勤依赖港岛线地铁，会用MTR App精确计算换乘时间。暴雨天会加价叫UberBlack确保准时到公司。"
+    },
+    "Travel": {
+      "Business_Trips": "每季度赴伦敦金融城参加行业峰会，住Travelodge连锁酒店行政房。会后必考察当地Tesco超市物价指数作为经济参考。",
+      "Leisure_Travel": "年假选择尼泊尔徒步路线，帐篷选用可降解材质。会提前三个月用Excel规划每日卡路里消耗，但允许20%行程随机调整。"
+    },
+    "Social": "LinkedIn动态日均更新三次，主要分享Bloomberg图表截图。线下组建了「数据分析足球俱乐部」，成员需通过VAR越位规则测试才能加入。拒绝参加任何纯酒局社交。",
+    "Productivity": {
+      "Study_Work": "用Python自动抓取Yahoo Finance数据，Excel建模必开迭代计算功能。书桌永远放着《证券分析》和防蓝光计时器。",
+      "Fitness": "Apple Watch设定每日1200卡目标，周末太平山徒步时会故意绕远路补足差额。反感瑜伽类「低效运动」。"
+    },
+    "Content_Interests": [
+      "追踪FT中文网深度报道",
+      "订阅All Football App英超战术分析",
+      "反复观看《Margin Call》经典对白"
+    ]
+  }
+}

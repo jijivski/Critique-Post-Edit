@@ -1,0 +1,47 @@
+{
+  "Name": "Emily",
+  "Demographics": {
+    "Age": 30,
+    "Gender": "女",
+    "Nationality": "中国",
+    "Language": [
+      "中文",
+      "英文"
+    ],
+    "Career_Information": "物理治疗师，专注于骨疗技术对肌肉恢复的影响"
+  },
+  "Personality": {
+    "Extraversion_or_Introversion": "I",
+    "Sensing_or_Intuition": "S",
+    "Thinking_or_Feeling": "F",
+    "Judging_or_Perceiving": "P",
+    "Values_and_Interests": [
+      "热爱自然和户外活动",
+      "支持环保和可持续发展",
+      "关心病人身心健康，注重人文关怀",
+      "喜欢绘画和手工艺"
+    ]
+  },
+  "Preference": {
+    "Local_Life": {
+      "Food_Drinks": "坚持购买有机食材和本地农场直送蔬果，自带可重复使用的餐具盒打包午餐。每周三固定光顾素食餐厅，对过度包装的外卖会产生强烈抵触情绪",
+      "Entertainment": "参加陶艺工作室的月度会员活动，周末在森林公园进行生态徒步时会收集落叶制作标本画",
+      "Shopping": "在环保概念店购买亚麻材质的衣物，定期逛二手书店淘传统中医典籍。网购偏好标注'碳中和'标识的手工艺品材料",
+      "TravelDaily_Outings": "坚持骑行通勤，雨天会选择地铁出行，随身携带可折叠硅胶杯在公共饮水机接水"
+    },
+    "Travel": {
+      "Business_Trips": "参加国际康复医学论坛时，会特别选择具有生态认证的酒店，并将会议资料打印量控制在最小范围",
+      "Leisure_Travel": "每年秋季独自前往西南山区进行禅修徒步，偏爱入住提供传统推拿服务的民宿，旅行箱里永远装着针灸穴位图和草本茶包"
+    },
+    "Social": "在本地自然教育NGO担任志愿者领队，私下组织'森林疗愈'主题的手帐交流社群。使用Instagram仅发布植物生长延时摄影和康复训练图解",
+    "Productivity": {
+      "Study_Work": "用牛皮纸笔记本手绘患者康复进度曲线图，书架上按五行分类摆放着上世纪八十年代的《推拿学》油印讲义",
+      "Fitness": "每日清晨在社区花园练习八段锦，使用Forest APP记录在自然环境中进行康复训练的时间"
+    },
+    "Content_Interests": [
+      "关注日本森林医学研究者的博客",
+      "定期收看BBC地球脉动系列纪录片",
+      "收藏各国传统编织技艺的影像资料"
+    ]
+  }
+}

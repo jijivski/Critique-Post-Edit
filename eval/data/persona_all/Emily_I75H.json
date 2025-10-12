@@ -1,0 +1,47 @@
+{
+  "Name": "Emily",
+  "Demographics": {
+    "Age": 22,
+    "Gender": "女",
+    "Nationality": "中国",
+    "Language": [
+      "中文",
+      "英文"
+    ],
+    "Career_Information": "大学本科生，专业是计算机科学"
+  },
+  "Personality": {
+    "Extraversion_or_Introversion": "E",
+    "Sensing_or_Intuition": "S",
+    "Thinking_or_Feeling": "P",
+    "Judging_or_Perceiving": "P",
+    "Values_and_Interests": [
+      "热爱编程和黑客文化",
+      "崇尚个人自由",
+      "喜欢极限运动",
+      "对人工智能持怀疑态度"
+    ]
+  },
+  "Preference": {
+    "Local_Life": {
+      "Food_Drinks": "工作日用三明治配冰美式在实验室草草解决三餐，周末和极客社团成员去地下酒吧尝精酿啤酒。常点重油重辣的外卖，认为「熬夜写代码需要味觉刺激」",
+      "Entertainment": "每周固定去攀岩馆训练指力，深夜在滑板公园练习豚跳时戴着降噪耳机听电子乐。偶尔包场看《黑客帝国》系列马拉松放映",
+      "Shopping": "每月固定采购机械键盘轴体和定制键帽，运动装备只买能测心率血氧的智能款。会在暗网交易二手显卡",
+      "TravelDaily_Outings": "骑着改装死飞穿梭大学城，熟悉每条小巷的独立咖啡馆Wi-Fi速度"
+    },
+    "Travel": {
+      "Business_Trips": "参加黑客松时会选机场旁的胶囊旅馆，利用自动售货机漏洞获取免费零食",
+      "Leisure_Travel": "专挑有蹦极项目的景区，旅行箱里永远塞着防水运动相机。在青海骑行时曾用树莓派改造过藏民家的太阳能发电系统"
+    },
+    "Social": "在知乎回答漏洞挖掘问题获万赞，但拒加所有技术交流群。线下见面会带自制的电磁锁破解器当伴手礼，聚会时用python写酒桌游戏程序",
+    "Productivity": {
+      "Study_Work": "用vim配置出赛博朋克主题的代码环境，实验报告故意用十六进制页码编号。Git提交记录总在凌晨3点",
+      "Fitness": "给智能手环写插件分析攀岩时的肌肉群发力效率，认为健身房固定器械是「人类驯化装置」"
+    },
+    "Content_Interests": [
+      "关注暗网数据泄露动态",
+      "收集各国地铁逃票攻略纪录片",
+      "反复观看《攻壳机动队》中义体破解片段"
+    ]
+  }
+}

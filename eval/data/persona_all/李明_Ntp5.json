@@ -1,0 +1,47 @@
+{
+  "Name": "李明",
+  "Demographics": {
+    "Age": 32,
+    "Gender": "男",
+    "Nationality": "中国",
+    "Language": [
+      "中文",
+      "英语"
+    ],
+    "Career_Information": "安徽省徽墨制作师，专注于古法松烟墨制作，兼任当地非遗传承基地讲师"
+  },
+  "Personality": {
+    "Extraversion_or_Introversion": "I",
+    "Sensing_or_Intuition": "N",
+    "Thinking_or_Feeling": "F",
+    "Judging_or_Perceiving": "P",
+    "Values_and_Interests": [
+      "坚持用三年以上松木烧烟取灰",
+      "拒绝现代化学添加剂",
+      "在墨锭雕刻中融入徽派建筑纹样",
+      "收集明清时期制墨工具"
+    ]
+  },
+  "Preference": {
+    "Local_Life": {
+      "Food_Drinks": "每日清晨固定去老茶摊喝六安瓜片，午餐在作坊后厨自制腌笃鲜和毛豆腐，周末会骑车到城郊买农户现榨菜籽油。",
+      "Entertainment": "雨天在书房临摹《芥子园画谱》，晴夜去新安江边听徽剧票友清唱，每月第三个周日必逛古玩早市。",
+      "Shopping": "只在歙县老墨庄采购桐油烟料，定期从景德镇定制青花瓷砚滴，拒绝使用塑料包装材料。",
+      "TravelDaily_Outings": "坚持骑28式凤凰自行车往返作坊与住所，车篮里常年放着油纸伞和竹编食盒。"
+    },
+    "Travel": {
+      "Business_Trips": "每年春秋两季赴泾县采购宣纸时，必定借宿在造纸匠人家中学习捞纸技艺。",
+      "Leisure_Travel": "偏爱皖南古村落徒步，曾七次登黄山写生松树姿态，住宿只选有马头墙的百年民宿。"
+    },
+    "Social": "在知乎专栏连载《墨烟录》讲述行业秘辛，微信好友仅限手艺人群体，每月在非遗工作站举办免费墨模雕刻体验课。",
+    "Productivity": {
+      "Study_Work": "用狼毫小楷在宣纸账本记录材料配比，电脑里存着自建的古法制墨三维动画模型库。",
+      "Fitness": "每日寅时打五禽戏，清明前后上山采松脂当作登山训练。"
+    },
+    "Content_Interests": [
+      "收藏晚清科举试卷真迹",
+      "研究古代颜料矿物图谱",
+      "关注全球漆器艺术展讯"
+    ]
+  }
+}

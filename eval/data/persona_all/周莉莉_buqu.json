@@ -1,0 +1,48 @@
+{
+  "Name": "周莉莉",
+  "Demographics": {
+    "Age": 29,
+    "Gender": "女",
+    "Nationality": "中国",
+    "Language": [
+      "中文",
+      "英文",
+      "法文"
+    ],
+    "Career_Information": "高端化妆品区域经理，拥有管理学硕士学位"
+  },
+  "Personality": {
+    "Extraversion_or_Introversion": "E",
+    "Sensing_or_Intuition": "S",
+    "Thinking_or_Feeling": "F",
+    "Judging_or_Perceiving": "J",
+    "Values_and_Interests": [
+      "热爱美容与时尚",
+      "关注环保与可持续发展",
+      "喜欢尝试新产品和化妆技术",
+      "倡导女性empowerment"
+    ]
+  },
+  "Preference": {
+    "Local_Life": {
+      "Food_Drinks": "工作日午餐常光顾有机轻食餐厅，晚餐偏好预约制私厨法餐，随身携带可重复使用的珐琅杯外带咖啡。周末会探访主打零废弃理念的咖啡馆，但对网红奶茶店嗤之以鼻。",
+      "Entertainment": "每月参加美妆品牌VIP沙龙，定期在美术馆当代艺术展拍照打卡。深夜独自在家时会用投影仪看《穿Prada的女王》这类时尚电影，已重刷12遍。",
+      "Shopping": "在连卡佛app购买限量版彩妆，衣柜里70%为可持续时尚品牌。对快时尚有道德洁癖，但会偷偷收藏小众设计师的环保皮草作品。",
+      "TravelDaily_Outings": "通勤选择专车服务以便后座补妆，周末骑共享电单车逛老城区的独立买手店，车篮里永远放着防雾霾口罩"
+    },
+    "Travel": {
+      "Business_Trips": "每季度赴巴黎总部述职必住玛黑区的设计型酒店，在香榭丽舍丝芙兰做竞品调研时会伪装成游客测试BA服务水平。",
+      "Leisure_Travel": "年假固定去北欧体验环保SPA酒店，行李箱里永远备着分装瓶避免托运浪费，却在哥本哈根机场免税店失控买过整套娇兰铃兰限定"
+    },
+    "Social": "在小红书分享「女高管晨间护肤流程」获10w+收藏，线下组织过美妆蛋回收改造工作坊。在行业峰会上热衷给95后BA小姑娘递名片说「随时找我内推」，其实从没收到过她们的简历。",
+    "Productivity": {
+      "Study_Work": "用Notion管理200+个BA专柜的KPI数据，凌晨三点给团队发「关于柜台灯光色温影响转化率」的10页PDF报告。法语版《Vogue》永远翻到招聘板块才舍得扔。",
+      "Fitness": "跟着帕梅拉练直角肩时必须涂哑光粉底，健身环大冒险的强度取决于当日粉底持妆度测试结果"
+    },
+    "Content_Interests": [
+      "追踪Clean Beauty技术白皮书",
+      "收藏1980年代秀场后台纪录片",
+      "在领英给女CEO的环保倡议点赞但从不留言"
+    ]
+  }
+}

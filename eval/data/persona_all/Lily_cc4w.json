@@ -1,0 +1,48 @@
+{
+  "Name": "Lily",
+  "Demographics": {
+    "Age": 32,
+    "Gender": "女",
+    "Nationality": "中国",
+    "Language": [
+      "中文",
+      "英文"
+    ],
+    "Career_Information": "儿童心理治疗师，专注于发展性障碍"
+  },
+  "Personality": {
+    "Extraversion_or_Introversion": "I",
+    "Sensing_or_Intuition": "N",
+    "Thinking_or_Feeling": "F",
+    "Judging_or_Perceiving": "J",
+    "Values_and_Interests": [
+      "坚信每个孩子都有潜力",
+      "倡导心理健康教育",
+      "偏爱个性化的治疗方案",
+      "喜爱阅读与艺术创作"
+    ]
+  },
+  "Preference": {
+    "Local_Life": {
+      "Food_Drinks": "工作日午餐常选择轻食沙拉外卖，周末会去独立咖啡馆写作。对有机食材有执念，冰箱里永远囤着鲜榨果汁。",
+      "Entertainment": "每月至少一次独自观看小众纪录片或艺术电影，偶尔在美术馆开放夜参与沉浸式展览。",
+      "Shopping": "习惯在二手平台淘绝版心理学书籍，购买画材时对环保品牌有强烈偏好。",
+      "TravelDaily_Outings": "通勤坚持骑共享单车，周末常带速写本去老城区观察儿童游戏场景"
+    },
+    "Travel": {
+      "Business_Trips": "参加儿童心理峰会时会特意考察当地特殊教育机构，行李箱里总装着自制的行为观察量表模板。",
+      "Leisure_Travel": "偏爱云南/贵州等少数民族聚居地，通过民间童谣研究文化差异对儿童认知的影响，住宿必选有开放式儿童活动区的民宿。"
+    },
+    "Social": "在心理学垂直论坛匿名分享干预案例，线下定期组织家长互助会。对社交软件已读不回是常态，但会认真回复每个求助邮件。",
+    "Productivity": {
+      "Study_Work": "用Notion建立200+个案追踪数据库，随身携带牛皮笔记本记录儿童的非语言行为细节。",
+      "Fitness": "早晨用Headspace冥想启动工作日，周末在社区健身房边踩椭圆机边听儿童发展播客"
+    },
+    "Content_Interests": [
+      "收集各国特殊教育政策分析",
+      "关注自闭症艺术家个展资讯",
+      "沉迷解构迪士尼动画的心理学隐喻",
+      "定期清理短视频APP但保留手工DIY教程"
+    ]
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "Name": "Lily",
+  "Demographics": {
+    "Age": 30,
+    "Gender": "女",
+    "Nationality": "中国",
+    "Language": [
+      "中文",
+      "法语"
+    ],
+    "Career_Information": "在一家初创公司担任软件工程师，专注于数学相关的编码项目"
+  },
+  "Personality": {
+    "Extraversion_or_Introversion": "I",
+    "Sensing_or_Intuition": "S",
+    "Thinking_or_Feeling": "F",
+    "Judging_or_Perceiving": "P",
+    "Values_and_Interests": [
+      "热爱解决复杂的数学问题",
+      "崇尚个人自由",
+      "对教育公平抱有强烈的信念",
+      "喜欢通过代码分享知识，尤其是编程教育"
+    ]
+  },
+  "Preference": {
+    "Local_Life": {
+      "Food_Drinks": "工作日习惯在公司楼下便利店买简餐，周末会尝试小众法式甜品店（受法语学习经历影响）。深夜编码时必喝无糖乌龙茶，冰箱里永远囤着气泡水。",
+      "Entertainment": "每月独自去独立影院看科技纪录片，偶尔参加24小时编程马拉松作为另类社交。",
+      "Shopping": "固定在某家北欧极简风格网店购买基础款衣物，电子产品只买可拆卸维修的模块化设计品牌。",
+      "TravelDaily_Outings": "坚持骑共享单车通勤，周末会去城市图书馆的穹顶自习区发呆"
+    },
+    "Travel": {
+      "Business_Trips": "出差必带可折叠机械键盘，会在技术会议间隙溜去当地创客空间交流。",
+      "Leisure_Travel": "年假喜欢独自前往法国小镇参观数学家故居，行李箱里总塞着《算法导论》纸质版"
+    },
+    "Social": "在GitHub维护开源数学教学项目，线下定期为城中村儿童举办图形化编程工作坊。拒绝所有相亲活动，但会主动参加女性科技者联盟的线上圆桌会议。",
+    "Productivity": {
+      "Study_Work": "用自建LaTeX模板记录所有工作日志，电脑桌面按分形几何规律排列文件。坚决不用自动补全插件，认为手敲代码能保持数学直觉。",
+      "Fitness": "每天早晨对着Khan Academy的数学课程视频做颈椎操，运动手环只记录脑力消耗值"
+    },
+    "Content_Interests": [
+      "收集各国基础教育数字化改革案例",
+      "痴迷研究巴黎地铁售票机的算法逻辑",
+      "在B站关注女性程序员穿搭测评"
+    ]
+  }
+}

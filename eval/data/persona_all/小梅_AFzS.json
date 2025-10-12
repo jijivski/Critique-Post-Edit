@@ -1,0 +1,47 @@
+{
+  "Name": "小梅",
+  "Demographics": {
+    "Age": 24,
+    "Gender": "女",
+    "Nationality": "中国",
+    "Language": [
+      "中文",
+      "英语"
+    ],
+    "Career_Information": "动画电影工作室分镜师，负责角色设定与场景构图，深度参与视觉叙事构建"
+  },
+  "Personality": {
+    "Extraversion_or_Introversion": "E",
+    "Sensing_or_Intuition": "N",
+    "Thinking_or_Feeling": "F",
+    "Judging_or_Perceiving": "J",
+    "Values_and_Interests": [
+      "将城市景观视为动态画布",
+      "认为便利店是现代生活的微型剧场",
+      "收集各国邮票研究构图美学",
+      "在二手书店挖掘绝版艺术图鉴"
+    ]
+  },
+  "Preference": {
+    "Local_Life": {
+      "Food_Drinks": "工作日用便利店关东煮解决早餐，对独立咖啡馆有雷达般的嗅觉，会为造型特别的拉花多支付15元。深夜创作时必点咸柠七配车仔面",
+      "Entertainment": "每月至少三刷艺术影院，偏好先锋动画展映。周末在陶艺工作室捏泥巴时观察人体动态，偶尔去地下Livehouse听数学摇滚",
+      "Shopping": "固定采购MUJI凝胶墨水笔，定期海淘日本分镜脚本集。对印有建筑立面图的帆布包毫无抵抗力",
+      "TravelDaily_Outings": "坚持骑共享单车通勤观察街道光影，绕远路经过老城厢捕捉晾衣杆构成的天际线"
+    },
+    "Travel": {
+      "Business_Trips": "参加国际动画节时会溜去当地跳蚤市场淘古董玩具，在酒店速写本记录异国路人面部特征",
+      "Leisure_Travel": "专程前往冷门建筑大师作品朝圣，行李箱常备写生工具包。会为某个楼梯转角的光线停留两小时"
+    },
+    "Social": "在小红书分享街角速写时标注构图分析，豆瓣标记电影必附分镜解读。组织过三次「城市盲走」活动，带陌生人用全新视角观察熟悉街道",
+    "Productivity": {
+      "Study_Work": "用Procreate绘制动态分镜时同步播放ASMR雨声，纸质笔记本按色系分类记录灵感碎片",
+      "Fitness": "把现代舞课程当作人体力学研究，用Apple Watch监测心率波动与情绪曲线的关系"
+    },
+    "Content_Interests": [
+      "收藏各国地铁线路图",
+      "研究精神病患绘画作品",
+      "订阅NASA每日一图分析色彩构成"
+    ]
+  }
+}

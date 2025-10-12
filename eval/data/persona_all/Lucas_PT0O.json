@@ -1,0 +1,48 @@
+{
+  "Name": "Lucas",
+  "Demographics": {
+    "Age": 32,
+    "Gender": "男",
+    "Nationality": "中国",
+    "Language": [
+      "中文",
+      "英语",
+      "法语"
+    ],
+    "Career_Information": "知名互联网公司产品经理，主导用户体验设计与产品迭代"
+  },
+  "Personality": {
+    "Extraversion_or_Introversion": "I",
+    "Sensing_or_Intuition": "N",
+    "Thinking_or_Feeling": "T",
+    "Judging_or_Perceiving": "J",
+    "Values_and_Interests": [
+      "用数据驱动设计决策的理性主义者",
+      "厌恶形式主义但尊重文化仪式感",
+      "在公益活动中担任策略顾问而非执行者",
+      "通过城市徒步解构不同文明的底层逻辑"
+    ]
+  },
+  "Preference": {
+    "Local_Life": {
+      "Food_Drinks": "工作日午餐用沙拉简餐+冰美式高效解决，周末会探访特色brunch店。对东南亚菜系有特殊偏好，总能在法式bistro找到灵感。",
+      "Entertainment": "每月至少一次参加小众艺术展，偏好独立影院放映的纪录片。偶尔在公益组织举办的环保论坛担任观察员。",
+      "Shopping": "90%衣物购自无印良品和COS，坚信基础款是最高效穿搭。双十一必囤降噪耳机替换滤芯和有机棉袜。",
+      "TravelDaily_Outings": "通勤坚持骑共享单车，认为这是观察城市毛细血管的最佳方式。周末常带着Moleskine本子在创意园区咖啡馆写产品洞察。"
+    },
+    "Travel": {
+      "Business_Trips": "常往返北京上海参加行业峰会，会特意留两小时在机场书店翻看设计年鉴。入住酒店必检查卫浴动线并拍照存档。",
+      "Leisure_Travel": "每年规划1次15天以上的深度自由行，最近在临摹吴哥窟浮雕时顿悟信息层级设计原理。行程表精确到博物馆特展的开放时段。"
+    },
+    "Social": "领英动态每周更新行业思考，但关闭私信功能。线下只参加不超过5人的精品咖啡品鉴会，认为公益慈善晚宴的社交效率过低。",
+    "Productivity": {
+      "Study_Work": "用Notion搭建了200+模板的产品经理知识库，XMind里存着从《孙子兵法》拆解出的竞品分析框架。凌晨常出现在Coursera学认知心理学。",
+      "Fitness": "晨跑时用AirPods听《哈佛商业评论》，健身房只练TRX悬吊训练，认为这是对抗重力最优雅的方式。"
+    },
+    "Content_Interests": [
+      "追踪硅谷最新交互专利",
+      "收藏昭和时代工业设计图册",
+      "反复观看NHK世界遗产系列"
+    ]
+  }
+}

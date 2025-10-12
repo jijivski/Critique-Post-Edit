@@ -1,0 +1,47 @@
+{
+  "Name": "李大勇",
+  "Demographics": {
+    "Age": 34,
+    "Gender": "男",
+    "Nationality": "中国",
+    "Language": [
+      "中文",
+      "方言（北京话）"
+    ],
+    "Career_Information": "北京什刹海胡同三轮车夫，熟知明清建筑掌故与名人故居秘闻"
+  },
+  "Personality": {
+    "Extraversion_or_Introversion": "E",
+    "Sensing_or_Intuition": "S",
+    "Thinking_or_Feeling": "F",
+    "Judging_or_Perceiving": "P",
+    "Values_and_Interests": [
+      "能用三轮车铃铛敲出京剧节拍",
+      "认为胡同砖瓦比摩天大楼更有温度",
+      "坚持用现金结账以延续老派仪式感",
+      "对拆除胡同墙面的改造工程深恶痛绝"
+    ]
+  },
+  "Preference": {
+    "Local_Life": {
+      "Food_Drinks": "每天清晨在护国寺小吃店喝豆汁配焦圈，车座底下永远备着茉莉花茶玻璃瓶。收工后会去胡同口张大爷的卤煮摊喝二锅头。",
+      "Entertainment": "在树荫下围观大爷们斗蛐蛐，周末去湖广会馆听评书连播。坚决抵制电影院3D眼镜的塑料味。",
+      "Shopping": "每月在早市采购老布鞋与汗衫，拼多多账号里收藏着仿古怀表与铜制烟袋锅。",
+      "TravelDaily_Outings": "每天骑行轨迹覆盖南锣鼓巷至钟鼓楼片区，暴雨天改乘地铁4号线时会在站台迷路"
+    },
+    "Travel": {
+      "Business_Trips": "",
+      "Leisure_Travel": "每年清明骑三轮带全家去潭柘寺踏青，后备箱装着仿古食盒装驴打滚"
+    },
+    "Social": "能用十种方言版本讲解银锭桥历史，微信置顶群聊是『三轮车夫协会』。朋友圈只发胡同拆迁对比图，配有『人心不古』的毛笔字表情包。",
+    "Productivity": {
+      "Study_Work": "用泛黄笔记本手绘胡同地图并标注典故，车筐里《北京胡同志》书页间夹着银杏叶书签",
+      "Fitness": "每日骑行30公里当作锻炼，手机计步器常年保持朋友圈榜首但拒绝使用Keep"
+    },
+    "Content_Interests": [
+      "收藏老城门明信片",
+      "关注古建筑修复纪录片",
+      "抖音关注列表全是京剧票友直播"
+    ]
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "Name": "李婷婷",
+  "Demographics": {
+    "Age": 29,
+    "Gender": "女",
+    "Nationality": "中国",
+    "Language": [
+      "中文",
+      "英文"
+    ],
+    "Career_Information": "某知名广告公司创意总监，专注于品牌营销与文案撰写"
+  },
+  "Personality": {
+    "Extraversion_or_Introversion": "I",
+    "Sensing_or_Intuition": "N",
+    "Thinking_or_Feeling": "T",
+    "Judging_or_Perceiving": "J",
+    "Values_and_Interests": [
+      "热衷于品牌故事创作",
+      "支持可持续发展与环保",
+      "喜欢探索新兴社交媒体趋势",
+      "倾向于实事求是，重视数据分析"
+    ]
+  },
+  "Preference": {
+    "Local_Life": {
+      "Food_Drinks": "工作日午餐固定在公司附近的有机轻食餐厅，随身携带可重复使用的餐具。周末会探访主打'零废弃包装'的咖啡馆，但深夜赶提案时偶尔用环保包装的外卖解馋。",
+      "Entertainment": "每月至少去一次独立艺术影院，偏好纪录片和品牌传记类影片；在家用VR设备测试新兴社交媒体的沉浸式广告效果。",
+      "Shopping": "只购买获得B Corp认证的服装品牌，网购时强制勾选'无塑料填充物'选项，衣柜里挂着三套不同剪裁的黑色西装用于商务场合。",
+      "TravelDaily_Outings": "通勤坚持骑共享电单车，雨雪天改乘地铁时会在车厢里用AR眼镜预览客户场地实景。"
+    },
+    "Travel": {
+      "Business_Trips": "选择获得LEED认证的设计型酒店，常在会议间隙收集大堂宣传册研究版式设计，行李箱里永远备着可折叠的环保材料样品盒。",
+      "Leisure_Travel": "每年两次前往日本或北欧考察可持续社区，提前三个月用数据模型对比不同生态旅馆的碳足迹，旅行vlog刻意使用竖屏格式测试传播效果。"
+    },
+    "Social": "在小红书运营着名为'绿色像素'的专栏，用信息图表解构品牌案例；线下定期参加广告圈小众沙龙，但总是带着降噪耳机在角落观察人群互动模式。",
+    "Productivity": {
+      "Study_Work": "用Tableau将消费者洞察数据可视化后导入Miro白板进行头脑风暴，提案文档必须用等线字体搭配Pantone年度色排版。",
+      "Fitness": "办公室藏着可折叠的瑜伽垫，每天午休时对着落地窗做15分钟核心训练，Apple Watch的健身圆环闭合率维持在87%。"
+    },
+    "Content_Interests": [
+      "拆解DTC品牌增长案例",
+      "追踪TikTok算法更新日志",
+      "收集各国环保认证标准手册"
+    ]
+  }
+}

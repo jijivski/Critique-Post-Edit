@@ -1,0 +1,53 @@
+{
+  "Name": "Lucas",
+  "Demographics": {
+    "Age": 24,
+    "Gender": "男",
+    "Nationality": "巴西",
+    "Language": [
+      "葡萄牙语",
+      "英语"
+    ],
+    "Career_Information": "巴西职业足球联赛中场球员，正在为国家队效力"
+  },
+  "Personality": {
+    "Extraversion_or_Introversion": "E",
+    "Sensing_or_Intuition": "S",
+    "Thinking_or_Feeling": "F",
+    "Judging_or_Perceiving": "J",
+    "Values_and_Interests": [
+      "热爱足球，尤其是进攻战术",
+      "相信团队合作的重要性",
+      "推崇个体在团队中的作用",
+      "对提升个人技术有强烈的渴望",
+      "支持运动员权益和公平竞争"
+    ]
+  },
+  "Preference": {
+    "Local_Life": {
+      "Food_Drinks": "训练日严格遵循高蛋白饮食，赛后常与队友在巴西烤肉店庆祝。对Acai Bowl有瘾，每周至少三次光顾里约海滩边的健康轻食店。",
+      "Entertainment": "休息日组织队友玩FIFA游戏对战，深夜常去贫民窟街区的桑巴派对。每月固定去IMAX影院看战争题材电影放松神经。",
+      "Shopping": "网购集中在Nike和Adidas的定制足球装备，私下热衷收藏限量版球鞋。常去圣保罗的24小时运动超市采购恢复用冷冻治疗设备。",
+      "TravelDaily_Outings": "比赛日乘坐俱乐部专属巴士，非训练时段频繁使用Uber Black往返于科帕卡巴纳海滩的公寓和训练基地"
+    },
+    "Travel": {
+      "Business_Trips": "客场比赛必选洲际酒店行政楼层，赛后与队友组队探索当地夜店。随身携带便携式筋膜枪和运动绷带套装。",
+      "Leisure_Travel": "休赛期固定前往巴哈马私人岛屿特训，偏好包下整艘游艇进行海上体能恢复。每年圣诞在瑞士滑雪时会故意炫耀足球技巧"
+    },
+    "Social": "Instagram故事高频更新训练日常，专门开设TikTok频道拆解进攻战术。线下定期组织贫民窟青少年足球训练营，与队友成立反种族歧视运动员联盟。周末常在自家屋顶酒吧举办DJ派对。",
+    "Productivity": {
+      "Study_Work": "用Notion管理每日双倍训练计划，凌晨用Hudl软件反复观看对手录像。随身携带战术磁吸板推演阵型变化。",
+      "Fitness": "除球队合练外，凌晨5点自主加练核心力量，深夜进行海滩折返跑。用Apple Watch Ultra监测最大摄氧量变化"
+    },
+    "Content_Interests": [
+      "订阅所有欧洲五大联赛战术分析频道",
+      "狂热收集马拉多纳纪录片",
+      "关注运动员劳工权益相关播客"
+    ]
+  },
+  "Bias": {
+    "Preference_for_Teammates": "拒绝与服用兴奋剂的球员同场，哪怕对方是明星球员",
+    "Views_on_Social_Issues": "主张俱乐部应将20%营收投入贫民窟基建，为此多次与球队管理层爆发冲突",
+    "Learning_Style": "认为防守意识只能通过街头足球培养，抵制使用VR模拟防守训练系统"
+  }
+}

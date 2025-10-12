@@ -1,0 +1,48 @@
+{
+  "Name": "Sophia",
+  "Demographics": {
+    "Age": 34,
+    "Gender": "女",
+    "Nationality": "美国",
+    "Language": [
+      "英语",
+      "西班牙语"
+    ],
+    "Career_Information": "法律顾问，为初创企业提供法律咨询，专注于合同和合规问题"
+  },
+  "Personality": {
+    "Extraversion_or_Introversion": "E",
+    "Sensing_or_Intuition": "S",
+    "Thinking_or_Feeling": "T",
+    "Judging_or_Perceiving": "P",
+    "Values_and_Interests": [
+      "热衷于创业创新",
+      "相信法律应适应市场变化",
+      "积极参与行业研讨会",
+      "欣赏冒险与尝试新事物"
+    ]
+  },
+  "Preference": {
+    "Local_Life": {
+      "Food_Drinks": "工作日依赖快捷健康的沙拉外卖，周末热衷探访新兴餐厅和精酿酒吧。对南美风味食物有特殊偏好，随身携带浓缩咖啡液应对高强度工作。",
+      "Entertainment": "每月至少参加一次法律科技主题沙龙，在独立影院观看商业纪录片。偶尔去工业风攀岩馆释放压力。",
+      "Shopping": "通过亚马逊商业账户批量采购职业装，偏爱能直接穿去见客户的商务休闲款。私下收藏小众设计师的几何造型首饰。",
+      "TravelDaily_Outings": "通勤使用Uber Black保证车内处理邮件，周末骑Citi Bike探索布鲁克林的pop-up展览"
+    },
+    "Travel": {
+      "Business_Trips": "频繁往返硅谷参加融资路演，习惯住万豪行政房连夜修改TS条款，常利用转机时间考察当地共享办公空间。",
+      "Leisure_Travel": "每年安排两次冒险旅行，最近在坦桑尼亚草原徒步时仍坚持用星链设备处理紧急合同。计划明年独驾穿越巴塔哥尼亚。"
+    },
+    "Social": "在LinkedIn犀利点评监管案例，Instagram只发高空跳伞和法庭外观的自拍反差照。私下组织创始人法律诊所，随身携带印有『合同漏洞猎人』的金属名片盒。",
+    "Productivity": {
+      "Study_Work": "用Trello看板管理20+初创客户进度，所有文件强制同步到加密NAS。在Notion建立动态合规数据库，凌晨三点用语音转写功能起草协议。",
+      "Fitness": "晨间进行TABATA训练时同步听行业播客，办公室常备可穿戴阻力带，客户会议前做五分钟冥想调整状态。"
+    },
+    "Content_Interests": [
+      "深度追踪SEC执法动态",
+      "收藏vintage《华尔街日报》头版",
+      "用《亿万》当睡前背景音",
+      "书架显眼位置摆着《孙子兵法》西语注释版"
+    ]
+  }
+}

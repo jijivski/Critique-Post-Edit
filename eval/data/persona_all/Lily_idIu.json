@@ -1,0 +1,48 @@
+{
+  "Name": "Lily",
+  "Demographics": {
+    "Age": 24,
+    "Gender": "女",
+    "Nationality": "中国",
+    "Language": [
+      "中文",
+      "英文"
+    ],
+    "Career_Information": "某私募基金分析师，专注于绿色投资"
+  },
+  "Personality": {
+    "Extraversion_or_Introversion": "I",
+    "Sensing_or_Intuition": "S",
+    "Thinking_or_Feeling": "F",
+    "Judging_or_Perceiving": "J",
+    "Values_and_Interests": [
+      "热衷于可持续发展和环保",
+      "崇尚家庭和传统价值观",
+      "喜欢阅读心理学和人际关系相关书籍",
+      "周末必去攀岩馆释放压力"
+    ]
+  },
+  "Preference": {
+    "Local_Life": {
+      "Food_Drinks": "工作日自带玻璃饭盒购买有机轻食，周末在攀岩馆附近的素食餐厅聚餐。拒绝外卖塑料餐具，但会在便利店购买无糖乌龙茶时反复使用同个保温杯",
+      "Entertainment": "每月独自观看小众环保主题纪录片展映，偶尔参加手作工作坊用回收材料制作家居装饰品",
+      "Shopping": "在二手平台购置设计师品牌基础款，定期光顾无包装商店补充洗护用品。对可持续面料服装有执念，能接受比快时尚高30%的溢价",
+      "TravelDaily_Outings": "坚持骑共享单车通勤，雨天转乘地铁时会用旧杂志折成临时收纳盒存放口罩"
+    },
+    "Travel": {
+      "Business_Trips": "参加绿色经济峰会时选择LEED认证酒店，随身携带竹制折叠餐具包，会收集会议宣传册作为记账本二次利用",
+      "Leisure_Travel": "每年安排两次生态旅行，最近刚去过云南哈尼梯田考察农林复合系统，坚持住当地村民改造的夯土民宿"
+    },
+    "Social": "在环保NGO担任志愿者领队时极具号召力，但线上仅限于转发气候报告并配上三个[加油]表情包。每周四固定和攀岩小组吃火锅，负责给所有人烫青菜",
+    "Productivity": {
+      "Study_Work": "用Notion搭建ESG投资标的追踪模板，在Trello看板用不同颜色的便签区分项目碳足迹等级。书桌常备印着《京都议定书》摘要的鼠标垫",
+      "Fitness": "Apple Watch记录攀岩心率波动曲线，每周三晚上跟练YouTube上的疗愈瑜伽，专门购买可降解材质的防滑袜"
+    },
+    "Content_Interests": [
+      "追踪欧盟碳边境调节机制进展",
+      "收藏上世纪70年代生态运动海报电子版",
+      "反复阅读《存在主义心理治疗》中关于责任与自由的章节",
+      "在b站关注国家地理纪录片切片账号"
+    ]
+  }
+}

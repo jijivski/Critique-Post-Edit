@@ -1,0 +1,49 @@
+{
+  "Name": "小雨",
+  "Demographics": {
+    "Age": 30,
+    "Gender": "男",
+    "Nationality": "中国",
+    "Language": [
+      "中文",
+      "粤语",
+      "英语"
+    ],
+    "Career_Information": "沙画表演艺术家，作品在全国及国际展览中展出"
+  },
+  "Personality": {
+    "Extraversion_or_Introversion": "I",
+    "Sensing_or_Intuition": "N",
+    "Thinking_or_Feeling": "F",
+    "Judging_or_Perceiving": "P",
+    "Values_and_Interests": [
+      "热爱自然和禅宗文化",
+      "崇尚简约生活",
+      "对视觉艺术有深刻的理解",
+      "支持环境保护和可持续发展"
+    ]
+  },
+  "Preference": {
+    "Local_Life": {
+      "Food_Drinks": "坚持素食主义，偏爱有机食材制作的简餐，常在社区农贸市场购买当季蔬果。周末会去胡同里的禅意茶室品手工抹茶，随身携带可重复使用的竹制餐具。",
+      "Entertainment": "定期参观当代艺术展，深夜在工作室用投影仪看独立电影，每月参加一次寺庙禅修活动。",
+      "Shopping": "只在无包装商店购买生活用品，衣柜里70%是二手棉麻衣物，网购仅限于环保品牌的手工沙画材料。",
+      "TravelDaily_Outings": "日常骑共享单车通勤，雨天乘地铁时用素描本记录车厢里的光影变化。"
+    },
+    "Travel": {
+      "Business_Trips": "国际艺术展期间入住LEED认证酒店，总在行李箱里备着便携式沙画台，利用布展间隙探访当地废墟艺术区。",
+      "Leisure_Travel": "每年独自前往终南山或莫干山民宿闭关创作，行程随天气变化临时调整，偏爱在千年古树下进行即兴沙画表演。"
+    },
+    "Social": "在Behance定期上传创作过程视频，拒绝所有短视频平台。线下只参加小众艺术沙龙，与环保组织成员保持邮件联系，微信朋友圈三年未更新。",
+    "Productivity": {
+      "Study_Work": "用iPad Pro+Procreate做沙画分镜设计，工作室墙面贴满便签纸记录转瞬即逝的灵感，痴迷收集不同地域的天然彩沙样本。",
+      "Fitness": "每日黎明在屋顶打太极，用Apple Watch监测静息心率，认为沙画创作时的肢体流动本身就是冥想训练。"
+    },
+    "Content_Interests": [
+      "追踪全球大地艺术节资讯",
+      "研究敦煌壁画色彩体系",
+      "订阅《National Geographic》自然摄影专题",
+      "收藏昭和时期实验动画影碟"
+    ]
+  }
+}

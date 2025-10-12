@@ -1,0 +1,48 @@
+{
+    "Name": "陈晨曦",
+    "Demographics": {
+        "Age": 19,
+        "Gender": "女",
+        "Nationality": "中国",
+        "Language": [
+            "中文",
+            "英文"
+        ],
+        "Career_Information": "广东某艺术学院大一学生，主修音乐表演"
+    },
+    "Personality": {
+        "Extraversion_or_Introversion": "E",
+        "Sensing_or_Intuition": "N",
+        "Thinking_or_Feeling": "F",
+        "Judging_or_Perceiving": "P",
+        "Values_and_Interests": [
+            "热爱自由，不喜欢被约束",
+            "对新鲜事物充满好奇心",
+            "重视人际关系，朋友很多",
+            "热衷参加各类音乐节和现场演出",
+            "喜欢摄影和旅行，尤其是自然风光"
+        ]
+    },
+    "Preference": {
+        "Local_Life": {
+            "Food_Drinks": "日常饮食以学校食堂和校外小吃摊为主，但每周会打卡一家网红甜品店或奶茶店。尤其偏爱广式糖水和创意咖啡，用手机记录食物构图是她的固定仪式感。",
+            "Entertainment_Shopping": "热衷于逛文创市集淘手工饰品，定期光顾琴行试玩新乐器。周末常和闺蜜去私人影院看文艺片，逛街时偏爱快时尚品牌的高性价比联名款。",
+            "Daily_Outings": "骑共享单车穿梭于校园与艺术街区，经常突发奇想跳上地铁探索城市角落，随身携带胶片相机记录街景"
+        },
+        "Travel": {
+            "Business_Trips": "暂无固定商务差旅，但会主动报名音乐节志愿者以获得免费入场资格",
+            "Leisure_Travel": "寒暑假必规划10天以上的深度自由行，痴迷川西高原和江南古镇。住宿首选有live演出的青年旅舍，行李箱里永远装着便携三脚架和民族风披肩"
+        },
+        "Social": "微信置顶15个群聊却从不免打扰，在小红书分享音乐节穿搭攻略收获千赞。线下是宿舍夜谈会主持人，擅长用尤克里里即兴伴奏帮朋友庆生",
+        "Productivity": {
+            "Study_Work": "用GarageBand记录灵感片段，网易云歌单按『雨天创作专用』『爵士即兴训练』分类。学习时必须在星巴克角落位单曲循环《海上钢琴师》原声带",
+            "Fitness": "用Keep跟练女团舞当作有氧运动，周末参加城市徒步团边暴走边拍vlog素材"
+        },
+        "Content_Interests": [
+            "独立音乐人纪录片",
+            "Lofi hiphop混剪视频",
+            "胶片调色教程",
+            "冷门旅行地探秘"
+        ]
+    }
+}

@@ -1,0 +1,47 @@
+{
+  "Name": "Leo",
+  "Demographics": {
+    "Age": 30,
+    "Gender": "男",
+    "Nationality": "中国",
+    "Language": [
+      "中文",
+      "俄语"
+    ],
+    "Career_Information": "吉林某滑雪场的滑雪教练，专注于自由式滑雪"
+  },
+  "Personality": {
+    "Extraversion_or_Introversion": "I",
+    "Sensing_or_Intuition": "N",
+    "Thinking_or_Feeling": "F",
+    "Judging_or_Perceiving": "P",
+    "Values_and_Interests": [
+      "热爱自然与户外活动",
+      "相信个人自由与自我表达",
+      "倡导可持续发展的生活方式",
+      "对滑雪和极限运动充满激情"
+    ]
+  },
+  "Preference": {
+    "Local_Life": {
+      "Food_Drinks": "偏好高热量但健康的炖菜和烤肉，滑雪场食堂常客，冬季随身携带自制的姜茶。抵触过度包装的外卖，周末会去镇上的东北菜馆改善伙食。",
+      "Entertainment": "在零下20度的夜晚窝在宿舍看滑雪纪录片，偶尔和教练同事玩俄罗斯方块对决。抗拒KTV等嘈杂场所，但愿意教小孩堆创意雪雕。",
+      "Shopping": "网购集中在迪卡侬折扣季囤滑雪袜，闲鱼交易二手雪具成瘾。对功能性户外服装有执念，衣柜里7件不同厚度的抓绒衣。",
+      "TravelDaily_Outings": "雪季每天骑雪地摩托通勤，非雪季徒步2公里去镇上邮局取快递。周三固定去林场巡查非法盗伐痕迹。"
+    },
+    "Travel": {
+      "Business_Trips": "每年冬季赴崇礼参加滑雪教学研讨会，总带着可重复使用的钛杯拒绝瓶装水。",
+      "Leisure_Travel": "痴迷于探索阿尔泰山脉的隐秘粉雪区，开改装过的二手越野车露营，睡袋里永远塞着《登山圣经》。"
+    },
+    "Social": "在B站上传第一视角滑雪教学视频但关闭弹幕，现实中对学员的抖音挑战嗤之以鼻。微信好友80%是雪友群，置顶聊天是俄罗斯籍跳台维修师安德烈。",
+    "Productivity": {
+      "Study_Work": "用GoPro反复慢放自己的空中转体录像，在防水笔记本手绘地形分析图。定期参加芬兰滑雪学院的在线理论课。",
+      "Fitness": "凌晨5点裸上身雪地冥想，用Garmin手表监测血氧饱和度。深蹲时必须听后摇滚保持节奏。"
+    },
+    "Content_Interests": [
+      "追更X-Games极限赛事集锦",
+      "关注冰川消融卫星监测数据",
+      "循环播放Sigur Rós的极地巡演纪录片"
+    ]
+  }
+}

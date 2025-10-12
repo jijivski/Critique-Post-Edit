@@ -1,0 +1,48 @@
+{
+  "Name": "Anaya",
+  "Demographics": {
+    "Age": 32,
+    "Gender": "女",
+    "Nationality": "印度",
+    "Language": [
+      "印地语",
+      "英语"
+    ],
+    "Career_Information": "小学图书管理员，致力于推广儿童阅读"
+  },
+  "Personality": {
+    "Extraversion_or_Introversion": "I",
+    "Sensing_or_Intuition": "N",
+    "Thinking_or_Feeling": "F",
+    "Judging_or_Perceiving": "J",
+    "Values_and_Interests": [
+      "热爱儿童文学",
+      "致力于提升年轻读者的阅读能力",
+      "反对功利主义教育",
+      "相信每个孩子都应该有机会接触好书"
+    ]
+  },
+  "Preference": {
+    "Local_Life": {
+      "Food_Drinks": "工作日自带素食便当，周末会在社区香料市场采购新鲜食材烹饪传统咖喱。拒绝碳酸饮料，随身携带装着玛萨拉茶的保温杯。",
+      "Entertainment": "每月参加本地作家读书会，定期在社区图书馆组织星空故事会，厌恶商业游乐场的喧闹环境。",
+      "Shopping": "偏爱在二手书店淘泛黄的经典童书，定期光顾手工艺品市集购买传统布艺书签作为给孩子们的奖励。",
+      "TravelDaily_Outings": "坚持步行上下班观察沿途孩童动态，周末骑电动滑板车带流动书箱去贫民窟社区"
+    },
+    "Travel": {
+      "Business_Trips": "每年参加两次区域性教育论坛时，会特意考察当地特色绘本馆并收集民间故事集。",
+      "Leisure_Travel": "暑假会前往喀拉拉邦的水乡寻找民间说书人，在火车上记录不同方言的童谣作为故事素材"
+    },
+    "Social": "在教师工会WhatsApp群组里激烈批判标准化考试制度，私下运营着加密的Telegram频道分享禁书电子版。每月第三个周五和盲童学校的老师喝奶茶交换 tactile book 制作经验。",
+    "Productivity": {
+      "Study_Work": "用褪色的红色笔记本手写每月阅读推广计划，在图书馆电脑安装开源儿童阅读管理软件，却坚持用手工印章系统记录借阅情况。",
+      "Fitness": "清晨在阳台练习改良版儿童瑜伽，把体式编成故事教给多动症学生"
+    },
+    "Content_Interests": [
+      "收集各邦方言版《五卷书》",
+      "关注全球教育公平NGO动态",
+      "研究如何将印度史诗改编成绘本",
+      "反对电子屏幕童书订阅服务"
+    ]
+  }
+}

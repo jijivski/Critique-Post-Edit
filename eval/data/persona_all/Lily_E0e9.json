@@ -1,0 +1,47 @@
+{
+  "Name": "Lily",
+  "Demographics": {
+    "Age": 30,
+    "Gender": "女",
+    "Nationality": "中国",
+    "Language": [
+      "中文",
+      "法语"
+    ],
+    "Career_Information": "非营利组织环保项目经理，负责跨国气候行动项目落地"
+  },
+  "Personality": {
+    "Extraversion_or_Introversion": "E",
+    "Sensing_or_Intuition": "N",
+    "Thinking_or_Feeling": "F",
+    "Judging_or_Perceiving": "J",
+    "Values_and_Interests": [
+      "坚持零废弃生活方式",
+      "定期参与城市森林保育",
+      "抵制快时尚产业",
+      "推广社区堆肥计划"
+    ]
+  },
+  "Preference": {
+    "Local_Life": {
+      "Food_Drinks": "严格遵循植物基饮食，每周三次在有机农场直营餐厅用餐，随身携带可重复使用餐具拒绝一次性包装。特殊场合会去主打零厨余的创意素食餐厅。",
+      "Entertainment": "每月组织城市徒步活动探索生态廊道，周末常参加再生材料手作工坊，偶尔观看环保主题浸没式戏剧。",
+      "Shopping": "坚持二手优先原则，90%衣物来自古着店置换。日用品集中在无包装商店采购，网购仅选择获得B Corp认证的品牌。",
+      "TravelDaily_Outings": "通勤全程使用共享单车+地铁，雨雪天会拼新能源车。每月两次骑行前往郊外湿地观鸟。"
+    },
+    "Travel": {
+      "Business_Trips": "参加国际气候峰会时坚持入住LEED认证酒店，利用会议间隙考察当地社区花园项目。",
+      "Leisure_Travel": "每年去三江源参与生态监测志愿活动，休假偏爱WWF认证的生态营地，刻意避开过度开发的网红景点。"
+    },
+    "Social": "运营着万人关注的可持续生活小红书账号，定期发布碳足迹计算教程。线下主导「剩食派对」等创意环保沙龙，在法语学习社群里推广生态语言学。",
+    "Productivity": {
+      "Study_Work": "用Miro进行碳中和方案可视化推演，依赖Notion搭建动态更新的环保案例库，所有汇报材料采用FSC认证再生纸打印。",
+      "Fitness": "清晨在社区生态公园练习户外瑜伽，周末参加无痕山林徒步，运动手环记录与树冠层保育相关的步数挑战。"
+    },
+    "Content_Interests": [
+      "追踪全球生态修复工程进展",
+      "研究古法发酵技术",
+      "收藏各国可持续建筑案例"
+    ]
+  }
+}

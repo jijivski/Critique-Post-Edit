@@ -1,0 +1,47 @@
+{
+  "Name": "李伟",
+  "Demographics": {
+    "Age": 34,
+    "Gender": "男",
+    "Nationality": "中国",
+    "Language": [
+      "中文",
+      "方言"
+    ],
+    "Career_Information": "宁夏某滩羊养殖户，家庭传承的滩羊养殖经验"
+  },
+  "Personality": {
+    "Extraversion_or_Introversion": "I",
+    "Sensing_or_Intuition": "S",
+    "Thinking_or_Feeling": "F",
+    "Judging_or_Perceiving": "P",
+    "Values_and_Interests": [
+      "热爱自然与动物",
+      "崇尚传统农业",
+      "坚持低碳环保的养殖方式",
+      "认为城市生活过于喧嚣，向往田园生活"
+    ]
+  },
+  "Preference": {
+    "Local_Life": {
+      "Food_Drinks": "日常饮食以自产羊肉和菜园蔬菜为主，每周赶集采购面粉杂粮。会用祖传秘方熬制羊骨汤，拒绝使用一次性餐具。",
+      "Entertainment": "在河岸钓鱼时构思养殖计划，傍晚与邻居在草垛旁喝枸杞酒聊牧业行情，偶尔用收音机听秦腔解闷。",
+      "Shopping": "每年两次驱车到县城购买农具零件和帆布工装，网购仅限于畜牧兽药和有机肥料采购。",
+      "TravelDaily_Outings": "日常骑改装三轮摩托巡视草场，去镇邮政局寄羊肉快递时会顺路买农机配件"
+    },
+    "Travel": {
+      "Business_Trips": "每年前往银川参加西北畜牧业博览会，住快捷酒店只为学习新型饲料配比技术。",
+      "Leisure_Travel": "暑期带家人自驾探访内蒙古牧区亲戚，睡蒙古包研究不同地域牧草差异，坚持用帆布包自带餐具减少污染"
+    },
+    "Social": "在乡镇畜牧合作社担任技术顾问，每周三在村委会用投影仪分享养殖经验。手机里装着「牧业通」APP与同行交流疫病防治，但朋友圈只发羊群成长照片。",
+    "Productivity": {
+      "Study_Work": "用褪色的蓝皮笔记本记录配种周期和草料消耗量，在天气APP里标记牧区微气候变化规律。",
+      "Fitness": "每天徒步10公里巡查草场边界视为锻炼，扛饲料袋时用呼吸节奏训练核心力量"
+    },
+    "Content_Interests": [
+      "收藏八十年代《中国畜牧兽医学报》",
+      "关注草原生态修复纪录片",
+      "研究古法羊毛毡制作技艺"
+    ]
+  }
+}

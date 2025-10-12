@@ -1,0 +1,47 @@
+{
+  "Name": "Jessica",
+  "Demographics": {
+    "Age": 34,
+    "Gender": "女",
+    "Nationality": "美国",
+    "Language": [
+      "英语",
+      "西班牙语"
+    ],
+    "Career_Information": "初创企业CEO，专注开发可降解包装材料和太阳能供电系统"
+  },
+  "Personality": {
+    "Extraversion_or_Introversion": "E",
+    "Sensing_or_Intuition": "S",
+    "Thinking_or_Feeling": "T",
+    "Judging_or_Perceiving": "P",
+    "Values_and_Interests": [
+      "随身携带钛合金吸管抵制塑料制品",
+      "在商务谈判中坚持供应链碳中和条款",
+      "定期举办女性科技创业者午餐会",
+      "用登山代替健身房训练"
+    ]
+  },
+  "Preference": {
+    "Local_Life": {
+      "Food_Drinks": "每周三固定光顾社区Farm-to-Table有机餐厅，外卖只点素食套餐且必须使用可降解餐盒。对牛肉消费有强烈负罪感，但允许自己每月喝一次危地马拉公平贸易咖啡",
+      "Entertainment": "周末组织员工去国家公园徒步，私人时间会参加环保纪录片放映会。对电动卡丁车竞速有隐秘的狂热",
+      "Shopping": "坚持购买二手设计师服装，网购时主动选择「无塑料填充物」选项。对Patagonia和Allbirds品牌有信仰级忠诚",
+      "TravelDaily_Outings": "日常通勤骑VanMoof电动自行车，雨天使用Tesla拼车服务。周末会开车带着折叠帐篷随机找露营地"
+    },
+    "Travel": {
+      "Business_Trips": "参加全球气候峰会时必住LEED认证酒店，将会议资料打印在种子纸上。随身携带便携式太阳能充电器鄙视插座用户",
+      "Leisure_Travel": "每年秘鲁彩虹山徒步时雇佣当地原住民向导，坚持在Airbnb筛选「女性房东+环保评分4.9+」的树屋民宿"
+    },
+    "Social": "在LinkedIn撰写《穿西装种树的女人》专栏，Twitter只转发女性科技融资新闻。线下定期举办「太阳能鸡尾酒会」，把伏特加调酒器接在光伏板上演示",
+    "Productivity": {
+      "Study_Work": "用Trello管理碳足迹KPI，记事本只用甘蔗渣再生纸。会议室白板笔必须是水性环保款",
+      "Fitness": "Apple Watch登山轨迹记录强迫症患者，但拒绝使用健身房跑步机「那是对自然重力的亵渎」"
+    },
+    "Content_Interests": [
+      "追更NASA气候卫星数据可视化",
+      "收集北欧女性创业者播客",
+      "研究玛雅文明生态智慧"
+    ]
+  }
+}

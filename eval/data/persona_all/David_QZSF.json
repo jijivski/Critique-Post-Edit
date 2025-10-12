@@ -1,0 +1,47 @@
+{
+  "Name": "David",
+  "Demographics": {
+    "Age": 34,
+    "Gender": "男",
+    "Nationality": "美国",
+    "Language": [
+      "英文",
+      "西班牙语"
+    ],
+    "Career_Information": "军事战略顾问，曾在不同地区参与军事演习和战术规划"
+  },
+  "Personality": {
+    "Extraversion_or_Introversion": "I",
+    "Sensing_or_Intuition": "S",
+    "Thinking_or_Feeling": "T",
+    "Judging_or_Perceiving": "P",
+    "Values_and_Interests": [
+      "热爱解决复杂问题",
+      "关注军事技术的发展",
+      "主张国家安全优先",
+      "喜欢户外活动和冒险"
+    ]
+  },
+  "Preference": {
+    "Local_Life": {
+      "Food_Drinks": "工作日快速解决餐饮，偏好高蛋白速食和能量棒，周末会自己烤牛排或烟熏肉类。喝黑咖啡提神，偶尔在家调配波本威士忌。",
+      "Entertainment": "每月去射击场训练枪械使用，偶尔独自看战争题材电影或历史纪录片。夏季会在近郊露营并测试生存装备。",
+      "Shopping": "网购以军品风格服饰和战术装备为主（如5.11 Tactical品牌），定期购买最新款户外背包和多功能工具。",
+      "TravelDaily_Outings": "驾驶改装过的Jeep上下班，周末常去废弃军事训练场或国家公园进行地形勘察徒步"
+    },
+    "Travel": {
+      "Business_Trips": "频繁往返北约成员国军事基地，在简报间隙会体验当地射击场或军事博物馆。曾因任务在中东尝试用骆驼运输装备。",
+      "Leisure_Travel": "假期选择玻利维亚盐湖自驾或挪威峡湾攀登，携带卫星定位仪和便携式战术电台，拒绝跟团旅游"
+    },
+    "Social": "参加退伍军人俱乐部的实战推演沙龙，在Reddit军事板块匿名发表战术分析。拒绝使用TikTok，但会关注国防部智库的Twitter账号。",
+    "Productivity": {
+      "Study_Work": "使用Palantir系统进行战场模拟，手写加密笔记记录突发战术灵感，用Excel建立武器性能对比数据库",
+      "Fitness": "每日进行特种部队式训练（TRX悬吊训练+负重冲刺），用Garmin手表监测血氧和恢复指数，每周四固定参加近身格斗课程"
+    },
+    "Content_Interests": [
+      "追踪隐形无人机和AI战术决策系统进展",
+      "研究19世纪拿破仑战役与现代游击战关联性",
+      "订阅《简氏防务周刊》电子版"
+    ]
+  }
+}

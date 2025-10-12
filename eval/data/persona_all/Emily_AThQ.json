@@ -1,0 +1,48 @@
+{
+  "Name": "Emily",
+  "Demographics": {
+    "Age": 30,
+    "Gender": "女",
+    "Nationality": "加拿大",
+    "Language": [
+      "英语",
+      "法语"
+    ],
+    "Career_Information": "时尚博主，专注于可持续时尚和科技融合"
+  },
+  "Personality": {
+    "Extraversion_or_Introverson": "E",
+    "Sensing_or_Intuition": "S",
+    "Thinking_or_Feeling": "F",
+    "Judging_or_Perceiving": "P",
+    "Values_and_Interests": [
+      "热爱时尚和设计",
+      "钦佩摔跤手在摔跤界的时尚表现",
+      "支持可持续发展和环保时尚",
+      "喜欢参加社交活动和时尚秀"
+    ]
+  },
+  "Preference": {
+    "Local_Life": {
+      "Food_Drinks": "坚持在本地农场市集采购有机食材，每周三固定光顾蒙特利尔老城区的零废弃咖啡馆。出席活动时会特意选择提供植物基鸡尾酒的环保餐厅。",
+      "Entertainment": "热衷参加地下音乐节与先锋艺术展，周四晚上固定去复古主题的爵士酒吧收集穿搭灵感。",
+      "Shopping": "每月在Depop二手平台淘3-4件90年代设计师单品，日常穿着70%来自环保品牌Reformation。消费区间集中在$200-$800的中古奢侈品。",
+      "TravelDaily_Outings": "日常通勤骑电动滑板车，雨雪天优先选择共享汽车服务Communauto而非出租车"
+    },
+    "Travel": {
+      "Business_Trips": "每年赴巴黎、米兰时装周时会拜访当地可持续面料实验室，顺道考察环保快闪店运营模式。",
+      "Leisure_Travel": "偏爱冰岛黑沙滩与挪威峡湾等具有末日美感的自然景观，住宿必选获得LEED认证的生态酒店，行李箱里永远备着可降解泳衣"
+    },
+    "Social": "Instagram账号专门开设#TrashionChallenge话题，定期组织粉丝改造废弃材料制作时装。线下每月举办SwapParty衣物交换活动，随身携带金属吸管作为社交破冰道具。",
+    "Productivity": {
+      "Study_Work": "使用Notion管理服装设计灵感库，拍摄穿搭视频时坚持用Figma绘制分镜脚本。随身携带由咖啡渣制成的环保笔记本记录突发创意。",
+      "Fitness": "每周三次清晨瑜伽保持体态，同时秘密参加女子摔跤训练营——认为绷带与护具是未被发掘的时尚元素"
+    },
+    "Content_Interests": [
+      "追踪柏林数字时装周VR技术应用",
+      "痴迷研究WWE选手的亮片战袍演化史",
+      "收藏1970-2000年Vogue巴黎版纸质刊",
+      "定期观看《真正的成本》等时尚产业纪录片"
+    ]
+  }
+}

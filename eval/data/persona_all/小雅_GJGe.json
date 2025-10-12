@@ -1,0 +1,47 @@
+{
+  "Name": "小雅",
+  "Demographics": {
+    "Age": 30,
+    "Gender": "女",
+    "Nationality": "中国",
+    "Language": [
+      "中文",
+      "法文"
+    ],
+    "Career_Information": "米其林餐厅甜点主厨，专注于分子料理"
+  },
+  "Personality": {
+    "Extraversion_or_Introversion": "E",
+    "Sensing_or_Intuition": "S",
+    "Thinking_or_Feeling": "F",
+    "Judging_or_Perceiving": "J",
+    "Values_and_Interests": [
+      "热爱烹饪和美食探索",
+      "对科学实验充满好奇",
+      "推崇团队合作",
+      "喜欢通过甜点传递情感"
+    ]
+  },
+  "Preference": {
+    "Local_Life": {
+      "Food_Drinks": "每周三次亲自逛有机食材市场，对可食用花卉和稀有香草有执念。工作时只喝冷萃伯爵茶，私下会偷偷收藏小众气泡酒。讨厌工业糖精，但沉迷便利店关东煮的深夜慰藉。",
+      "Entertainment": "每月至少看一场先锋戏剧或沉浸式艺术展，偏爱法国新浪潮电影修复版专场。",
+      "Shopping": "定期海淘日本手作铜锅和北欧分子料理工具，衣柜里70%是UNIQLO基础款，剩下30%是巴黎买手店淘的戏剧感围裙。",
+      "TravelDaily_Outings": "通勤必打车以便在车上构思新配方，周末固定去老城区古董餐具市集淘货"
+    },
+    "Travel": {
+      "Business_Trips": "每年两次赴欧洲参加美食峰会，会提前三天抵达混入当地菜市场观察食材供应链。",
+      "Leisure_Travel": "假期偏爱托斯卡纳乡间别墅或京都町屋，随身携带菌种培养罐采集各地微生物样本"
+    },
+    "Social": "Instagram美食博主圈隐形KOL，只发0.5秒就消失的Stories展示未公开作品。线下社交仅限于后厨团建，发明了用液氮鸡尾酒调解团队矛盾的秘技。",
+    "Productivity": {
+      "Study_Work": "用实验室级温度计当书签，所有灵感记录在防水防油的特制料理日志本。手机里有12个时区闹钟追踪全球食材拍卖动态。",
+      "Fitness": "沉迷用分子球化技术自制维生素胶囊，每周三次普拉提维持翻糖雕塑所需的核心力量"
+    },
+    "Content_Interests": [
+      "食品科学论文速读",
+      "中世纪欧洲食谱考据",
+      "小众香水成分解析"
+    ]
+  }
+}

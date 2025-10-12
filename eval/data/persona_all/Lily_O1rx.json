@@ -1,0 +1,47 @@
+{
+  "Name": "Lily",
+  "Demographics": {
+    "Age": 30,
+    "Gender": "女",
+    "Nationality": "中国",
+    "Language": [
+      "中文",
+      "英文"
+    ],
+    "Career_Information": "互联网公司项目经理，专注于移动应用开发"
+  },
+  "Personality": {
+    "Extraversion_or_Introversion": "E",
+    "Sensing_or_Intuition": "S",
+    "Thinking_or_Feeling": "T",
+    "Judging_or_Perceiving": "J",
+    "Values_and_Interests": [
+      "热衷于团队管理和协调",
+      "喜欢研究项目管理最佳实践",
+      "信仰技术驱动的社会变革",
+      "热爱旅行和摄影"
+    ]
+  },
+  "Preference": {
+    "Local_Life": {
+      "Food_Drinks": "工作日午餐固定在公司附近的轻食餐厅解决，晚餐偏好低卡健康餐外卖；周末会探索小众咖啡馆和创意融合菜，尤其关注摆盘是否适合拍照。",
+      "Entertainment": "每月至少看一场院线电影，偏爱科幻和纪录片题材；常参加本地摄影爱好者组织的城市街拍活动。",
+      "Shopping": "网购集中在电子产品及办公效率工具，对无线降噪耳机等提升工作舒适度的单品有执念，消费价位在1000-5000元区间。",
+      "TravelDaily_Outings": "通勤坚持用专车服务，认为密闭车厢是处理紧急邮件的黄金时间；周末偶尔自驾去近郊采风。"
+    },
+    "Travel": {
+      "Business_Trips": "出差必选带会议室的高端商务酒店，常在凌晨修改完方案后独自探索酒店顶楼的城市夜景拍摄机位。",
+      "Leisure_Travel": "每年两次深度自由行，提前三个月用甘特图规划行程，偏爱有独特建筑景观的目的地，会为拍摄银河专门预订沙漠星空帐篷酒店。"
+    },
+    "Social": "LinkedIn上定期分享项目管理思维导图，线下担任互联网行业女性领导力沙龙召集人；摄影作品只发500px专业平台，拒绝修图滤镜类社交APP。",
+    "Productivity": {
+      "Study_Work": "用Microsoft Project跟踪全流程节点，随身携带Moleskine时间轴手账本，参加Agile方法论培训时会在第一排做康奈尔笔记。",
+      "Fitness": "坚持用Apple Watch闭环站立提醒，上班穿通勤跑鞋走楼梯完成每日步数目标，周末在健身房只做划船机和TRX抗阻训练。"
+    },
+    "Content_Interests": [
+      "关注硅谷最新AR技术落地案例",
+      "收藏国家地理杂志年度摄影集",
+      "研究MBTI在团队建设中的实践应用"
+    ]
+  }
+}

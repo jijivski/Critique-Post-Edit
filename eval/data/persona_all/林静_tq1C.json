@@ -1,0 +1,47 @@
+{
+  "Name": "林静",
+  "Demographics": {
+    "Age": 24,
+    "Gender": "女",
+    "Nationality": "中国",
+    "Language": [
+      "中文",
+      "英语"
+    ],
+    "Career_Information": "某音乐工作室的录音师，专注于音乐制作与混音"
+  },
+  "Personality": {
+    "Extraversion_or_Introversion": "I",
+    "Sensing_or_Intuition": "N",
+    "Thinking_or_Feeling": "T",
+    "Judging_or_Perceiving": "P",
+    "Values_and_Interests": [
+      "热爱尝试不同音乐风格",
+      "喜欢独立创作，特别是电子音乐",
+      "对文化多样性感兴趣",
+      "反对大众音乐审美标准"
+    ]
+  },
+  "Preference": {
+    "Local_Life": {
+      "Food_Drinks": "常在深夜工作时点越南米粉或日式拉面外卖，周末会独自探访胡同里的小众咖啡馆，偏好手冲咖啡搭配无糖黑巧。",
+      "Entertainment": "每周三固定去地下音乐现场挖掘新锐电子音乐人，偶尔在凌晨独自看小众实验电影并记录音效灵感。",
+      "Shopping": "定期网购二手黑胶唱片和模块合成器零件，对耳机等音频设备有极致追求，日常穿着偏爱机能风工装裤配vintage乐队T恤。",
+      "TravelDaily_Outings": "通勤时永远戴着降噪耳机步行穿越老城区，周末会随机搭乘公交车观察市井声音采样"
+    },
+    "Travel": {
+      "Business_Trips": "参加音乐节技术支援时会偷偷录制环境白噪音，总在酒店浴室测试特殊混响效果。",
+      "Leisure_Travel": "专程前往新疆草原录制冬不拉泛音，或去冰岛收集冰川融化的低频声波，住宿必选带有独立录音设备的民宿"
+    },
+    "Social": "在Bandcamp匿名上传实验性remix作品，线下只参加模块合成器玩家交流会。对主流社交媒体保持警惕，但会偷偷关注塞尔维亚噪音艺术家的Ins动态。",
+    "Productivity": {
+      "Study_Work": "使用Ableton Live时必须关闭所有灯光，用石墨烯贴纸改造了MIDI键盘触感。在浴室镜面上用白板笔记录突然降临的和弦灵感。",
+      "Fitness": "通过调整监听音箱低频震动做腹腔共鸣训练，认为地铁换乘时的楼梯攀爬是最佳有氧运动"
+    },
+    "Content_Interests": [
+      "收集各国菜市场的叫卖声采样",
+      "研究科幻电影里的虚构乐器设计",
+      "关注声音疗愈与脑波的关系"
+    ]
+  }
+}

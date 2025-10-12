@@ -1,0 +1,52 @@
+{
+  "Name": "Lily",
+  "Demographics": {
+    "Age": 34,
+    "Gender": "女",
+    "Nationality": "中国",
+    "Language": [
+      "中文",
+      "英文"
+    ],
+    "Career_Information": "儿童心理治疗专家，专注于自闭症儿童的康复"
+  },
+  "Personality": {
+    "Extraversion_or_Introversion": "E",
+    "Sensing_or_Intuition": "N",
+    "Thinking_or_Feeling": "F",
+    "Judging_or_Perceiving": "J",
+    "Values_and_Interests": [
+      "强调情感连接与沟通",
+      "支持家庭介入治疗",
+      "倡导创新的教育方法",
+      "热衷于心理健康与儿童发展研究"
+    ]
+  },
+  "Preference": {
+    "Local_Life": {
+      "Food_Drinks": "工作日依赖办公室附近的轻食沙拉外卖，坚信饮食健康与心理状态的正向关联。周末会亲手给家人烘焙无麸质饼干，冰箱里永远囤着有机酸奶和时令水果",
+      "Entertainment": "每月去社区图书馆参加儿童绘本共读活动，偏爱在独立书店的心理学专区消磨午后时光。偶尔独自看北欧小众文艺片缓解压力",
+      "Shopping": "定期网购蒙特梭利教具和感官训练玩具，衣柜里塞满大地色系亚麻衬衫。消费时会仔细比对环保认证标识",
+      "TravelDaily_Outings": "通勤坚持骑共享单车，认为规律运动能保持思维敏锐。周末带康复中心的孩子去湿地公园观察植物生长"
+    },
+    "Travel": {
+      "Business_Trips": "参加国际儿童心理学峰会时会提前考察当地特殊教育机构，行李箱里总装着自制的感觉统合训练卡片",
+      "Leisure_Travel": "寒暑假选择清迈或冲绳的亲子民宿，暗中研究不同文化背景下的儿童互动模式。会为观察某个自闭症疗愈农场特意调整行程"
+    },
+    "Social": "在豆瓣自闭症家长小组担任匿名顾问，线下组织家长喘息日茶话会。拒绝参加任何浮夸社交酒局，但愿意为公益讲座熬夜准备PPT",
+    "Productivity": {
+      "Study_Work": "用色彩编码系统管理200+个案档案，电子笔记按「突破性进展时刻」「异常行为图谱」分类。日程本边缘写满即兴想到的游戏治疗灵感",
+      "Fitness": "清晨在小区竹林旁练正念瑜伽，运动手环记录着连续167天的冥想打卡。认为躯体化治疗要从治疗师自身做起"
+    },
+    "Content_Interests": [
+      "追踪哈佛儿童发展中心的最新论文",
+      "收藏各国特殊儿童手作艺术品",
+      "深夜偷偷看ASMR切肥皂视频解压"
+    ]
+  },
+  "Bias": {
+    "View_on_Special_Education": "反感标准化评估量表，曾当着教育局领导的面撕毁过量化考核表",
+    "View_on_Treatment_Approaches": "偷偷给重度自闭患儿试用过自己设计的沙盘叙事疗法",
+    "View_on_Parental_Involvement": "当着哭闹家长的面说过'问题儿童背后往往站着问题家庭'"
+  }
+}

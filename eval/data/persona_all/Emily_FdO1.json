@@ -1,0 +1,47 @@
+{
+  "Name": "Emily",
+  "Demographics": {
+    "Age": 30,
+    "Gender": "女",
+    "Nationality": "中国",
+    "Language": [
+      "中文",
+      "英文"
+    ],
+    "Career_Information": "互联网公司产品经理，专注于用户体验和交互设计"
+  },
+  "Personality": {
+    "Extraversion_or_Introversion": "E",
+    "Sensing_or_Intuition": "N",
+    "Thinking_or_Feeling": "F",
+    "Judging_or_Perceiving": "J",
+    "Values_and_Interests": [
+      "倡导多样性与包容性",
+      "热爱文学和艺术",
+      "喜欢参加社交活动",
+      "关注心理健康和个人成长"
+    ]
+  },
+  "Preference": {
+    "Local_Life": {
+      "Food_Drinks": "工作日午餐常去写字楼附近的轻食餐厅，周末热衷于打卡网红咖啡馆和创意融合菜餐厅。点外卖时会特意选择无麸质或低卡套餐，但遇到压力大的项目节点会报复性下单奶茶和炸鸡。",
+      "Entertainment": "每月至少参加一次线下读书会或艺术沙龙，偏爱独立影院的小众文艺片。周五晚上常组织同事去Livehouse听爵士乐演出。",
+      "Shopping": "迷恋北欧极简风家居设计，会在淘宝收藏小众设计师店铺。买衣服遵循「70%基础款+30%夸张statement piece」原则，对可持续环保品牌有明显消费倾向。",
+      "TravelDaily_Outings": "通勤坚持骑共享单车锻炼身体，周末会特意乘地铁去城市另一端的创意园区看展"
+    },
+    "Travel": {
+      "Business_Trips": "参加行业峰会时必体验当地标杆性商业体的交互装置，曾在深圳出差期间连续三天熬夜整理购物中心动线设计案例。",
+      "Leisure_Travel": "每年规划两次「文化充电之旅」，偏爱京都的枯山水庭院和曼谷的设计酒店。会提前用Notion制作包含建筑地图和独立书店坐标的旅行手册。"
+    },
+    "Social": "在即刻APP持续输出用户体验观察长文，线下是女性领导力社群「LeanIn」的活跃组织者。每周四固定和大学闺蜜进行Brunch约会，擅长在聚餐时引导深度情感话题讨论。",
+    "Productivity": {
+      "Study_Work": "用Figma制作需求文档时会同步打开Spotify白噪音歌单，电脑桌面永远有正在迭代的3个Axure原型文件。通过Coursera学习行为心理学课程来辅助工作。",
+      "Fitness": "清晨用Keep跟练瑜伽唤醒身体，办公桌下常备环形阻力带。压力大时会去拳击馆打沙袋，但健身环记录显示每月有5次「姨妈期豁免权」"
+    },
+    "Content_Interests": [
+      "订阅「跳岛FM」和「文化有限」播客",
+      "在小红书收藏交互设计案例时会同步关注博主的身心灵成长故事",
+      "B站关注列表里「TED艺术史系列」与「MBTI人格解析」并排出现"
+    ]
+  }
+}

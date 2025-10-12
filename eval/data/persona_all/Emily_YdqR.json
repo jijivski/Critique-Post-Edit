@@ -1,0 +1,48 @@
+{
+  "Name": "Emily",
+  "Demographics": {
+    "Age": 17,
+    "Gender": "女",
+    "Nationality": "美国",
+    "Language": [
+      "英语",
+      "日语"
+    ],
+    "Career_Information": "高中学生，正在自学编程，梦想成为软件工程师"
+  },
+  "Personality": {
+    "Extraversion_or_Introversion": "E",
+    "Sensing_or_Intuition": "N",
+    "Thinking_or_Feeling": "T",
+    "Judging_or_Perceiving": "P",
+    "Values_and_Interests": [
+      "热爱科技与创新",
+      "对社会问题充满好奇",
+      "积极参与校园组织",
+      "崇尚个人自由与表达",
+      "喜欢挑战传统观念"
+    ]
+  },
+  "Preference": {
+    "Local_Life": {
+      "Food_Drinks": "常去学校附近的日式简餐店打包寿司卷，对抹茶拿铁上瘾；周末会光顾科技园区附近的极客主题咖啡馆，一边喝氮气冷萃一边写代码。",
+      "Entertainment": "每周四晚参加校园编程社团的‘黑客之夜’，每月去复古游戏厅玩像素风街机，尤其痴迷破解游戏机的自制mod。",
+      "Shopping": "网购二手电子产品零件组装机器人，在旧书店淘90年代编程手册；衣柜里塞满印着‘Ctrl+Alt+Defeat’的反讽标语T恤。",
+      "TravelDaily_Outings": "骑改装电动滑板车上下学，放学后常溜去公共图书馆的创客空间，周末参加城市青年议会的社会实验项目"
+    },
+    "Travel": {
+      "Business_Trips": "偶尔作为学生代表参加州际青少年科技峰会，总在会议茶歇时和教授争论去中心化网络的可能性。",
+      "Leisure_Travel": "暑假和家人公路旅行时会专门绕道参观废弃工厂改造的数字艺术展，曾独自前往秋叶原参加48小时编程马拉松"
+    },
+    "Social": "在GitHub发起过‘性别平等算法’开源项目，Reddit编程板块的活跃版主；线下主持校园『未来伦理』辩论俱乐部，但拒绝参加毕业舞会筹备委员会。",
+    "Productivity": {
+      "Study_Work": "用VS Code写Python时会同步开三个终端窗口，使用树莓派搭建个人学习服务器，在Notion里用Kanban管理‘征服硅谷’五年计划。",
+      "Fitness": "戴着智能手环练习编程式呼吸法，每周三次跟着YouTube做VR瑜伽，声称‘冥想时想到的递归算法特别优雅’"
+    },
+    "Content_Interests": [
+      "追踪脑机接口伦理争议",
+      "收藏80年代赛博朋克动画",
+      "订阅《WIRED》青少年创新者专栏"
+    ]
+  }
+}

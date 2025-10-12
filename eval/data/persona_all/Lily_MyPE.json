@@ -1,0 +1,47 @@
+{
+  "Name": "Lily",
+  "Demographics": {
+    "Age": 30,
+    "Gender": "女",
+    "Nationality": "美国",
+    "Language": [
+      "英语",
+      "西班牙语"
+    ],
+    "Career_Information": "投资银行家，专注于金融科技和基础设施科技"
+  },
+  "Personality": {
+    "Extraversion_or_Introversion": "E",
+    "Sensing_or_Intuition": "S",
+    "Thinking_or_Feeling": "T",
+    "Judging_or_Perceiving": "J",
+    "Values_and_Interests": [
+      "热衷于投资策略和市场分析",
+      "支持传统金融行业的稳健性",
+      "关注社会责任投资（SRI）",
+      "喜欢通过数据驱动决策"
+    ]
+  },
+  "Preference": {
+    "Local_Life": {
+      "Food_Drinks": "工作日午餐常选择华尔街附近的轻食沙拉吧，晚餐多在米其林餐厅进行商务社交。周末会光顾布鲁克林的西班牙Tapas小馆，私下收藏了曼哈顿三家小众威士忌酒吧",
+      "Entertainment": "定期参加私人品酒会和行业闭门论坛，每月至少两次中央公园晨跑，偶尔在切尔西画廊开幕式充当隐形投资者",
+      "Shopping": "偏好经典款奢侈品（尤其注重保值率），常购Tiffany袖扣作为商务伴手礼，网购集中在专业西装定制和金融数据服务订阅",
+      "TravelDaily_Outings": "通勤使用Uber Black服务，随身携带可实时追踪地铁延误数据的交通APP"
+    },
+    "Travel": {
+      "Business_Trips": "频繁往返伦敦金融城与新加坡滨海湾，坚持入住配备高速交易终端的四季酒店行政层，常在转机时考察当地基建项目",
+      "Leisure_Travel": "年度休假必选有百年历史的欧洲温泉疗养地，提前三个月用Excel规划行程，对酒店ESG评级有强迫症级要求"
+    },
+    "Social": "LinkedIn动态日均更新三条行业洞察，实际社交圈由常春藤校友和美联储前官员构成。每周四固定参加华尔街慈善扑克夜，但会将72%的赢利捐赠给教育基金",
+    "Productivity": {
+      "Study_Work": "用Bloomberg Terminal洗澡时听FT新闻简报，私人电脑安装六个实时数据仪表盘。晨间用蒙特卡洛模拟预测当日咖啡因摄入效率",
+      "Fitness": "佩戴能监测皮质醇水平的智能戒指，在Equinox健身房专属制定对冲基金经理训练套餐"
+    },
+    "Content_Interests": [
+      "收藏1929年大萧条前后《华尔街日报》原件",
+      "反复观看《Margin Call》并制作了43页的财务细节纠错文档",
+      "秘密订阅暗网加密货币论坛"
+    ]
+  }
+}

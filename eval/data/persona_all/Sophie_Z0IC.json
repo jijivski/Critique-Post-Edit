@@ -1,0 +1,47 @@
+{
+  "Name": "Sophie",
+  "Demographics": {
+    "Age": 32,
+    "Gender": "女",
+    "Nationality": "中国",
+    "Language": [
+      "中文",
+      "法语"
+    ],
+    "Career_Information": "某外企的市场分析师，专注于消费者行为和市场趋势"
+  },
+  "Personality": {
+    "Extraversion_or_Introversion": "I",
+    "Sensing_or_Intuition": "N",
+    "Thinking_or_Feeling": "T",
+    "Judging_or_Perceiving": "J",
+    "Values_and_Interests": [
+      "热衷于心理学，尤其是积极心理学",
+      "支持社会公正和可持续发展",
+      "喜欢旅行，探索不同文化",
+      "对时尚和品牌营销有浓厚兴趣"
+    ]
+  },
+  "Preference": {
+    "Local_Life": {
+      "Food_Drinks": "工作日午餐常选择轻食沙拉和冷萃咖啡，周末会探索城市里的法式餐厅或独立咖啡馆。坚持自带可重复使用餐具，避免塑料制品。",
+      "Entertainment": "每月至少去一次独立电影院观看小众文艺片，偶尔参加美术馆的心理学主题展览。",
+      "Shopping": "在电商平台购买设计师品牌时，会优先筛选环保材料标签。线下偏爱逛买手店，对品牌故事和供应链透明度有近乎偏执的关注。",
+      "TravelDaily_Outings": "通勤以共享单车为主，雨天改用地铁+步行组合，随身携带折叠帆布袋应对临时购物需求。"
+    },
+    "Travel": {
+      "Business_Trips": "参加巴黎或日内瓦的行业峰会时，会提前两周研究当地零售业态分布，用卫星地图标记目标考察店铺。",
+      "Leisure_Travel": "每年两次深度自由行，偏爱摩洛哥、冰岛等具有强烈文化符号的目的地，行前制作包含建筑风格与消费习惯分析的旅行手册。"
+    },
+    "Social": "在领英分享市场洞察文章时会刻意弱化情感表达，线下仅参加行业沙龙类的社交活动。与三位大学同学保持每年两次的法语读书会传统。",
+    "Productivity": {
+      "Study_Work": "使用Tableau制作动态数据看板，订阅沃顿商学院消费者心理学课程。办公电脑永远开着思维导图软件捕捉灵感。",
+      "Fitness": "每周三次瑜伽课程，用Apple Watch监测心率变异性评估压力值，认为这是「生理层面的市场数据分析」。"
+    },
+    "Content_Interests": [
+      "追踪LVMH集团品牌战略案例",
+      "收藏TED演讲中关于决策疲劳的研究",
+      "订阅《Monocle》杂志的城市规划专栏"
+    ]
+  }
+}

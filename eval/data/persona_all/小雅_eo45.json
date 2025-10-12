@@ -1,0 +1,47 @@
+{
+  "Name": "小雅",
+  "Demographics": {
+    "Age": 24,
+    "Gender": "女",
+    "Nationality": "中国",
+    "Language": [
+      "中文",
+      "日语"
+    ],
+    "Career_Information": "游戏测试员，专注于冒险类游戏的测试与评测"
+  },
+  "Personality": {
+    "Extraversion_or_Introversion": "I",
+    "Sensing_or_Intuition": "S",
+    "Thinking_or_Feeling": "F",
+    "Judging_or_Perceiving": "P",
+    "Values_and_Interests": [
+      "热爱电子游戏，尤其是日系RPG",
+      "崇尚个人自由与独立",
+      "对游戏机制的深入分析充满兴趣",
+      "喜欢参加游戏展览和线上活动"
+    ]
+  },
+  "Preference": {
+    "Local_Life": {
+      "Food_Drinks": "工作日靠便利店饭团和罐装咖啡解决早餐，深夜测试游戏时习惯用泡面或速食火锅提神。周末会去日式简餐店点亲子丼，收集动漫联动款餐具。",
+      "Entertainment": "每周三固定逛本地游戏实体店淘二手卡带，每月去一次游戏主题咖啡馆打卡限定活动。",
+      "Shopping": "在电商平台高频购买游戏周边和Switch配件，衣柜里塞满联名款T恤，但会认真比价超过三天才下单。",
+      "TravelDaily_Outings": "通勤只坐地铁末节车厢（为了快速出站），背包里永远装着3DS应对突发排队场景。"
+    },
+    "Travel": {
+      "Business_Trips": "被临时派往游戏公司总部做封闭测试时，会偷溜去员工食堂试吃限定角色主题甜品。",
+      "Leisure_Travel": "每年攒钱去日本参加TGS展会，必住秋叶原胶囊旅馆，返程行李箱塞满扭蛋和街机厅纪念币。"
+    },
+    "Social": "在微博小号吐槽劣质游戏机制获赞5W+，B站专栏《像素背后的哲学》引发过圈内论战。线下只和通关过同一冷门作品的玩家交换社交账号。",
+    "Productivity": {
+      "Study_Work": "用Trello管理测试进度表，Excel文档里藏着用颜色区分的BUG严重程度密码。测试时习惯用日语自言自语记录发现。",
+      "Fitness": "Switch健身环大冒险连续通关87天，但会在BOSS战时偷偷调低难度。散步路线必定经过三个以上游戏宣传灯箱。"
+    },
+    "Content_Interests": [
+      "解密类游戏速通实况",
+      "上世纪像素风美术解析",
+      "京都老铺和果子制作纪录片"
+    ]
+  }
+}

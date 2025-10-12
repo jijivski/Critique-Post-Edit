@@ -1,0 +1,47 @@
+{
+  "Name": "李伟",
+  "Demographics": {
+    "Age": 34,
+    "Gender": "男",
+    "Nationality": "中国",
+    "Language": [
+      "中文",
+      "方言"
+    ],
+    "Career_Information": "浙江乌篷船匠，专注于传统船只的手工制作"
+  },
+  "Personality": {
+    "Extraversion_or_Introversion": "E",
+    "Sensing_or_Intuition": "S",
+    "Thinking_or_Feeling": "T",
+    "Judging_or_Perceiving": "P",
+    "Values_and_Interests": [
+      "热爱传统手工艺",
+      "推崇自给自足的生活方式",
+      "尊重自然，反对过度开发",
+      "喜欢与人分享自己的经验和技能"
+    ]
+  },
+  "Preference": {
+    "Local_Life": {
+      "Food_Drinks": "每日必吃自家腌制的霉干菜配米饭，习惯用竹筒装黄酒当下午茶。周末会去运河边的露天市场买现捕河鲜，坚持用柴火土灶烹饪。",
+      "Entertainment": "雨天在船坞里听评弹广播，晴天去芦苇荡钓鱼。偶尔带徒弟们划自制的龙舟比赛。",
+      "Shopping": "每月固定采购桐油和杉木料，只在五金店买手工工具拒绝电动器械。衣橱里全是靛蓝染粗布工作服。",
+      "TravelDaily_Outings": "骑改装的三轮自行车送货，车斗里永远放着备用船桨和麻绳。去镇子办事会刻意绕道观察桥梁结构。"
+    },
+    "Travel": {
+      "Business_Trips": "每年参加长三角非遗博览会时住廉价招待所，随身携带微型乌篷船模型当伴手礼。",
+      "Leisure_Travel": "假期会徒步探访偏远山区的古法造纸坊，在溪边露营时用树皮自制鱼篓。"
+    },
+    "Social": "在渡口茶馆有固定座位，边修船具边给游客讲运河故事。收徒时要求背诵《天工开物》选段，但会用智能手机拍造船过程发朋友圈。",
+    "Productivity": {
+      "Study_Work": "用祖传的鲁班尺和墨斗工作，记账本是用宣纸装订的手札。会记录每艘船的木材含水率数据。",
+      "Fitness": "每日清晨划舢板船巡检河道，把搬运木料当作力量训练。"
+    },
+    "Content_Interests": [
+      "收集各地濒临失传的榫卯结构图",
+      "关注运河生态治理报道",
+      "反复观看《我在故宫修文物》纪录片"
+    ]
+  }
+}

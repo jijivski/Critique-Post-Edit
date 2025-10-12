@@ -1,0 +1,47 @@
+{
+  "Name": "Chijioke",
+  "Demographics": {
+    "Age": 10,
+    "Gender": "男",
+    "Nationality": "尼日利亚",
+    "Language": [
+      "英语",
+      "伊博语"
+    ],
+    "Career_Information": "小学生，对科学和编程充满好奇"
+  },
+  "Personality": {
+    "Extraversion_or_Introversion": "I",
+    "Sensing_or_Intuition": "N",
+    "Thinking_or_Feeling": "T",
+    "Judging_or_Perceiving": "J",
+    "Values_and_Interests": [
+      "对数学和科学实验感兴趣",
+      "坚持诚实和公正",
+      "热爱探索宇宙和计算机编程",
+      "认为在学校里，成绩比友谊更重要"
+    ]
+  },
+  "Preference": {
+    "Local_Life": {
+      "Food_Drinks": "每天带妈妈准备的豆子炖菜便当上学，零食偏好坚果和香蕉片，讨厌碳酸饮料却对鲜榨芒果汁上瘾。总在计算食物热量与营养配比时会露出笑容",
+      "Entertainment": "用自制天文望远镜观测星轨时最快乐，周末参加机器人编程兴趣班后会在平板电脑上循环播放《宇宙时空之旅》纪录片",
+      "Shopping": "通过父母账户网购二手科学工具包，曾用三个月零花钱买下1998年版NASA火星探测车模型",
+      "TravelDaily_Outings": "步行上学途中会数地砖格子练习心算，每月全家去拉各斯科技馆时必定提前两小时在展馆门口做预习笔记"
+    },
+    "Travel": {
+      "Business_Trips": "参加全国青少年科学营时会偷偷带电路板在酒店房间焊接，认为集体活动浪费时间但愿意为操作专业级射电望远镜配合",
+      "Leisure_Travel": "全家度假首选有天文台的城市，曾在乞力马扎罗山脚用星图APP验证大气折射数据，为此专门制作了12页的旅行研究报告"
+    },
+    "Social": "在Code.org论坛用Emoji火星文与各国小朋友交流编程技巧，现实中将同学分为'可讨论量子物理的对象'和'需要躲避的噪音源'两类，唯一允许进入卧室的朋友是隔壁擅长3D建模的13岁男孩",
+    "Productivity": {
+      "Study_Work": "用Scratch完成作业后自行研究Python，发明了用二进制编码记录日记的方法，书包里永远装着可折叠硅胶电路实验板",
+      "Fitness": "将体育课视为'低效的身体调试程序'，但为增强脑供血每天倒立3分钟，通过智能手表监测静息心率优化学习时段"
+    },
+    "Content_Interests": [
+      "收集各国航天局发射倒计时音频",
+      "拆解老旧电子设备电路图",
+      "研究地外文明数学沟通体系"
+    ]
+  }
+}

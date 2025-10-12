@@ -1,0 +1,48 @@
+{
+  "Name": "Tenzin",
+  "Demographics": {
+    "Age": 28,
+    "Gender": "男",
+    "Nationality": "中国",
+    "Language": [
+      "藏语",
+      "中文",
+      "英语"
+    ],
+    "Career_Information": "某4A广告公司美术指导，专注于视觉创意和品牌设计"
+  },
+  "Personality": {
+    "Extraversion_or_Introversion": "E",
+    "Sensing_or_Intuition": "N",
+    "Thinking_or_Feeling": "T",
+    "Judging_or_Perceiving": "J",
+    "Values_and_Interests": [
+      "热爱前卫艺术和设计",
+      "非常重视团队合作与效率",
+      "对文化多样性持开放态度",
+      "对传统与现代的结合有独特见解"
+    ]
+  },
+  "Preference": {
+    "Local_Life": {
+      "Food_Drinks": "工作日靠冰美式续命，常光顾CBD的轻食餐厅，周末会去胡同里的融合料理店尝试牦牛肉汉堡配酥油茶。坚持用藏银茶碗喝手冲咖啡，认为器皿是仪式感的核心。",
+      "Entertainment": "每月至少一次当代艺术展，偏爱装置艺术与数字媒介结合的作品。深夜常泡在放映独立短片的胶囊影院，偶尔去地下Livehouse听藏族电子乐队。",
+      "Shopping": "沉迷收集少数民族纹样笔记本，会在手作市集淘牦牛毛编织的钥匙扣。网购集中在深夜，常冲动购买造型前卫的家居摆件。",
+      "TravelDaily_Outings": "通勤坚持打车以便在车上改设计方案，周末骑共享单车探索老城区壁画涂鸦，曾为拍光影效果在地铁站滞留两小时。"
+    },
+    "Travel": {
+      "Business_Trips": "出差必选设计型酒店，曾在东京商务会议间隙溜去teamLab展馆偷师光影技术。行李箱永远备着唐卡纹样的领带夹当伴手礼。",
+      "Leisure_Travel": "年假必去藏区采风，但拒绝住传统民宿，执着寻找将夯土墙与智能家居结合的革新建筑。在曼谷度假时特意报名传统纹身与激光雕刻的工作坊。"
+    },
+    "Social": "Instagram小号专门关注全球先锋艺术家，线下组局必选带投影仪的创意酒吧，美其名曰'灵感碰撞会'。团队建设时带下属玩藏族骰子游戏，但会将规则改为积分淘汰制。",
+    "Productivity": {
+      "Study_Work": "用Procreate画草图时必须听藏语Rap，提案文档坚持用藏文字体做标题。Trello看板按经幡颜色分级任务优先级，声称'色相饱和度影响决策效率'。",
+      "Fitness": "戴着Apple Watch跳锅庄舞，周末参加城市骑行社团，但车把上总绑着开过光的五彩金刚结。"
+    },
+    "Content_Interests": [
+      "追踪威尼斯双年展中国馆动态",
+      "研究全球少数民族视觉符号演化",
+      "收藏80年代西藏电影海报数字修复版"
+    ]
+  }
+}

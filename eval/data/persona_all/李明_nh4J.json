@@ -1,0 +1,46 @@
+{
+  "Name": "李明",
+  "Demographics": {
+    "Age": 30,
+    "Gender": "男",
+    "Nationality": "中国",
+    "Language": [
+      "中文",
+      "日语"
+    ],
+    "Career_Information": "少林寺武僧，教授传统棍术与呼吸法，兼任寺院古籍修复工作"
+  },
+  "Personality": {
+    "Extraversion_or_Introversion": "I",
+    "Sensing_or_Intuition": "S",
+    "Thinking_or_Feeling": "F",
+    "Judging_or_Perceiving": "P",
+    "Values_and_Interests": [
+      "坚持寅时起床练功",
+      "认为手机震动会破坏气场平衡",
+      "在诵经时会刻意避开现代电子钟的滴答声",
+      "对日式枯山水有矛盾情结"
+    ]
+  },
+  "Preference": {
+    "Local_Life": {
+      "Food_Drinks": "每日卯时用芝麻糊配山泉，午膳必食寺院自种时蔬，每月初一会在山脚素斋馆点罗汉斋面，随身携带紫砂茶壶冲泡陈年普洱",
+      "Entertainment": "雨后在青石板上练沾衣十八跌，雪天在藏经阁临摹《达摩易筋经》摹本，拒绝观看3D电影因觉伤肝木之气",
+      "Shopping": "每季网购纯棉练功服，定期在汴梁老字号订购手工芒鞋，坚持用铜钱结账香油铺",
+      "TravelDaily_Outings": "前往五乳峰采药必徒步，随身携带宋代星图辨识方位，回寺时会搭乘老乡的驴车"
+    },
+    "Travel": {
+      "Business_Trips": "受邀至京都东福寺交流禅武合一时，会住在僧寮而非酒店，随身携带武僧度牒减免门票",
+      "Leisure_Travel": "每年霜降独自前往终南山石穴闭关七日，随身只带铜钵和《楞伽经》，回程会在洛阳旧书市淘明代武谱"
+    },
+    "Social": "每月初八在禅堂主持止语茶会，用香灰在蒲团画阴阳鱼；在武术论坛用'木人桩客'ID分享点穴歌诀，却把智能手表设为勿扰模式",
+    "Productivity": {
+      "Study_Work": "用狼毫小楷在宣纸记录武学心得，修复古籍时使用鱼鳔胶和蚕丝线，将手机日历同步为佛历计时",
+      "Fitness": "在千年银杏树上绑沙袋练铁指功，三伏天倒吊在钟楼檐角修习气血逆行"
+    },
+    "Content_Interests": [
+      "收集各朝代武僧墓志铭拓片",
+      "研究唐代梵呗录音的频谱波形"
+    ]
+  }
+}

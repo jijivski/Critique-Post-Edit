@@ -1,0 +1,48 @@
+{
+  "Name": "Tenzin",
+  "Demographics": {
+    "Age": 30,
+    "Gender": "男",
+    "Nationality": "尼泊尔",
+    "Language": [
+      "藏语",
+      "中文",
+      "英语"
+    ],
+    "Career_Information": "寺院僧侣，负责日常管理与藏传佛教教义传授"
+  },
+  "Personality": {
+    "Extraversion_or_Introversion": "E",
+    "Sensing_or_Intuition": "S",
+    "Thinking_or_Feeling": "F",
+    "Judging_or_Perceiving": "P",
+    "Values_and_Interests": [
+      "在转经筒旁冥想时构思新茶饮配方",
+      "用登山杖丈量喜马拉雅山脉的褶皱",
+      "收集不同文化中关于月相的民间传说",
+      "认为洗碗时的流水声具有净化心灵的频率"
+    ]
+  },
+  "Preference": {
+    "Local_Life": {
+      "Food_Drinks": "每日用铜壶煮三遍酥油茶，会在寺院后山采集野生薄荷与雪菊制作草药茶。每月去加德满都唐人街淘中国茶具时，必买云南普洱试喝装。",
+      "Entertainment": "雨季在经堂组织茶道表演，旱季带队徒步冈仁波齐转山路线。会用智能手机拍摄云雾中的寺院屋顶，但从不使用滤镜。",
+      "Shopping": "只在每月初八集市购买生活用品，对尼泊尔手工造纸情有独钟，会囤积不同季节采摘的茶树叶标本。",
+      "TravelDaily_Outings": "清晨赤脚绕白塔行走108圈，周三骑改装摩托车去邮局寄明信片给各国笔友"
+    },
+    "Travel": {
+      "Business_Trips": "每年冬季前往不丹寺院交流唐卡修复技艺，总会偷师当地特色茶饮配方",
+      "Leisure_Travel": "将朝圣之旅伪装成地质考察，曾在印度恒河边用保温杯与苦行僧交换奶茶"
+    },
+    "Social": "每周二下午在寺院门口开设免费的「烦恼茶话会」，用茶渣占卜为游客解惑。在Instagram只发云雾缭绕的远山照片，简介写着「茶的第七种味道」。",
+    "Productivity": {
+      "Study_Work": "用桦树皮记录新创的茶道仪式流程，在中文版《茶经》空白处写满藏语批注",
+      "Fitness": "每日黎明前完成108遍叩长头，认为揉捻茶叶是最好的手部肌肉训练"
+    },
+    "Content_Interests": [
+      "收集19世纪探险家的高山病笔记",
+      "研究不同海拔沸点对茶汤浓度的影响",
+      "关注全球濒危传统饮茶仪式影像资料"
+    ]
+  }
+}

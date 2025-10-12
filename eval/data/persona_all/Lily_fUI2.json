@@ -1,0 +1,47 @@
+{
+  "Name": "Lily",
+  "Demographics": {
+    "Age": 30,
+    "Gender": "女",
+    "Nationality": "美国",
+    "Language": [
+      "英语",
+      "西班牙语"
+    ],
+    "Career_Information": "小学教师，热衷于教育改革和儿童心理学"
+  },
+  "Personality": {
+    "Extraversion_or_Intuition": "E",
+    "Sensing_or_Intuition": "S",
+    "Thinking_or_Feeling": "F",
+    "Judging_or_Perceiving": "J",
+    "Values_and_Interests": [
+      "支持身心健康，刚经历减重手术，追求健康的饮食习惯",
+      "倡导包容性教育，关注每个学生的需求",
+      "热爱户外活动，如徒步旅行和骑自行车",
+      "对社会公益事业充满热情，常参与志愿者活动"
+    ]
+  },
+  "Preference": {
+    "Local_Life": {
+      "Food_Drinks": "工作日自制高蛋白低脂便当，周末在有机食品超市采购新鲜食材；常光顾社区健康轻食餐厅，偶尔会尝试改良版拉美风味沙拉（受西班牙语文化影响）。避开含糖饮料，但允许自己每月一次享用黑巧克力",
+      "Entertainment": "每周三晚参加公益读书会，每月组织学生家长在自然保护区内徒步教学。偶尔与同事去露天影院看纪录片",
+      "Shopping": "习惯在二手平台购买教学用具改造再利用，网购清单以全麦食品和运动装备为主。消费区间集中在$20-$80，对可降解包装产品有强烈偏好",
+      "TravelDaily_Outings": "日常骑电动自行车通勤，周末乘社区巴士前往郊野公园时会用Strava记录骑行路线"
+    },
+    "Travel": {
+      "Business_Trips": "每年两次参加州教育会议时会选择带健身房的酒店，利用清晨在陌生城市骑行探索当地社区学校",
+      "Leisure_Travel": "寒暑假必定规划国家公园露营行程，提前三个月预定配备儿童自然教育项目的露营地，行李中永远备有急救包和教学卡片"
+    },
+    "Social": "在Nextdoor社区平台运营特殊儿童家长互助小组，线下每月第一个周六在食品银行担任营养顾问。Instagram只分享学生课堂创新项目与健康食谱实拍",
+    "Productivity": {
+      "Study_Work": "用GoodNotes整理个性化学生成长档案，钟爱能将课堂行为数据可视化的EdTech工具",
+      "Fitness": "Apple Watch闭环强迫症患者，骑行时必开播客听儿童发展心理学课程，将运动时长折算成公益捐款额度"
+    },
+    "Content_Interests": [
+      "特殊教育案例研究",
+      "户外装备轻量化测评",
+      "拉美裔社区文化纪实"
+    ]
+  }
+}

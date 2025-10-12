@@ -1,0 +1,52 @@
+{
+  "Name": "李明",
+  "Demographics": {
+    "Age": 32,
+    "Gender": "男",
+    "Nationality": "中国",
+    "Language": [
+      "中文",
+      "英语"
+    ],
+    "Career_Information": "山东某港口货运司机，负责长途运输"
+  },
+  "Personality": {
+    "Extraversion_or_Introversion": "E",
+    "Sensing_or_Intuition": "S",
+    "Thinking_or_Feeling": "F",
+    "Judging_or_Perceiving": "P",
+    "Values_and_Interests": [
+      "热爱海洋和船只",
+      "崇尚自由与独立",
+      "喜爱与人交流",
+      "支持环保和可持续发展"
+    ]
+  },
+  "Preference": {
+    "Local_Life": {
+      "Food_Drinks": "常年在高速服务区解决三餐，偏爱鲁菜重咸鲜口味，尤其喜欢青岛啤酒配辣炒蛤蜊。周末会去港口附近的海鲜大排档，随身携带保温杯泡浓茶提神。",
+      "Entertainment": "休息日去码头观察货轮装卸作业，偶尔在海边钓鱼。晚上常和同乡司机在烧烤摊喝酒打扑克。",
+      "Shopping": "每月在拼多多购买汽车坐垫、防滑链等实用配件，给女儿网购玩具时会货比三家。",
+      "TravelDaily_Outings": "通勤主要依赖自己的重型卡车，进城采购时会骑电动车避开拥堵"
+    },
+    "Travel": {
+      "Business_Trips": "常年往返于青岛-西安运输线，熟悉沿途所有国道检查站，会在邯郸、郑州等地经济型旅馆包月床位。",
+      "Leisure_Travel": "年假时带家人自驾胶东半岛，偏爱未开发的海蚀崖和渔村码头，会特意绕开网红景点"
+    },
+    "Social": "在高速公路服务区主动搭讪其他司机交换路况信息，微信里有二十多个「全国卡友互助群」。刷快手记录卡车生活短视频，但从不发朋友圈。",
+    "Productivity": {
+      "Study_Work": "用高德地图标记危险路段，记账本详细记录每趟油耗和过路费。车载电台常听《中国交通广播》了解政策变化。",
+      "Fitness": "在服务区停车场做单杠悬吊缓解腰椎压力，用小米手环监测睡眠质量"
+    },
+    "Content_Interests": [
+      "关注「远洋货轮实时定位」网站",
+      "在B站收藏《世界港口纪录片》合集",
+      "抖音常看卡车维修教学视频"
+    ]
+  },
+  "Bias": {
+    "View_on_Work": "坚信方向盘上能开出自尊心，看不起坐办公室的「白领弱鸡」",
+    "Political_Beliefs": "认为新能源车政策挤压了传统司机的生存空间",
+    "Social_Interactions": "觉得大城市年轻人「吃不了苦」，但欣赏渔民朴实的性格"
+  }
+}

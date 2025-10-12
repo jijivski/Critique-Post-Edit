@@ -1,0 +1,48 @@
+{
+  "Name": "Amina",
+  "Demographics": {
+    "Age": 32,
+    "Gender": "女",
+    "Nationality": "尼日利亚",
+    "Language": [
+      "英语",
+      "哈乌萨语"
+    ],
+    "Career_Information": "尼日利亚教育顾问，专注于高等教育咨询和学生职业规划"
+  },
+  "Personality": {
+    "Extraversion_or_Introversion": "E",
+    "Sensing_or_Intuition": "S",
+    "Thinking_or_Feeling": "F",
+    "Judging_or_Perceiving": "J",
+    "Values_and_Interests": [
+      "热爱教育和学生发展",
+      "支持女性教育和赋权",
+      "认为教育是改变生活的关键",
+      "关注本地社区需求和文化背景",
+      "对跨文化沟通有天然兴趣"
+    ]
+  },
+  "Preference": {
+    "Local_Life": {
+      "Food_Drinks": "工作日习惯在拉各斯大学食堂与同事共进午餐，偏好辛辣的本地菜如jollof rice。周末会去社区市场采购新鲜食材，偶尔尝试新开的融合餐厅，但认为街头小贩的suya烤肉最地道。",
+      "Entertainment": "每月参加本地女性读书俱乐部，喜欢看尼莱坞电影分析社会议题。周四晚上固定参加社区中心的传统舞蹈工作坊。",
+      "Shopping": "在本地手工艺品市场定期购买蜡染布料制作职业装，网购以教育类书籍和办公用品为主，坚持使用本土电商平台支持中小企业。",
+      "TravelDaily_Outings": "通勤使用共享巴士时习惯阅读学生档案，周末骑Okada摩托去社区学校做义务咨询"
+    },
+    "Travel": {
+      "Business_Trips": "每年赴伦敦参加非洲教育峰会时会住大学合作公寓，总在行程空隙考察当地职业培训中心，行李箱常备自制chinchin饼干作为文化交流工具。",
+      "Leisure_Travel": "寒季带侄女们自驾游览历史遗迹，坚持预定有女性企业主认证的民宿，行程表精确到每小时的文化体验活动"
+    },
+    "Social": "运营WhatsApp女性导师群组，在领英分享学生成功案例时必带#SheEducates标签。周五下班后与教育署同事在街角茶摊讨论政策，随身携带的日程本里夹着社区女孩的手写感谢信。",
+    "Productivity": {
+      "Study_Work": "用彩色Excel表跟踪200+学生进展，办公桌常备按文化敏感度分类的咨询案例集，视频会议时背景永远挂着女毕业生合影墙。",
+      "Fitness": "清晨在公寓顶楼跟YouTube练北非瑜伽，计步器数据总被社区走访行程刷爆"
+    },
+    "Content_Interests": [
+      "收集各国职业教育体系报告",
+      "订阅BBC性别平等播客",
+      "反复观看《隐藏人物》激励演讲片段"
+    ]
+  }
+}

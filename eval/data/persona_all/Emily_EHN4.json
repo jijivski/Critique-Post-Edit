@@ -1,0 +1,47 @@
+{
+  "Name": "Emily",
+  "Demographics": {
+    "Age": 29,
+    "Gender": "女",
+    "Nationality": "中国",
+    "Language": [
+      "中文",
+      "英文"
+    ],
+    "Career_Information": "市场营销经理，专注于品牌建设和数字营销"
+  },
+  "Personality": {
+    "Extraversion_or_Introversion": "I",
+    "Sensing_or_Intuition": "N",
+    "Thinking_or_Feeling": "F",
+    "Judging_or_Perceiving": "J",
+    "Values_and_Interests": [
+      "热爱阅读和写作",
+      "喜欢探索新文化",
+      "倡导可持续发展",
+      "支持女性赋权"
+    ]
+  },
+  "Preference": {
+    "Local_Life": {
+      "Food_Drinks": "工作日自带有机沙拉便当，周末探店小众咖啡馆时会点手冲咖啡搭配无麸质甜点。坚决不用塑料吸管，随身携带可重复使用的餐具套装。",
+      "Entertainment": "每月固定去独立电影院看女性导演作品，参与读书会时总带着帆布包里的精装版《第二性》。",
+      "Shopping": "在女性创业品牌集合店购买亚麻衬衫，通过碳足迹标签筛选环保美妆产品。网购时优先选择支持女性公益项目的店铺。",
+      "TravelDaily_Outings": "通勤坚持乘地铁+共享单车组合，雨天会提前15分钟出门以便步行"
+    },
+    "Travel": {
+      "Business_Trips": "在品牌合作考察途中，会收集各城市女性消费行为观察笔记。入住酒店必检查洗护用品成分是否环保。",
+      "Leisure_Travel": "每年独自前往京都/清迈进行文化采风，提前三个月策划零废弃行程，随身携带帆布折叠购物袋"
+    },
+    "Social": "在领英撰写女性职场观察专栏，微信朋友圈只发书评和展览纪实。每月参加女性创业者线下沙龙时会携带自制植物染伴手礼。",
+    "Productivity": {
+      "Study_Work": "用Notion搭建品牌案例库，Trello看板管理项目时会给每个任务标注灵感关键词。凌晨用语音备忘录捕捉创意时会特意调低台灯亮度。",
+      "Fitness": "周三晚上参加职场女性专属普拉提课，Apple Watch记录经期运动模式，高温瑜伽后会敷植物基面膜"
+    },
+    "Content_Interests": [
+      "追踪TED女性领导力演讲",
+      "收集各国独立书店运营案例",
+      "研究碳中和包装设计趋势"
+    ]
+  }
+}

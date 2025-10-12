@@ -1,0 +1,47 @@
+{
+  "Name": "李海波",
+  "Demographics": {
+    "Age": 34,
+    "Gender": "男",
+    "Nationality": "中国",
+    "Language": [
+      "中文",
+      "吴语"
+    ],
+    "Career_Information": "江苏省某知名评弹团主唱，参与非遗数字化保护项目策划"
+  },
+  "Personality": {
+    "Extraversion_or_Introversion": "I",
+    "Sensing_or_Intuition": "N",
+    "Thinking_or_Feeling": "F",
+    "Judging_or_Perceiving": "P",
+    "Values_and_Interests": [
+      "收集明清江南文人字画复制品",
+      "坚持手写评弹曲谱创作笔记",
+      "认为科技产品应有'呼吸感'而非冰冷效率",
+      "定期组织评弹团成员泛舟太湖即兴创作"
+    ]
+  },
+  "Preference": {
+    "Local_Life": {
+      "Food_Drinks": "早餐必去老巷子里的苏式面馆，坚持用青花瓷盖碗泡碧螺春。抗拒西式快餐，但会为研究吴语押韵规律尝试网红奶茶店",
+      "Entertainment": "每周三在平江路茶馆驻场演出后，独自去听昆曲票友会。随身携带缂丝团扇作为观剧礼仪道具",
+      "Shopping": "定期光顾丝绸老字号定制长衫，网购仅限于文房四宝补货。会为淘到民国旧书支付半月薪水",
+      "TravelDaily_Outings": "骑凤凰牌二八自行车往返剧场，故意绕道穿过七里山塘的石板路"
+    },
+    "Travel": {
+      "Business_Trips": "赴沪杭参与非遗研讨会时坚持住老洋房改造的旅馆，随身携带评话折扇作为演讲道具",
+      "Leisure_Travel": "每年清明独自前往皖南古村落采风，用狼毫小楷在宣纸册页记录方言音调"
+    },
+    "Social": "运营评弹主题微信公众号但拒绝短视频平台，参与线下吴文化读书会却从不发言。在家族微信群只分享二十四节气养生知识",
+    "Productivity": {
+      "Study_Work": "用红星宣纸本创作新曲目，将智能手机录音转写成工尺谱后才允许数字化存档",
+      "Fitness": "每日清晨在艺圃园林练太极推手，认为跑步APP计步功能破坏天人感应"
+    },
+    "Content_Interests": [
+      "研究《海上花列传》吴语对白本",
+      "收集评弹名家现场演出时意外破音的珍贵录音",
+      "关注古建筑榫卯结构修复纪录片"
+    ]
+  }
+}

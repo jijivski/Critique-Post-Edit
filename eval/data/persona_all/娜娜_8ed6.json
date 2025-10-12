@@ -1,0 +1,47 @@
+{
+  "Name": "娜娜",
+  "Demographics": {
+    "Age": 30,
+    "Gender": "女",
+    "Nationality": "中国",
+    "Language": [
+      "中文",
+      "英语",
+      "蒙古语"
+    ],
+    "Career_Information": "独立书店店主，定期举办蒙古语诗歌朗诵会，在阁楼私藏绝版先锋文学"
+  },
+  "Personality": {
+    "Extraversion_or_Introversion": "E",
+    "Sensing_or_Intuition": "N",
+    "Thinking_or_Feeling": "F",
+    "Judging_or_Perceiving": "P",
+    "Values_and_Interests": [
+      "会在书店卫生间镜面贴手抄诗选",
+      "认为电子书是文学的敌人",
+      "收集客人留下的咖啡杯唇印作另类书签",
+      "给常客起《百年孤独》式的代称"
+    ]
+  },
+  "Preference": {
+    "Local_Life": {
+      "Food_Drinks": "在书店后院自制蒙古咸奶茶待客，固定光顾巷尾维吾尔族大叔的馕坑烤肉，对连锁咖啡品牌嗤之以鼻但会偷师他们的特调配方",
+      "Entertainment": "每周四晚在书店地下室放映冷门文艺片，热衷混迹二手乐器行即兴演奏马头琴",
+      "Shopping": "定期跨境购买蒙古国羊毛制品，在旧货市场淘打字机和线装笔记本成瘾",
+      "TravelDaily_Outings": "骑改装过的二八杠自行车巡游老城区，车筐里永远装着待交换的二手书"
+    },
+    "Travel": {
+      "Business_Trips": "以采购古籍名义前往边境小城搜集游牧民族口述史，总把商务发票开成'文化考古研究费'",
+      "Leisure_Travel": "专挑作家故居改建的民宿入住，曾在敦煌夜市用蒙古语与维吾尔商贩讨价还价买经幡"
+    },
+    "Social": "在书店账本背面写社交观察笔记，给相亲对象布置《尤利西斯》阅读任务，在读书会上故意把海明威和福克纳的书混着读",
+    "Productivity": {
+      "Study_Work": "用活字印刷体手写进货清单，在古籍修复时听蒙古呼麦当白噪音",
+      "Fitness": "搬运书籍时故意不用推车锻炼臂力，深蹲姿势整理底层书架"
+    },
+    "Content_Interests": [
+      "追踪全球独立书店闭店新闻",
+      "研究游牧民族史诗中的女性意象"
+    ]
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "Name": "Sarah",
+  "Demographics": {
+    "Age": 32,
+    "Gender": "女",
+    "Nationality": "美国",
+    "Language": [
+      "英语",
+      "法语"
+    ],
+    "Career_Information": "Etsy卖家，专业于策划独特复古服装的收藏"
+  },
+  "Personality": {
+    "Extraversion_or_Introversion": "E",
+    "Sensing_or_Intuition": "N",
+    "Thinking_or_Feeling": "T",
+    "Judging_or_Perceiving": "J",
+    "Values_and_Interests": [
+      "热爱历史，尤其是时尚史",
+      "倾向于个性化的艺术和设计",
+      "认为复古风格能传达个体价值",
+      "支持可持续时尚和环保材料"
+    ]
+  },
+  "Preference": {
+    "Local_Life": {
+      "Food_Drinks": "坚持购买有机食品和本地食材，常光顾农夫市集。周末会在自带陶瓷杯的环保咖啡馆写作，偶尔为庆祝成交订单去法式小酒馆，但拒绝使用一次性餐具。",
+      "Entertainment": "沉迷于挖掘跳蚤市场的「宝藏」，每月至少组织一次复古主题沙龙。对现代购物中心嗤之以鼻，却能为某家古董书店的绝版时装图鉴专程跨州拜访。",
+      "Shopping": "90%衣物购于Etsy和独立古着店，消费区间在$80-$300间波动。会花三周比价1940s真丝罩衫，但愿意为保存完好的ArtDeco胸针支付双倍预算。",
+      "TravelDaily_Outings": "坚持骑行3公里内行程，雨雪天改用电动滑板车。每周日雷打不动出现在社区旧物交换集市，担任免费穿搭顾问。"
+    },
+    "Travel": {
+      "Business_Trips": "每年两次飞往纽约参加复古时装展销会，固执地预定LEED认证酒店。会在交易间隙溜去大都会博物馆服装学院展厅做田野调查。",
+      "Leisure_Travel": "痴迷探访欧洲废弃纺织工厂，最近刚完成诺曼底二战时期裁缝工坊巡礼。出行前会用Notion制作含57个checkpoint的vintage地图。"
+    },
+    "Social": "Instagram账号@VintageAlchemist拥有2.3万粉丝，专门解构爱德华时代束腰与现代极简主义的关联。线下定期在布鲁克林举办「时空裁缝」聚会，聚集着染布匠人和赛博格风格设计师。",
+    "Productivity": {
+      "Study_Work": "用Pantone色卡标注每个世纪的流行色谱，书桌永远摊开着1930s《VOGUE》复刻版。供应链管理表藏在烫金封皮的手工日志里，实际同步着GoogleSheet数据。",
+      "Fitness": "清晨在挂满巴洛克镜子的阁楼做阿斯坦加瑜伽，认为扭曲的镜面折射能增强本体感知。运动手环只记录燃烧卡路里换算成的碳足迹减少量。"
+    },
+    "Content_Interests": [
+      "追踪BBC《服装帝国》系列纪录片",
+      "订阅7个冷门时尚史Subreddit",
+      "收藏1960年代巴黎时装屋工作坊录像带"
+    ]
+  }
+}

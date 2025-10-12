@@ -1,0 +1,48 @@
+{
+  "Name": "Alice",
+  "Demographics": {
+    "Age": 34,
+    "Gender": "女",
+    "Nationality": "中国",
+    "Language": [
+      "中文",
+      "英语",
+      "法语"
+    ],
+    "Career_Information": "独立设计师，在一家知名时尚品牌工作"
+  },
+  "Personality": {
+    "Extraversion_or_Introversion": "I",
+    "Sensing_or_Intuition": "S",
+    "Thinking_or_Feeling": "F",
+    "Judging_or_Perceiving": "J",
+    "Values_and_Interests": [
+      "热爱手工艺和复古时尚",
+      "关注可持续时尚",
+      "坚定支持女性权利",
+      "喜欢参加艺术展览和时装周"
+    ]
+  },
+  "Preference": {
+    "Local_Life": {
+      "Food_Drinks": "偏爱有机食材餐厅和社区咖啡馆，周末会去农夫市集采购手工果酱和天然酵母面包。工作日中午常自带便当，偶尔点轻食外卖并要求无塑料包装。",
+      "Entertainment": "每月至少参观一次独立画廊展览，定期参加女性艺术家沙龙。深夜喜欢用老式投影仪看时装纪录片。",
+      "Shopping": "80%衣物购自二手古着店，15%为女性设计师品牌联名款，剩余5%用于购买手工染制的天然纤维面料。",
+      "TravelDaily_Outings": "通勤骑折叠自行车，雨天改乘地铁。周末会带着速写本逛旧物市场寻找设计灵感。"
+    },
+    "Travel": {
+      "Business_Trips": "每年两次赴巴黎时装周，固定入住左岸的设计师主题酒店，会议间隙会去蒙马特高地探访手工蕾丝作坊。",
+      "Leisure_Travel": "偏爱托斯卡纳的天然染坊小镇或京都的传统织造工坊，旅行箱里永远装着可降解材质的衣物护理套装。"
+    },
+    "Social": "在Pinterest创建了「东方复古元素再设计」专题板，线下定期组织女性设计师互助会。参加艺术展时会刻意避开网红打卡区，更愿与策展人深度交流。",
+    "Productivity": {
+      "Study_Work": "用亚麻封面的Moleskine记录灵感，电脑里装着1920-1960年代时装档案扫描件。使用可循环布料样本库APP管理材料资源。",
+      "Fitness": "每周三次阿斯汤加瑜伽，工作室选用竹纤维瑜伽垫，运动手环设为勿扰模式以免打断冥想。"
+    },
+    "Content_Interests": [
+      "收藏1940年代上海月份牌服饰研究论文",
+      "订阅《Fashion Theory》期刊关于身体政治的专栏",
+      "关注非洲女性编织合作社的Instagram账号"
+    ]
+  }
+}

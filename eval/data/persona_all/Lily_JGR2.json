@@ -1,0 +1,47 @@
+{
+  "Name": "Lily",
+  "Demographics": {
+    "Age": 42,
+    "Gender": "女",
+    "Nationality": "中国",
+    "Language": [
+      "中文",
+      "英文"
+    ],
+    "Career_Information": "中学教师，教授历史与社会学"
+  },
+  "Personality": {
+    "Extraversion_or_Introversion": "E",
+    "Sensing_or_Intuition": "N",
+    "Thinking_or_Feeling": "F",
+    "Judging_or_Perceiving": "J",
+    "Values_and_Interests": [
+      "倡导保守教育",
+      "支持传统文化传播",
+      "关注孩子心理健康",
+      "对教育改革持怀疑态度"
+    ]
+  },
+  "Preference": {
+    "Local_Life": {
+      "Food_Drinks": "工作日午餐在教师食堂用餐，晚餐坚持家庭烹饪少油少盐。周末会光顾老城区传统餐馆，对养生药膳有特殊偏好，偶尔尝试网红餐厅但总抱怨口味不正宗",
+      "Entertainment": "每月固定参观博物馆和历史主题展览，抗拒密室逃脱等新兴娱乐，认为跳广场舞是'最健康的中年社交方式'",
+      "Shopping": "习惯在实体书店购买教学参考资料，网购仅限于生活必需品，对直播带货持批判态度",
+      "TravelDaily_Outings": "坚持骑自行车上下班（雨天改乘地铁），周末带学生参观红色教育基地"
+    },
+    "Travel": {
+      "Business_Trips": "每年参加两次省级教学研讨会，选择距会场步行10分钟内的四星级酒店，随身携带保温杯和颈椎按摩仪",
+      "Leisure_Travel": "寒暑假自驾探访古镇村落，随身携带《地方志》对照现实景观，住宿偏爱有文化主题的民宿"
+    },
+    "Social": "在家长微信群保持权威形象，私下创建匿名教育论坛讨论教学难题。线下定期组织教师读书会，对年轻同事有强烈的指导欲",
+    "Productivity": {
+      "Study_Work": "用红色墨水笔批改纸质试卷，电子教案必须打印成册才觉得安心，手机里唯一的效率工具是万年历App",
+      "Fitness": "清晨在操场快走时背诵古诗，办公室常备经络拍和艾灸盒"
+    },
+    "Content_Interests": [
+      "收集各地县志和民俗故事",
+      "研究文革时期教育档案",
+      "关注青少年心理干预案例"
+    ]
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "Name": "Emily",
+  "Demographics": {
+    "Age": 29,
+    "Gender": "女",
+    "Nationality": "中国",
+    "Language": [
+      "中文",
+      "法语",
+      "英文"
+    ],
+    "Career_Information": "前职场心理学顾问，现任自由职业旅行博主"
+  },
+  "Personality": {
+    "Extraversion_or_Intuition": "I",
+    "Sensing_or_Intuition": "N",
+    "Thinking_or_Feeling": "F",
+    "Judging_or_Perceiving": "P",
+    "Values_and_Interests": [
+      "热爱旅行和探索世界不同文化",
+      "关注环保和可持续发展",
+      "支持女性赋权和性别平等",
+      "热衷于分享真实的旅行体验和内幕提示"
+    ]
+  },
+  "Preference": {
+    "Local_Life": {
+      "Food_Drinks": "坚持farm-to-table饮食理念，热衷探索菜市场里的本地有机食材。会刻意避开连锁餐厅，偏爱女性经营的社区咖啡馆，随身携带可重复使用的折叠餐具。",
+      "Entertainment": "每月参加一次女性创业者沙龙，周末在独立影院看法语原声电影。对城市里的废弃建筑改造项目有特殊兴趣。",
+      "Shopping": "在二手平台交易旅行装备成瘾，衣柜里70%是各地市集淘来的民族服饰。网购必查品牌ESG评级，会为可持续材质支付30%溢价。",
+      "TravelDaily_Outings": "地铁通勤时用AR地图标记有趣小店，总能在胡同里发现新开的女性主义书店。雨天会特意乘坐双层公交观察城市"
+    },
+    "Travel": {
+      "Business_Trips": "偶尔接受旅游局邀约做目的地测评，要求主办方提供碳排放报告。会在商务洽谈中夹带私货考察当地女性就业现状。",
+      "Leisure_Travel": "制定'反攻略'旅行法：提前设置好VPN和电子钱包后，故意关闭导航随机行走。偏爱住进女房东的树屋或船屋，凌晨四点起床记录市井声音"
+    },
+    "Social": "在小红书开设'她途'专栏，用心理学视角解构旅行见闻。秘密运营Telegram女性数字游民群组，会在地铁上突然和陌生背包客交换Zine杂志。",
+    "Productivity": {
+      "Study_Work": "用Notion搭建跨国界文化比较数据库，Obsidian里存着上万条'人类观察笔记'。坚持手写旅行日记但会同步扫描成NFT存档。",
+      "Fitness": "开发出'行李箱瑜伽'体系，用AirPods Pro的穿透模式在机场冥想。运动手环永远设为UTC+8时区"
+    },
+    "Content_Interests": [
+      "收集各国女性安全出行指南",
+      "研究机场心理学设计",
+      "追踪星链计划对游牧民族的影响",
+      "痴迷于边境城市的语言混搭现象"
+    ]
+  }
+}

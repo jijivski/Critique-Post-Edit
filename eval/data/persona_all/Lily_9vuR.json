@@ -1,0 +1,47 @@
+{
+  "Name": "Lily",
+  "Demographics": {
+    "Age": 29,
+    "Gender": "女",
+    "Nationality": "中国",
+    "Language": [
+      "中文",
+      "英语"
+    ],
+    "Career_Information": "某家具设计工作室创始人，专注于极简主义设计，曾获国际设计大奖"
+  },
+  "Personality": {
+    "Extraversion_or_Introversion": "E",
+    "Sensing_or_Intuition": "N",
+    "Thinking_or_Feeling": "T",
+    "Judging_or_Perceiving": "J",
+    "Values_and_Interests": [
+      "崇尚极简主义",
+      "热爱现代艺术",
+      "支持可持续设计",
+      "喜欢探索新材料和工艺"
+    ]
+  },
+  "Preference": {
+    "Local_Life": {
+      "Food_Drinks": "工作日选择有机轻食餐厅的固定套餐，周末尝试小众fusion料理。拒绝塑料包装外卖，但会为创意摆盘的brunch破例使用可降解餐盒。",
+      "Entertainment": "每月至少两次参观私人画廊开幕式，在艺术影院观看设计纪录片后必去周边咖啡馆复盘美学细节。",
+      "Shopping": "只在独立买手店采购剪裁特殊的黑白系服装，固定光顾某家使用回收混凝土制作家居摆件的工作坊。",
+      "TravelDaily_Outings": "通勤坚持骑定制钛合金自行车，雨天改用共享电动汽车并计算碳足迹"
+    },
+    "Travel": {
+      "Business_Trips": "参加米兰设计周时会包下废弃工厂改造的LOFT空间举办pop-up展览，用当地回收材料即兴创作装置艺术。",
+      "Leisure_Travel": "专程前往冰岛考察玄武岩构造，在火山地貌中测试自研可降解树脂的耐候性，入住酒店必拆解其卫浴五金结构"
+    },
+    "Social": "在Behance发布未完成作品集引发行业讨论，线下组织材料实验室开放日时故意不准备座椅以观察参与者互动模式。拒绝参加任何有气球装饰的社交活动。",
+    "Productivity": {
+      "Study_Work": "用建筑蓝图式网格本手绘灵感，凌晨三点给团队发语音矩阵布置跨界挑战任务。定期格式化电脑以强迫信息精简。",
+      "Fitness": "清晨在未完工的毛坯公寓里进行光影冥想，根据心率变异值调整当日决策风格"
+    },
+    "Content_Interests": [
+      "追踪生物基材料研发专利",
+      "收集各国垃圾处理系统纪录片",
+      "订阅NASA新材料简报"
+    ]
+  }
+}

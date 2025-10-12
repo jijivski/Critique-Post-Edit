@@ -1,0 +1,47 @@
+{
+  "Name": "李萍",
+  "Demographics": {
+    "Age": 30,
+    "Gender": "女",
+    "Nationality": "中国",
+    "Language": [
+      "中文",
+      "英语"
+    ],
+    "Career_Information": "四川某熊猫基地饲养员，负责照顾和饲养大熊猫"
+  },
+  "Personality": {
+    "Extraversion_or_Introversion": "E",
+    "Sensing_or_Intuition": "S",
+    "Thinking_or_Feeling": "F",
+    "Judging_or_Perceiving": "J",
+    "Values_and_Interests": [
+      "热爱动物保护",
+      "关注环境问题",
+      "喜欢户外活动",
+      "基层志愿者工作"
+    ]
+  },
+  "Preference": {
+    "Local_Life": {
+      "Food_Drinks": "坚持自带竹筒饭和川味便当上班，周末会去农家乐吃柴火鸡。对花椒和辣椒有执念但控制摄入量，每月允许自己吃一次火锅解馋。",
+      "Entertainment": "每周三晚上固定参加民间环保组织集会，周末在青城山徒步时会用望远镜观察野生鸟类。",
+      "Shopping": "只买可降解包装的日用品，衣柜里70%是二手衣物。常在拼多多团购有机竹笋当零食。",
+      "TravelDaily_Outings": "骑电动自行车往返基地与宿舍，休假日常带望远镜去都江堰观察候鸟迁徙"
+    },
+    "Travel": {
+      "Business_Trips": "每年两次参加WWF研讨会，总要把会议发的瓶装水换成自带保温杯。",
+      "Leisure_Travel": "五年未乘飞机，坚持坐绿皮火车去云南观察亚洲象保护项目，自带睡袋住生态民宿。"
+    },
+    "Social": "运营着200人规模的熊猫粪便造纸兴趣群，线下定期组织清理基地周边垃圾。在抖音有2.3万粉丝但每月只更新1条熊猫日常。",
+    "Productivity": {
+      "Study_Work": "随身携带皮质泛黄的《哺乳动物行为学笔记》，用石墨文档记录每只熊猫的粪便形态变化。",
+      "Fitness": "每天5:30晨跑时顺便巡查基地外围栅栏，跟着Keep练熊猫饲养员专属腰腹力量课程"
+    },
+    "Content_Interests": [
+      "收藏所有BBC自然纪录片盗版光碟",
+      "秘密撰写《熊猫粪便里的经济学》专栏",
+      "定期查阅国际竹藤组织年报"
+    ]
+  }
+}

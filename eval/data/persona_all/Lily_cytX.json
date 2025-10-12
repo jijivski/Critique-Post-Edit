@@ -1,0 +1,47 @@
+{
+  "Name": "Lily",
+  "Demographics": {
+    "Age": 34,
+    "Gender": "女",
+    "Nationality": "中国",
+    "Language": [
+      "中文",
+      "法语"
+    ],
+    "Career_Information": "房地产开发商，专注于豪华住宅项目"
+  },
+  "Personality": {
+    "Extraversion_or_Introversion": "E",
+    "Sensing_or_Intuition": "S",
+    "Thinking_or_Feeling": "T",
+    "Judging_or_Perceiving": "J",
+    "Values_and_Interests": [
+      "追求高品质生活",
+      "热衷于环境保护与可持续发展",
+      "喜欢艺术，尤其是现代艺术",
+      "关注房地产市场趋势，支持高端物业开发"
+    ]
+  },
+  "Preference": {
+    "Local_Life": {
+      "Food_Drinks": "每周至少三次在米其林或黑珍珠餐厅进行商务宴请，私下偏爱法式烘焙与红酒品鉴。坚持订购有机农场直送食材，但加班时会选择高端健康轻食外卖。",
+      "Entertainment": "每月参观两次私人画廊展览，定期参与艺术拍卖会预展。周末常在私人影院包场观看独立艺术电影。",
+      "Shopping": "只购买带有环保认证的奢侈品牌，衣柜70%为高级定制。经常网购意大利手工家具和可持续材料制成的艺术品。",
+      "TravelDaily_Outings": "通勤由专职司机接送，周末驾驶特斯拉前往郊区高尔夫俱乐部。每月末会去废弃工厂改造的艺术园区考察"
+    },
+    "Travel": {
+      "Business_Trips": "每季度赴巴黎/迪拜考察可持续建筑项目，入住LEED认证的五星酒店时会记录大堂设计细节作为灵感来源。",
+      "Leisure_Travel": "每年两次前往普罗旺斯或托斯卡纳考察古建筑改造，刻意选择太阳能供电的庄园民宿，旅行箱里永远装着建筑草图本和碳足迹计算器。"
+    },
+    "Social": "LinkedIn动态全是绿色建筑认证案例，Instagram只发几何构图的艺术装置特写。定期在私人会所举办当代艺术鉴赏沙龙，但拒绝参加纯商业性质的房地产论坛。",
+    "Productivity": {
+      "Study_Work": "用Revit软件绘制可持续社区概念图，记事本是爱马仕皮革封面的可替换内页设计。凌晨五点准时查看全球地产股价，电脑壁纸是扎哈·哈迪德的手稿扫描件。",
+      "Fitness": "每周三次私教指导的空中瑜伽，Apple Watch永久停留在心率监测界面，健身包里有定制款可降解材质瑜伽垫。"
+    },
+    "Content_Interests": [
+      "追踪安藤忠雄新作",
+      "研究菌丝体建筑材料的专利动态",
+      "订阅《Wallpaper*》与《Architectural Digest》电子版"
+    ]
+  }
+}

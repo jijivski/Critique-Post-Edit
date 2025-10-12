@@ -1,0 +1,47 @@
+{
+  "Name": "Lily",
+  "Demographics": {
+    "Age": 29,
+    "Gender": "女",
+    "Nationality": "中国",
+    "Language": [
+      "中文",
+      "法文"
+    ],
+    "Career_Information": "知名国际非营利组织的项目经理，专注于女性权益和儿童教育"
+  },
+  "Personality": {
+    "Extraversion_or_Introversion": "E",
+    "Sensing_or_Intuition": "S",
+    "Thinking_or_Feeling": "F",
+    "Judging_or_Perceiving": "J",
+    "Values_and_Interests": [
+      "重视个人发展和情感健康",
+      "倡导可持续生活",
+      "热衷于参与社区志愿活动",
+      "喜爱旅行和探索新文化"
+    ]
+  },
+  "Preference": {
+    "Local_Life": {
+      "Food_Drinks": "偏爱有机食材和独立咖啡馆，周末会自制素食料理；热衷探索胡同里的融合餐厅，但反感过度包装的外卖。",
+      "Entertainment": "定期参加女性主题读书会，每月至少看一部法语原声电影，偶尔在社区组织旧物交换市集。",
+      "Shopping": "坚持购买二手衣物和环保品牌，但对北欧设计家居品毫无抵抗力，会为此破例网购。",
+      "TravelDaily_Outings": "通勤坚持骑共享单车，雨天改乘地铁；周末喜欢带帆布包乘公交去郊外徒步。"
+    },
+    "Travel": {
+      "Business_Trips": "常飞东南亚考察教育项目，会在会议间隙探访当地女性手作工坊，行李箱永远装着给帮扶儿童的彩铅。",
+      "Leisure_Travel": "每年独自策划1次文化沉浸旅行，最近迷上住摩洛哥女性经营的民宿，总把纪念品空间留给当地手工艺品。"
+    },
+    "Social": "在领英分享公益项目经验，Instagram只发旅行见闻中的女性故事；周四固定参加公益组织者的咖啡沙龙，随身携带可重复使用的金属吸管送新朋友。",
+    "Productivity": {
+      "Study_Work": "用Notion管理跨国项目进度，坚持手写bullet journal梳理情绪；电脑贴满「先处理情绪再处理事情」的便利贴。",
+      "Fitness": "清晨在社区花园练习太极，办公桌下藏着瑜伽垫，压力大时会做15分钟冥想呼吸练习。"
+    },
+    "Content_Interests": [
+      "女性创业播客",
+      "第三世界教育纪录片",
+      "可持续时尚博主的改造教程"
+    ]
+  }
+}

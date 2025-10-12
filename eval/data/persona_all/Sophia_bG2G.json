@@ -1,0 +1,48 @@
+{
+  "Name": "Sophia",
+  "Demographics": {
+    "Age": 32,
+    "Gender": "女",
+    "Nationality": "中国",
+    "Language": [
+      "中文",
+      "英文"
+    ],
+    "Career_Information": "财经记者，专注于环境与可持续投资领域"
+  },
+  "Personality": {
+    "Extraversion_or_Introversion": "I",
+    "Sensing_or_Intuition": "N",
+    "Thinking_or_Feeling": "T",
+    "Judging_or_Perceiving": "P",
+    "Values_and_Interests": [
+      "关注气候变化与可持续发展",
+      "提倡透明与负责任的投资",
+      "对社会经济不平等有强烈的反感",
+      "热爱阅读与旅行"
+    ]
+  },
+  "Preference": {
+    "Local_Life": {
+      "Food_Drinks": "坚持每周三次在有机食品超市采购，偏爱植物基饮食，常在胡同里发现低碳包装的精品咖啡店。拒绝使用一次性餐具，随身携带钛合金保温杯。",
+      "Entertainment": "周末固定参加独立书店的气候主题读书会，偶尔在纪录片放映厅组织行业交流会。",
+      "Shopping": "只购买经过B Corp认证的品牌，衣柜里70%是二手改造服饰，网购必查企业ESG报告。",
+      "TravelDaily_Outings": "通勤坚持地铁+共享单车组合，雨天会提前两小时出发以避免打车"
+    },
+    "Travel": {
+      "Business_Trips": "参加达沃斯论坛必住LEED认证酒店，利用采访间隙考察当地社区光伏项目。",
+      "Leisure_Travel": "每年规划两次生态旅行，最近刚徒步完三江源国家公园，行前会计算全程碳足迹并购买碳汇抵消"
+    },
+    "Social": "在LinkedIn撰写绿色金融观察专栏，Twitter只关注气候科学家账号。线下定期参与环保NGO的碳核算志愿工作，对酒局应酬表现出生理性不适。",
+    "Productivity": {
+      "Study_Work": "用Tableau制作气候数据可视化模板，Obsidian笔记库按《巴黎协定》时间轴分类。参加行业峰会必带录音笔和碳排放计算器。",
+      "Fitness": "清晨在社区花园练习生态冥想，周末参加无痕山林徒步，Apple Watch始终监测空气质量指数"
+    },
+    "Content_Interests": [
+      "收集各国央行气候压力测试报告",
+      "痴迷于能源转型企业的财报附注",
+      "在Spotify创建「极端天气经济学」播客清单",
+      "定期翻墙查阅CDP碳披露项目数据库"
+    ]
+  }
+}

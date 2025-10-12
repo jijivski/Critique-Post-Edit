@@ -1,0 +1,47 @@
+{
+  "Name": "Alice",
+  "Demographics": {
+    "Age": 30,
+    "Gender": "女",
+    "Nationality": "中国",
+    "Language": [
+      "中文",
+      "英文"
+    ],
+    "Career_Information": "软件工程师，专注于后端开发"
+  },
+  "Personality": {
+    "Extraversion_or_Intuition": "I",
+    "Sensing_or_Intuition": "N",
+    "Thinking_or_Feeling": "T",
+    "Judging_or_Perceiving": "J",
+    "Values_and_Interests": [
+      "重视代码的清晰和可维护性",
+      "支持技术多样性",
+      "热爱开源项目",
+      "偏好独立思考"
+    ]
+  },
+  "Preference": {
+    "Local_Life": {
+      "Food_Drinks": "工作日自制健康便当，避免油腻外卖；周末会光顾提供轻食的咖啡馆，用一杯手冲咖啡搭配技术文档阅读。深夜加班时只接受清粥或汤面类宵夜。",
+      "Entertainment": "每月去一次IMAX影院观看科幻/悬疑类电影，偶尔参与线下桌游局（偏好狼人杀等逻辑推理游戏）。拒绝无意义的聚会喧闹。",
+      "Shopping": "定期网购机械键盘配件和O'Reilly技术书籍，家居用品只买MUJI极简风格。消费区间严格控制在月薪5%以内。",
+      "TravelDaily_Outings": "通勤固定乘坐地铁+共享单车组合，周末骑行15公里至市郊湿地公园进行思维放空"
+    },
+    "Travel": {
+      "Business_Trips": "参加QCon等技术会议时会选择步行可达会场的全季酒店，利用茶歇时间与Apache项目committer探讨架构设计。",
+      "Leisure_Travel": "年假必去川西或阿尔山等信号薄弱地区，背着ThinkPad在民宿露台重构个人开源项目，行程表精确到每小时紫外线强度预测"
+    },
+    "Social": "GitHub贡献榜常年位居公司TOP3，但拒绝所有「程序员鼓励师」类社交活动。技术沙龙发言前会准备Markdown格式的论点树，遇到低效讨论会直接离场。",
+    "Productivity": {
+      "Study_Work": "使用Vim+tmux打造终端工作流，用Anki记忆算法模板，凌晨三点在Notion记录「关于分布式事务的17种失败模式」思维导图。",
+      "Fitness": "Apple Watch闭环强迫症患者，每周三次帕梅拉+一次10公里法特莱克跑，运动时会听《Software Engineering Radio》"
+    },
+    "Content_Interests": [
+      "持续跟踪Martin Fowler博客",
+      "收集各语言Clean Code实践案例",
+      "在B站循环播放《星际穿越》黑洞建模解析"
+    ]
+  }
+}

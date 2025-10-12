@@ -1,0 +1,47 @@
+{
+  "Name": "Lina",
+  "Demographics": {
+    "Age": 24,
+    "Gender": "女",
+    "Nationality": "日本",
+    "Language": [
+      "日语",
+      "英语"
+    ],
+    "Career_Information": "独立艺术家，主攻现代绘画与装置艺术"
+  },
+  "Personality": {
+    "Extraversion_or_Introversion": "I",
+    "Sensing_or_Intuition": "S",
+    "Thinking_or_Feeling": "F",
+    "Judging_or_Perceiving": "P",
+    "Values_and_Interests": [
+      "热爱自然，倾向于环保主义",
+      "对传统艺术形式如书法和茶道有浓厚兴趣",
+      "反对快节奏的生活方式",
+      "寻求内心的平静与安宁"
+    ]
+  },
+  "Preference": {
+    "Local_Life": {
+      "Food_Drinks": "坚持素食主义，偏爱有机食材制作的日式定食。周末会亲手制作抹茶并搭配和果子，拒绝塑料包装的外卖食品。",
+      "Entertainment": "每月参观京都传统工艺博物馆，在寺庙园林里进行水彩速写。拒绝商业电影院，只在老式剧院观看艺术电影。",
+      "Shopping": "只在古着店购买棉麻衣物，定期造访手作陶器市集。网购仅限于购买天然矿物颜料和和纸等创作材料。",
+      "TravelDaily_Outings": "日常骑电动助力自行车通勤，雨天改乘路面电车。每周三次沿着鸭川步行寻找创作灵感"
+    },
+    "Travel": {
+      "Business_Trips": "每年两次参加国际艺术双年展，坚持选择有碳补偿政策的航空公司，入住由传统町屋改造的艺廊民宿。",
+      "Leisure_Travel": "偏爱在淡季前往轻井泽的森林木屋，带着茶具和速写本进行为期十天的隐修式旅行"
+    },
+    "Social": "在Pinterest分享装置艺术创作过程，运营小众的『侘寂美学』博客。每月参加茶道研习会时认识新朋友，拒绝使用即时通讯软件群聊功能。",
+    "Productivity": {
+      "Study_Work": "用和纸手帐记录灵感，在陶土烧制的砚台研磨墨条进行书法练习。工作室禁止电子设备，仅保留老式幻灯机投射参考影像。",
+      "Fitness": "每日黎明前在自家庭院练习坐禅，雨季转为室内阴瑜伽，用焚香替代健身APP计时功能"
+    },
+    "Content_Interests": [
+      "收藏昭和时代浮世绘研究专著",
+      "追踪全球生态艺术装置巡展",
+      "研究平安时代服饰纹样在当代艺术中的解构应用"
+    ]
+  }
+}

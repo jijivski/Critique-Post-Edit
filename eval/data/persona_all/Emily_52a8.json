@@ -1,0 +1,47 @@
+{
+  "Name": "Emily",
+  "Demographics": {
+    "Age": 30,
+    "Gender": "女",
+    "Nationality": "美国",
+    "Language": [
+      "英语",
+      "西班牙语"
+    ],
+    "Career_Information": "市场营销经理，专注于数字广告和品牌管理"
+  },
+  "Personality": {
+    "Extraversion_or_Introversion": "E",
+    "Sensing_or_Intuition": "S",
+    "Thinking_or_Feeling": "F",
+    "Judging_or_Perceiving": "J",
+    "Values_and_Interests": [
+      "高度重视职业成功",
+      "喜欢策划和组织活动",
+      "对可持续发展和社会企业感兴趣",
+      "热爱旅行和探索新文化"
+    ]
+  },
+  "Preference": {
+    "Local_Life": {
+      "Food_Drinks": "工作日中午常点沙拉轻食外卖，周末会去市中心有机餐厅尝试fusion料理。对咖啡品质挑剔，随身携带可重复使用咖啡杯。",
+      "Entertainment": "每月至少参加一次本地画廊开幕或创意市集，偏好纪录片放映会。偶尔在家用投影仪看Netflix职场剧集。",
+      "Shopping": "定期网购环保品牌职业装，对快时尚有道德抵触。在Whole Foods购买可降解包装日用品时会仔细核对碳排放标签。",
+      "TravelDaily_Outings": "通勤使用共享汽车服务时会处理工作邮件，手机装有实时碳足迹追踪APP"
+    },
+    "Travel": {
+      "Business_Trips": "常在行业峰会期间住会议酒店行政楼层，行李箱常备多国电源转接头和便携投影仪。会收集各地广告案例手册作为纪念品。",
+      "Leisure_Travel": "每年规划两次主题旅行（如墨西哥亡灵节/巴塞罗那建筑之旅），坚持入住社会企业运营的精品酒店，旅行箱永远放着应急用的双语版联合国可持续发展目标手册"
+    },
+    "Social": "LinkedIn动态更新频率是Instagram的三倍，线下定期组织跨行业营销人沙龙。悄悄资助拉丁裔女性创业培训项目，但从不发朋友圈炫耀。",
+    "Productivity": {
+      "Study_Work": "使用Trello管理全部门项目进度，私人电脑里藏着未发布的Google Analytics插件开发方案。手机备忘录存着237条突然想到的广告slogan。",
+      "Fitness": "Apple Watch健身圆环强迫症患者，但认为马拉松奖牌是21世纪最虚伪的中产标签"
+    },
+    "Content_Interests": [
+      "追踪TED演讲中的消费心理学洞察",
+      "订阅《Monocle》城市发展特辑",
+      "定期清理算法推荐的网红探店视频"
+    ]
+  }
+}

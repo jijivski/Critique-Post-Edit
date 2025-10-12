@@ -1,0 +1,48 @@
+{
+  "Name": "Eva",
+  "Demographics": {
+    "Age": 30,
+    "Gender": "女",
+    "Nationality": "荷兰",
+    "Language": [
+      "荷兰语",
+      "英语",
+      "德语"
+    ],
+    "Career_Information": "全职剧评人，经营一档关于流行媒体的博客"
+  },
+  "Personality": {
+    "Extraversion_or_Introversion": "E",
+    "Sensing_or_Intuition": "S",
+    "Thinking_or_Feeling": "F",
+    "Judging_or_Perceiving": "P",
+    "Values_and_Interests": [
+      "热爱肥皂剧，尤其是荷兰本土作品",
+      "认为艺术需要让人感到愉悦",
+      "倾向于公开表达自己的观点，尤其在社交媒体上",
+      "对流行文化有独到的见解，喜欢与他人分享"
+    ]
+  },
+  "Preference": {
+    "Local_Life": {
+      "Food_Drinks": "习惯在阿姆斯特丹运河边的咖啡馆写作，沉迷焦糖华夫饼配双倍浓缩咖啡。周末会去露天市场采购奶酪和鲱鱼三明治，但对印尼风味外卖有隐秘的狂热（受荷兰殖民历史影响）。",
+      "Entertainment": "每周四雷打不动去独立影院看小众点映，热衷于在复古剧院重映经典肥皂剧时cosplay剧中角色。",
+      "Shopping": "沉迷海牙跳蚤市场淘80年代影视周边，网购清单里总躺着待发货的荒诞风格耳饰和导演手记影印本。",
+      "TravelDaily_Outings": "坚持骑白色Gazelle自行车穿梭代尔夫特蓝陶装饰的街巷，雨再大也要把车篮里的郁金香摆成剧中同款造型"
+    },
+    "Travel": {
+      "Business_Trips": "参加柏林电视剧节时会特意住进《巴比伦柏林》取景公寓，退房前必然在窗边摆拍九宫格模仿剧照。",
+      "Leisure_Travel": "痴迷预订欧洲各城堡酒店的主题套房，曾为体验《唐顿庄园》女仆视角特意申请厨房帮工换宿"
+    },
+    "Social": "Instagram账号专门开辟#SoapOperaScience话题，用学术论文格式分析狗血剧情。线下组建的「羞耻观影俱乐部」要求成员必须带道具出席，曾在《老友记》重聚特辑放映会上组织中央公园鹅群围观。",
+    "Productivity": {
+      "Study_Work": "用中世纪手抄本格式的笔记本记录观剧灵感，电脑桌面按电视剧海报分区管理文档，写差评时必须循环播放《马男波杰克》OST。",
+      "Fitness": "自创「片尾字幕瑜伽」——每个拉伸动作必须配合不同剧集的ending theme完成"
+    },
+    "Content_Interests": [
+      "收集各国电视审查奇葩案例",
+      "追踪过气童星转型失败实录",
+      "钻研如何用塔罗牌预测剧情走向"
+    ]
+  }
+}

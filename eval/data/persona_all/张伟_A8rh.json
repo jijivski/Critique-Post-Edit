@@ -1,0 +1,46 @@
+{
+  "Name": "张伟",
+  "Demographics": {
+    "Age": 22,
+    "Gender": "男",
+    "Nationality": "中国",
+    "Language": [
+      "中文",
+      "英文"
+    ],
+    "Career_Information": "某高校计算机科学专业本科生"
+  },
+  "Personality": {
+    "Extraversion_or_Introversion": "I",
+    "Sensing_or_Intuition": "S",
+    "Thinking_or_Feeling": "T",
+    "Judging_or_Perceiving": "P",
+    "Values_and_Interests": [
+      "热爱编程和算法研究",
+      "倾向于实用主义",
+      "支持技术创新与创业",
+      "喜欢户外运动，尤其是登山和滑雪"
+    ]
+  },
+  "Preference": {
+    "Local_Life": {
+      "Food_Drinks": "工作日基本在食堂解决三餐，但会在学校后街固定购买手冲咖啡提神；通宵写代码时必点烧烤+能量饮料的外卖组合，认为这是程序员的仪式感。",
+      "Entertainment": "每月去一次VR体验馆测试最新游戏设备，偶尔在宿舍玩策略类单机游戏但严格控制时间。",
+      "Shopping": "只在电商大促时囤积户外装备和机械键盘，对参数对比有强迫症，购物车平均躺10件商品比价两周才会下单。",
+      "TravelDaily_Outings": "骑改装过的死飞自行车通勤，周末会带着无人机去城市边缘未开发的山坡做航拍测绘"
+    },
+    "Travel": {
+      "Business_Trips": "参加黑客马拉松时住24小时胶囊旅馆，认为床铺只是debug时的临时充电桩。",
+      "Leisure_Travel": "每年寒假独自前往北方雪场特训单板滑雪，会提前3个月用爬虫抓取气象数据确定最佳出行时间"
+    },
+    "Social": "在GitLab上匿名维护着3个高star开源项目，但现实中回避技术分享会；唯一线下社交是担任登山社装备顾问，用CAD图纸指导社员调整背包背负系统。",
+    "Productivity": {
+      "Study_Work": "用自研的VSCode插件自动转换教程视频为代码注释，认为文字教程都是低效的信息载体",
+      "Fitness": "佩戴军工级运动手表记录登山血氧数据，但拒绝加入任何健身社群排行榜"
+    },
+    "Content_Interests": [
+      "关注MIT分布式系统公开课切片视频",
+      "定期爬取阿尔卑斯山径实时天气数据制作3D模型"
+    ]
+  }
+}

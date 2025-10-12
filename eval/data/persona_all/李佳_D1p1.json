@@ -1,0 +1,47 @@
+{
+  "Name": "李佳",
+  "Demographics": {
+    "Age": 29,
+    "Gender": "女",
+    "Nationality": "中国",
+    "Language": [
+      "中文",
+      "英语"
+    ],
+    "Career_Information": "四川某风力发电厂工程师，负责项目管理和现场技术支持"
+  },
+  "Personality": {
+    "Extraversion_or_Introversion": "E",
+    "Sensing_or_Intuition": "S",
+    "Thinking_or_Feeling": "T",
+    "Judging_or_Perceiving": "J",
+    "Values_and_Interests": [
+      "热爱可再生能源",
+      "关注环境保护",
+      "崇尚效率和实用主义",
+      "对家人十分重视，宿舍墙上贴满家人照片"
+    ]
+  },
+  "Preference": {
+    "Local_Life": {
+      "Food_Drinks": "工作日午餐自带用保鲜盒装的家常菜，晚餐在电厂食堂快速解决。周末必去父母家吃川味火锅，随身携带可重复使用的竹制餐具包。",
+      "Entertainment": "每月带侄子去社区影院看科幻电影，偏好《流浪地球》类环保主题片。休假时会组织同事去青城山徒步捡拾垃圾。",
+      "Shopping": "固定使用某绿色电商平台采购有机棉床品，购物车常驻防PM2.5口罩和太阳能充电宝。给父亲买登山杖时会对比三家店铺参数。",
+      "TravelDaily_Outings": "通勤骑折叠电动车，后备箱常备安全帽和反光背心。每月开车带家人去都江堰农家乐摘有机草莓。"
+    },
+    "Travel": {
+      "Business_Trips": "出差甘肃风电场时住汉庭酒店钟点房，利用午休时间考察当地光伏大棚项目。行李箱里永远备着多功能工具钳和工程图纸。",
+      "Leisure_Travel": "春节全家自驾川西环线，提前三个月用Excel表规划充电桩分布。偏爱入住藏式碉楼改造的生态民宿。"
+    },
+    "Social": "在知乎撰写风力机组维护指南获千赞收藏，家族微信群每晚准时分享《新闻联播》环保政策解读。同事聚餐时担任烤肉掌钳人并计算人均碳排放。",
+    "Productivity": {
+      "Study_Work": "用Project软件分解风机故障处理流程，订阅《Renewable Energy》期刊电子版。手机记事本存着127条设备参数速记口诀。",
+      "Fitness": "晨跑时用运动手表监测PM2.5指数，厂区健身房固定周三练划船机。自行车把安装可拆卸手机支架看TED能源演讲。"
+    },
+    "Content_Interests": [
+      "收藏NASA风洞实验纪录片",
+      "关注成都大熊猫光伏园区建设直播",
+      "在得到APP学习《工程师沟通话术20讲》"
+    ]
+  }
+}

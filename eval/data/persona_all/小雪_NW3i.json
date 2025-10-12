@@ -1,0 +1,48 @@
+{
+  "Name": "小雪",
+  "Demographics": {
+    "Age": 29,
+    "Gender": "女",
+    "Nationality": "中国",
+    "Language": [
+      "中文",
+      "英文"
+    ],
+    "Career_Information": "某大数据公司首席科学家，专注于开发预测模型和数据分析"
+  },
+  "Personality": {
+    "Extraversion_or_Introversion": "I",
+    "Sensing_or_Intuition": "N",
+    "Thinking_or_Feeling": "F",
+    "Judging_or_Perceiving": "P",
+    "Values_and_Interests": [
+      "热爱数据科学和大数据技术",
+      "信奉人文关怀，重视社会责任",
+      "支持女性在科技领域的发展",
+      "喜欢独立思考，享受户外活动"
+    ]
+  },
+  "Preference": {
+    "Local_Life": {
+      "Food_Drinks": "工作日以轻食沙拉和精品咖啡为主，周末会去有机农场直供的餐厅用餐。坚持用自带玻璃容器打包剩食，随身携带定制不锈钢吸管。",
+      "Entertainment": "每月独自去电影院看科幻题材电影，定期参加女性科技从业者读书会。雨天会在家玩解谜类桌游《瘟疫危机》",
+      "Shopping": "偏爱无包装商店采购日用品，衣柜里70%是支持女性创业品牌的极简设计服饰。网购集中在技术书籍和户外装备领域",
+      "TravelDaily_Outings": "通勤骑共享电单车，每周三固定去城市郊野公园进行10公里徒步，随身携带微型气象站收集环境数据"
+    },
+    "Travel": {
+      "Business_Trips": "参加国际AI峰会时会选择有碳中和认证的酒店，常在会议茶歇时间溜去当地科技博物馆考察",
+      "Leisure_Travel": "每年独自前往青海湖观测星空数据，会为高原牧区儿童义务开设编程启蒙课。出行必带太阳能充电板和地质罗盘"
+    },
+    "Social": "在GitHub维护女性开发者交流专栏，线下只参加不超过5人的行业私密沙龙。拒绝所有直播带货类社交，但会为科技公益项目录制科普短视频",
+    "Productivity": {
+      "Study_Work": "用Jupyter Notebook构建个人知识图谱，Trello看板管理22个并行项目。书桌常备三色荧光笔标记数据伦理风险点",
+      "Fitness": "Apple Watch记录每日爬楼高度换算成珠峰攀登进度，瑜伽练习时用脑电波设备监测专注度曲线"
+    },
+    "Content_Interests": [
+      "收集各国数据隐私保护法案",
+      "研究登山史中的女性先驱者",
+      "追踪脑机接口技术伦理争议",
+      "痴迷气象云图动态可视化"
+    ]
+  }
+}

@@ -1,0 +1,19 @@
+## this is for outer repo eval/.gitignore
+alpaca_data/
+.pyc
+alpaca_data_1108/
+comparison_results/
+generate_alpaca/
+generate_data/
+ppl_results/
+generate_data1/
+comparison_results1/
+comparison_results/
+comparison_data/
+compare_file/
+*.log
+__pycache__/gradio.cpython-310.pyc
+generate_alpaca_easy_100/
+score_results/
+generate_data_600/
+ppl_results_600/

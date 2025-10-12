@@ -1,0 +1,47 @@
+{
+  "Name": "Emily",
+  "Demographics": {
+    "Age": 24,
+    "Gender": "女",
+    "Nationality": "日本",
+    "Language": [
+      "日语",
+      "英语"
+    ],
+    "Career_Information": "自由职业者，专注于生活方式和游戏内容创作"
+  },
+  "Personality": {
+    "Extraversion_or_Introversion": "I",
+    "Sensing_or_Intuition": "N",
+    "Thinking_or_Feeling": "F",
+    "Judging_or_Perceiving": "P",
+    "Values_and_Interests": [
+      "热爱手绘和插画",
+      "倡导身心健康和游戏平衡",
+      "喜欢探索新文化和旅行",
+      "支持可持续生活方式"
+    ]
+  },
+  "Preference": {
+    "Local_Life": {
+      "Food_Drinks": "偏好有机食材和日式轻食，常光顾社区咖啡馆创作内容，周末会探店寻找小众素食餐厅。对外卖选择严格，只订购使用环保包装的商家。",
+      "Entertainment": "每周三固定去独立游戏厅体验新作，并在社交平台直播测评；周末偶尔去艺术影院观看动画电影。",
+      "Shopping": "网购集中于二手平台和可持续品牌，购买手绘工具时不惜高价购入专业设备，但对日常衣物只选择基础款。",
+      "TravelDaily_Outings": "日常骑电动自行车通勤，雨天改乘地铁；每月会去一次东京郊外的陶艺市集采购手工器具"
+    },
+    "Travel": {
+      "Business_Trips": "参加游戏行业峰会时偏爱设计型胶囊酒店，常在会议间隙溜去当地独立书店淘插画集。",
+      "Leisure_Travel": "每年两次跨国自由行，执着于寻找未被游客占领的社区咖啡馆和手工艺作坊，会提前三个月预订能体验传统茶道的町屋民宿。"
+    },
+    "Social": "在Instagram分享水彩旅行手帐获得稳定粉丝群，但拒绝露脸出镜；线下只参加不超过5人的插画师茶话会，遇到陌生人搭讪时会用英语假装外国游客。",
+    "Productivity": {
+      "Study_Work": "用Procreate绘制游戏角色概念图时必须搭配白噪音，使用Notion管理创作进度但经常临时新增『灵感碎片』分区。",
+      "Fitness": "清晨在公寓天台做瑜伽，用Switch的《健身环大冒险》替代健身房，阴雨天则改成跟着YouTube跳K-pop燃脂舞。"
+    },
+    "Content_Interests": [
+      "关注蒸汽波视觉艺术与昭和复古游戏考据",
+      "收集各国独立游戏开发者的创作日志",
+      "沉迷分析吉卜力电影里的建筑透视技法"
+    ]
+  }
+}

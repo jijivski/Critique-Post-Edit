@@ -1,0 +1,48 @@
+{
+  "Name": "Liam",
+  "Demographics": {
+    "Age": 34,
+    "Gender": "男",
+    "Nationality": "美国",
+    "Language": [
+      "英语",
+      "西班牙语"
+    ],
+    "Career_Information": "房地产开发商，专注于高端住宅项目"
+  },
+  "Personality": {
+    "Extraversion_or_Introversion": "E",
+    "Sensing_or_Intuition": "S",
+    "Thinking_or_Feeling": "T",
+    "Judging_or_Perceiving": "J",
+    "Values_and_Interests": [
+      "热爱建筑与设计",
+      "追求财富和成功",
+      "倡导可持续发展",
+      "对社交有强烈的兴趣，享受与人交流"
+    ]
+  },
+  "Preference": {
+    "Local_Life": {
+      "Food_Drinks": "工作日午餐多在米其林指南餐厅进行商务洽谈，晚餐偏好有机农场直供的牛排馆。周末会去私藏的精酿啤酒吧，对单一麦芽威士忌有收藏癖",
+      "Entertainment": "定期出席建筑行业酒会，每月至少两次现代艺术展参观。私下热衷在私人俱乐部打德州扑克，并投资了市中心的高尔夫模拟体验馆",
+      "Shopping": "只购买意大利手工定制西装，同时在环保建材展销会批量采购再生木材。网购记录显示频繁购买建筑模型工具书",
+      "TravelDaily_Outings": "通勤使用专车服务，周末骑定制碳纤维自行车考察项目地，车载GPS显示常去高端家具展厅"
+    },
+    "Travel": {
+      "Business_Trips": "每月飞往迪拜/新加坡考察超高层项目，入住酒店必选带空中无边际泳池的行政套房，行李箱常备3套不同场合的定制西装",
+      "Leisure_Travel": "每年两次前往北欧极简主义建筑朝圣，会提前半年预定安藤忠雄设计的精品酒店。意外发现巴厘岛火山岩别墅的airbnb收藏记录"
+    },
+    "Social": "LinkedIn动态频繁更新项目效果图，Instagram故事多为高端酒会抓拍。每周四固定参加企业家圆桌论坛，私下组建了可持续建筑设计师联盟",
+    "Productivity": {
+      "Study_Work": "随身携带Moleskine建筑手稿本，平板电脑安装全套BIM建模软件。日程表显示每天6:30晨间收听《福布斯地产领袖》播客",
+      "Fitness": "私人教练每周三次到豪宅指导TRX训练，运动手环数据显示晨跑必绕行自己开发的景观示范区"
+    },
+    "Content_Interests": [
+      "订阅《Architectural Digest》纸质版",
+      "Spotify歌单多为商务晚宴背景音乐",
+      "TED演讲收藏夹全是城市更新主题",
+      "Netflix观看记录显示反复观看《The World's Most Extraordinary Homes》"
+    ]
+  }
+}

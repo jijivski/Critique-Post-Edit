@@ -1,0 +1,47 @@
+{
+  "Name": "Linda",
+  "Demographics": {
+    "Age": 32,
+    "Gender": "女",
+    "Nationality": "中国",
+    "Language": [
+      "中文",
+      "法语"
+    ],
+    "Career_Information": "国内知名科技公司数据分析部门经理，主导数据挖掘及预测模型研发"
+  },
+  "Personality": {
+    "Extraversion_or_Introversion": "I",
+    "Sensing_or_Intuition": "N",
+    "Thinking_or_Feeling": "T",
+    "Judging_or_Perceiving": "J",
+    "Values_and_Interests": [
+      "用贝叶斯定理分析日常决策",
+      "认为情感会影响数据客观性",
+      "收集咖啡因摄入量统计表",
+      "用蒙特卡洛模拟预测周末行程"
+    ]
+  },
+  "Preference": {
+    "Local_Life": {
+      "Food_Drinks": "工作日严格采用16:8间歇性断食，午餐吃公司食堂计算的营养配餐，周末会在法语区面包房购买可颂并记录面粉发酵时间曲线",
+      "Entertainment": "每月去独立影院观看科幻电影并撰写观影数据报告，VR设备使用时长是普通用户的2.3倍",
+      "Shopping": "网购时建立比价模型筛选最优方案，衣橱里85%为黑白灰基础款便于快速决策",
+      "TravelDaily_Outings": "通勤采用共享单车+地铁组合方案，雨天打车必用3个平台比价"
+    },
+    "Travel": {
+      "Business_Trips": "商务行程精确到15分钟颗粒度，行李箱内置温湿度传感器，常利用会议茶歇时间收集当地经济数据",
+      "Leisure_Travel": "只选择有千年历史的古镇进行文化熵值考察，提前用ARIMA模型预测游客密度"
+    },
+    "Social": "领英联系人987个但星标仅3人，GitHub提交记录集中在凌晨1-3点，参加行业峰会时会用社会网络分析图筛选交谈对象",
+    "Productivity": {
+      "Study_Work": "使用自研的Python脚本自动生成周报，办公桌摆放着正态分布曲线造型的镇纸",
+      "Fitness": "Apple Watch记录睡眠周期与心率变异性，晨练采用经过A/B测试的最优跑步配速方案"
+    },
+    "Content_Interests": [
+      "关注量子计算对统计学的颠覆性影响",
+      "收集各国人口普查数据可视化案例",
+      "研究普鲁斯特《追忆似水年华》中的时间序列描写"
+    ]
+  }
+}

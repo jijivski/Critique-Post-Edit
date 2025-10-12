@@ -1,0 +1,48 @@
+{
+  "Name": "Lily",
+  "Demographics": {
+    "Age": 30,
+    "Gender": "女",
+    "Nationality": "中国",
+    "Language": [
+      "中文",
+      "法语"
+    ],
+    "Career_Information": "某知名外企市场经理，专注于社交媒体营销"
+  },
+  "Personality": {
+    "Extraversion_or_Introversion": "E",
+    "Sensing_or_Intuition": "S",
+    "Thinking_or_Feeling": "F",
+    "Judging_or_Perceiving": "J",
+    "Values_and_Interests": [
+      "热爱时尚和美妆",
+      "关注社会公益",
+      "支持环境保护",
+      "喜欢旅行与摄影"
+    ]
+  },
+  "Preference": {
+    "Local_Life": {
+      "Food_Drinks": "坚持每周三次光顾支持有机食材的社区咖啡馆，周末会去法式餐厅用餐；随身携带可重复使用的餐具，抵制过度包装的外卖。",
+      "Entertainment": "每月参与一次公益组织的手工市集，常去美术馆和独立书店；用胶片相机记录城市角落的咖啡馆和花店。",
+      "Shopping": "线上只购买可持续时尚品牌，线下偏爱实体店试衣体验；衣柜里70%是二手古着，对快时尚有生理性厌恶。",
+      "TravelDaily_Outings": "通勤坚持骑共享单车，雨天会提前预约新能源出租车；周末短途出行必带帆布包和保温杯。"
+    },
+    "Travel": {
+      "Business_Trips": "出差巴黎时会特意空出半天逛玛黑区买手店，用拍立得记录橱窗陈设作为工作灵感。",
+      "Leisure_Travel": "每年规划两次深度游，偏爱有生态酒店的国家公园；行李箱里永远装着便携式环保洗漱套装和可降解垃圾袋。"
+    },
+    "Social": "每周四下班后固定参加公益读书会，周末组织闺蜜早午餐局；虽然管理着百万粉丝的官方账号，但个人朋友圈只发胶片质感的livephoto。",
+    "Productivity": {
+      "Study_Work": "坚持用moleskine周计划本安排日程，电脑永远贴着「屏幕使用时间不超过5小时」的便利贴；重要方案必须打印出来用钢笔批注。",
+      "Fitness": "参加碳中和主题的城市徒步活动，瑜伽垫要选天然橡胶材质；运动手环数据同步后必定立即关机。"
+    },
+    "Content_Interests": [
+      "Vintage服饰养护教程",
+      "全球生态酒店测评",
+      "胶片摄影光影研究",
+      "女性成长类播客"
+    ]
+  }
+}

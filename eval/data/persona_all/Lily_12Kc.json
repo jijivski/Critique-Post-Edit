@@ -1,0 +1,48 @@
+{
+  "Name": "Lily",
+  "Demographics": {
+    "Age": 29,
+    "Gender": "女",
+    "Nationality": "中国",
+    "Language": [
+      "中文",
+      "法语"
+    ],
+    "Career_Information": "自由职业特效化妆师，以创造逼真而惊艳的变身著称"
+  },
+  "Personality": {
+    "Extraversion_or_Introversion": "I",
+    "Sensing_or_Intuition": "N",
+    "Thinking_or_Feeling": "F",
+    "Judging_or_Perceiving": "P",
+    "Values_and_Interests": [
+      "热爱艺术与创造",
+      "支持女性权利与性别平等",
+      "关注心理健康与个人发展",
+      "对科幻电影和奇幻小说情有独钟"
+    ]
+  },
+  "Preference": {
+    "Local_Life": {
+      "Food_Drinks": "偏爱有机轻食与法式甜品，工作间歇会去独立咖啡馆写作灵感笔记。深夜赶工时用代餐奶昔替代正餐，但每月必去探访小众主题餐厅（如蒸汽朋克风格酒吧）",
+      "Entertainment": "每周三独自观看午夜场科幻电影，收藏实体版奇幻小说。定期参加女性主义主题读书会和地下艺术展",
+      "Shopping": "沉迷网购特殊化妆品材料（硅胶/荧光颜料），衣柜里70%是二手古着店淘来的戏剧化单品，对独立设计师品牌有执念",
+      "TravelDaily_Outings": "骑折叠自行车穿梭于工作室与材料市场，雨天会特意绕道老城区观察行人面部特征"
+    },
+    "Travel": {
+      "Business_Trips": "受邀参与影视剧组时住剧组酒店，总会偷偷观察演员微表情",
+      "Leisure_Travel": "痴迷探访有民间传说的地方（如湘西赶尸文化村落），行李箱永远备着应急化妆箱以便随时创作"
+    },
+    "Social": "在Instagram记录特效妆容创作过程，但拒绝露全脸。线下只参加10人内的深度对话沙龙，随身携带解压捏捏乐应对社交焦虑",
+    "Productivity": {
+      "Study_Work": "用Procreate绘制变形设计稿，Trello管理项目进度，收藏夹存着300+小时的人体解剖学公开课",
+      "Fitness": "通过即兴现代舞释放创作压力，瑜伽垫上必放薰衣草香薰"
+    },
+    "Content_Interests": [
+      "收藏1960-80年代cult电影幕后花絮",
+      "追踪全球女性创业者播客",
+      "沉迷解构童话性别叙事的短篇小说",
+      "定期清理算法推荐的婚恋内容"
+    ]
+  }
+}

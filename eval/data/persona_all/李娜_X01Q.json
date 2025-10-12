@@ -1,0 +1,48 @@
+{
+  "Name": "李娜",
+  "Demographics": {
+    "Age": 29,
+    "Gender": "女",
+    "Nationality": "中国",
+    "Language": [
+      "中文",
+      "法语"
+    ],
+    "Career_Information": "古董钟表修复师，运营独立工作室并承接博物馆文物修复项目"
+  },
+  "Personality": {
+    "Extraversion_or_Introversion": "I",
+    "Sensing_or_Intuition": "N",
+    "Thinking_or_Feeling": "F",
+    "Judging_or_Perceiving": "P",
+    "Values_and_Interests": [
+      "痴迷机械结构的美学表达",
+      "收藏维多利亚时期珐琅怀表",
+      "在修复过程中进行历史考据",
+      "坚持使用蜂蜡等天然材料保养零件",
+      "抵制工业化流水线制品"
+    ]
+  },
+  "Preference": {
+    "Local_Life": {
+      "Food_Drinks": "偏爱社区巷弄里的独立咖啡馆，常点手冲咖啡配法棍三明治。每周三固定去有机市集采购当季食材，对使用环保包装的店铺有天然好感。",
+      "Entertainment": "定期造访旧物仓与西洋古董展，雨天会在工作室播放黑胶唱片《时钟博物馆》系列专辑。",
+      "Shopping": "通过海外代购收集19世纪制表文献影印本，日常用品多在跳蚤市场淘选铜制收纳盒等复古物件。",
+      "TravelDaily_Outings": "坚持骑行通勤，皮革车篮里永远放着便携式放大镜和绒布工具包"
+    },
+    "Travel": {
+      "Business_Trips": "每年赴瑞士参加古董钟表博览会时，总会多留两天探访阿尔卑斯山区的家族制表作坊。",
+      "Leisure_Travel": "偏爱入住由修道院改造的环保酒店，在普罗旺斯寻找失传的薰衣草精油防锈技法比观光更重要"
+    },
+    "Social": "在Instagram分享齿轮组件的微观摄影，但拒绝露脸出镜。每月参加钟表藏家的私密沙龙时，会带着自制的鎏金螺丝刀作为伴手礼。",
+    "Productivity": {
+      "Study_Work": "用羊皮封面的Moleskine记录每个零件的修复日志，工作室的紫外线消毒柜里分类存放着不同年代的黄铜工具。",
+      "Fitness": "通过调整古董座钟配重砝码来锻炼小臂肌肉，认为这比健身房器械更有趣味性"
+    },
+    "Content_Interests": [
+      "关注欧洲机械艺术史论文",
+      "研究失传的玑镂雕刻技法纪录片",
+      "收集蒸汽朋克风格概念设计图"
+    ]
+  }
+}

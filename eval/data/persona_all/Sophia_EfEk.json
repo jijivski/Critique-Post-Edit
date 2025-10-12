@@ -1,0 +1,47 @@
+{
+  "Name": "Sophia",
+  "Demographics": {
+    "Age": 34,
+    "Gender": "女",
+    "Nationality": "中国",
+    "Language": [
+      "中文",
+      "英文"
+    ],
+    "Career_Information": "某知名保险公司高管，专注于数据分析和风险管理"
+  },
+  "Personality": {
+    "Extraversion_or_Introversion": "E",
+    "Sensing_or_Intuition": "N",
+    "Thinking_or_Feeling": "F",
+    "Judging_or_Perceiving": "J",
+    "Values_and_Interests": [
+      "鼓励学生探索创新的方法",
+      "倡导可持续发展和社会责任",
+      "相信团队合作的重要性",
+      "热衷于公益活动与教育"
+    ]
+  },
+  "Preference": {
+    "Local_Life": {
+      "Food_Drinks": "工作日以轻食沙拉和鲜榨果汁为主，周末会去有机农场直营的餐厅体验时令菜单。对云南小粒咖啡有执念，收集不同烘焙工艺的手冲咖啡豆。",
+      "Entertainment": "每月至少去一次沉浸式话剧体验馆，偏爱改编自文学名著的多线叙事剧目。偶尔包场私人影院组织员工福利观影。",
+      "Shopping": "固定购买北欧极简风办公文具，在MUJI购置收纳系统。奢侈品消费集中在环保品牌，如用海洋塑料制成的限量款手袋。",
+      "TravelDaily_Outings": "通勤时习惯用专车服务在车内处理邮件，但每月会特意选两天坐地铁观察城市人群画像"
+    },
+    "Travel": {
+      "Business_Trips": "常往返于上海陆家嘴和深圳平安金融中心，入住行政套房时会要求酒店提供当地公益组织年报作为床头读物。",
+      "Leisure_Travel": "暑期带团队去青海湖骑行助学，行李箱里永远备着给山区孩子的英文绘本。在京都旅行时专门体验茶道师认证课程。"
+    },
+    "Social": "在领英分享风险管理案例时巧妙植入公益话题，线下定期组织金融白领相亲局（要求参与者携带旧书作为入场券）。担任大学生创新创业大赛评委时偷偷资助自闭症青年的陶艺工作室。",
+    "Productivity": {
+      "Study_Work": "用Tableau制作三维风险模型时会同步播放白噪音歌单《量子波动速读》，重要会议前必在Moleskine本子上手绘思维导图。",
+      "Fitness": "清晨在私人教练指导下进行TRX悬吊训练，出差时会用酒店毛巾DIY普拉提器械"
+    },
+    "Content_Interests": [
+      "研究行为经济学中的非理性决策案例",
+      "追踪碳中和领域的技术突破",
+      "收藏小众独立书店的限定文创"
+    ]
+  }
+}

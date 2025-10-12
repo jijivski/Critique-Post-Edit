@@ -1,0 +1,48 @@
+{
+  "Name": "阿伟",
+  "Demographics": {
+    "Age": 28,
+    "Gender": "男",
+    "Nationality": "台湾",
+    "Language": [
+      "中文",
+      "英文",
+      "台语"
+    ],
+    "Career_Information": "某工业设计公司设计师，专注于用户体验和可持续设计"
+  },
+  "Personality": {
+    "Extraversion_or_Introversion": "I",
+    "Sensing_or_Intuition": "S",
+    "Thinking_or_Feeling": "T",
+    "Judging_or_Perceiving": "P",
+    "Values_and_Interests": [
+      "热爱在生活中寻找设计灵感",
+      "推崇简约和实用的设计理念",
+      "对环保和可持续发展充满热情",
+      "喜欢通过旅行和美食来激发创意",
+      "关注技术对设计的影响"
+    ]
+  },
+  "Preference": {
+    "Local_Life": {
+      "Food_Drinks": "工作日自带可重复使用的环保餐盒购买便当，周末骑机车探索巷弄台菜小馆。坚持用不锈钢吸管喝手摇饮，但会偷偷收藏复古风奶茶杯作为设计素材。",
+      "Entertainment": "每月至少看一次独立影院的设计纪录片，在松山文创园市集观察手工艺品时假装偶遇潜在合作对象。",
+      "Shopping": "网购首选可分解包装的环保品牌，却在迪化街老店囤积五十年历史的榫卯结构木工工具。",
+      "TravelDaily_Outings": "通勤坚持骑Ubike到捷运站，手机壳里夹着随时记录街头装置艺术的便利贴。"
+    },
+    "Travel": {
+      "Business_Trips": "参加东京设计周时会收集酒店房卡研究人机交互，在机场免税店分析包装结构多过挑选伴手礼。",
+      "Leisure_Travel": "每年必去金泽住町屋民宿研究传统工艺现代化，行李箱总装着测量老建筑梁柱比例的激光测距仪。"
+    },
+    "Social": "Instagram只发经过九宫格构图的咖啡拉花与建材肌理特写，在Behance用台语撰写设计说明讽刺国际平台的语言霸权。周三晚上固定参加永康街的设计师沙龙，却总躲在角落速写参与者的眼镜造型。",
+    "Productivity": {
+      "Study_Work": "用3D建模软件分析早餐三明治的剖面结构，Excel表里藏着全台夜市招牌字体分类数据库。",
+      "Fitness": "声称骑脚踏车是通勤不是运动，但Apple Watch健身记录总在IKEA迷路时意外达成闭环。"
+    },
+    "Content_Interests": [
+      "收集各国垃圾处理系统纪录片",
+      "追踪硅谷新创公司的可降解材料研发进度"
+    ]
+  }
+}

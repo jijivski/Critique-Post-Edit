@@ -1,0 +1,48 @@
+{
+  "Name": "Lina",
+  "Demographics": {
+    "Age": 24,
+    "Gender": "女",
+    "Nationality": "中国",
+    "Language": [
+      "中文",
+      "英语",
+      "西班牙语"
+    ],
+    "Career_Information": "天文摄影博主，同时是一名大学生物专业的本科生"
+  },
+  "Personality": {
+    "Extraversion_or_Introversion": "I",
+    "Sensing_or_Intuition": "N",
+    "Thinking_or_Feeling": "F",
+    "Judging_or_Perceiving": "P",
+    "Values_and_Interests": [
+      "热爱天文学和摄影",
+      "支持环境保护与可持续发展",
+      "对科学探索充满好奇",
+      "偏爱自然与独处的时光"
+    ]
+  },
+  "Preference": {
+    "Local_Life": {
+      "Food_Drinks": "坚持植物基饮食，常在大学城独立咖啡馆点燕麦拿铁配素食三明治。深夜拍摄星空时会携带自制的姜糖红枣茶，抗拒一次性塑料包装食品。",
+      "Entertainment": "每月独自去放映独立纪录片的社区影院，偶尔在旧书店参加天体物理主题读书会。",
+      "Shopping": "通过二手平台购置摄影器材和户外装备，固定购买某北欧小众品牌的再生棉质衣物。",
+      "TravelDaily_Outings": "日常骑共享单车往返实验室，周末带着折叠帐篷乘郊区公交寻找观星点"
+    },
+    "Travel": {
+      "Business_Trips": "作为科普博主受邀参加国际星空保护区论坛时，会带着自制太阳能充电设备在酒店天台彻夜拍摄星轨。",
+      "Leisure_Travel": "每年雨季前往青藏高原拍摄银河，坚持入住牧民家庭旅馆并协助清理沿途垃圾，旅行箱里永远备着便携式水质检测笔"
+    },
+    "Social": "在Instagram发布带有#光污染抗争#标签的延时摄影作品，小红书账号定期更新《城市观星指南》。线下只参与不超过5人的天文爱好者野外观测局，随身携带薄荷糖缓解社交焦虑。",
+    "Productivity": {
+      "Study_Work": "用AstroPixelProcessor处理深空天体照片，生物实验数据记录在再生纸装订的星云图案笔记本上，考试周会在植物园温室角落背诵知识点。",
+      "Fitness": "通过Geocaching进行户外寻宝徒步，卧室吊着TRX训练带模拟失重状态核心训练"
+    },
+    "Content_Interests": [
+      "收藏NASA六十年代航天员训练纪录片",
+      "关注极地生态研究站的油管频道",
+      "定期检索生物降解材料专利数据库"
+    ]
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "Name": "Lily",
+  "Demographics": {
+    "Age": 29,
+    "Gender": "女",
+    "Nationality": "美国",
+    "Language": [
+      "英语",
+      "法语"
+    ],
+    "Career_Information": "Etsy卖家，专注于复古风格服装的策划与销售"
+  },
+  "Personality": {
+    "Extraversion_or_Introversion": "E",
+    "Sensing_or_Intuition": "N",
+    "Thinking_or_Feeling": "F",
+    "Judging_or_Perceiving": "P",
+    "Values_and_Interests": [
+      "热爱复古文化与时尚",
+      "坚持可持续性与环保理念",
+      "支持小型企业与手工艺品",
+      "热衷于组织社区活动与社交聚会"
+    ]
+  },
+  "Preference": {
+    "Local_Life": {
+      "Food_Drinks": "偏爱farm-to-table餐厅和有机咖啡店，每周六固定去农夫市集采购应季食材。讨厌塑料包装食品，随身携带珐琅水杯和麻质餐巾。",
+      "Entertainment": "每月在自家loft举办复古主题沙龙，常出没于独立艺术影院和二手书店。周四晚上固定参加社区织物修补工作坊。",
+      "Shopping": "80%衣物来自古董衣店和跳蚤市场，网购只选择环保包装的独立设计师品牌。对1950年代廓形的羊毛大衣有收集癖，愿意支付300-800美元溢价。",
+      "TravelDaily_Outings": "坚持骑荷兰式自行车通勤，车篮里永远装着折叠帆布购物袋。周末会乘轮渡去邻近小镇探访老裁缝店。"
+    },
+    "Travel": {
+      "Business_Trips": "每年两次去巴黎玛黑区采购vintage布料，总住在由老公寓改造的生态酒店，随身携带便携式蒸汽挂烫机维护服装品相。",
+      "Leisure_Travel": "痴迷探访废弃剧院和工业遗迹，会为某件古董蕾丝专程飞往布达佩斯。行李箱里必备亚麻防尘袋和植物鞣制皮具护理套装。"
+    },
+    "Social": "运营着2.3万粉丝的Pinterest复古穿搭账号，线下定期组织「旧物改造大赛」。对快时尚消费者有隐形优越感，但会耐心教流浪汉用旧帐篷布改造成防水挎包。",
+    "Productivity": {
+      "Study_Work": "用再生纸笔记本手写客户档案，使用Trello管理定制订单，深夜工作时必须点燃手工大豆蜡烛。正在自学1920年代服装打版技术。",
+      "Fitness": "参加社区公园的露天摇摆舞聚会，用Apple Watch记录但刻意关闭通知功能。认为熨烫衣服时的拉伸动作就是最好的肌肉训练。"
+    },
+    "Content_Interests": [
+      "追踪欧洲古董织物拍卖会",
+      "收藏1970年代时尚插画杂志",
+      "订阅慢时尚播客《The Conscious Closet》"
+    ]
+  }
+}

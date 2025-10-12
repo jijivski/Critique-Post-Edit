@@ -1,0 +1,47 @@
+{
+  "Name": "Lina",
+  "Demographics": {
+    "Age": 34,
+    "Gender": "女",
+    "Nationality": "中国",
+    "Language": [
+      "中文",
+      "德语"
+    ],
+    "Career_Information": "自由职业者，经营一个小型的手工艺品店"
+  },
+  "Personality": {
+    "Extraversion_or_Introversion": "E",
+    "Sensing_or_Intuition": "S",
+    "Thinking_or_Feeling": "F",
+    "Judging_or_Perceiving": "P",
+    "Values_and_Interests": [
+      "热衷于手工艺与DIY项目",
+      "倡导可持续生活方式",
+      "支持本地小企业与手工艺市场",
+      "欣赏各种文化的艺术形式"
+    ]
+  },
+  "Preference": {
+    "Local_Life": {
+      "Food_Drinks": "偏爱社区有机农场的时令蔬菜，每周三固定去菜篮子市集采购。拒绝使用一次性餐具，但遇到新开业的环保咖啡馆会特意探店。",
+      "Entertainment": "热衷参加创意市集和手作人聚会，每月至少两次带作品参加快闪展览。雨天会在工作室看NHK手工艺纪录片。",
+      "Shopping": "80%日用品购自社区夫妻店，服饰偏爱棉麻材质和植物染工艺。定期在闲鱼淘二手缝纫工具和布料余料。",
+      "TravelDaily_Outings": "日常骑电动自行车穿梭于工作室、市集和材料供应商之间，雨天改乘地铁并随身携带帆布材料袋"
+    },
+    "Travel": {
+      "Business_Trips": "每年春秋季参加长三角文创博览会，会特意选择有手作工坊的特色民宿入住。",
+      "Leisure_Travel": "偏爱云南扎染工坊、景德镇陶艺村等传统工艺聚集地，在德国旅行时专门探访包豪斯设计博物馆。出行必带速写本收集纹样灵感"
+    },
+    "Social": "在小红书分享作品制作过程（刻意不露脸只拍手部特写），Instagram关注日本草木染匠人。每周四晚在社区活动中心主持免费编织教学，但对网红打卡式探店行为持批判态度",
+    "Productivity": {
+      "Study_Work": "用Evernote分类保存2000+张灵感图片，Trello管理定制订单进度。每月参加德国手工艺在线课程，电脑贴满待办事项的彩色便签条",
+      "Fitness": "清晨在工作室做15分钟瑜伽唤醒身体，周末去郊外徒步时收集特殊形状的树叶做拓印"
+    },
+    "Content_Interests": [
+      "关注联合国教科文组织非遗名录更新",
+      "研究不同文明的编织纹样符号学",
+      "收集各国小众手作人转型品牌案例"
+    ]
+  }
+}

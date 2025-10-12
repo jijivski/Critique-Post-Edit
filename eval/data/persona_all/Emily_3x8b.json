@@ -1,0 +1,48 @@
+{
+  "Name": "Emily",
+  "Demographics": {
+    "Age": 29,
+    "Gender": "女",
+    "Nationality": "美国",
+    "Language": [
+      "英语",
+      "西班牙语"
+    ],
+    "Career_Information": "自由职业者，专注于网页设计和用户体验"
+  },
+  "Personality": {
+    "Extraversion_or_Introversion": "E",
+    "Sensing_or_Intuition": "N",
+    "Thinking_or_Feeling": "F",
+    "Judging_or_Perceiving": "J",
+    "Values_and_Interests": [
+      "热衷于设计和艺术",
+      "提倡可持续发展和环保",
+      "支持女性在科技行业中的平权",
+      "喜欢旅行和探索不同文化"
+    ]
+  },
+  "Preference": {
+    "Local_Life": {
+      "Food_Drinks": "坚持购买有机食品和植物基饮食，每周三次在社区农贸市场采购。拒绝使用一次性餐具，随身携带可重复使用的咖啡杯。周末会尝试融合拉美风味的素食餐厅（受西班牙语文化影响）",
+      "Entertainment": "每月参加独立艺术画廊的开幕活动，偏爱放映社会议题纪录片的电影院。定期在环保组织担任志愿者，策划升级改造废弃物的创意工作坊",
+      "Shopping": "70%衣物购自二手商店或环保品牌，尤其钟爱用回收海洋塑料制成的配饰。网购时主动筛选「碳中和认证」标签，愿意为可持续材料支付30%溢价",
+      "TravelDaily_Outings": "日常通勤骑电动滑板车，阴雨天才乘地铁。周末去创意市集时会用拼车软件，坚持选择电动汽车选项"
+    },
+    "Travel": {
+      "Business_Trips": "参加设计峰会时选择LEED认证酒店，随身携带折叠式环保洗漱套装。会在客户会议间隙考察当地的社区艺术项目",
+      "Leisure_Travel": "每年两次背包旅行，偏爱住民宿学习传统手工艺。最近在秘鲁跟着原住民妇女学习天然染料编织技术，并将过程拍成vlog倡导文化保护"
+    },
+    "Social": "在LinkedIn持续分享「女性科技从业者访谈」系列，Instagram故事里常见街头艺术打卡。每周四晚上参加西语读书会，用西班牙语为拉丁美洲的设计新秀提供在线指导",
+    "Productivity": {
+      "Study_Work": "使用Figma时同步开着Ambient Lo-fi音乐，用Miro白板进行跨时区协作。纸质手帐本专门记录色彩灵感，书签夹着干压的异国植物标本",
+      "Fitness": "清晨在社区公园练瑜伽，用Strava记录城市探索骑行路线。最近迷上了结合环保清洁的健身挑战——边深蹲边捡拾公园垃圾"
+    },
+    "Content_Interests": [
+      "订阅《Design & Culture》电子杂志",
+      "追踪柏林、墨尔本的前沿UX案例",
+      "在Podcast听生态女性主义专题",
+      "收藏各国传统纹样的数字资料库"
+    ]
+  }
+}

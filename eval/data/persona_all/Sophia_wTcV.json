@@ -1,0 +1,48 @@
+{
+  "Name": "Sophia",
+  "Demographics": {
+    "Age": 25,
+    "Gender": "女",
+    "Nationality": "中国",
+    "Language": [
+      "中文",
+      "英文"
+    ],
+    "Career_Information": "调酒师，拥有三年酒店行业经验"
+  },
+  "Personality": {
+    "Extraversion_or_Introversion": "I",
+    "Sensing_or_Intuition": "S",
+    "Thinking_or_Feeling": "F",
+    "Judging_or_Perceiving": "P",
+    "Values_and_Interests": [
+      "热爱创造独特的鸡尾酒配方",
+      "喜欢与顾客交流，享受社交氛围",
+      "对艺术和设计感兴趣，常常参加艺术展览",
+      "奉行环保理念，努力使用可持续的材料"
+    ]
+  },
+  "Preference": {
+    "Local_Life": {
+      "Food_Drinks": "工作日午餐常光顾有机轻食餐厅，深夜下班后习惯用自制植物奶调制饮品。周末会探索隐藏在小巷里的独立咖啡馆，收集灵感时也会点外卖，但坚持要求无塑料包装。",
+      "Entertainment": "每月至少参加一次手工市集或艺术展览开幕式，偏好装置艺术和小型画廊。偶尔在酒吧打烊后和同事玩桌游。",
+      "Shopping": "定期在二手平台淘复古玻璃器皿，服装消费集中于环保设计师品牌，购物时会计算碳足迹指数。",
+      "TravelDaily_Outings": "通勤坚持骑共享单车，雨天改乘地铁。周末短途出行偏爱步行探索城市角落。"
+    },
+    "Travel": {
+      "Business_Trips": "参加行业峰会时会特意选择带绿色认证的酒店，行李箱里永远装着便携式调酒工具包。",
+      "Leisure_Travel": "每年计划两次文化主题旅行，最近迷上东南亚传统草药酒考察。预订民宿时优先考虑使用再生能源的生态小屋。"
+    },
+    "Social": "在Instagram分享特调鸡尾酒的过程视频，但拒绝露脸。定期参与环保组织的地球日活动，线下社交圈主要是独立艺术家和酒吧常客。",
+    "Productivity": {
+      "Study_Work": "用Notion整理风味矩阵数据库，手写笔记本记录顾客的饮酒故事。最近在学习日本江户时代饮酒礼仪线上课程。",
+      "Fitness": "早晨用瑜伽开启一天，每周三次跟随TikTok上的现代舞教学视频活动肢体。"
+    },
+    "Content_Interests": [
+      "收藏1960年代鸡尾酒手绘海报",
+      "关注全球可持续酒吧改造案例",
+      "痴迷观察不同文化背景客人的饮酒微表情",
+      "定期观看小众独立纪录片"
+    ]
+  }
+}

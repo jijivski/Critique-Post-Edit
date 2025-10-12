@@ -1,0 +1,47 @@
+{
+  "Name": "Liam",
+  "Demographics": {
+    "Age": 34,
+    "Gender": "男",
+    "Nationality": "中国",
+    "Language": [
+      "中文",
+      "英文"
+    ],
+    "Career_Information": "某贸易部官员，专注于国际贸易政策与谈判"
+  },
+  "Personality": {
+    "Extraversion_or_Introversion": "E",
+    "Sensing_or_Intuition": "N",
+    "Thinking_or_Feeling": "T",
+    "Judging_or_Perceiving": "P",
+    "Values_and_Interests": [
+      "热衷于国际经济和贸易动态",
+      "支持自由市场原则",
+      "倾向于通过数据驱动决策",
+      "对全球文化交流感兴趣"
+    ]
+  },
+  "Preference": {
+    "Local_Life": {
+      "Food_Drinks": "工作日以商务简餐为主，但每周会专门预订高端西餐厅或日料店进行商务社交。私下偏爱单一麦芽威士忌品鉴，收藏有苏格兰和日本小众酒厂产品。",
+      "Entertainment": "常去放映独立电影的私人影院，周末在爵士酒吧与同行交流行业动向，偶尔参与跨境艺术品拍卖会。",
+      "Shopping": "偏好购买剪裁精良的定制西装，通过海淘平台定期采购欧洲小众设计师品牌，对奢侈品的投资属性有深入研究。",
+      "TravelDaily_Outings": "通勤选择专车服务以便处理工作邮件，周末驾驶SUV前往近郊马术俱乐部"
+    },
+    "Travel": {
+      "Business_Trips": "频繁入住国际连锁酒店行政楼层，利用早餐会与外商建立联系，常在机场免税店采购限量版雪茄作为谈判伴手礼。",
+      "Leisure_Travel": "每年安排两次深度文化考察，偏爱文艺复兴路线（意大利/法国）或东南亚文化遗产之旅，会雇佣当地学者担任私人导游"
+    },
+    "Social": "在LinkedIn定期发布贸易政策分析，参加世界银行线上研讨会时主动发起辩论。线下组建跨境投资私董会，定期在私人酒窖举办行业精英闭门会谈。",
+    "Productivity": {
+      "Study_Work": "使用Bloomberg Terminal实时跟踪大宗商品数据，谈判前用Miro制作三维利益矩阵图，习惯在晨间用FT中文网音频版获取全球资讯。",
+      "Fitness": "坚持清晨游泳保持谈判所需体力，周末打高尔夫时刻意选择国际球友练习多语言交流"
+    },
+    "Content_Interests": [
+      "订阅《经济学人》贸易板块深度分析",
+      "研究18世纪东印度公司档案中的谈判策略",
+      "关注NHK世界遗产纪录片中的文化博弈论"
+    ]
+  }
+}

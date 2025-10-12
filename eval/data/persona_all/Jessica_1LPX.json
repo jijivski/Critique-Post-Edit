@@ -1,0 +1,47 @@
+{
+  "Name": "Jessica",
+  "Demographics": {
+    "Age": 34,
+    "Gender": "女",
+    "Nationality": "中国",
+    "Language": [
+      "中文",
+      "英文"
+    ],
+    "Career_Information": "大学新闻学教授，专注于媒体与外交政策的关系研究"
+  },
+  "Personality": {
+    "Extraversion_or_Introversion": "I",
+    "Sensing_or_Intuition": "N",
+    "Thinking_or_Feeling": "F",
+    "Judging_or_Perceiving": "P",
+    "Values_and_Interests": [
+      "热衷于探讨媒体对公众认知的影响",
+      "关注人权与环保议题",
+      "倡导透明与真相",
+      "喜爱文学与独立电影"
+    ]
+  },
+  "Preference": {
+    "Local_Life": {
+      "Food_Drinks": "工作日午餐在教职工食堂快速解决，周末会光顾隐蔽的社区咖啡馆写作或阅读。坚持自带帆布袋采购有机食材，但对深夜备课时的速食螺蛳汤粉情有独钟。",
+      "Entertainment": "每月固定参加独立电影放映会，常在旧书店举办小型读书沙龙。刻意避开商业院线的爆米花电影。",
+      "Shopping": "衣柜里70%单品购自环保品牌线下店，定期在二手书平台交易学术专著。对过度包装的商品会产生生理性厌恶。",
+      "TravelDaily_Outings": "坚持骑自行车通勤，雨天会提前20分钟步行至地铁站。周末清晨独自去湿地公园观鸟时必带皮质笔记本。"
+    },
+    "Travel": {
+      "Business_Trips": "参加国际媒体论坛时会特意留出半天探访当地独立报社，在商务酒店床头柜发现免费圣经会立刻更换房间。",
+      "Leisure_Travel": "偏爱西南少数民族村寨的深度文化体验，行李箱里永远装着防水牛皮纸信封分装的不同产区的挂耳咖啡。"
+    },
+    "Social": "在推特关注327个人权组织账号却从不点赞，线下只参加不超过5人的学术私享会。定期删除微信联系人里名字带『总』的用户。",
+    "Productivity": {
+      "Study_Work": "使用Zotero管理2.7T的文献库，备课手稿写在Moleskine城市限定系列笔记本上，拒绝任何云存储服务。",
+      "Fitness": "清晨在书房地毯上进行20分钟阴瑜伽，出差时会用手机指南针记录步行探索陌生街区的轨迹图。"
+    },
+    "Content_Interests": [
+      "持续追踪战地记者博客",
+      "收藏各国宪法修订纪录片",
+      "订阅3个小众环保播客"
+    ]
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "Name": "李强",
+  "Demographics": {
+    "Age": 29,
+    "Gender": "男",
+    "Nationality": "中国",
+    "Language": [
+      "中文",
+      "法语"
+    ],
+    "Career_Information": "贵州大学声学实验室工程师，专注于降噪技术"
+  },
+  "Personality": {
+    "Extraversion_or_Introversion": "I",
+    "Sensing_or_Intuition": "S",
+    "Thinking_or_Feeling": "T",
+    "Judging_or_Perceiving": "P",
+    "Values_and_Interests": [
+      "热爱音乐，尤其是古典乐",
+      "坚持实证主义",
+      "对技术有极高的追求",
+      "喜欢在闲暇时研究声学现象",
+      "习惯用分贝仪随手测量环境噪音"
+    ]
+  },
+  "Preference": {
+    "Local_Life": {
+      "Food_Drinks": "工作日自带隔音饭盒在实验室用餐，周末会骑车去郊区农家乐吃现摘蔬菜。对咖啡因敏感，只喝无咖啡因花果茶",
+      "Entertainment": "每月参加小型室内乐演奏会，随身携带主动降噪耳机在通勤时听马勒交响曲全集",
+      "Shopping": "固定购买某德国品牌精密测量仪器，网购记录显示高频回购隔音海绵和声学阻尼器",
+      "TravelDaily_Outings": "坚持骑装有降噪轮胎的山地车通勤，刻意绕行经过森林公园的路线"
+    },
+    "Travel": {
+      "Business_Trips": "参加国际声学会议时必定携带便携式消音舱改造套件，曾因主动改造酒店空调噪音系统被投诉",
+      "Leisure_Travel": "每年自驾去西南少数民族村落采集自然声纹，携带专业设备录制山涧水流声制作白噪音样本"
+    },
+    "Social": "在GitLab维护开源声学模拟项目，但拒绝任何线上讨论。线下只参与不超过3人的技术研讨会，会提前给参会者发放电子降噪项圈",
+    "Productivity": {
+      "Study_Work": "使用MATLAB实时分析噪声频谱，实验室监控显示常在凌晨3点调试亥姆霍兹共振器参数",
+      "Fitness": "通过Apple Watch监测静息心率变化，设计出基于呼吸频率调节的主动降噪算法"
+    },
+    "Content_Interests": [
+      "收集19世纪乐器声学频谱图",
+      "关注全球机场跑道降噪技术迭代",
+      "订阅《应用声学》期刊纠错专栏"
+    ]
+  }
+}

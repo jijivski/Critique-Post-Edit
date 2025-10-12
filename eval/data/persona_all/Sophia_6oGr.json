@@ -1,0 +1,52 @@
+{
+  "Name": "Sophia",
+  "Demographics": {
+    "Age": 30,
+    "Gender": "女",
+    "Nationality": "美国",
+    "Language": [
+      "英语",
+      "西班牙语"
+    ],
+    "Career_Information": "社会工作者，专注于青少年心理健康"
+  },
+  "Personality": {
+    "Extraversion_or_Introversion": "I",
+    "Sensing_or_Intuition": "S",
+    "Thinking_or_Feeling": "F",
+    "Judging_or_Perceiving": "P",
+    "Values_and_Interests": [
+      "关注社会公正和心理健康",
+      "热爱艺术，尤其是绘画和音乐",
+      "支持可再生能源和环保运动",
+      "参与本地社区活动，喜欢与人交流"
+    ]
+  },
+  "Preference": {
+    "Local_Life": {
+      "Food_Drinks": "工作日午餐常自带有机蔬菜沙拉，周末在社区农贸市场采购食材。偏爱家庭式墨西哥餐厅（受西班牙语文化影响），但对连锁快餐店有近乎偏执的抵触。",
+      "Entertainment": "每月参加社区画廊的免费艺术疗愈工作坊，周三晚上固定去爵士酒吧听即兴演奏（但从不主动和乐手搭话）。",
+      "Shopping": "80%衣物购自二手商店，会为支持青少年公益项目购买手工艺品；网购仅限于环保品牌的可降解画材。",
+      "TravelDaily_Outings": "坚持骑改装过的二手自行车通勤，雨天会多付50%小费叫拼车服务（因司机愿意绕路接送社区老人）"
+    },
+    "Travel": {
+      "Business_Trips": "参加儿童权益会议时会自带陶瓷杯和折叠餐具，总把酒店提供的洗漱用品转赠给街头流浪青年。",
+      "Leisure_Travel": "每年独自去新墨西哥州沙漠参加大地艺术节，住太阳能供电的帐篷营地，随身携带素描本记录原住民壁画"
+    },
+    "Social": "在Instagram只发模糊处理的客户壁画作品（即便违规也不打码），组织社区青少年匿名故事分享会时，会偷偷在墙角放录音笔收集素材。",
+    "Productivity": {
+      "Study_Work": "用布满颜料渍的Moleskine笔记本手写案例记录，电子文档命名规则混乱但能精准记住每个青少年的涂鸦配色对应心理状态。",
+      "Fitness": "每周三次在河边慢跑时捡垃圾，用旧T恤改造的环保袋装满后才折返，称此为「赎罪公里数」"
+    },
+    "Content_Interests": [
+      "收集各国街头抗议艺术照片",
+      "订阅小众心理学播客《创伤与颜料》",
+      "偷偷研究占星学以理解青少年行为模式"
+    ]
+  },
+  "Bias": {
+    "Political_View": "认为政府应强制艺术品经销商资助社区艺术项目",
+    "Social_Concerns": "坚信每个垃圾桶都应配备再生纸和彩铅供路人即时创作",
+    "Cultural_Values": "觉得不会手语的人不配做心理治疗师"
+  }
+}

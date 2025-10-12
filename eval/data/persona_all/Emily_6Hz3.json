@@ -1,0 +1,48 @@
+{
+  "Name": "Emily",
+  "Demographics": {
+    "Age": 32,
+    "Gender": "女",
+    "Nationality": "美国",
+    "Language": [
+      "英语",
+      "西班牙语"
+    ],
+    "Career_Information": "社会学博士，专注于青少年发展和同伴影响"
+  },
+  "Personality": {
+    "Extraversion_or_Introversion": "I",
+    "Sensing_or_Intuition": "N",
+    "Thinking_or_Feeling": "T",
+    "Judging_or_Perceiving": "J",
+    "Values_and_Interests": [
+      "关注社会不平等",
+      "倡导心理健康",
+      "支持青少年发声",
+      "热爱阅读与写作"
+    ]
+  },
+  "Preference": {
+    "Local_Life": {
+      "Food_Drinks": "每周三次光顾社区支持农业（CSA）合作社购买有机食材，在撰写研究报告时习惯饮用浓缩咖啡。对快餐持批判态度，但深夜赶论文时会破例点墨西哥卷饼外卖。",
+      "Entertainment": "每月参与独立书店的社科主题读书会，偶尔独自观看反映社会问题的北欧电影。抗拒商业院线爆米花电影，认为其缺乏思想深度。",
+      "Shopping": "在二手平台购买绝版学术著作，80%的服装消费来自公平贸易品牌。会为支持青少年创业项目购买手工制品，但拒绝快时尚消费。",
+      "TravelDaily_Outings": "骑电动滑板车往返大学图书馆与青少年社区中心，周末固定带调研团队乘地铁走访低收入社区"
+    },
+    "Travel": {
+      "Business_Trips": "参加国际学术会议时选择大学合作酒店，利用茶歇时间访谈各国教育工作者，行李箱常备便携式录音设备和跨文化沟通指南。",
+      "Leisure_Travel": "每年夏季在拉丁美洲进行田野调查兼休假，住在当地NGO提供的宿舍，通过观察街头艺术分析青少年亚文化。"
+    },
+    "Social": "在ResearchGate持续更新研究成果，线下仅限于学术沙龙和青少年圆桌会议。用西班牙语运营匿名博客，披露教育系统田野调查中的伦理困境。拒绝使用TikTok，认为短视频削弱深度思考能力。",
+    "Productivity": {
+      "Study_Work": "使用NVivo进行质性数据分析，写作时同步运行Zotero文献追踪系统。为青少年维权组织设计的行为追踪App已申请专利。",
+      "Fitness": "参加反消费主义的城市探险社团，通过测绘废弃建筑群路线进行体能训练，Apple Watch持续监测压力指数"
+    },
+    "Content_Interests": [
+      "教育政策白皮书解读",
+      "青春期神经科学前沿",
+      "少数族裔口述史纪录片",
+      "批判教育学专著"
+    ]
+  }
+}

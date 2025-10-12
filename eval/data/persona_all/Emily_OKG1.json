@@ -1,0 +1,49 @@
+{
+  "Name": "Emily",
+  "Demographics": {
+    "Age": 29,
+    "Gender": "女",
+    "Nationality": "中国",
+    "Language": [
+      "中文",
+      "英文",
+      "日语"
+    ],
+    "Career_Information": "自由职业的艺术家，专注于数字插画和概念设计"
+  },
+  "Personality": {
+    "Extraversion_or_Introversion": "I",
+    "Sensing_or_Intuition": "S",
+    "Thinking_or_Feeling": "F",
+    "Judging_or_Perceiving": "P",
+    "Values_and_Interests": [
+      "热爱自然和户外活动",
+      "支持环保和可持续发展",
+      "崇尚个性化和自我表达",
+      "对传统与现代艺术融合感兴趣"
+    ]
+  },
+  "Preference": {
+    "Local_Life": {
+      "Food_Drinks": "坚持素食主义但偶尔尝试日式海鲜料理，常光顾社区有机咖啡馆，随身携带可重复使用的珐琅杯，对一次性餐具表现出明显抵触。",
+      "Entertainment": "每月至少两次独自前往独立艺术影院观看小众纪录片，周末在植物园写生时会用枯叶制作拼贴画。",
+      "Shopping": "痴迷淘二手手作器物，定期在Etsy购买日本古布改造的文创品，网购时优先筛选「碳中和物流」选项。",
+      "TravelDaily_Outings": "日常通勤使用共享单车，背包里永远装着速写本和植物标本夹，遇到特色建筑立面会突然驻足拍摄"
+    },
+    "Travel": {
+      "Business_Trips": "接受海外艺术驻留项目时必带自制环保颜料套装，曾因拒绝入住未提供垃圾分类的酒店而临时更换行程。",
+      "Leisure_Travel": "每年独自前往云南沙溪古镇居住两周汲取灵感，会特意选择需要徒步3公里才能抵达的生态民宿"
+    },
+    "Social": "在Behance发布作品时坚持手写创作说明，线下只参加10人内的艺术沙龙，曾在茶话会上因他人随意丢弃丙烯废料当众离席。",
+    "Productivity": {
+      "Study_Work": "用Procreate创作前必须手冲咖啡并播放昭和时代歌谣，所有数字作品源文件按二十四节气命名归档。",
+      "Fitness": "每天清晨在公寓天台练习敦煌飞天舞基本功，Apple Watch的健身圆环总被「艺术创作」误识别为「手部锻炼」"
+    },
+    "Content_Interests": [
+      "收藏各地民间剪纸纹样",
+      "研究江户时代浮世绘色谱",
+      "追踪全球生态建筑案例",
+      "沉迷观看ASMR陶艺制作视频"
+    ]
+  }
+}

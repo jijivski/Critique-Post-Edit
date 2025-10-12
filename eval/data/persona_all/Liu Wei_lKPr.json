@@ -1,0 +1,47 @@
+{
+  "Name": "Liu Wei",
+  "Demographics": {
+    "Age": 28,
+    "Gender": "男",
+    "Nationality": "中国",
+    "Language": [
+      "中文",
+      "英语"
+    ],
+    "Career_Information": "独立音乐人，兼任录音师和制作人，专注于电子和实验音乐"
+  },
+  "Personality": {
+    "Extraversion_or_Introversion": "I",
+    "Sensing_or_Intuition": "S",
+    "Thinking_or_Feeling": "F",
+    "Judging_or_Perceiving": "P",
+    "Values_and_Interests": [
+      "热爱音乐创作，尤其是电子和实验风格",
+      "喜欢与不同的艺术家合作，推动跨界合作",
+      "崇尚个人自由，反对商业化侵蚀艺术",
+      "关注社会问题，通过音乐表达观点"
+    ]
+  },
+  "Preference": {
+    "Local_Life": {
+      "Food_Drinks": "经常在深夜创作后去24小时便利店买关东煮和罐装咖啡，偏爱地下音乐场地附近的小众咖啡馆，会为了尝试新开的融合菜馆横跨半个城市。",
+      "Entertainment": "每周三固定参加地下电子音乐即兴演出，偶尔在二手书店淘黑胶唱片时顺带玩桌游。",
+      "Shopping": "网购集中于合成器配件和降噪耳机，常在旧物市集淘八十年代的老式录音设备。",
+      "TravelDaily_Outings": "背着定制乐器包乘末班地铁回家，去合作艺术空间时必打专车"
+    },
+    "Travel": {
+      "Business_Trips": "每年两次参加先锋音乐节担任声音工程师，会特意选择有实验剧院的城市并住进艺术家合租的民宿。",
+      "Leisure_Travel": "独自前往柏林墙遗址采集环境音时住过集装箱改造的青年旅舍，曾在冰岛自驾追极光为专辑寻找灵感"
+    },
+    "Social": "在Bandcamp持续上传未完成demo供乐迷评论，线下只在公益艺术工作坊主动社交，演出后必定消失于后台通道",
+    "Productivity": {
+      "Study_Work": "用Ableton Live做音轨分层时会手写波形图草稿，收藏着27本贴满便签的《声音现象学》笔记",
+      "Fitness": "深夜在无人的滨江跑道倒着行走听白噪音，工作室角落放着用来调节脊椎的普拉提环"
+    },
+    "Content_Interests": [
+      "收集全球地下俱乐部纪录片",
+      "订阅《WIRE》杂志电子版",
+      "关注声学实验室的ASMR素材库"
+    ]
+  }
+}

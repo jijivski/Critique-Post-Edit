@@ -1,0 +1,47 @@
+{
+  "Name": "李鹏",
+  "Demographics": {
+    "Age": 28,
+    "Gender": "男",
+    "Nationality": "中国",
+    "Language": [
+      "中文",
+      "英语"
+    ],
+    "Career_Information": "一家知名动画公司编剧，专注于故事结构和角色发展"
+  },
+  "Personality": {
+    "Extraversion_or_Introversion": "E",
+    "Sensing_or_Intuition": "N",
+    "Thinking_or_Feeling": "F",
+    "Judging_or_Perceiving": "J",
+    "Values_and_Interests": [
+      "热爱研究故事结构和叙事技巧",
+      "注重情感表达和角色深度",
+      "支持多样性和包容性",
+      "喜欢深夜熬夜修改剧本"
+    ]
+  },
+  "Preference": {
+    "Local_Life": {
+      "Food_Drinks": "深夜改稿时依赖便利店热咖啡和速食，周末会探访独立咖啡馆寻找灵感。偏爱东南亚菜系和日式居酒屋，认为多元饮食能激发叙事多样性。",
+      "Entertainment": "每周必刷两部以上动画电影并撰写分镜分析，偶尔在剧本卡顿时去livehouse听独立乐队演出。",
+      "Shopping": "定期采购精装剧本集和角色设定画册，对Moleskine笔记本和触控笔有收藏癖。网购关键词包括『编剧工具包』和『心理学案例分析』。",
+      "TravelDaily_Outings": "通勤偏爱打车以便在途中构思对话，周末常骑共享单车穿梭老城区观察路人神态"
+    },
+    "Travel": {
+      "Business_Trips": "参加国际动画峰会时会特意早到半天，混入当地市集记录方言俚语和市井互动模式。",
+      "Leisure_Travel": "年度旅行必选有深厚民间传说背景的目的地，曾为采风在贵州苗寨住过半月。行李箱常备微型录音笔和速写本"
+    },
+    "Social": "运营着3万粉的编剧技巧微博，线下定期组织跨行业故事沙龙（参与者含话剧演员和刑警）。在剧本研讨会上会故意激怒合作者以观察真实冲突反应。",
+    "Productivity": {
+      "Study_Work": "使用Scrivener进行非线性创作，凌晨3点后切换至纯黑背景的FocusWriter。电脑壁纸是动态分镜时间轴。",
+      "Fitness": "强迫症式记录Apple Watch圆环闭合，构思受阻时在会议室反复踱步生成运动量"
+    },
+    "Content_Interests": [
+      "收藏冷门国家动画年鉴",
+      "订阅犯罪心理学播客",
+      "定期分析TED演讲叙事节奏"
+    ]
+  }
+}

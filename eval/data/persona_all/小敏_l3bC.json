@@ -1,0 +1,48 @@
+{
+  "Name": "小敏",
+  "Demographics": {
+    "Age": 24,
+    "Gender": "女",
+    "Nationality": "中国",
+    "Language": [
+      "中文",
+      "英文"
+    ],
+    "Career_Information": "某互联网公司UI设计师，擅长平面设计"
+  },
+  "Personality": {
+    "Extraversion_or_Introversion": "E",
+    "Sensing_or_Intuition": "S",
+    "Thinking_or_Feeling": "F",
+    "Judging_or_Perceiving": "P",
+    "Values_and_Interests": [
+      "热爱绘画和摄影",
+      "喜欢在社交媒体上分享自己的作品",
+      "追求个人自由，不喜欢被束缚",
+      "支持环保和可持续发展"
+    ]
+  },
+  "Preference": {
+    "Local_Life": {
+      "Food_Drinks": "坚持每周三天素食日，偏爱有机食材餐厅，会特意寻找使用环保包装的外卖。周末常在胡同咖啡馆边喝燕麦拿铁边速写路人。",
+      "Entertainment": "每月至少参观两次艺术展，偏爱装置艺术和女性艺术家特展。周末固定参加创意市集，收集手工扎染布料作为设计素材。",
+      "Shopping": "服装只买独立设计师品牌，网购必看材质成分表。办公用品坚持选购再生纸制品，文具店常客。",
+      "TravelDaily_Outings": "通勤坚持共享单车+地铁组合，随身帆布包里永远装着速写本和微单相机，遇到有趣的城市景观会随时停留记录。"
+    },
+    "Travel": {
+      "Business_Trips": "出差时会收集各地美术馆导览册，在商务酒店床头用便签纸做灵感拼贴。",
+      "Leisure_Travel": "每年两次独自旅行，偏爱青海湖这类开阔自然景观，住环保主题民宿，用胶片相机记录晨光变化。"
+    },
+    "Social": "Instagram和小红书日更创作过程，定期举办#废物改造挑战赛。线下定期参加女性设计师沙龙，随身携带可重复使用的金属吸管作为话题破冰神器。",
+    "Productivity": {
+      "Study_Work": "工作台永远摊开着三本笔记本：iPad Pro用于数字绘画、Moleskine手账记录灵感碎片、再生纸速写本随时涂鸦。设计软件熟练切换Adobe全家桶和Figma。",
+      "Fitness": "每周三次阿斯汤加瑜伽，用Apple Watch记录体态矫正进度，运动bra必须搭配撞色设计才肯穿出门。"
+    },
+    "Content_Interests": [
+      "关注全球设计院校毕设展直播",
+      "收藏小众女性导演的纪录片",
+      "深夜循环播放ASMR绘画过程视频",
+      "定期整理《看不见的女性》这类书籍摘抄到个人博客"
+    ]
+  }
+}

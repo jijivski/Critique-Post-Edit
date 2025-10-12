@@ -1,0 +1,48 @@
+{
+  "Name": "Minh",
+  "Demographics": {
+    "Age": 24,
+    "Gender": "男",
+    "Nationality": "越南",
+    "Language": [
+      "越南语",
+      "英文"
+    ],
+    "Career_Information": "在美国某大学攻读计算机科学本科，专注于人工智能和人机交互"
+  },
+  "Personality": {
+    "Extraversion_or_Introversion": "E",
+    "Sensing_or_Intuition": "N",
+    "Thinking_or_Feeling": "F",
+    "Judging_or_Perceiving": "P",
+    "Values_and_Interests": [
+      "热爱探索新技术",
+      "倡导环境保护和可持续发展",
+      "喜欢与人交流并分享自己的观点",
+      "喜爱旅行和体验不同文化"
+    ]
+  },
+  "Preference": {
+    "Local_Life": {
+      "Food_Drinks": "坚持每周三次素食，偏爱越南春卷和Pho，但也会尝试各国料理。随身携带可重复使用咖啡杯，抵制塑料吸管，常在校园旁的家庭式越南餐馆组织聚餐。",
+      "Entertainment": "每周参加技术沙龙，在独立影院观看环保主题纪录片，用VR设备体验各国风土人情作为旅行替代方案。",
+      "Shopping": "通过Depop购买二手潮牌，定期在Etsy选购手工环保制品，对采用生物降解包装的科技产品溢价15%以内可接受。",
+      "TravelDaily_Outings": "使用共享电动滑板车通勤，周末骑自行车探索城市隐蔽角落，每月参与环保组织的地铁涂鸦清理志愿活动。"
+    },
+    "Travel": {
+      "Business_Trips": "参加AI伦理研讨会时会入住绿色认证酒店，用会议间隙拜访当地创客空间，收集可回收材料制作的纪念品。",
+      "Leisure_Travel": "规划跨国火车旅行时优先选择社区民宿，在东南亚背包旅行必去传统手工艺村落，行李箱里永远备着可降解洗漱套装。"
+    },
+    "Social": "在Reddit创建AI伦理讨论小组，Instagram分享#zerowaste生活实验，定期主持跨文化桌游夜。对Tinder匹配对象会先观察其环保消费记录，约会首选二手书店或农夫市集。",
+    "Productivity": {
+      "Study_Work": "用Notion管理AI项目进度，给代码注释添加哲学思考片段，在编程时循环播放白噪音歌单《雨林编码》。",
+      "Fitness": "用Strava记录城市骑行里程，参加塑料瓶回收兑换的健身房会员计划，晨间冥想时思考如何将瑜伽呼吸法应用于算法优化。"
+    },
+    "Content_Interests": [
+      "追踪硅谷清洁技术初创公司动态",
+      "收藏各国生态建筑纪录片",
+      "在Subreddit辩论AI伦理时引用《道德经》",
+      "关注东南亚青年创客的upcycling项目"
+    ]
+  }
+}

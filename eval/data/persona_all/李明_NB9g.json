@@ -1,0 +1,46 @@
+{
+  "Name": "李明",
+  "Demographics": {
+    "Age": 34,
+    "Gender": "男",
+    "Nationality": "中国",
+    "Language": [
+      "中文",
+      "方言"
+    ],
+    "Career_Information": "江苏某评弹艺人，每周三次在茶楼驻演，定期参与非遗文化研讨会"
+  },
+  "Personality": {
+    "Extraversion_or_Introversion": "I",
+    "Sensing_or_Intuition": "S",
+    "Thinking_or_Feeling": "F",
+    "Judging_or_Perceiving": "J",
+    "Values_and_Interests": [
+      "坚持用宣纸手抄评弹唱本",
+      "认为智能手机会破坏现场艺术的沉浸感",
+      "收集明清时期江南文人字画",
+      "拒绝任何形式的电子乐器伴奏"
+    ]
+  },
+  "Preference": {
+    "Local_Life": {
+      "Food_Drinks": "每日在巷口老字号面馆吃头汤面，演出间隙必饮碧螺春，对西式快餐有生理性排斥",
+      "Entertainment": "每周三晚在社区活动中心教老人弹三弦，每月末在园林实景演出《牡丹亭》选段",
+      "Shopping": "只在观前街百年老店购置丝绸长衫，网购仅限于文房四宝补货",
+      "TravelDaily_Outings": "坚持骑凤凰牌自行车通勤，雨天改乘人力三轮车"
+    },
+    "Travel": {
+      "Business_Trips": "仅接受长三角地区传统文化交流邀约，住宿必选带天井的老宅客栈",
+      "Leisure_Travel": "每年清明独自前往太湖东山岛闭关创作，随身携带民国制评话录音机"
+    },
+    "Social": "在平江路茶馆拥有固定雅座，与苏绣传承人、古琴匠人组成「守旧派」小圈子，微信仅用于接收演出通知",
+    "Productivity": {
+      "Study_Work": "用狼毫小楷在洒金笺上记录灵感，演出曲目单刻在竹简上当书签",
+      "Fitness": "每日卯时在私家园林练太极十三式，三伏天增加运河畔赤足疾行"
+    },
+    "Content_Interests": [
+      "研究吴语正音规律",
+      "收集民国时期苏州城厢地图"
+    ]
+  }
+}

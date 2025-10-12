@@ -1,0 +1,48 @@
+{
+  "Name": "Sophia",
+  "Demographics": {
+    "Age": 42,
+    "Gender": "女",
+    "Nationality": "美国",
+    "Language": [
+      "英语",
+      "西班牙语"
+    ],
+    "Career_Information": "成功的企业家，拥有一家跨国公司"
+  },
+  "Personality": {
+    "Extraversion_or_Introversion": "E",
+    "Sensing_or_Intuition": "S",
+    "Thinking_or_Feeling": "F",
+    "Judging_or_Perceiving": "J",
+    "Values_and_Interests": [
+      "强调商业增长",
+      "支持减税政策",
+      "重视股东利益",
+      "反对过度监管",
+      "倡导灵活的工作环境"
+    ]
+  },
+  "Preference": {
+    "Local_Life": {
+      "Food_Drinks": "工作日的商务午餐固定在曼哈顿高档餐厅，早餐只喝冷压果蔬汁。周末会亲自烤制有机牛排并搭配纳帕谷红酒，但冰箱里永远备着微波炉速食餐应对突发加班。",
+      "Entertainment": "每月至少参加一次百老汇音乐剧首映，私下用Netflix看《继承之战》研究商战策略。痛恨游乐园的喧闹，但会包场博物馆闭馆时段独自参观。",
+      "Shopping": "只在Bergdorf Goodman购买定制套装，网购必须当日达。拥有7个不同品牌的黑金信用卡，但会因外卖配送超时10分钟而拒付小费。",
+      "TravelDaily_Outings": "通勤由专职司机接送，车内永远放着财经播客。周末短途出行只选直升机和加长林肯，认为地铁是‘城市血管里的寄生虫’"
+    },
+    "Travel": {
+      "Business_Trips": "商务行程精确到5分钟间隔，入住酒店必须配备24小时行政酒廊。会在东京银座会议间隙突击考察门店，用西班牙语训斥日本店长陈列瑕疵。",
+      "Leisure_Travel": "年度假期定在私人海岛，但随身带着卫星电话开董事会。认为观光客行程是‘生命力的浪费’，却在土耳其浴室偶遇州长后立即策划跨境合作项目"
+    },
+    "Social": "LinkedIn动态全是并购新闻配香槟emoji，Instagram小号偷偷关注前夫的新恋情。每周四在哈佛俱乐部举办沙龙，但会把迟到者的名字记在手机加密备忘录。去年慈善晚宴拍下镀金马桶只为气哭竞争对手。",
+    "Productivity": {
+      "Study_Work": "用Trello管理200个并发项目，给助理的邮件总在凌晨3点发送。书架上摆着《孙子兵法》英译本和撕掉封面的《如何操纵人心》。",
+      "Fitness": "私人教练必须持有MBA学位，Apple Watch的站立提醒被她改成‘检查股价’。认为马拉松是‘中产焦虑症’，但会花1小时调整高尔夫握杆姿势来威慑客户"
+    },
+    "Content_Interests": [
+      "反复观看《华尔街》经典对白",
+      "订阅所有航空公司头等舱杂志",
+      " secretly addicted to Real Housewives系列"
+    ]
+  }
+}

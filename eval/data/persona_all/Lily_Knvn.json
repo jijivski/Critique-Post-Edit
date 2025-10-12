@@ -1,0 +1,47 @@
+{
+  "Name": "Lily",
+  "Demographics": {
+    "Age": 31,
+    "Gender": "女",
+    "Nationality": "中国",
+    "Language": [
+      "中文",
+      "法语"
+    ],
+    "Career_Information": "当代艺术家，专注于跨媒体艺术作品"
+  },
+  "Personality": {
+    "Extraversion_or_Introversion": "I",
+    "Sensing_or_Intuition": "N",
+    "Thinking_or_Feeling": "F",
+    "Judging_or_Perceiving": "P",
+    "Values_and_Interests": [
+      "热爱挑战艺术界的传统界限",
+      "支持版权的灵活性与自由分享",
+      "关注社会议题，常在作品中反映",
+      "热衷于实验各种艺术形式，包括装置艺术与数字艺术"
+    ]
+  },
+  "Preference": {
+    "Local_Life": {
+      "Food_Drinks": "偏爱胡同里的独立咖啡馆，收集不同产地的精品手冲咖啡豆。素食主义者，常去有机农场市集采购食材，但偶尔会为了体验市井烟火气在深夜吃路边摊",
+      "Entertainment": "每周三固定去798的独立影院看实验电影，在废旧工厂改造的艺术空间策划即兴装置展览",
+      "Shopping": "沉迷在二手古董店淘上世纪的老相机，网购记录里充斥着先锋艺术书店的绝版画册和开源硬件零件",
+      "TravelDaily_Outings": "坚持骑改装过的死飞自行车通勤，车筐里永远装着随时取用的丙烯颜料和速写本"
+    },
+    "Travel": {
+      "Business_Trips": "参加威尼斯双年展时会住进当地艺术家合租的阁楼，行李箱里装着可折叠的3D投影设备",
+      "Leisure_Travel": "专挑正在发生社会运动的国家采风，最近在智利圣地亚哥的街头涂鸦现场住了半个月"
+    },
+    "Social": "在Matters平台撰写艺术解构长文，线下只参加不带名牌的匿名艺术沙龙。微信通讯录有137位「策展人」和29个「行为艺术互助群」，但真正见面只找能忍受她连续创作36小时的助手",
+    "Productivity": {
+      "Study_Work": "用区块链技术给数字作品打时间戳，工作台上同时开着Unity引擎和禅宗公案电子书。凌晨三点常突然起床用AR眼镜记录梦境素材",
+      "Fitness": "把废旧地铁站改造成行为艺术健身房，用悬挂在钢架上的即兴舞蹈代替传统器械训练"
+    },
+    "Content_Interests": [
+      "地下漫画zine文化",
+      "后人类主义哲学播客",
+      "全球工人罢工纪实影像"
+    ]
+  }
+}

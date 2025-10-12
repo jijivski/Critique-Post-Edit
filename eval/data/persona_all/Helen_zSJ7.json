@@ -1,0 +1,47 @@
+{
+  "Name": "Helen",
+  "Demographics": {
+    "Age": 34,
+    "Gender": "女",
+    "Nationality": "美国",
+    "Language": [
+      "英语",
+      "西班牙语"
+    ],
+    "Career_Information": "市场营销经理，专注于可持续产品"
+  },
+  "Personality": {
+    "Extraversion_or_Introversion": "I",
+    "Sensing_or_Intuition": "S",
+    "Thinking_or_Feeling": "F",
+    "Judging_or_Perceiving": "J",
+    "Values_and_Interests": [
+      "热衷于环保和可持续发展",
+      "支持本地小企业",
+      "崇尚传统与文化",
+      "喜欢户外活动，如徒步和骑行"
+    ]
+  },
+  "Preference": {
+    "Local_Life": {
+      "Food_Drinks": "每周六清晨固定去农夫市集采购有机食材，随身携带亚麻布袋和玻璃罐。工作日午餐在公司附近的零废弃咖啡馆解决，对使用棕榈油和一次性包装的餐厅有强烈抵触。",
+      "Entertainment": "每月第三个周末参加社区手工皂作坊，周四晚上在二手书店举办的传统纺织工艺沙龙担任固定志愿者。",
+      "Shopping": "坚持在本地独立店铺购买棉麻衣物，衣柜里有七件不同颜色的Patagonia抓绒衣。对亚马逊等电商平台持批判态度，但会定期在Etsy购买手工铸铁厨具。",
+      "TravelDaily_Outings": "通勤使用改装过的二手通勤自行车，车篮里永远放着折叠环保袋和不锈钢咖啡杯。周末会规划15公里内的骑行路线探访社区花园。"
+    },
+    "Travel": {
+      "Business_Trips": "出差必住LEED认证酒店，会议资料全部存储在石墨文档避免打印。曾在行业峰会上当众质疑主办方提供的塑料瓶装水。",
+      "Leisure_Travel": "年度假期必定选择生态民宿，行李箱里装着便携式太阳能充电器和可降解洗漱用品。会提前三个月用Notion制定包含碳足迹计算的旅行计划表。"
+    },
+    "Social": "在Instagram经营着2.3万粉丝的可持续生活账号，但拒绝所有快消品牌的合作邀约。线下定期组织'修补咖啡馆'活动，随身携带的帆布包里永远有针线包和环保胶水。",
+    "Productivity": {
+      "Study_Work": "使用Moleskine再生纸笔记本记录营销方案，电脑贴着'每节省10吨纸=拯救247棵树'的便签。凌晨五点用Forest App专注模式撰写ESG报告。",
+      "Fitness": "通过Strava记录每周50公里骑行里程，卧室挂着标注不同难度等级的本市徒步路线手绘地图。坚持用竹纤维毛巾做清晨瑜伽。"
+    },
+    "Content_Interests": [
+      "追踪全球生态社区建设案例",
+      "收集各国传统天然染色技艺",
+      "研究二战时期物资循环利用历史"
+    ]
+  }
+}

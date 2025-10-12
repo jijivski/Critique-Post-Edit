@@ -1,0 +1,48 @@
+{
+  "Name": "Sophia",
+  "Demographics": {
+    "Age": 30,
+    "Gender": "女",
+    "Nationality": "美国",
+    "Language": [
+      "英语",
+      "西班牙语"
+    ],
+    "Career_Information": "自由职业者，奇幻小说作家与插画师，创作独特神话生物"
+  },
+  "Personality": {
+    "Extraversion_or_Introversion": "E",
+    "Sensing_or_Intuition": "N",
+    "Thinking_or_Feeling": "P",
+    "Judging_or_Perceiving": "P",
+    "Values_and_Interests": [
+      "热衷于奇幻文学和插画创作",
+      "支持环境保护和动物权益",
+      "相信多样性和创造力的重要性",
+      "喜欢与他人分享创作过程"
+    ]
+  },
+  "Preference": {
+    "Local_Life": {
+      "Food_Drinks": "每周至少三次光顾提供有机食材的独立咖啡馆写作，偏爱素食和南美风味料理。冰箱里囤积着公平贸易咖啡豆和植物奶，点外卖时会筛选使用可降解包装的餐厅。",
+      "Entertainment": "在二手书店挖掘绝版神话图鉴，定期参加本地艺术社区的创作沙龙。周三晚上固定去独立影院观看cult奇幻电影，并给放映后讨论会画速写。",
+      "Shopping": "网购集中在专业画材店和奇幻主题订阅盒子，实体店偏爱手工造纸坊和环保概念店。衣柜里70%是二手古着，尤其痴迷收集民族风刺绣披肩。",
+      "TravelDaily_Outings": "日常骑电动滑板车往返邮局寄送粉丝签名书，每月末坐地铁去植物园观察爬行动物动态写生。"
+    },
+    "Travel": {
+      "Business_Trips": "参加欧洲奇幻文学大会时会租用共享办公空间，在签售间隙探访当地神秘学小店，行李箱里永远备着可水洗牛皮纸用来拓印古老建筑纹理。",
+      "Leisure_Travel": "偏爱预订树屋或洞穴酒店，在秘鲁马丘比丘徒步时用AR眼镜实时标注幻想的生物栖息地，随身素描本记满与当地原住民交流的神话碎片。"
+    },
+    "Social": "Instagram账号专门发布#MythInProgress创作过程视频，在环保游行中cosplay自己书中的森林精灵角色。每周四担任线上写作社群的客座导师，却从不参加行业酒会。",
+    "Productivity": {
+      "Study_Work": "用Notion搭建跨媒体叙事宇宙数据库，Procreate创作时同步录音环境白噪音。每天黎明前用VR绘画软件捕捉梦境残影，定期参加超现实主义写作马拉松。",
+      "Fitness": "参加融合塔罗占卜的瑜伽工作坊，徒步时用声波记录仪采集自然界频率制作ASMR创作背景音，AppleWatch监测到创作亢奋期心率异常会触发冥想提醒。"
+    },
+    "Content_Interests": [
+      "小众神话体系比较研究",
+      "生物发光现象科学纪录片",
+      "蒸汽朋克机械设计展",
+      "地下漫画zine文化"
+    ]
+  }
+}

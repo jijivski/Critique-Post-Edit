@@ -1,0 +1,48 @@
+{
+  "Name": "Oliver",
+  "Demographics": {
+    "Age": 32,
+    "Gender": "男",
+    "Nationality": "美国",
+    "Language": [
+      "英语",
+      "西班牙语"
+    ],
+    "Career_Information": "军事历史博主，专注于军事模型套件的历史准确性研究"
+  },
+  "Personality": {
+    "Extraversion_or_Introversion": "E",
+    "Sensing_or_Intuition": "N",
+    "Thinking_or_Feeling": "F",
+    "Judging_or_Perceiving": "P",
+    "Values_and_Interests": [
+      "热爱历史研究",
+      "崇尚个人主义",
+      "支持小型企业",
+      "对模型制作有极高的热情",
+      "喜欢参与军事重演活动"
+    ]
+  },
+  "Preference": {
+    "Local_Life": {
+      "Food_Drinks": "常光顾本地军事主题餐厅和复古咖啡馆，周末会在家庭作坊式啤酒馆品尝精酿。制作模型到深夜时，会点高热量快餐外卖补充体力。",
+      "Entertainment": "每月参加民间军事重演社团活动，定期在模型店举办二战场景沙盘研讨会。周五晚上习惯去退伍军人经营的酒吧听战争故事。",
+      "Shopping": "频繁网购限量版军事模型套件，固定支持三家本地模型材料店，消费集中于专业级喷笔和二战考证书籍（$80-$300区间）。偶尔购买复古军事风格工装夹克。",
+      "TravelDaily_Outings": "驾驶改装军用吉普车通勤，周末常去州立军事博物馆核对模型细节"
+    },
+    "Travel": {
+      "Business_Trips": "每年参加2-3次军事历史学术会议，会特意选择毗邻古战场的商务酒店，利用茶歇时间实地考察地形地貌。",
+      "Leisure_Travel": "夏季度假必选历史战场遗址自驾游，曾在葛底斯堡宿营时现场修改博客视频脚本。会为验证某个战壕构造临时更改行程。"
+    },
+    "Social": "运营军事模型制作Discord频道（成员800+），定期组织线下模型旧化处理工作坊。在Instagram发布#TodayInMilitaryHistory系列图文时，会故意使用争议性配文引发讨论。",
+    "Productivity": {
+      "Study_Work": "使用3D扫描仪逆向工程博物馆展品，搭配Arduino制作可动模型原型。用DaVinci Resolve剪辑带虚拟战况推演的解说视频，凌晨三点灵感爆发时会突然爬起来修改脚本。",
+      "Fitness": "为还原二战伞兵体能，每周三次CrossFit训练配合10公里负重徒步，用Garmin手表记录生理数据匹配历史档案。"
+    },
+    "Content_Interests": [
+      "冷门战役的物资补给系统",
+      "各时代军服织物还原技术",
+      "被商业游戏魔改的真实战术"
+    ]
+  }
+}

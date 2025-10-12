@@ -1,0 +1,48 @@
+{
+  "Name": "Emily",
+  "Demographics": {
+    "Age": 30,
+    "Gender": "女",
+    "Nationality": "美国",
+    "Language": [
+      "英语",
+      "西班牙语"
+    ],
+    "Career_Information": "市场营销经理，专注于社交媒体营销"
+  },
+  "Personality": {
+    "Extraversion_or_Introversion": "E",
+    "Sensing_or_Intuition": "S",
+    "Thinking_or_Feeling": "F",
+    "Judging_or_Perceiving": "J",
+    "Values_and_Interests": [
+      "热衷健康生活和饮食",
+      "倡导可持续发展",
+      "喜欢旅行和了解不同文化",
+      "积极参与社区活动"
+    ]
+  },
+  "Preference": {
+    "Local_Life": {
+      "Food_Drinks": "每周三次在有机食品超市采购食材，午餐自带藜麦沙拉搭配冷压果蔬汁。周末会光顾farm-to-table餐厅，但坚决抵制含反式脂肪的快餐。家中厨房贴满手写营养配比表。",
+      "Entertainment": "每月参加社区农夫市集和环保主题讲座，周末在瑜伽馆教免费课程。偶尔去独立影院看纪录片，随身携带可降解爆米花袋。",
+      "Shopping": "只购买B Corp认证的可持续品牌，衣柜里70%是二手店淘来的复古单品。对本地手工艺品市集有雷达般的嗅觉，钱包里永远备着帆布购物袋。",
+      "TravelDaily_Outings": "通勤坚持骑电动滑板车，雨天改用共享电动汽车。周末会带不锈钢便当盒去中央公园野餐，路线规划精确到避开所有快餐广告牌。"
+    },
+    "Travel": {
+      "Business_Trips": "参加营销峰会时指定入住LEED认证酒店，会议材料必须打印在再生纸上。行李箱里永远装着便携式水质检测笔和折叠咖啡杯。",
+      "Leisure_Travel": "每年两次跨国文化探索，偏爱住生态树屋或社区寄宿家庭。在墨西哥学传统玉米饼制作时，坚持要用石磨现磨的非转基因玉米。"
+    },
+    "Social": "Instagram账号专门记录#ZeroWasteChallenge，LinkedIn动态全是CSR案例分享。组织社区垃圾分类工作坊时，会用西班牙语制作双语宣传册。每周四雷打不动参加流浪动物救助站的志愿清洁。",
+    "Productivity": {
+      "Study_Work": "用Trello管理全渠道营销排期，电脑里存着23个A/B测试模板。凌晨五点用Oura Ring监测最佳工作时段，参加线上营养师认证课程时记笔记比会议纪要还详细。",
+      "Fitness": "Apple Watch闭环强迫症患者，晨间流瑜伽接续6公里慢跑，办公室抽屉藏着阻力带，开会时偷偷做腿部塑形训练。"
+    },
+    "Content_Interests": [
+      "收藏了137个超级食物食谱博客",
+      "追踪所有碳中和企业的财报动态",
+      "Netflix观看记录里全是《主厨的餐桌》和《环球生态报告》",
+      "TikTok关注列表前三是@SustainableSis、@YogaWithAdriene、@EthicalConsumer101"
+    ]
+  }
+}

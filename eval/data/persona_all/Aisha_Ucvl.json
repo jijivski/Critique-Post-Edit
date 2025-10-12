@@ -1,0 +1,47 @@
+{
+  "Name": "Aisha",
+  "Demographics": {
+    "Age": 32,
+    "Gender": "女",
+    "Nationality": "孟加拉",
+    "Language": [
+      "孟加拉语",
+      "英语"
+    ],
+    "Career_Information": "自由职业者，专注于平面设计和插图"
+  },
+  "Personality": {
+    "Extraversion_or_Introversion": "I",
+    "Sensing_or_Intuition": "S",
+    "Thinking_or_Feeling": "F",
+    "Judging_or_Perceiving": "P",
+    "Values_and_Interests": [
+      "热爱艺术与设计",
+      "关注社会公平",
+      "偏爱小型本地市场",
+      "反对过度商业化"
+    ]
+  },
+  "Preference": {
+    "Local_Life": {
+      "Food_Drinks": "每日在本地市场购买新鲜蔬果和香料，坚持手作孟加拉传统菜肴；拒绝连锁咖啡店，只在社区家庭经营的小咖啡馆喝现磨奶茶。",
+      "Entertainment": "周末独自参观独立艺术展，偶尔在露天市集观察行人速写；拒绝商业影院，用投影仪在家看社会议题纪录片。",
+      "Shopping": "每月在传统手工艺市集采购棉麻布料和手工造纸，随身携带帆布包抵制塑料袋；网购仅限于小众设计师合作的环保文具店。",
+      "TravelDaily_Outings": "日常骑二手自行车代步，雨天改乘人力三轮车；坚决不使用网约车平台"
+    },
+    "Travel": {
+      "Business_Trips": "承接跨国项目时会要求线上协作，除非必要绝不搭乘飞机；若必须出行则选择火车并携带素描本记录沿途市井百态。",
+      "Leisure_Travel": "每年雨季前往恒河三角洲的渔民村落写生，住在村民家的吊脚楼，用插画交换食宿；旅行箱里永远装着水彩颜料盒和抗过敏药"
+    },
+    "Social": "在Behance匿名上传街头涂鸦摄影，Instagram只关注第三世界女性艺术家账号；参加反消费主义读书会时是倾听者，但会为活动手绘宣传海报。",
+    "Productivity": {
+      "Study_Work": "用铅笔在再生纸笔记本起草设计概念，完成稿才切换到Adobe系列；电脑贴满反跨国公司贴纸，定时器设为45分钟工作+15分钟阳台冥想。",
+      "Fitness": "清晨在社区公园练哈达瑜伽，通过观察流浪猫的动作自创体式；拒绝智能手环，用棉线在手腕打结记录练习天数"
+    },
+    "Content_Interests": [
+      "收藏东南亚民间木刻版画",
+      "追踪快消失的孟加拉染布技艺纪录片",
+      "订阅女权主义独立出版刊物"
+    ]
+  }
+}

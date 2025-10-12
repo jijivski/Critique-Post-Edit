@@ -1,0 +1,51 @@
+{
+  "Name": "Emily",
+  "Demographics": {
+    "Age": 29,
+    "Gender": "女",
+    "Nationality": "美国",
+    "Language": [
+      "英语",
+      "西班牙语"
+    ],
+    "Career_Information": "初创公司市场经理，专注于可持续产品推广"
+  },
+  "Personality": {
+    "Extraversion_or_Introversion": "E",
+    "Sensing_or_Intuition": "N",
+    "Thinking_or_Feeling": "F",
+    "Judging_or_Perceiving": "P",
+    "Values_and_Interests": [
+      "环保和可持续发展",
+      "社会公正",
+      "女性权利和多样性",
+      "旅行和跨文化探索"
+    ]
+  },
+  "Preference": {
+    "Local_Life": {
+      "Food_Drinks": "每周三次光顾本地农夫市集购买有机食材，随身携带可重复使用餐具。周末在家烹饪素食料理时，会播放拉丁美洲音乐以练习西班牙语。",
+      "Entertainment": "每月参加一次环保主题露天电影夜，偏爱《大卫·爱登堡》系列纪录片。周四晚上固定参加社区瑜伽课，垫子是用回收橡胶制成的。",
+      "Shopping": "衣柜70%购自二手古着店，新衣只选择使用植物染料的品牌。网购必查「B Corp」认证，曾因快递过度包装而给电商写投诉信。",
+      "TravelDaily_Outings": "通勤骑电动滑板车，雨天则拼车并主动与司机讨论碳补偿计划。周末常带帆布背包去国家公园徒步，包里永远装着可降解垃圾袋。"
+    },
+    "Travel": {
+      "Business_Trips": "参加柏林绿色科技峰会时，用会议间隙考察当地社区花园项目。坚持入住获得LEED认证的酒店，并用会议胸牌带交换其他参会者的可持续徽章。",
+      "Leisure_Travel": "去年在哥斯达黎加参与海龟保护志愿者项目时，学会了用香蕉叶包粽子。下个目标是去冰岛住地热供电的玻璃屋，但拒绝乘坐游轮。"
+    },
+    "Social": "Instagram账号专门记录「零废弃挑战」日常，常与墨西哥环保博主用西语互动。线下主持女性创业者可持续发展沙龙时，会用咖啡渣给 attendees 当盆栽伴手礼。",
+    "Productivity": {
+      "Study_Work": "用Miro白板策划「可循环包装实验」时，会突然切到Duolingo练西语调整思维。TED演讲笔记写在甘蔗渣制成的再生纸上，并按颜色标注行动项。",
+      "Fitness": "晨跑路线经过三个社区堆肥站以便顺路投放，Apple Watch表带是藻类生物材料制成的。"
+    },
+    "Content_Interests": [
+      "收藏了所有Patagonia环保纪录片",
+      "定期收听女科学家谈气候危机的播客《Burning Questions》",
+      "订阅《Monocle》杂志可持续城市特辑"
+    ]
+  },
+  "Bias": {
+    "Preference_for_AI": "强烈期待AI提出反传统的环保商业模式（比如用菌丝体做快递填充物），对纯利润导向建议会直接打断",
+    "Response_style": "需要充满热带雨林意象的比喻，拒绝任何涉及化石燃料行业的成功案例"
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "Name": "Kevin",
+  "Demographics": {
+    "Age": 38,
+    "Gender": "男",
+    "Nationality": "中国",
+    "Language": [
+      "中文",
+      "英文"
+    ],
+    "Career_Information": "营销经理，专注于数字营销和品牌推广"
+  },
+  "Personality": {
+    "Extraversion_or_Introversion": "I",
+    "Sensing_or_Intuition": "S",
+    "Thinking_or_Feeling": "T",
+    "Judging_or_Perceiving": "P",
+    "Values_and_Interests": [
+      "热爱户外活动，尤其是徒步旅行",
+      "认为个人自由和独立性至关重要",
+      "对传统文化持有批判态度",
+      "喜爱探索新的技术和工具以提高工作效率"
+    ]
+  },
+  "Preference": {
+    "Local_Life": {
+      "Food_Drinks": "工作日午餐常点轻食外卖以节省时间，周末会探索独立咖啡馆和主打有机食材的餐厅。讨厌传统酒桌文化，更愿意在精酿酒吧独酌。",
+      "Entertainment": "每月至少去一次IMAX影院，偏好科幻和纪录片。偶尔参加户外品牌举办的露营装备体验市集。",
+      "Shopping": "网购集中在京东购买数码配件，拼多多采购徒步耗材（如防潮垫、速干袜）。坚持「买十退九」原则，对商品功能性极其挑剔。",
+      "TravelDaily_Outings": "通勤依赖共享单车+地铁组合，恶劣天气立即叫专车。周末常去城郊湿地公园进行5公里快走训练。"
+    },
+    "Travel": {
+      "Business_Trips": "参与行业峰会时必住设计型酒店，利用早餐时间在本地创意园区拍摄素材库。曾因坚持自带便携咖啡机被酒店保洁投诉。",
+      "Leisure_Travel": "每年规划两次10天以上的跨国徒步，偏爱新西兰步道和日本熊野古道。会为避开旅行团凌晨4点出发。"
+    },
+    "Social": "LinkedIn动态更新频繁但从不点赞互动，Twitter关注200+海外营销专家却零发帖。线下只接受不超过3人的徒步邀约，在露营时会突然滔滔不绝讲解GPS设备使用技巧。",
+    "Productivity": {
+      "Study_Work": "Notion中存有127个品牌案例分析模板，Trello看板永远设置「延迟处理」标签。开会必带石墨文档实时共享，痛恨纸质笔记本。",
+      "Fitness": "Apple Watch闭环强迫症患者，徒步时开启多款轨迹记录APP交叉验证数据精度。"
+    },
+    "Content_Interests": [
+      "数字营销前沿方法论分析",
+      "轻量化户外装备评测",
+      "城市废弃铁路探秘视频",
+      "独立咖啡馆主理人访谈"
+    ]
+  }
+}

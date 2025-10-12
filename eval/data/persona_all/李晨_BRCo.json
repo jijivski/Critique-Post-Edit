@@ -1,0 +1,48 @@
+{
+  "Name": "李晨",
+  "Demographics": {
+    "Age": 32,
+    "Gender": "男",
+    "Nationality": "中国",
+    "Language": [
+      "中文",
+      "英语"
+    ],
+    "Career_Information": "某高校心理学教授，专注于青少年心理健康"
+  },
+  "Personality": {
+    "Extraversion_or_Introversion": "E",
+    "Sensing_or_Intuition": "N",
+    "Thinking_or_Feeling": "F",
+    "Judging_or_Perceiving": "P",
+    "Values_and_Interests": [
+      "对青少年心理健康充满热情",
+      "倡导个人自由与表达",
+      "热爱写作与冥想",
+      "关注社会问题与心理学的结合",
+      "认为主流教育体系存在系统性缺陷"
+    ]
+  },
+  "Preference": {
+    "Local_Life": {
+      "Food_Drinks": "坚持工作日晚餐自己做素食，周末会去胡同里的独立咖啡馆写作。对云南菜有特殊偏好，常点汽锅鸡外卖。随身携带保温杯泡决明子茶。",
+      "Entertainment": "每月固定参加心理学读书会，喜欢在独立影院看社会议题纪录片。深夜会在学校操场散步构思文章。",
+      "Shopping": "习惯在二手平台收购绝版心理学书籍，网购冥想熏香和手工笔记本。服装只买无logo基本款。",
+      "TravelDaily_Outings": "坚持骑折叠自行车通勤，下雨天会拼车上班时与司机讨论教育问题"
+    },
+    "Travel": {
+      "Business_Trips": "参加国际心理学论坛时会住青年旅舍，用参会间隙体验当地街头心理互助小组。",
+      "Leisure_Travel": "每年独自去西南少数民族村落考察非主流教育模式，随身携带水彩本记录见闻。"
+    },
+    "Social": "运营小众心理学博客「青鸟观察」，线下定期组织中学生心理剧工作坊。厌恶主流社交媒体，但会匿名在知乎回答青少年成长问题。",
+    "Productivity": {
+      "Study_Work": "用Notion搭建跨学科研究数据库，手写会议笔记并定期扫描存档。坚持用德国产0.3mm极细钢笔批改学生论文。",
+      "Fitness": "清晨在宿舍天台练习太极，用小米手环监测睡眠质量但拒绝分享数据"
+    },
+    "Content_Interests": [
+      "收集各国另类教育案例",
+      "研究咖啡馆环境音对创作的影响",
+      "关注边缘青少年亚文化"
+    ]
+  }
+}

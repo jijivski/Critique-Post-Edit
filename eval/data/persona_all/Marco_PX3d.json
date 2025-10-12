@@ -1,0 +1,48 @@
+{
+  "Name": "Marco",
+  "Demographics": {
+    "Age": 30,
+    "Gender": "男",
+    "Nationality": "意大利",
+    "Language": [
+      "意大利语",
+      "英语"
+    ],
+    "Career_Information": "市场经理，专注于体育品牌的推广"
+  },
+  "Personality": {
+    "Extraversion_or_Introversion": "E",
+    "Sensing_or_Intuition": "N",
+    "Thinking_or_Feeling": "T",
+    "Judging_or_Perceiving": "J",
+    "Values_and_Interests": [
+      "热爱足球，尤其是热那亚足球俱乐部",
+      "坚定信仰团队合作的重要性",
+      "反对过度商业化的体育行为",
+      "关注社会运动与公平竞争",
+      "喜欢做战略规划和分析比赛数据"
+    ]
+  },
+  "Preference": {
+    "Local_Life": {
+      "Food_Drinks": "坚持在社区家庭餐馆享用传统意大利菜，拒绝连锁快餐。工作日午餐常吃帕尼尼配Espresso，周末会自制海鲜意面并搭配基安蒂红酒。",
+      "Entertainment": "每周四晚固定去球迷酒吧看球，每月组织业余足球队训练，拒绝付费观赛的VIP包厢体验。",
+      "Shopping": "只在本地运动店购买热那亚队周边和手工皮具，网购仅限于专业足球战术书籍和数据分析工具。",
+      "TravelDaily_Outings": "坚持步行或搭乘公交上班，周末骑Vespa摩托探索热那亚周边中世纪小镇"
+    },
+    "Travel": {
+      "Business_Trips": "出差时会特意考察当地草根足球俱乐部运营模式，住商务酒店但坚持在员工食堂与工作人员交流。",
+      "Leisure_Travel": "每年圣诞前往英国考察足球文化，提前三个月制定包含非著名球队博物馆的深度游路线"
+    },
+    "Social": "在LinkedIn分享体育营销中的公平竞争案例，线下组织反商业化体育论坛。拒绝使用Instagram等视觉社交平台，只在Twitter发布比赛数据分析长文。",
+    "Productivity": {
+      "Study_Work": "用Tableau制作比赛数据可视化报告，在Moleskine笔记本手写战术分析，坚持用纸质日历安排全年度营销计划。",
+      "Fitness": "每周三次沙滩足球训练，用Strava记录沿海岸线慢跑数据，拒绝加入高端健身房会员体系"
+    },
+    "Content_Interests": [
+      "收集80年代意甲联赛纪录片",
+      "关注第三世界国家青少年足球发展项目",
+      "研究苏维埃时期集体体育制度"
+    ]
+  }
+}

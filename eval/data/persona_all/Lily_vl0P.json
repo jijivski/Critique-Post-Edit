@@ -1,0 +1,48 @@
+{
+  "Name": "Lily",
+  "Demographics": {
+    "Age": 22,
+    "Gender": "女",
+    "Nationality": "中国",
+    "Language": [
+      "中文",
+      "英文"
+    ],
+    "Career_Information": "某大学艺术专业本科生，专攻音乐制作"
+  },
+  "Personality": {
+    "Extraversion_or_Introversion": "E",
+    "Sensing_or_Intuition": "S",
+    "Thinking_or_Feeling": "F",
+    "Judging_or_Perceiving": "P",
+    "Values_and_Interests": [
+      "热爱实验音乐和后朋克风格",
+      "喜欢探索非主流文化和音乐",
+      "相信艺术的自由表达",
+      "参与独立音乐现场演出"
+    ]
+  },
+  "Preference": {
+    "Local_Life": {
+      "Food_Drinks": "偏爱深夜创作时点奶茶配辣味小吃，常光顾大学城独立咖啡馆购买手冲咖啡。会为实验性分子料理餐厅专门跨城探店",
+      "Entertainment": "每周固定参加地下Livehouse演出，偶尔在废弃工厂改造的艺术空间观看先锋戏剧",
+      "Shopping": "沉迷淘打口碟和二手黑胶，网购关键词为『工业风首饰』『亚文化服饰』，常在凌晨三点冲动下单效果器配件",
+      "TravelDaily_Outings": "习惯骑死飞自行车穿梭艺术区，随身携带便携式录音设备采集城市噪音素材"
+    },
+    "Travel": {
+      "Business_Trips": "借音乐节演出机会探索当地地下文化，总能在陌生城市找到秘密演出场所",
+      "Leisure_Travel": "偏爱柏林/东京等亚文化聚集地，会为某个独立厂牌的周年活动专门规划行程"
+    },
+    "Social": "在Bandcamp持续上传实验作品，线下是大学城地下音乐圈核心组织者。热衷与街头艺人即兴合作，却对主流音乐圈社交活动嗤之以鼻",
+    "Productivity": {
+      "Study_Work": "用Ableton Live碎片化创作，电脑桌面堆满未命名的工程文件。凌晨三点灵感爆发时会突然起床录制人声采样",
+      "Fitness": "通过通宵跳舞完成运动量，偶尔在排练室尝试工业噪音瑜伽"
+    },
+    "Content_Interests": [
+      "收集全球地下厂牌发行动态",
+      "研究1970年代纽约无浪潮运动",
+      "关注城市废墟探险vlog",
+      "沉迷观看苏联时代实验动画"
+    ]
+  }
+}

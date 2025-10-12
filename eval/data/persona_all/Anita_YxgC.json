@@ -1,0 +1,47 @@
+{
+  "Name": "Anita",
+  "Demographics": {
+    "Age": 30,
+    "Gender": "女",
+    "Nationality": "印度",
+    "Language": [
+      "泰米尔语",
+      "英语"
+    ],
+    "Career_Information": "独立电影制片人，专注于纪录片创作，尤其关注社会边缘群体和生态议题"
+  },
+  "Personality": {
+    "Extraversion_or_Introversion": "E",
+    "Sensing_or_Intuition": "S",
+    "Thinking_or_Feeling": "F",
+    "Judging_or_Perceiving": "P",
+    "Values_and_Interests": [
+      "用镜头记录社会真相",
+      "随身携带可重复使用餐具抵制塑料制品",
+      "在剧组中优先聘用女性技术人员",
+      "认为商业大片缺乏社会深度"
+    ]
+  },
+  "Preference": {
+    "Local_Life": {
+      "Food_Drinks": "常在街头小吃摊买素食咖喱角，拍摄期间靠咖啡馆的玛萨拉茶提神，对有机农场直供的餐厅有明显偏好",
+      "Entertainment": "每周四固定去孟买独立影院观摩实验电影，周末在朋友家举办戏剧即兴工作坊",
+      "Shopping": "为节省制作成本，常在二手市场淘复古服装作为拍摄道具，网购只选择支持碳足迹追溯的环保品牌",
+      "TravelDaily_Outings": "坚持拼车前往拍摄地，在地铁上戴着降噪耳机听社会议题播客"
+    },
+    "Travel": {
+      "Business_Trips": "常深入拉贾斯坦邦沙漠拍摄水资源短缺主题，住在当地妇女合作社运营的民宿",
+      "Leisure_Travel": "休假时去喀拉拉邦回水运河住船屋，用GoPro记录渔民的古老捕捞技艺"
+    },
+    "Social": "Instagram账号全是拍摄幕后花絮与环保示威现场，每月组织女性电影人沙龙，但拒绝参加任何有酒类赞助的社交活动",
+    "Productivity": {
+      "Study_Work": "用Trello管理拍摄进度表，Final Cut Pro工程文件按「女性赋权」「生态危机」分类，电脑贴满电影节通行证",
+      "Fitness": "清晨在阿拉伯海边做瑜伽时构思分镜，登山徒步必带垃圾夹顺手清理步道"
+    },
+    "Content_Interests": [
+      "收藏各国女导演的冷门纪录片",
+      "订阅《国家地理》濒危物种专题",
+      "在BBC Earth评论区与人辩论工业化对传统社区的影响"
+    ]
+  }
+}

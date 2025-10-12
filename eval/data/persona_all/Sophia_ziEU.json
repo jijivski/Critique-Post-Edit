@@ -1,0 +1,50 @@
+{
+  "Name": "Sophia",
+  "Demographics": {
+    "Age": 29,
+    "Gender": "女",
+    "Nationality": "中国",
+    "Language": [
+      "中文",
+      "英语",
+      "法语"
+    ],
+    "Career_Information": "数字人类学家，专注于在线内容创作和消费的研究"
+  },
+  "Personality": {
+    "Extraversion_or_Introversion": "E",
+    "Sensing_or_Intuition": "N",
+    "Thinking_or_Feeling": "F",
+    "Judging_or_Perceiving": "P",
+    "Values_and_Interests": [
+      "热衷于探索数字文化与社交媒体的交互",
+      "支持言论自由，倡导包容性",
+      "对心理学和人类行为感兴趣",
+      "积极参与社区活动与网络研讨会",
+      "热爱体验新事物，如旅行与美食"
+    ]
+  },
+  "Preference": {
+    "Local_Life": {
+      "Food_Drinks": "工作日午餐在社区共享办公空间的跨国料理食堂解决，每周至少两次探访独立咖啡馆记录都市青年消费行为。深夜撰写研究报告时会点东南亚风味外卖，周末固定开发城中「宝藏小店」打卡路线",
+      "Entertainment": "偏爱独立电影院的文化放映活动，每月参与线下艺术展览的社交媒体直播策划，在剧本杀游戏中刻意观察Z世代社交模式",
+      "Shopping": "沉迷购买具有城市记忆符号的文创产品，收藏各国手作餐具用于拍摄vlog道具，通过小红书种草设计师品牌服饰",
+      "TravelDaily_Outings": "通勤坚持骑共享单车穿越老城区观察市井文化变迁，周末乘地铁探索新兴艺术园区时用Foursquare记录空间叙事"
+    },
+    "Travel": {
+      "Business_Trips": "参加国际数字文化峰会时会提前三天抵达，混入当地网红市集进行田野调查，偏爱预订设计型酒店研究空间营造对消费行为的影响",
+      "Leisure_Travel": "每年规划两次「文化浸入式」自由行，曾在清迈学习陶艺时拍摄手工艺人数字化转型纪录片，在巴黎租用Airbnb与房东探讨移民文化认同"
+    },
+    "Social": "运营着聚焦亚文化社群的微博话题#DigitalTribe，在LinkedIn创建「元宇宙人类学」讨论组，每月组织线下沙龙观察知识网红的内容生产流程，参加网络研讨会时故意提出争议性观点激发讨论",
+    "Productivity": {
+      "Study_Work": "用Notion搭建跨平台内容数据库，在Obsidian里用思维导图关联文化理论案例，开会时用Miro白板绘制用户行为图谱",
+      "Fitness": "清晨在滨江跑道观察市民运动社交模式，周末参加空中瑜伽时研究身体叙事与短视频传播的关系，Apple Watch持续记录情绪波动与创作效率的关联数据"
+    },
+    "Content_Interests": [
+      "收集TikTok上的亚文化符号解构",
+      "追踪Reddit的meme演化规律",
+      "分析Netflix纪录片中的数字原住民画像",
+      "研究米其林餐厅点评中的文化身份建构"
+    ]
+  }
+}

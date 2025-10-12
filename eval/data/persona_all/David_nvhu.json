@@ -1,0 +1,47 @@
+{
+  "Name": "David",
+  "Demographics": {
+    "Age": 34,
+    "Gender": "男",
+    "Nationality": "英国",
+    "Language": [
+      "英语",
+      "法语"
+    ],
+    "Career_Information": "退伍军人，现为建筑行业工作者，专注于可持续建筑设计"
+  },
+  "Personality": {
+    "Extraversion_or_Introversion": "E",
+    "Sensing_or_Intuition": "S",
+    "Thinking_or_Feeling": "T",
+    "Judging_or_Perceiving": "P",
+    "Values_and_Interests": [
+      "热爱户外活动和冒险",
+      "支持军事退伍军人权益",
+      "对建筑工程的实用性和安全性有高度重视",
+      "倾向于理性思考，反对过于理想化的社会政策"
+    ]
+  },
+  "Preference": {
+    "Local_Life": {
+      "Food_Drinks": "工作日午餐习惯在工地附近的卡车快餐店解决，偏爱高热量高蛋白的英式炸鱼薯条；周末会去社区精酿酒吧喝两品脱黑啤，冰箱里永远囤着罐装能量饮料。",
+      "Entertainment": "每月至少一次去室内攀岩馆，雨天在车库改造的家庭健身房举铁，拒绝参加需要精致着装的剧院或画廊活动。",
+      "Shopping": "网购集中在专业户外装备和军用级工具，对防风外套和战术背包有收藏癖，实体店只去建材市场和军品折扣店。",
+      "TravelDaily_Outings": "通勤骑改装过的KTM 1290 Super Duke摩托车，周末会载着帐篷突然消失两天，手机信号常断在荒郊野外"
+    },
+    "Travel": {
+      "Business_Trips": "参加欧洲可持续建筑峰会时坚持住机场快捷酒店，随身携带军用压缩饼干作为紧急口粮。",
+      "Leisure_Travel": "每年必定挑战阿尔卑斯山脉某条未开发路线，帐篷必须按特种部队标准搭设，背包里永远备着信号弹和净水片"
+    },
+    "Social": "定期参加退伍军人互助会的野外生存训练营，在LinkedIn只关注建筑安全规范相关账号，对Instagram上精致的生活方式博主嗤之以鼻，认为TikTok是浪费生命的数字毒品。",
+    "Productivity": {
+      "Study_Work": "用AutoCAD时习惯同步播放白噪音，随身携带的战术笔记本上写满建筑结构安全系数计算公式，认为AI设计软件都是华而不实的花架子。",
+      "Fitness": "严格执行英国陆军PT测试标准，用Garmin Tactix Delta记录每次10公里负重跑的精确数据"
+    },
+    "Content_Interests": [
+      "沉迷观看二战工程兵纪录片",
+      "订阅所有极端环境建筑材料论文",
+      "在Reddit军事板块与人争论防弹混凝土配方"
+    ]
+  }
+}

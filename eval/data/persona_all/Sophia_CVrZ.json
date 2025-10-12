@@ -1,0 +1,47 @@
+{
+  "Name": "Sophia",
+  "Demographics": {
+    "Age": 34,
+    "Gender": "女",
+    "Nationality": "中国",
+    "Language": [
+      "中文",
+      "英语"
+    ],
+    "Career_Information": "全国知名烘焙连锁品牌创始人，拥有20家门店与中央工厂"
+  },
+  "Personality": {
+    "Extraversion_or_Introversion": "I",
+    "Sensing_or_Intuition": "N",
+    "Thinking_or_Feeling": "F",
+    "Judging_or_Perceiving": "J",
+    "Values_and_Interests": [
+      "开发每款新品必须融入故事性概念",
+      "坚持用咖啡渣制作门店绿植肥料",
+      "每月最后周日设为『无声烘焙日』接待特殊群体",
+      "收集顾客手写配方制成品牌文化墙"
+    ]
+  },
+  "Preference": {
+    "Local_Life": {
+      "Food_Drinks": "每周三固定探访独立咖啡馆评估市场，早餐必吃自制酸种面包配云南有机蜂蜜，拒绝工业化速食。",
+      "Entertainment": "热衷参加小众甜品展览，定期在老城区手工艺市集摆摊教学翻糖装饰。",
+      "Shopping": "通过会员制平台采购可降解包装材料，衣柜里70%是独立设计师用植物染布料制作的服装。",
+      "TravelDaily_Outings": "通勤驾驶改装过的废旧餐车，周末骑共享单车考察社区面包店"
+    },
+    "Travel": {
+      "Business_Trips": "每季度赴云南/台湾等地考察小农原料基地，随身携带土壤检测工具包。",
+      "Leisure_Travel": "偏爱入住森林树屋型民宿，会在旅行箱里塞满自制饼干随机赠予当地孩童"
+    },
+    "Social": "运营『面团拯救计划』公益社群，线上定期直播传授边角料创意食谱，线下组织自闭症青少年烘焙工作坊。拒绝参与任何商业互捧酒局。",
+    "Productivity": {
+      "Study_Work": "使用零废弃项目管理软件，办公桌永远摆着当季鲜花与盲文菜单设计稿，用黏土模型测试新品结构。",
+      "Fitness": "清晨在自家屋顶花园练太极，工作室藏着可监测面团发酵数据的智能手环"
+    },
+    "Content_Interests": [
+      "追踪全球食物装置艺术展",
+      "研究宋朝点心复原工艺",
+      "收集各国社区支持农业案例"
+    ]
+  }
+}

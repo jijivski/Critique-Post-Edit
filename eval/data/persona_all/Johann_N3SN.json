@@ -1,0 +1,48 @@
+{
+  "Name": "Johann",
+  "Demographics": {
+    "Age": 30,
+    "Gender": "男",
+    "Nationality": "奥地利",
+    "Language": [
+      "德语",
+      "英语",
+      "法语"
+    ],
+    "Career_Information": "奥地利初创企业的创始人，专注于数字支付解决方案"
+  },
+  "Personality": {
+    "Extraversion_or_Intuition": "E",
+    "Sensing_or_Intuition": "S",
+    "Thinking_or_Feeling": "T",
+    "Judging_or_Perceiving": "J",
+    "Values_and_Interests": [
+      "热衷于推动数字支付技术的进步",
+      "相信个人自由和市场经济的力量",
+      "倡导企业社会责任",
+      "喜欢参加商业网络活动和创业比赛"
+    ]
+  },
+  "Preference": {
+    "Local_Life": {
+      "Food_Drinks": "工作午餐常选择维也纳传统咖啡馆的商务套餐，晚餐偏好有机食材餐厅。周末会光顾本地精酿啤酒吧，但加班时用Glovo点希腊卷饼外卖。",
+      "Entertainment": "每月至少参加一次行业酒会，偶尔在Stefani影院包场举办客户观影活动。私下喜欢去阿尔卑斯山脚的小镇打高尔夫。",
+      "Shopping": "定期在SSENSE购置剪裁利落的商务休闲装，网购频率集中在黑五抢购科技产品。坚持使用本地环保品牌RePack的公文包。",
+      "TravelDaily_Outings": "使用Bolt商务专车往返办公室，每周三次清晨自驾特斯拉到Soboth湖岸晨跑"
+    },
+    "Travel": {
+      "Business_Trips": "每月往返法兰克福金融中心，常住万豪行政酒廊套房。会在柏林技术峰会间隙考察街头支付场景，用Uber receipts自动生成差旅报告。",
+      "Leisure_Travel": "圣诞季必去圣安东滑雪场，提前半年预订配备高速Wi-Fi的木屋。夏季在地中海游艇上开战略会议，用Revolut卡结算所有船上消费。"
+    },
+    "Social": "LinkedIn日更行业洞察，但私人instagram只发阿尔卑斯徒步照。每周四在维也纳创业家俱乐部主持闪电演讲，却坚持用纸质名片交换联系方式。",
+    "Productivity": {
+      "Study_Work": "用Notion管理加密会议纪要，Trello看板追踪20个并发项目。凌晨用Oura Ring监测专注力峰值时段处理财务模型。",
+      "Fitness": "Garmin手表记录每日10000步目标，周末在Türkenschanz公园进行HIIT训练时听a16z播客"
+    },
+    "Content_Interests": [
+      "区块链监管动态播客",
+      "中欧初创企业并购案例研究",
+      "奥地利央行数字货币白皮书深度解读"
+    ]
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "Name": "李明",
+  "Demographics": {
+    "Age": 30,
+    "Gender": "男",
+    "Nationality": "中国",
+    "Language": [
+      "中文",
+      "英语"
+    ],
+    "Career_Information": "山东某港口货运司机，拥有十年的运输经验（熟悉环渤海经济圈货运路线）"
+  },
+  "Personality": {
+    "Extraversion_or_Introversion": "E",
+    "Sensing_or_Intuition": "S",
+    "Thinking_or_Feeling": "F",
+    "Judging_or_Perceiving": "P",
+    "Values_and_Interests": [
+      "在驾驶舱里收藏着各地公路纪念徽章",
+      "会为了给新手司机让道多绕20公里",
+      "认为卡车改装文化是运输行业的浪漫",
+      "对超载现象有强烈的道德反感"
+    ]
+  },
+  "Preference": {
+    "Local_Life": {
+      "Food_Drinks": "习惯在国道旁的老字号饺子馆解决正餐，对山东煎饼卷大葱有执念。驾驶座旁永远备着保温壶和即溶咖啡，拒绝功能性饮料。",
+      "Entertainment": "每月固定去港口工人文化宫打台球，深夜收车后会在卡车停车场看露天电影。",
+      "Shopping": "定期网购卡车装饰贴纸和降噪耳机，对山东本土品牌（如海尔家电）有天然信任感。",
+      "TravelDaily_Outings": "坚持开自己的二手吉普车通勤，雨雪天才会坐同事的顺风车"
+    },
+    "Travel": {
+      "Business_Trips": "熟悉从青岛到满洲里的每个服务区，会在大连港卸货后专门去老码头吃鲅鱼饺子。",
+      "Leisure_Travel": "每年休渔期自驾去威海海边露营，执着于寻找未开发的原生态沙滩。"
+    },
+    "Social": "担任运输工会的微信群里最活跃的协调者，擅长用行车记录仪视频揭露道路安全隐患。线下聚会时永远是烧烤摊买单最积极的那个。",
+    "Productivity": {
+      "Study_Work": "用高德地图标记了237个私人路况备注，货运APP里收藏着38条自定义路线方案。",
+      "Fitness": "自创卡车驾驶舱拉伸操，用华为健康记录每天在港口集装箱区的散步轨迹。"
+    },
+    "Content_Interests": [
+      "公路民谣歌单（尤其偏爱野孩子乐队）",
+      "卡车维修知识类短视频",
+      "国际港口纪录片"
+    ]
+  }
+}

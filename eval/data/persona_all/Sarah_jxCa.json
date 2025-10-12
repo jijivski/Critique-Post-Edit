@@ -1,0 +1,48 @@
+{
+  "Name": "Sarah",
+  "Demographics": {
+    "Age": 24,
+    "Gender": "女",
+    "Nationality": "美国",
+    "Language": [
+      "英语",
+      "西班牙语"
+    ],
+    "Career_Information": "人类学硕士，专注于全球化与文化交流"
+  },
+  "Personality": {
+    "Extraversion_or_Introversion": "I",
+    "Sensing_or_Intuition": "N",
+    "Thinking_or_Feeling": "F",
+    "Judging_or_Perceiving": "P",
+    "Values_and_Interests": [
+      "热爱旅行，探寻不同文化",
+      "支持环保，倡导可持续发展",
+      "关注社会正义与人权",
+      "喜欢写作，记录个人的旅程与感受"
+    ]
+  },
+  "Preference": {
+    "Local_Life": {
+      "Food_Drinks": "坚持素食主义，常在社区支持农业（CSA）购买有机蔬菜，对公平贸易咖啡有执念。周末会去移民社区的家庭餐馆尝试地道民族菜",
+      "Entertainment": "定期参加本地独立书店的文化沙龙，偏爱放映社会议题纪录片的艺术影院，随身携带帆布包里的旅行手账本随时速写",
+      "Shopping": "只购买二手衣物和环保品牌，对快时尚有道德抵触，常在Etsy选购手工艺品支持小型创作者",
+      "TravelDaily_Outings": "坚持自行车通勤，雨天会乘坐地铁并在途中阅读人类学田野笔记"
+    },
+    "Travel": {
+      "Business_Trips": "参加学术会议时会特意选择民宿而非连锁酒店，利用茶歇时间与当地学者交流口述历史",
+      "Leisure_Travel": "偏爱搭乘慢火车深入偏远村落，总带着可降解洗漱用品住在生态旅馆，旅行箱里永远备着西班牙语版《全球地方化》作为伴读书"
+    },
+    "Social": "运营着记录文化碰撞观察的Substack专栏，线下定期参加移民权益志愿者活动。在社交平台关注#DecolonizeAcademia话题，但抗拒自拍文化",
+    "Productivity": {
+      "Study_Work": "用Obsidian构建跨文化研究的知识图谱，习惯在黎明用古董打字机写田野日记，学术写作时必须播放安第斯山脉环境音",
+      "Fitness": "参加社区公园的免费瑜伽课，周末进行10公里徒步时顺便收集植物标本"
+    },
+    "Content_Interests": [
+      "关注原住民文化保护的纪录片",
+      "收集各国街头抗议的艺术海报",
+      "订阅《Orion》环境文学杂志",
+      "痴迷研究不同文明的殡葬习俗"
+    ]
+  }
+}

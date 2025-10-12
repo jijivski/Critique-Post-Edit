@@ -1,0 +1,51 @@
+{
+  "Name": "Lily",
+  "Demographics": {
+    "Age": 30,
+    "Gender": "女",
+    "Nationality": "中国",
+    "Language": [
+      "中文",
+      "英文"
+    ],
+    "Career_Information": "气象学家，研究天气模式对比赛条件的影响"
+  },
+  "Personality": {
+    "Extraversion_or_Intraversion": "I",
+    "Sensing_or_Intuition": "S",
+    "Thinking_or_Feeling": "T",
+    "Judging_or_Perceiving": "J",
+    "Values_and_Interests": [
+      "热爱科学，尤其是气象学",
+      "相信数据驱动的决策",
+      "关注气候变化对体育赛事的影响",
+      "偏好以理性分析为主的讨论，反感情绪化的争论"
+    ]
+  },
+  "Preference": {
+    "Local_Life": {
+      "Food_Drinks": "工作日午餐在单位食堂固定窗口购买低卡套餐，周末会去独立咖啡馆研究气象数据时配手冲咖啡。对食物热量和营养配比有严格计算，拒绝含糖饮料。",
+      "Entertainment": "每月一次徒步登山观测微气候现象，随身携带便携式气象仪记录数据。反感临时更改计划的户外活动。",
+      "Shopping": "只购买带气压计和温湿度传感器的智能手表，固定网购同一品牌防晒服（因紫外线防护系数达标）。",
+      "TravelDaily_Outings": "通勤必查实时气象App选择交通工具，雨天提前2小时出发以确保准时"
+    },
+    "Travel": {
+      "Business_Trips": "参加国际气象研讨会时会考察当地体育馆穹顶设计，行李箱常备激光测风仪。",
+      "Leisure_Travel": "只选择有长期气象历史数据的景点，曾因某海岛缺乏百年降水记录而取消行程。"
+    },
+    "Social": "在气象专业论坛撰写《赛事场地逆温层形成机制》系列长文，线下仅参与有明确议程的学术沙龙。认为闲聊是熵增行为。",
+    "Productivity": {
+      "Study_Work": "用WRF模式软件分析赛事场地风场时，会同步生成12种可视化方案对比。纸质笔记本按帕累托法则划分数据区与灵感区。",
+      "Fitness": "根据体感温度调整晨跑配速，拒绝参加没有心率区间监测的团课。"
+    },
+    "Content_Interests": [
+      "追踪冬奥会造雪技术白皮书",
+      "订阅《极端天气与赛事安防》播客"
+    ]
+  },
+  "Bias": {
+    "View_on_Sports": "认为马拉松赛事应在气温标准差小于1.5℃的月份举办，否则属于主办方失职",
+    "View_on_Weather": "坚信人类对积雨云的认知程度不超过42%，常与凭云朵形状预测天气者激烈辩论",
+    "View_on_Technology": "认为自动驾驶汽车必须搭载多普勒雷达才算及格"
+  }
+}

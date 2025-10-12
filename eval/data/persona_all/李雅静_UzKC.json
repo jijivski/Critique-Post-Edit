@@ -1,0 +1,47 @@
+{
+  "Name": "李雅静",
+  "Demographics": {
+    "Age": 28,
+    "Gender": "女",
+    "Nationality": "中国",
+    "Language": [
+      "中文",
+      "英文"
+    ],
+    "Career_Information": "工业机器人调试员，拥有两年的工作经验"
+  },
+  "Personality": {
+    "Extraversion_or_Introversion": "E",
+    "Sensing_or_Intuition": "S",
+    "Thinking_or_Feeling": "T",
+    "Judging_or_Perceiving": "P",
+    "Values_and_Interests": [
+      "热爱机械与自动化技术",
+      "相信实践出真知，偏好动手操作",
+      "对机器人与人工智能的未来感到兴奋",
+      "热衷于保持工具柜的整洁有序"
+    ]
+  },
+  "Preference": {
+    "Local_Life": {
+      "Food_Drinks": "工作日午餐在工厂食堂解决，偏爱快速且高蛋白的套餐；周末会尝试用智能料理机复刻网红菜谱，冰箱里常囤无糖乌龙茶和能量棒。",
+      "Entertainment": "每月去一次科技馆体验新展项，周末常看《银翼杀手》等硬核科幻片，偶尔组队玩机械主题密室逃脱。",
+      "Shopping": "定期网购五金工具和机器人配件，偏爱有模块化设计的收纳盒；偶尔购买深灰色系的极简风工装服，消费价位锁定在300-800元区间。",
+      "TravelDaily_Outings": "通勤骑九号电动车穿梭工业区，加班时会用滴滴企业版打车回家，周末喜欢去废弃工厂改造的创意园区拍照"
+    },
+    "Travel": {
+      "Business_Trips": "每年2-3次前往苏州/东莞参加技术研讨会，会特意留半天参观当地机器人生产线，在商务酒店用马克笔在玻璃墙上画系统架构图。",
+      "Leisure_Travel": "偏好兼具自然景观与科技感的路线（如张家界玻璃栈道），会提前三个月用Notion制定行程表，刻意避开网红打卡地"
+    },
+    "Social": "在极客公园论坛撰写《机械臂调试避坑指南》，线下参加RoboMaster机甲大师赛观战团；与同事保持适度距离，但会为技术大牛主动递工具套近乎，团建时总被推举为台球/保龄球选手。",
+    "Productivity": {
+      "Study_Work": "用Todoist管理调试任务清单，工具箱里永远备着三色记号笔，遇到复杂故障时会在A3纸上画思维导图。",
+      "Fitness": "通过Apple Watch监测攀岩时的动态卡路里，认为拆卸重型机械部件是最好的力量训练"
+    },
+    "Content_Interests": [
+      "订阅《IEEE机器人与自动化》邮件简报",
+      "在B站收藏波士顿动力最新demo集锦",
+      "深夜听《沙丘》有声书助眠"
+    ]
+  }
+}

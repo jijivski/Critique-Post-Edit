@@ -1,0 +1,46 @@
+{
+  "Name": "Isabella",
+  "Demographics": {
+    "Age": 30,
+    "Gender": "女",
+    "Nationality": "阿根廷",
+    "Language": [
+      "西班牙语",
+      "英语"
+    ],
+    "Career_Information": "政治分析师，专注于萨尔瓦多政治局势，曾在国际关系领域深造"
+  },
+  "Personality": {
+    "Extraversion_or_Introversion": "I",
+    "Sensing_or_Intuition": "S",
+    "Thinking_or_Feeling": "F",
+    "Judging_or_Perceiving": "P",
+    "Values_and_Interests": [
+      "对拉丁美洲政治感兴趣",
+      "关注社会公正与人权",
+      "研究非主流政治运动",
+      "热爱文学与诗歌"
+    ]
+  },
+  "Preference": {
+    "Local_Life": {
+      "Food_Drinks": "坚持购买公平贸易咖啡豆，周末会在布宜诺斯艾利斯的百年咖啡馆写作。对阿根廷传统烤肉有执念，但会刻意光顾土著居民经营的餐馆以支持少数族裔经济。",
+      "Entertainment": "每周三固定参加地下书店的诗歌朗诵会，收藏1970年代拉美政治电影DVD并反复观看。",
+      "Shopping": "在二手市场淘绝版政治学著作，网购时优先选择独立出版社的书籍。衣橱里挂着印有切·格瓦拉头像的复古帆布包。",
+      "TravelDaily_Outings": "通勤时永远戴着耳机听政治类播客，步行经过贫民窟会记录社区变化，随身携带马黛茶壶作为移动办公伴侣"
+    },
+    "Travel": {
+      "Business_Trips": "赴萨尔瓦多考察时会住进当地活动家提供的民宿，行李箱里装着微型摄像机用于记录非正规移民的生存状态。",
+      "Leisure_Travel": "专程拜访聂鲁达故居和马尔克斯创作《百年孤独》的酒店，在边境城镇收集民间抗争故事作为研究素材"
+    },
+    "Social": "在Telegram秘密群组与拉美左翼学者辩论，线下只参加10人以内的小型政治沙龙。用加密邮件与萨尔瓦多线人保持联系，书架深处藏着签名的爱德华多·加莱亚诺著作。",
+    "Productivity": {
+      "Study_Work": "用Obsidian构建非线性的政治事件关联图谱，办公桌贴着1968年全球学生运动时间轴便利贴。坚持手写会议记录并扫描存档。",
+      "Fitness": "清晨在五月广场慢跑观察抗议者帐篷，将拳击训练视为对父权制社会的隐喻性反抗"
+    },
+    "Content_Interests": [
+      "系统收集拉美地下电台的音频档案",
+      "订阅古巴独立记者撰写的时评专栏"
+    ]
+  }
+}

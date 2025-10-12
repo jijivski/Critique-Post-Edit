@@ -1,0 +1,47 @@
+{
+  "Name": "Lina",
+  "Demographics": {
+    "Age": 34,
+    "Gender": "女",
+    "Nationality": "中国",
+    "Language": [
+      "中文",
+      "西班牙语"
+    ],
+    "Career_Information": "社会工作者，专注于为出狱人员提供支持和心理辅导"
+  },
+  "Personality": {
+    "Extraversion_or_Introversion": "I",
+    "Sensing_or_Intuition": "S",
+    "Thinking_or_Feeling": "F",
+    "Judging_or_Perceiving": "J",
+    "Values_and_Interests": [
+      "坚定地相信每个人都有改变的机会",
+      "积极参与社区服务",
+      "关注心理健康问题",
+      "热衷于阅读犯罪心理学相关书籍"
+    ]
+  },
+  "Preference": {
+    "Local_Life": {
+      "Food_Drinks": "习惯在社区夫妻店购买新鲜食材自己烹饪，周末会光顾聋哑人运营的素食餐厅。对速溶咖啡有顽固依赖，办公桌抽屉里总备着云南小粒咖啡",
+      "Entertainment": "每周四晚独自观看犯罪题材电影并做笔记，偶尔参加监狱主题公益讲座。拒绝KTV等密闭社交场所",
+      "Shopping": "坚持购买二手书店的犯罪心理学专著，定期捐赠衣物至社区回收站。对超市促销信息敏感度堪比刑侦侧写",
+      "TravelDaily_Outings": "通勤坚持坐地铁观察人间百态，随身携带《罪犯心理画像技术》在车厢阅读"
+    },
+    "Travel": {
+      "Business_Trips": "参与跨省司法研讨会时必住监狱旧址改造的特色青旅，随身携带自制更生人士帮扶手册",
+      "Leisure_Travel": "每年独自前往西南山区寺庙静修，随身笔记本记录香客微表情与犯罪心理学的关联"
+    },
+    "Social": "在知乎匿名撰写《刑满释放人员口述实录》，线下定期组织前科者茶话会。微信置顶12个帮扶对象聊天窗口，朋友圈三天可见但全是公益海报",
+    "Productivity": {
+      "Study_Work": "用彩色便签墙管理帮扶案例，犯罪心理学书籍批注密度堪比密码本。坚持手写矫正对象行为观察日记",
+      "Fitness": "清晨在社区健身角单杠上冥想，认为高空俯视视角有助于分析犯罪现场心理"
+    },
+    "Content_Interests": [
+      "收集全球监狱建筑平面图",
+      "关注边缘群体口述史纪录片",
+      "研究宗教仪式与心理矫治的交叉点"
+    ]
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "Name": "Sophie",
+  "Demographics": {
+    "Age": 30,
+    "Gender": "女",
+    "Nationality": "美国",
+    "Language": [
+      "英语",
+      "西班牙语"
+    ],
+    "Career_Information": "心理健康专业人士，专注于明星的心理辅导与职业压力管理"
+  },
+  "Personality": {
+    "Extraversion_or_Introversion": "I",
+    "Sensing_or_Intuition": "N",
+    "Thinking_or_Feeling": "F",
+    "Judging_or_Perceiving": "J",
+    "Values_and_Interests": [
+      "关注心理健康和情绪管理",
+      "热衷于个人成长与发展",
+      "支持心理健康去污名化",
+      "喜爱艺术和文化相关活动"
+    ]
+  },
+  "Preference": {
+    "Local_Life": {
+      "Food_Drinks": "工作日以有机沙拉和冷压果汁为主食，周末尝试融合菜系私厨餐厅。随身携带保温杯喝洋甘菊茶，对精品咖啡店的手冲咖啡有近乎仪式感的偏好。",
+      "Entertainment": "每月固定参观当代艺术展览，订阅独立影院会员卡观看小众心理题材电影。拒绝真人秀类节目，认为其扭曲公众心理认知。",
+      "Shopping": "在Etsy购买手作陶瓷茶具，收藏心理学古籍初版书。服装偏好极简主义设计师品牌，衣柜里悬挂着五件不同剪裁的黑色羊绒大衣。",
+      "TravelDaily_Outings": "通勤坚持步行40分钟穿越中央公园，随身携带Moleskine笔记本记录沿途观察到的情绪表达案例。"
+    },
+    "Travel": {
+      "Business_Trips": "为明星客户提供随行心理支持时入住配备隔音冥想室的精品酒店，利用客房服务菜单测试客户的情绪化进食倾向。",
+      "Leisure_Travel": "每年独自前往西班牙白色小镇进行写作静修，刻意选择没有Wi-Fi的百年石屋，随身携带荣格全集作为旅行读物。"
+    },
+    "Social": "在Psychology Today开设专栏剖析明星心理案例，线下定期组织艺术治疗工作坊。拒绝参加超过8人的社交聚会，但会为抑郁症康复者举办私人茶话会。",
+    "Productivity": {
+      "Study_Work": "使用Neurotrack记录客户微表情变化数据，手写治疗笔记时坚持用Montblanc星空灰墨水。凌晨四点整理案例分析的习惯持续了七年。",
+      "Fitness": "每日进行45分钟阴瑜伽配合箱式呼吸法，Apple Watch的站立提醒总被刻意忽略——认为专注状态不应被机械提示打断。"
+    },
+    "Content_Interests": [
+      "精神分析学派论战史",
+      "先锋戏剧幕后纪录片",
+      "米其林主厨的心理崩溃自述"
+    ]
+  }
+}

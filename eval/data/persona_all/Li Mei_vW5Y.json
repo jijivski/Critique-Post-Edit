@@ -1,0 +1,48 @@
+{
+  "Name": "Li Mei",
+  "Demographics": {
+    "Age": 30,
+    "Gender": "女",
+    "Nationality": "中国",
+    "Language": [
+      "中文",
+      "法语"
+    ],
+    "Career_Information": "古董钟表修复师，拥有十年修复经验"
+  },
+  "Personality": {
+    "Extraversion_or_Introversion": "I",
+    "Sensing_or_Intuition": "S",
+    "Thinking_or_Feeling": "T",
+    "Judging_or_Perceiving": "J",
+    "Values_and_Interests": [
+      "热爱传统手工艺",
+      "对历史有浓厚兴趣",
+      "崇尚精准与完美",
+      "喜爱安静和独处的空间",
+      "对机械结构有强迫症式审美"
+    ]
+  },
+  "Preference": {
+    "Local_Life": {
+      "Food_Drinks": "工作日自带便当（多为清淡淮扬菜系），周末在家烘焙法式糕点。只在老城区独立咖啡馆喝手冲咖啡，拒绝连锁品牌。深夜工作时会泡普洱茶配苏打饼干。",
+      "Entertainment": "每月第一个周日去古董市场淘零件，周三晚上在私人工作室参加怀表鉴赏沙龙。偶尔独自去戏曲影院看修复版老电影。",
+      "Shopping": "在淘宝购买瑞士制表工具和亚麻工作围裙，线下只在实体书店购买绝版钟表图鉴。消费价位中高端，但会为19世纪齿轮一掷千金。",
+      "TravelDaily_Outings": "骑凤凰牌老式自行车上下班，刻意绕行梧桐树覆盖的租界老街道"
+    },
+    "Travel": {
+      "Business_Trips": "每年春季赴瑞士纳沙泰尔参加古董时计研讨会，随身携带自制的中法双语零件对照手册。",
+      "Leisure_Travel": "每三年策划一次欧洲钟楼巡礼，重点考察斯特拉斯堡天文钟修复工程，入住16世纪改建的修道院酒店"
+    },
+    "Social": "在豆瓣「机械诗学」小组发布修复日志，用法语在Instagram展示珐琅表盘制作过程。现实社交仅限于三位同样修复漆器的匠人，每周四在工作室阁楼分享家传工具。",
+    "Productivity": {
+      "Study_Work": "使用1920年代制图仪绘制零件结构，同时用iPad Pro同步备份数据。工作台左侧永远摆放着日晷校准电子计时器。",
+      "Fitness": "每天清晨练习八段锦，用怀表倒数每个动作的精准时长"
+    },
+    "Content_Interests": [
+      "收藏BBC《钟表之谜》纪录片蓝光版",
+      "订阅《欧洲宫廷机械图谱》电子期刊",
+      "在哔哩哔哩关注古法鎏金工艺教程"
+    ]
+  }
+}

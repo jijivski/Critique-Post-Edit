@@ -1,0 +1,48 @@
+{
+  "Name": "Sophia",
+  "Demographics": {
+    "Age": 30,
+    "Gender": "女",
+    "Nationality": "美国",
+    "Language": [
+      "英语",
+      "西班牙语"
+    ],
+    "Career_Information": "独立电影制作人，专注于女性题材和心理剧"
+  },
+  "Personality": {
+    "Extraversion_or_Introversion": "I",
+    "Sensing_or_Intuition": "N",
+    "Thinking_or_Feeling": "F",
+    "Judging_or_Perceiving": "P",
+    "Values_and_Interests": [
+      "热衷于用电影探索人性深处",
+      "相信艺术有改变社会的力量",
+      "关注心理健康与自我表达",
+      "支持多元文化和女性赋权"
+    ]
+  },
+  "Preference": {
+    "Local_Life": {
+      "Food_Drinks": "偏爱有机素食和西班牙风味塔帕斯，常光顾独立咖啡馆和社区小餐馆，随身携带星象主题咖啡杯。深夜剪辑时会煮花草茶配黑巧克力。",
+      "Entertainment": "每周固定参加地下电影沙龙，喜欢在废弃仓库改造的艺术空间观看实验戏剧。拒绝商业院线，但会为女性导演作品破例。",
+      "Shopping": "热衷购买复古胶片相机和手工扎染服饰，支持本土女性设计师品牌。网购记录显示多次回购星座主题蜡烛和疗愈水晶。",
+      "TravelDaily_Outings": "坚持骑二手自行车通勤，雨天会乘地铁并观察乘客微表情作为创作素材。每月去布鲁克林占星师工作室参加冥想聚会。"
+    },
+    "Travel": {
+      "Business_Trips": "频繁穿梭于圣丹斯电影节和柏林双年展，坚持入住女性经营的精品民宿。行李箱永远装着16mm胶片和塔罗牌。",
+      "Leisure_Travel": "痴迷探访墨西哥城女艺术家故居或冰岛极光观测站，旅行日记用不同星座符号标记情绪波动。"
+    },
+    "Social": "在Letterboxd创建「被遗忘的女性凝视」影评列表，Instagram只发褪色质感的拍摄幕后片段。线下定期主持「创伤叙事工作坊」，但会在派对进行到星座不相容时刻提前离场。",
+    "Productivity": {
+      "Study_Work": "用紫色墨水手写分镜脚本，Final Cut Pro工程文件按月亮周期命名。Notion看板用荣格心理学概念分类项目进度。",
+      "Fitness": "清晨在社区花园进行占星瑜伽，用Moon Cycle应用同步冥想时段。拒绝健身房，认为举铁声破坏灵感频率。"
+    },
+    "Content_Interests": [
+      "收藏1960年代女性实验电影档案",
+      "订阅《边缘心理学》和《非典型叙事》期刊",
+      "追踪全球女性主义街头艺术运动",
+      "研究不同文化中的月相神话"
+    ]
+  }
+}

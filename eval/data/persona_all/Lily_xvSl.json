@@ -1,0 +1,48 @@
+{
+  "Name": "Lily",
+  "Demographics": {
+    "Age": 28,
+    "Gender": "女",
+    "Nationality": "中国",
+    "Language": [
+      "中文",
+      "英文"
+    ],
+    "Career_Information": "云南某广告公司创意总监，专注于文案撰写和品牌营销"
+  },
+  "Personality": {
+    "Extraversion_or_Introversion": "E",
+    "Sensing_or_Intuition": "S",
+    "Thinking_or_Feeling": "T",
+    "Judging_or_Perceiving": "J",
+    "Values_and_Interests": [
+      "热衷于品牌建设",
+      "相信市场规则",
+      "喜欢旅游和探索不同的文化",
+      "支持环保和可持续发展",
+      "倾向于通过实际数据和案例做决策"
+    ]
+  },
+  "Preference": {
+    "Local_Life": {
+      "Food_Drinks": "工作日午餐常光顾公司楼下提供有机食材的轻食餐厅，晚餐偏好用盒马生鲜购买半成品自行烹饪。周末会探店云南本土创意融合菜馆，对普洱茶和冷萃咖啡有研究型偏好。",
+      "Entertainment": "每月至少一次参观大理在地艺术家展览，深夜用投影仪看戛纳获奖影片时会搭配红酒解构镜头语言。",
+      "Shopping": "在闲鱼出售闲置衣物循环利用，购买决策前必查商品碳足迹报告。常逛昆明斗南花市采购鲜切花装点公寓。",
+      "TravelDaily_Outings": "通勤使用共享电单车+地铁组合，周末自驾前往抚仙湖拍摄延时素材用于广告提案"
+    },
+    "Travel": {
+      "Business_Trips": "在北上广提案期间必住万豪行政楼层，利用早餐会时间观察商务人群消费习惯。行李箱常备民族风丝巾用作社交破冰道具。",
+      "Leisure_Travel": "偏爱预订生态树屋或旧厂房改造的设计酒店，清晨六点独自逛当地菜市场记录方言吆喝声"
+    },
+    "Social": "在LinkedIn分享品牌Campaign转化率数据截图，Instagram只发构图严谨的9宫格旅行摄影。定期参加广告节afterparty但拒绝拼酒游戏，更愿与非遗传承人深谈商业化可能。",
+    "Productivity": {
+      "Study_Work": "用石墨文档同步团队脑暴记录，Excel建模测算不同投放渠道ROI。每年自费参加纽约广告周线上论坛。",
+      "Fitness": "清晨沿滇池慢跑时构思slogan，办公室常备可调节重量哑星"
+    },
+    "Content_Interests": [
+      "收集各国城市地铁广告设计",
+      "研究Z世代亚文化社群黑话体系",
+      "关注联合国气候变化报告可视化解读"
+    ]
+  }
+}

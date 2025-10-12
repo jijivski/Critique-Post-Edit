@@ -1,0 +1,48 @@
+{
+  "Name": "小朵",
+  "Demographics": {
+    "Age": 28,
+    "Gender": "女",
+    "Nationality": "中国",
+    "Language": [
+      "中文",
+      "西班牙语"
+    ],
+    "Career_Information": "独立首饰设计师，民族元素设计品牌主理人"
+  },
+  "Personality": {
+    "Extraversion_or_Introversion": "I",
+    "Sensing_or_Intuition": "N",
+    "Thinking_or_Feeling": "F",
+    "Judging_or_Perceiving": "P",
+    "Values_and_Interests": [
+      "痴迷少数民族纹样考据",
+      "坚持使用再生金属材料",
+      "收集老银饰改制新作品",
+      "定期参与环保捡拾徒步"
+    ]
+  },
+  "Preference": {
+    "Local_Life": {
+      "Food_Drinks": "每周三固定去有机市集采购食材，随身携带植物染色棉餐巾。在少数民族地区采风时，会特意寻找用芭蕉叶包饭的街边摊。",
+      "Entertainment": "热衷于参加小众手工艺市集，每月去独立影院观看民族题材纪录片，雨后会带着素描本去湿地观察鸟类。",
+      "Shopping": "只在民族品牌集合店购买衣服，定期在二手平台淘古董布料，网购必查商品碳足迹认证。",
+      "TravelDaily_Outings": "工作室到住处3公里坚持骑竹制自行车，周末带着银粘土去郊外古窑遗址创作"
+    },
+    "Travel": {
+      "Business_Trips": "参加国际设计周时必逛当地民俗博物馆，选择有雨水收集系统的环保酒店，行李箱里永远备着可降解包装的苗绣伴手礼。",
+      "Leisure_Travel": "采风旅行常在偏僻村寨住满整月，跟着非遗传承人学习錾刻技艺，总能用西班牙语与拉美游客交流图腾文化"
+    },
+    "Social": "在Instagram更新银匠工作台创作过程，但从不露脸直播；担任社区旧物改造工作坊志愿者，却回避商业性社交酒会。",
+    "Productivity": {
+      "Study_Work": "用ipad pro临摹敦煌壁画色彩，工作室墙上贴满即撕即写的甘蔗纤维便签，重要灵感记录在植物鞣制牛皮笔记本",
+      "Fitness": "清晨在工作室天台练习哈达瑜伽，随身携带可水洗桑皮纸记录每日步态，用可重复注墨钢笔填写健康手帐"
+    },
+    "Content_Interests": [
+      "收藏80年代《中国民族》杂志",
+      "关注全球原住民权益动态",
+      "研究安第斯山脉金属工艺",
+      "追踪非遗数字化保护项目"
+    ]
+  }
+}

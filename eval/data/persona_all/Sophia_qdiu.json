@@ -1,0 +1,47 @@
+{
+  "Name": "Sophia",
+  "Demographics": {
+    "Age": 30,
+    "Gender": "女",
+    "Nationality": "美国",
+    "Language": [
+      "英语",
+      "西班牙语"
+    ],
+    "Career_Information": "自由职业编剧，曾为多部独立电影撰写剧本"
+  },
+  "Personality": {
+    "Extraversion_or_Introversion": "E",
+    "Sensing_or_Intuition": "S",
+    "Thinking_or_Feeling": "F",
+    "Judging_or_Perceiving": "P",
+    "Values_and_Interests": [
+      "热爱创作与故事叙述",
+      "崇尚创作自由",
+      "认为版权法应更灵活以促进艺术创新",
+      "关注社会问题并在作品中反映现实"
+    ]
+  },
+  "Preference": {
+    "Local_Life": {
+      "Food_Drinks": "习惯在街角的独立咖啡馆写作，常点危地马拉手冲咖啡配墨西哥卷饼。周末会光顾支持本地农场的小餐馆，坚持用纸质笔记本记录食物带来的灵感",
+      "Entertainment": "每周三雷打不动参加独立影院放映会，随身携带35mm胶片相机拍摄街头场景。偶尔在布鲁克林涂鸦巷组织即兴剧本朗读",
+      "Shopping": "热衷在二手书店淘上世纪六十年代的剧本初版，衣柜里70%是古着店淘来的波西米亚风格衬衫，抗拒快时尚消费",
+      "TravelDaily_Outings": "坚持骑Citi Bike穿梭于各艺术区，随身帆布包总装着便携打字机，会在中央公园长椅上即兴创作对白"
+    },
+    "Travel": {
+      "Business_Trips": "参加圣丹斯电影节时会住进作家营集体宿舍，行李箱里永远备着防狼喷雾和维权运动宣传册",
+      "Leisure_Travel": "每年雨季独自前往古巴哈瓦那采风，住家庭旅馆与街头艺人同吃住，用西班牙语记录革命广场的街头对话"
+    },
+    "Social": "在Twitter创建#RealScriptMatters话题讨论劳工权益，Instagram只发黑白街头摄影并标注拍摄地历史事件。每月第一个周五在华盛顿广场公园组织「故事救济站」自由创作集会",
+    "Productivity": {
+      "Study_Work": "用Scrivener分镜时必开雨声白噪音，剧本草稿写在回收纸背面并按颜色分类。使用Trello管理角色弧光时间轴时会突然插入手绘情绪曲线图",
+      "Fitness": "参加LGBTQ+平权游行当健身，随身携带计步器记录示威路程。每周三在威廉斯堡桥下练弗拉门戈舞治疗写作焦虑"
+    },
+    "Content_Interests": [
+      "收集各国罢工运动纪录片",
+      "订阅地下漫画杂志《Panel Revolution》",
+      "深夜循环播放科恩兄弟电影音轨"
+    ]
+  }
+}

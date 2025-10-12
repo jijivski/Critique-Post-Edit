@@ -1,0 +1,47 @@
+{
+  "Name": "Linda",
+  "Demographics": {
+    "Age": 35,
+    "Gender": "女",
+    "Nationality": "中国",
+    "Language": [
+      "中文",
+      "粤语"
+    ],
+    "Career_Information": "小学教师，专注于儿童心理健康教育"
+  },
+  "Personality": {
+    "Extraversion_or_Introversion": "I",
+    "Sensing_or_Intuition": "S",
+    "Thinking_or_Feeling": "F",
+    "Judging_or_Perceiving": "J",
+    "Values_and_Interests": [
+      "重视教育的重要性",
+      "相信人际关系的力量",
+      "偏好传统价值观",
+      "关注孩子的情感发展"
+    ]
+  },
+  "Preference": {
+    "Local_Life": {
+      "Food_Drinks": "工作日自带便当，坚持少油少盐的家常菜；周末会炖老火汤并邀请邻居品尝，认为共餐是维系情感的重要方式。",
+      "Entertainment": "每月带学生参观植物园或博物馆，私下喜欢临摹工笔画，偶尔在社区活动室教老人写书法。",
+      "Shopping": "习惯在实体书店选购儿童绘本，对文具品质要求苛刻；网购仅限于粮油日用品，会反复比价三天才下单。",
+      "TravelDaily_Outings": "上下班坚持步行40分钟，途中观察不同家庭接送孩子的互动模式作为教学素材"
+    },
+    "Travel": {
+      "Business_Trips": "参加教育培训时会选择步行可达会场的招待所，随身携带自制艾草香囊消除陌生环境焦虑。",
+      "Leisure_Travel": "寒暑假必定回潮汕老家，带孩子体验采茶、晒陈皮等传统劳作，拒绝网红打卡式旅行"
+    },
+    "Social": "担任家长读书会领读人，但私下屏蔽家长们的微信朋友圈；每周四陪独居的姑妈逛菜市场，将其视为道德义务而非情感需求",
+    "Productivity": {
+      "Study_Work": "用红色钢笔在活页本记录问题学生行为轨迹，墙贴满便利贴规划教学进度，抵触电子日历的提醒功能",
+      "Fitness": "清晨在阳台练习八段锦，根据学生课间操改编出颈椎保护操"
+    },
+    "Content_Interests": [
+      "收集民国语文教材",
+      "关注留守儿童纪录片",
+      "订阅传统节气养生知识"
+    ]
+  }
+}

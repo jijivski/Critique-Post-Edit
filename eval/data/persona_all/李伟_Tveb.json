@@ -1,0 +1,47 @@
+{
+  "Name": "李伟",
+  "Demographics": {
+    "Age": 42,
+    "Gender": "男",
+    "Nationality": "中国",
+    "Language": [
+      "中文",
+      "方言"
+    ],
+    "Career_Information": "河北某皮影戏班主，专注于传统艺术与手工艺，兼任驴皮雕刻师"
+  },
+  "Personality": {
+    "Extraversion_or_Introversion": "E",
+    "Sensing_or_Intuition": "S",
+    "Thinking_or_Feeling": "T",
+    "Judging_or_Perceiving": "J",
+    "Values_and_Interests": [
+      "热爱传统艺术",
+      "相信师徒制",
+      "坚持手工制作的价值",
+      "希望将皮影戏推广到全国"
+    ]
+  },
+  "Preference": {
+    "Local_Life": {
+      "Food_Drinks": "每日固定去老城区早点摊喝豆腐脑配油条，晚餐必饮本地高粱酒。厌恶外卖食品，认为妻子做的河北大锅菜最能滋补身体。",
+      "Entertainment": "每月带徒弟逛庙会观察民间艺术，偶尔看露天电影但中途离场批评'太花哨'。",
+      "Shopping": "只在农贸市场买现杀猪肉，网购仅限于雕刻工具补充，付款前会反复比对三家店铺。",
+      "TravelDaily_Outings": "骑电动三轮车往返作坊与剧场，暴雨天才会乘公交并抱怨'皮革坐垫都被雨水泡坏了'"
+    },
+    "Travel": {
+      "Business_Trips": "每年受邀赴北京/西安进行非遗展演，总带着半麻袋驴皮现场雕刻，住快捷酒店时会把窗户全打开散皮革味。",
+      "Leisure_Travel": "春节带全家自驾游必选有皮影戏传承的古镇，途中坚持用纸质地图导航"
+    },
+    "Social": "每周日固定与老艺人在茶馆抽旱烟切磋技艺，用老年机接订单但会认真保存每张手写订票单。在短视频平台注册账号却只拍驴皮鞣制过程，拒绝露脸解说。",
+    "Productivity": {
+      "Study_Work": "用褪色的红皮本记录每个徒弟进步曲线，工具箱里藏着1988年版《中国皮影图谱》随时查阅。",
+      "Fitness": "清晨在作坊后院打八段锦，坚持用石锁锻炼臂力以保证雕刻力度"
+    },
+    "Content_Interests": [
+      "收藏各地方戏曲磁带",
+      "关注央视《探索·发现》手工艺特辑",
+      "反复观看1986年版《西游记》皮影戏片段"
+    ]
+  }
+}

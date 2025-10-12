@@ -1,0 +1,47 @@
+{
+  "Name": "李明",
+  "Demographics": {
+    "Age": 30,
+    "Gender": "男",
+    "Nationality": "中国",
+    "Language": [
+      "中文",
+      "英语"
+    ],
+    "Career_Information": "福建省某知名咖啡店店长，专注于咖啡调制与顾客体验"
+  },
+  "Personality": {
+    "Extraversion_or_Introversion": "I",
+    "Sensing_or_Intuition": "S",
+    "Thinking_or_Feeling": "F",
+    "Judging_or_Perceiving": "P",
+    "Values_and_Interests": [
+      "热爱咖啡文化",
+      "倾向于人际关系的和谐",
+      "支持小型企业的发展",
+      "喜欢户外运动与自然探索"
+    ]
+  },
+  "Preference": {
+    "Local_Life": {
+      "Food_Drinks": "每日清晨亲手冲泡单品咖啡作为仪式，偏好独立咖啡馆的创意特调。午餐常在附近农家菜馆解决，对本地食材有执念，常购买有机蔬菜自制晚餐。",
+      "Entertainment": "每周三固定参加户外俱乐部徒步活动，雨季则在咖啡馆地下室组织小众电影放映会。",
+      "Shopping": "每月网购咖啡生豆和烘焙工具，衣柜里70%是户外品牌折扣季囤货，对快时尚嗤之以鼻。",
+      "TravelDaily_Outings": "骑改装的公路自行车通勤，周末常自驾2小时内的冷门露营地测试手冲咖啡套装"
+    },
+    "Travel": {
+      "Business_Trips": "每年两次前往云南或海南咖啡产区考察，行李箱永远装着便携式咖啡品鉴套装。",
+      "Leisure_Travel": "偏爱日本四国岛或危地马拉火山带等咖啡原产地，行程必包含当地家庭咖啡馆探访，却拒绝打卡网红景点。"
+    },
+    "Social": "在咖啡馆留言墙维护着秘密的熟客交流角，定期举办咖啡渣盆栽DIY活动。线上仅用Instagram记录咖啡拉花作品，关注列表全是各国咖啡农和烘焙师。",
+    "Productivity": {
+      "Study_Work": "用纸质笔记本手绘咖啡配方图谱，电脑里存着按风味象限分类的顾客偏好数据库，凌晨常听咖啡种植纪录片当白噪音。",
+      "Fitness": "将登山训练融入日常，咖啡馆楼梯间贴有海拔进度表，运动手表记录每次萃取咖啡时的心率变化。"
+    },
+    "Content_Interests": [
+      "收藏1970年代咖啡机维修手册",
+      "关注亚热带植物图鉴",
+      "研究闽南古厝改造案例"
+    ]
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "Name": "小杰",
+  "Demographics": {
+    "Age": 28,
+    "Gender": "男",
+    "Nationality": "中国",
+    "Language": [
+      "中文",
+      "英文"
+    ],
+    "Career_Information": "北京某知名健身房的私人教练，拥有健身教练资格证书"
+  },
+  "Personality": {
+    "Extraversion_or_Introversion": "E",
+    "Sensing_or_Intuition": "S",
+    "Thinking_or_Feeling": "F",
+    "Judging_or_Perceiving": "P",
+    "Values_and_Interests": [
+      "热爱运动，尤其是健身和篮球",
+      "相信积极的生活态度能够改变人们的生活",
+      "喜欢组织团队活动，比如团体健身课程",
+      "关注饮食健康，推崇自然食品",
+      "热爱旅游，喜欢尝试不同地方的传统美食"
+    ]
+  },
+  "Preference": {
+    "Local_Life": {
+      "Food_Drinks": "工作日自带糙米鸡胸肉便当，周末去网红轻食餐厅打卡。坚持每天喝2L矿泉水，但旅行时会放纵自己尝试高热量传统小吃。",
+      "Entertainment": "每周三组织会员篮球赛，深夜常看体育赛事直播。偶尔去密室逃脱团建时担任体力担当。",
+      "Shopping": "网购频率最高的品类是运动补剂和速干衣，对健身器材会反复比价后购买，但对新上市的蛋白粉会冲动消费。",
+      "TravelDaily_Outings": "通勤坚持骑共享单车，下雨天宁可挤地铁也不打车。周末常骑公路车探索城市周边"
+    },
+    "Travel": {
+      "Business_Trips": "偶尔参加长三角健身行业峰会，总背着便携式弹力带去酒店健身房加练。",
+      "Leisure_Travel": "每年两次自由行，偏爱西南少数民族聚居区，会特意寻找当地人的晨练场所交流健身方式。"
+    },
+    "Social": "抖音分享会员训练对比视频获5w粉丝，微信运动常年占领榜首。线下每周固定组织『夜跑+撸串』活动，但自己只吃烤蔬菜串。",
+    "Productivity": {
+      "Study_Work": "用Excel跟踪学员体脂率变化曲线，手机备忘录记满会员的饮食禁忌和运动损伤史。",
+      "Fitness": "晨跑必开Nike Run Club记录，但看到APP推送广告会碎碎念『有这时间不如多做个引体向上』"
+    },
+    "Content_Interests": [
+      "收藏街头健身教学视频",
+      "关注全球奇趣健身房vlog",
+      "反复观看《洛奇》系列电影"
+    ]
+  }
+}

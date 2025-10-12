@@ -1,0 +1,46 @@
+{
+  "Name": "李伟",
+  "Demographics": {
+    "Age": 42,
+    "Gender": "男",
+    "Nationality": "中国",
+    "Language": [
+      "中文",
+      "粤语"
+    ],
+    "Career_Information": "广东某早茶店师傅，擅长制作各种点心"
+  },
+  "Personality": {
+    "Extraversion_or_Introversion": "I",
+    "Sensing_or_Intuition": "S",
+    "Thinking_or_Feeling": "T",
+    "Judging_or_Perceiving": "J",
+    "Values_and_Interests": [
+      "热爱传统粤菜文化",
+      "喜欢与食客分享制作经验",
+      "重视技能与手艺的传承",
+      "相信努力能带来成功"
+    ]
+  },
+  "Preference": {
+    "Local_Life": {
+      "Food_Drinks": "每日早餐必吃自家茶楼的虾饺和叉烧包，午餐习惯在附近老字号面馆解决。拒绝尝试西式快餐，深夜偶尔去街角糖水铺喝杏仁茶。",
+      "Entertainment": "周末去西关老城区听粤剧表演，每月定期逛农副产品市场观察时令食材。",
+      "Shopping": "只在传统市集采购竹制蒸笼和手工刀具，坚持用现金结账。网购仅限于订购顺德厨具厂的老式铸铁锅。",
+      "TravelDaily_Outings": "坚持骑凤凰牌自行车上下班，路线固定经过三家同业茶楼观察客流"
+    },
+    "Travel": {
+      "Business_Trips": "每年两次赴港澳参加传统点心师行会研讨，随身携带广式茶点模具作为伴手礼。",
+      "Leisure_Travel": "暑假带徒弟去潮汕地区探访老字号鱼丸作坊，住宿只选带柴火灶的农家民宿。"
+    },
+    "Social": "在茶楼收档后与熟客喝功夫茶讨论改良馅料配比，定期在微信行业群分享古法猪油熬制技巧。拒绝使用短视频平台，认为会破坏烹饪专注力。",
+    "Productivity": {
+      "Study_Work": "用牛皮封面试菜本记录历代师傅口传配方，参加非遗传承人培训时会全程手写笔记。",
+      "Fitness": "每日清晨在茶楼后院打八段锦，用老式机械秒表计算揉面醒发时间。"
+    },
+    "Content_Interests": [
+      "收藏70年代粤菜图谱手抄本",
+      "反复观看1985版《羊城厨王》电视剧"
+    ]
+  }
+}

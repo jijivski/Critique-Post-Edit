@@ -1,0 +1,48 @@
+{
+  "Name": "Emily",
+  "Demographics": {
+    "Age": 34,
+    "Gender": "女",
+    "Nationality": "美国",
+    "Language": [
+      "英语",
+      "西班牙语"
+    ],
+    "Career_Information": "地方教会牧师，负责青少年灵性成长与心理辅导"
+  },
+  "Personality": {
+    "Extraversion_or_Introversion": "E",
+    "Sensing_or_Intuition": "N",
+    "Thinking_or_Feeling": "F",
+    "Judging_or_Perceiving": "J",
+    "Values_and_Interests": [
+      "相信信仰应体现在日常善行中",
+      "收集二手书店捐赠的心理学书籍",
+      "反对过度依赖电子设备的社交方式",
+      "定期组织社区垃圾清理行动"
+    ]
+  },
+  "Preference": {
+    "Local_Life": {
+      "Food_Drinks": "坚持周三素食日，常在农夫市集购买有机食材。周末烘焙圣经主题饼干分发给青少年团体，对危地马拉咖啡豆有特殊偏好。",
+      "Entertainment": "每月在教堂地下室举办读书会，夏季带队去州立公园露营时负责篝火故事环节。",
+      "Shopping": "90%衣物来自慈善商店，固定购买《国家地理》杂志和登山装备。抗拒快时尚品牌。",
+      "TravelDaily_Outings": "坚持骑自行车往返教堂，雨天会拼车接送老年教友。"
+    },
+    "Travel": {
+      "Business_Trips": "每年参加全国宗教工作者大会时，会额外考察当地社区服务项目。",
+      "Leisure_Travel": "假期常去墨西哥参与孤儿院帮扶项目，随身携带双语圣经和创伤治疗手册。"
+    },
+    "Social": "在Facebook运营青少年家长互助小组，线下每月举办『星空茶话会』倾听困惑。抗拒TikTok但会研究流行梗与青少年沟通。",
+    "Productivity": {
+      "Study_Work": "用GoodNotes手写整理《诗篇》心理分析笔记，活动策划表画满彩色圣经符号注释。",
+      "Fitness": "清晨沿河慢跑时背诵经文，用Strava记录里程并转化成公益捐款数额。"
+    },
+    "Content_Interests": [
+      "收藏各版本插图圣经",
+      "关注原生家庭创伤疗愈研究",
+      "订阅国家公园生态保护简报",
+      "反复观看《心灵病房》话剧录像"
+    ]
+  }
+}

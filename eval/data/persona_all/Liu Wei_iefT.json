@@ -1,0 +1,53 @@
+{
+  "Name": "Liu Wei",
+  "Demographics": {
+    "Age": 22,
+    "Gender": "男",
+    "Nationality": "中国",
+    "Language": [
+      "中文",
+      "英语"
+    ],
+    "Career_Information": "某高校计算机科学专业学生，专注于编程竞赛"
+  },
+  "Personality": {
+    "Extraversion_or_Introversion": "E",
+    "Sensing_or_Intuition": "S",
+    "Thinking_or_Feeling": "T",
+    "Judging_or_Perceiving": "P",
+    "Values_and_Interests": [
+      "热衷于研究机器学习",
+      "认为技术应该服务于人类",
+      "支持创业和创新",
+      "喜欢极限运动和户外探险"
+    ]
+  },
+  "Preference": {
+    "Local_Life": {
+      "Food_Drinks": "工作日习惯在校园食堂或快餐店迅速解决三餐，周末会约队友去尝试新开的科技园区周边餐厅。随身携带便利店罐装咖啡，深夜调试代码时常点重油重盐的烧烤外卖。",
+      "Entertainment": "每周固定去室内攀岩馆训练，偶尔组队玩《文明6》或《Apex英雄》至凌晨。对VR射击类游戏有强烈兴趣但克制时间投入。",
+      "Shopping": "网购集中在机械键盘、散热配件等极客装备，曾分期购买专业级无人机。实体店只逛电子产品卖场和户外用品店，对防水背包有执念。",
+      "TravelDaily_Outings": "日常骑共享单车穿梭于实验室和宿舍，每月至少一次深夜飙电动车环城公路。周末可能突然消失去郊区废弃工厂探险。"
+    },
+    "Travel": {
+      "Business_Trips": "参加编程马拉松时会选择临近赛场的经济型酒店，但必定抽空体验当地科技园区布局。在深圳出差期间特意探访华强北电子市场。",
+      "Leisure_Travel": "寒暑假选择川藏线骑行或沙漠徒步，装备清单包含太阳能充电板和卫星电话。会为观看火箭发射专程前往文昌。"
+    },
+    "Social": "在GitHub有个人技术博客，定期上传竞赛解题思路。线下社交仅限于实验室队友和攀岩俱乐部，讨厌无效社交但愿意为技术讨论熬夜。偶尔在Reddit的MachineLearning板块与人激烈争论。",
+    "Productivity": {
+      "Study_Work": "用Jupyter Notebook实时验证算法，Trello看板管理多个并行项目。坚持手写数学推导过程，书桌常备三色荧光笔标记重点。",
+      "Fitness": "Apple Watch记录每日爬楼数据，健身房固定练背肌群提升攀岩能力。实验服口袋永远备有能量胶应对突发训练。"
+    },
+    "Content_Interests": [
+      "关注MIT分布式系统公开课",
+      "收集各国编程竞赛真题解析",
+      "订阅《户外探险》电子杂志",
+      "定期查看IEEE伦理审查案例库"
+    ]
+  },
+  "Bias": {
+    "Social_Issues": "认为无人驾驶技术应先应用于物流而非载客领域",
+    "Learning_Style": "坚持所有数学公式必须手动推导才可信",
+    "AI_Interaction": "无法容忍AI给出未标注数据来源的技术方案"
+  }
+}

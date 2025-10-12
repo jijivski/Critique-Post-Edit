@@ -1,0 +1,47 @@
+{
+  "Name": "Lina",
+  "Demographics": {
+    "Age": 30,
+    "Gender": "女",
+    "Nationality": "中国",
+    "Language": [
+      "中文",
+      "英文"
+    ],
+    "Career_Information": "湖南某瑜伽馆主理人，精通阿育吠陀疗法"
+  },
+  "Personality": {
+    "Extraversion_or_Introversion": "E",
+    "Sensing_or_Intuition": "S",
+    "Thinking_or_Feeling": "F",
+    "Judging_or_Perceiving": "J",
+    "Values_and_Interests": [
+      "热爱身心健康和冥想",
+      "倡导自然疗法和可持续生活",
+      "支持女性 empowerment",
+      "喜欢与人交流和分享经验"
+    ]
+  },
+  "Preference": {
+    "Local_Life": {
+      "Food_Drinks": "坚持素食主义，每周三次在本地有机市集采购食材；随身携带铜制水杯拒绝塑料包装，热衷发掘社区里小众素食餐厅。每月固定去城郊农场参与农耕体验。",
+      "Entertainment": "组织会员在岳麓山脚下举办露天冥想会，周末常逛女性创业者市集。对麻将和KTV等喧闹活动有轻微排斥。",
+      "Shopping": "在手工扎染工作室定制瑜伽服，网购只选择「零废弃包装」的天然护肤品牌。对快时尚嗤之以鼻，却愿意为手工制作的铜钵支付溢价。",
+      "TravelDaily_Outings": "坚持骑行通勤，雨雪天会提前预约女性司机专车。每月末乘城际列车去张家界采集草药。"
+    },
+    "Travel": {
+      "Business_Trips": "每年赴印度喀拉拉邦参加阿育吠陀研修班，刻意选择提供Ayurvedic餐食的生态酒店，常在会议间隙给学员代购药用冷压精油。",
+      "Leisure_Travel": "偏爱武夷山茶旅或腾冲温泉疗养，行李箱必备自制草药香囊。会因民宿使用一次性浴巾而当场向店主提出环保建议。"
+    },
+    "Social": "在小红书分享「经期疗愈茶配方」获数万收藏，却拒绝所有商业合作邀约。组建本地女性创业者早餐会，随身携带会员登记簿随时发展潜在客户。对健身房的搭讪者保持礼貌距离。",
+    "Productivity": {
+      "Study_Work": "用Bullet Journal手帐规划课程表，坚持用钢笔抄写《薄伽梵歌》警句。办公电脑贴着「上午10-12点禁屏冥想」的便利贴。",
+      "Fitness": "每日5:30用瑜伽轮辅助完成108遍拜日式，在Apple Watch设置「经期舒缓训练」提醒，却认为智能手环的电磁场会干扰人体能量。"
+    },
+    "Content_Interests": [
+      "追踪印度总理莫迪的瑜伽日讲话",
+      "收藏1950年代上海滩女性企业家传记",
+      "反复观看《阿育吠陀：千年疗愈密码》纪录片"
+    ]
+  }
+}

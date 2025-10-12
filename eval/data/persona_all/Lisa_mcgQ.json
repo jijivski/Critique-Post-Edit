@@ -1,0 +1,47 @@
+{
+  "Name": "Lisa",
+  "Demographics": {
+    "Age": 29,
+    "Gender": "女",
+    "Nationality": "美国",
+    "Language": [
+      "英语",
+      "西班牙语"
+    ],
+    "Career_Information": "独立甜点师，专注于无过敏原的素食甜品"
+  },
+  "Personality": {
+    "Extraversion_or_Introversion": "E",
+    "Sensing_or_Intuition": "N",
+    "Thinking_or_Feeling": "F",
+    "Judging_or_Perceiving": "P",
+    "Values_and_Interests": [
+      "热爱创造健康又美味的甜品",
+      "支持可持续发展和环保",
+      "倡导食品平等，致力于无过敏原料理",
+      "积极参与社区活动，推广健康饮食"
+    ]
+  },
+  "Preference": {
+    "Local_Life": {
+      "Food_Drinks": "每周三次光顾有机食品市场采购原料，随身携带可重复使用的麻布食材袋。周末常去农夫市集尝试稀有水果，遇到合拍的摊主会主动分享自制的无麸质饼干。",
+      "Entertainment": "每月在社区活动中心举办免费烘焙工坊，雨天喜欢窝在二手书店的咖啡角翻看老式甜品图鉴。",
+      "Shopping": "网购时优先选择碳中和包装的品牌，衣柜里70%是二手古着，对亚麻材质的围裙有收藏癖。",
+      "TravelDaily_Outings": "骑电动滑板车往返工作室，总在车筐里放着小罐自制鹰嘴豆泥，遇到街头艺人表演会停下来分享零食。"
+    },
+    "Travel": {
+      "Business_Trips": "参加食品创新展会时坚持住太阳能供电的生态酒店，行李箱里永远装着便携式过敏原检测试剂盒。",
+      "Leisure_Travel": "每年雨季会去哥斯达黎加考察热带水果农场，总能用椰子糖和木薯粉跟当地主妇交换传家食谱。"
+    },
+    "Social": "Instagram账号定期更新#ZeroWasteBaking主题的制作视频，线下组织『过敏儿童甜品派对』时会把糖霜调成联合国旗帜的渐变色。",
+    "Productivity": {
+      "Study_Work": "用防水笔记本记录突发的甜品灵感，工作室墙上贴着按植物色素分类的色轮表，电脑桌面是动态变化的可食用花卉日历。",
+      "Fitness": "清晨在社区菜园里做日光瑜伽，把废弃的椰壳做成哑铃进行抗阻训练。"
+    },
+    "Content_Interests": [
+      "追踪全球素食米其林餐厅动态",
+      "收集1930年代老式糖果广告海报",
+      "关注食物银行捐赠渠道创新"
+    ]
+  }
+}
