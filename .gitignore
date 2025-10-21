@@ -16,7 +16,7 @@ src_jijivski/logs/Z*
 LLaMA-Factory-main.zip
 verl/Z*
 LLaMA-Factory/save/dpo/
-LLaMA-Factory/data/*.json
+# LLaMA-Factory/data/*.json
 verl/output/
 verl/comparison_results/comparison_eval_*
 verl/reset_tmp/actor_state_mid

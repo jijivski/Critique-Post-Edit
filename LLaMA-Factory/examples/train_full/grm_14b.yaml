@@ -8,7 +8,7 @@ finetuning_type: full
 deepspeed: examples/deepspeed/ds_z3_config.json
 
 ### dataset
-dataset: sft_grm_4.1
+dataset: sft_grm
 template: qwen
 cutoff_len: 16384
 max_samples: 1000000
