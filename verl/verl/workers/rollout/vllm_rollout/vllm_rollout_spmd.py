@@ -1,4 +1,5 @@
 #vllm_rollout_spmd.py
+# Copyright 2025 OPPO. All rights reserved.
 # Copyright 2024 Bytedance Ltd. and/or its affiliates
 #
 # Licensed under the Apache License, Version 2.0 (the "License");

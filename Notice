@@ -1,0 +1,22 @@
+This product contains code from several open source projects.
+Copyright 2025 OPPO. All rights reserved.
+
+=========================================================================
+The following third-party software is used in this product:
+
+1. verl (located in the verl/ directory)
+   Copyright 2023-2024 Bytedance Ltd. and/or its affiliates
+   Licensed under the Apache License, Version 2.0.
+   The full text of the license can be found at verl/LICENSE.
+   The original notice can be found at verl/Notice.txt.
+
+2. LLaMA-Factory (located in the LLaMA-Factory/ directory)
+   Copyright 2023-2024 hiyouga
+   Licensed under the Apache License, Version 2.0.
+   The full text of the license can be found at LLaMA-Factory/LICENSE.
+
+3. alpaca_eval (located in the eval/alpaca_eval/ directory)
+   Copyright 2023 Yann Dubois and Xuechen Li and Rohan Taori and Tianyi Zhang and Ishaan Gulrajani
+   Licensed under the Apache License, Version 2.0.
+   The full text of the license can be found at eval/alpaca_eval/LICENSE.
+=========================================================================
