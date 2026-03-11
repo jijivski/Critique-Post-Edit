@@ -8,6 +8,13 @@
       "rejected": "rejected"
     }
   },
+  "sft_chosen":{
+    "file_name":"sft_chosen.json",
+    "columns": {
+      "prompt": "instruction",
+      "response": "chosen"
+    }
+  },
   "sft_grm":{
     "file_name":"sft_grm.json",
     "columns": {

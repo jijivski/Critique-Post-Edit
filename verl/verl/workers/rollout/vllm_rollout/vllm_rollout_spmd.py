@@ -52,6 +52,7 @@ from vllm.worker.worker_base import WorkerWrapperBase
 from verl import DataProto
 from verl.third_party.vllm import vllm_version
 from verl.utils.debug import GPUMemoryLogger
+from verl.utils.tokenizer import ensure_tokenizer_compat
 from verl.utils.torch_functional import (get_response_mask,
                                          pad_2d_list_to_length,
                                          pad_sequence_to_length)
@@ -304,9 +305,10 @@ class vLLMRollout(BaseRollout):
             **kwargs: train_tp, for Megatron Backend to initialize hybrid engine (zero redundancy) process group
         """
         super().__init__()
+        ensure_tokenizer_compat()
         self.config = config
-        self.tokenizer = tokenizer 
-        self.feedback_tokenizer = AutoTokenizer.from_pretrained(self.config.get("feedback_config", {}).get("feedback_tokenizer", ""))      
+        self.tokenizer = tokenizer
+        self.feedback_tokenizer = None
       
 
         assert not (not config.enforce_eager and config.free_cache_engine), "disable CUDA graph (enforce_eager = False) if free cache engine"
@@ -411,7 +413,6 @@ class vLLMRollout(BaseRollout):
         self.sampling_params = SamplingParams(**kwargs)
 
         self.pad_token_id = tokenizer.pad_token_id
-        self.feedback_tokenizer.pad_token_id = self.feedback_tokenizer.eos_token_id
 
         self.edit_config = self.config.get("edit_config", {})
         self.feedback_config = self.config.get("feedback_config", {})
@@ -438,7 +439,8 @@ class vLLMRollout(BaseRollout):
             pass
             
         if self.enable_feedback:
-            self.feedback_tokenizer = self.feedback_config.get("feedback_tokenizer", "")
+            self.feedback_tokenizer = AutoTokenizer.from_pretrained(self.feedback_config.get("feedback_tokenizer", ""))
+            self.feedback_tokenizer.pad_token_id = self.feedback_tokenizer.eos_token_id
             self.feedback_temperature = 0.9
             
             OPENAI_API_KEY = os.getenv("FEEDBACK_OPENAI_API_KEY") or os.getenv("OPENAI_API_KEY", "EMPTY")
@@ -1263,5 +1265,3 @@ class vLLMAsyncRollout:
             return self.wake_up(*args, **kwargs)
         else:
             return self.inference_engine.execute_method(method, *args, **kwargs)
-
-
