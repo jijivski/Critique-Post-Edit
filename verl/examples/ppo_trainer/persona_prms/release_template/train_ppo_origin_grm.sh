@@ -71,9 +71,19 @@ fi
 # === Set defaults for optional variables ===
 # export REWARD_MODEL_PATH="${REWARD_MODEL_PATH:-${BASE_MODEL_PATH}}"
 export MODEL_TAG="${MODEL_TAG:-sft-qwen2.5-7b}"
-export ROLLOUT="${ROLLOUT:-4}"
+export ROLLOUT="${ROLLOUT:-2}"
 export GRM_MODEL_NAME="${GRM_MODEL_NAME:-grm_14B_320}"
 export GRM_OPENAI_API_KEY="${GRM_OPENAI_API_KEY:-EMPTY}"
+export N_GPUS_PER_NODE="${N_GPUS_PER_NODE:-4}"
+export TRAIN_BATCH_SIZE="${TRAIN_BATCH_SIZE:-32}"
+export PPO_MINI_BATCH_SIZE="${PPO_MINI_BATCH_SIZE:-16}"
+export ACTOR_MAX_TOKEN_LEN_PER_GPU="${ACTOR_MAX_TOKEN_LEN_PER_GPU:-12000}"
+export CRITIC_MAX_TOKEN_LEN_PER_GPU="${CRITIC_MAX_TOKEN_LEN_PER_GPU:-40000}"
+export REWARD_MAX_TOKEN_LEN_PER_GPU="${REWARD_MAX_TOKEN_LEN_PER_GPU:-40000}"
+export VLLM_GPU_MEMORY_UTILIZATION="${VLLM_GPU_MEMORY_UTILIZATION:-0.4}"
+export SAVE_FREQ="${SAVE_FREQ:-20}"
+export TEST_FREQ="${TEST_FREQ:-20}"
+export TOTAL_EPOCHS="${TOTAL_EPOCHS:-2}"
 
 
 # original rollout, without feedback, need grm only
@@ -112,6 +122,10 @@ echo "GRM API: $GRM_API_BASE_URL"
 echo "Experiment name: $exp_name"
 echo "Output directory: ${VERL_ROOT}/output/${exp_name}"
 echo "Select function(another name of strategy): $SELECT_FUN"
+echo "GPUs per node: $N_GPUS_PER_NODE"
+echo "Train batch size: $TRAIN_BATCH_SIZE"
+echo "PPO mini batch size: $PPO_MINI_BATCH_SIZE"
+echo "Rollout n: $ROLLOUT"
 echo "=========================================="
 
 # === Start training ===
@@ -119,7 +133,7 @@ python3 -m verl.trainer.main_ppo \
     algorithm.adv_estimator=gae \
     data.train_files=$TRAIN_DATA \
     data.val_files=$VAL_DATA \
-    data.train_batch_size=128 \
+    data.train_batch_size=${TRAIN_BATCH_SIZE} \
     data.max_prompt_length=2048 \
     data.max_response_length=2048 \
     data.filter_overlong_prompts=True \
@@ -138,15 +152,15 @@ python3 -m verl.trainer.main_ppo \
     actor_rollout_ref.actor.optim.lr=1e-6 \
     actor_rollout_ref.model.use_remove_padding=True \
     actor_rollout_ref.model.enable_gradient_checkpointing=True \
-    actor_rollout_ref.actor.ppo_mini_batch_size=64 \
+    actor_rollout_ref.actor.ppo_mini_batch_size=${PPO_MINI_BATCH_SIZE} \
     actor_rollout_ref.actor.use_dynamic_bsz=True \
-    actor_rollout_ref.actor.ppo_max_token_len_per_gpu=16000 \
+    actor_rollout_ref.actor.ppo_max_token_len_per_gpu=${ACTOR_MAX_TOKEN_LEN_PER_GPU} \
     actor_rollout_ref.actor.fsdp_config.param_offload=False \
     actor_rollout_ref.actor.fsdp_config.optimizer_offload=False \
     actor_rollout_ref.actor.use_kl_loss=False \
     actor_rollout_ref.rollout.tensor_model_parallel_size=1 \
     actor_rollout_ref.rollout.name=vllm \
-    actor_rollout_ref.rollout.gpu_memory_utilization=0.6 \
+    actor_rollout_ref.rollout.gpu_memory_utilization=${VLLM_GPU_MEMORY_UTILIZATION} \
     actor_rollout_ref.rollout.n=${ROLLOUT} \
     actor_rollout_ref.rollout.log_prob_max_token_len_per_gpu=16000 \
     actor_rollout_ref.rollout.save_path="${VERL_ROOT}/output/${exp_name}" \
@@ -156,14 +170,14 @@ python3 -m verl.trainer.main_ppo \
     critic.model.path=$BASE_MODEL_PATH \
     critic.model.enable_gradient_checkpointing=True \
     critic.use_dynamic_bsz=True \
-    critic.ppo_max_token_len_per_gpu=80000 \
+    critic.ppo_max_token_len_per_gpu=${CRITIC_MAX_TOKEN_LEN_PER_GPU} \
     critic.model.fsdp_config.param_offload=False \
     critic.model.fsdp_config.optimizer_offload=False \
     reward_model.model.use_remove_padding=True \
     reward_model.model.fsdp_config.param_offload=True \
     reward_model.micro_batch_size_per_gpu=8 \
     reward_model.use_dynamic_bsz=True \
-    reward_model.forward_max_token_len_per_gpu=80000 \
+    reward_model.forward_max_token_len_per_gpu=${REWARD_MAX_TOKEN_LEN_PER_GPU} \
     algorithm.use_kl_in_reward=False \
     trainer.critic_warmup=0 \
     trainer.logger=['console','swanlab'] \
@@ -174,11 +188,11 @@ python3 -m verl.trainer.main_ppo \
     custom_reward_function.path=$VERL_ROOT/verl/utils/reward_score/grm.py \
     custom_reward_function.name="compute_score_grm_batch" \
     trainer.nnodes=1 \
-    trainer.save_freq=20 \
-    trainer.test_freq=20 \
-    trainer.n_gpus_per_node=8 \
+    trainer.save_freq=${SAVE_FREQ} \
+    trainer.test_freq=${TEST_FREQ} \
+    trainer.n_gpus_per_node=${N_GPUS_PER_NODE} \
     trainer.balance_batch=True \
-    trainer.total_epochs=2
+    trainer.total_epochs=${TOTAL_EPOCHS}
 
 
     # reward_model.model.path=$REWARD_MODEL_PATH \

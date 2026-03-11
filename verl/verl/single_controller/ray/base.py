@@ -31,6 +31,16 @@ from verl.single_controller.base.decorator import MAGIC_ATTR, Dispatch
 
 __all__ = ["Worker"]
 
+_PASSTHROUGH_ENV_KEYS = (
+    "GRM_OPENAI_API_KEY",
+    "GRM_API_BASE_URL",
+    "GRM_MODEL_NAME",
+    "OPENAI_API_KEY",
+    "OPENAI_API_BASE_URL",
+    "MODEL_NAME",
+    "SWANLAB_MODE",
+)
+
 
 def get_random_string(length: int) -> str:
     import random
@@ -331,6 +341,10 @@ class RayWorkerGroup(WorkerGroup):
                     "RAY_LOCAL_WORLD_SIZE": str(local_world_size),
                     "RAY_LOCAL_RANK": str(local_rank),
                 }
+                for key in _PASSTHROUGH_ENV_KEYS:
+                    value = os.getenv(key)
+                    if value is not None:
+                        env_vars[key] = value
                 if rank != 0:
                     env_vars["MASTER_ADDR"] = self._master_addr
                     env_vars["MASTER_PORT"] = self._master_port

@@ -175,5 +175,7 @@ saves/
 output/
 wandb/
 swanlog/
+${OUTPUT_DIR}/
+data/sft_chosen.json
 generated_predictions.jsonl
 predictions_score.json
