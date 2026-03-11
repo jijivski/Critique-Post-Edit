@@ -89,7 +89,6 @@ class Tracking:
 
             print('here added workspace')
             swanlab.init(
-                workspace="persona",
                 project=project_name,
                 experiment_name=experiment_name,
                 config={"FRAMEWORK": "verl", **config},

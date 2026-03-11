@@ -11,8 +11,8 @@ This is the official repository for our paper "Towards Faithful and Controllable
 Critique-Post-Edit
 ├── LLaMA-Factory/          # SFT training code
 │   ├── data/
-│   │   ├── sft.json        # GRM training data
-│   │   └── sft_grm.json    # SFT training data
+│   │   ├── sft.json        # SFT training data
+│   │   └── sft_grm.json    # GRM training data
 │   └── examples/
 ├── verl/                   # RL training code
 │   └── examples/ppo_trainer/
@@ -45,8 +45,8 @@ export OPENAI_API_BASE="your-url"
 
 Download the following datasets from the specified locations:
 
-*   **GRM Training Data**: `LLaMA-Factory/data/sft.json`
-*   **SFT Training Data**: `LLaMA-Factory/data/sft_grm.json`
+*   **GRM Training Data**: `LLaMA-Factory/data/sft_grm.json`
+*   **SFT Training Data**: `LLaMA-Factory/data/sft.json`
 *   **RL Training Data**: `eval/data/RL_data`
 
 Our models are available on Hugging Face:
@@ -192,4 +192,3 @@ This project is based on the following open-source projects:
 *   [VERL](https://github.com/volcengine/verl) — An RLHF framework open-sourced by ByteDance
 *   [LLaMA-Factory](https://github.com/hiyouga/LLaMA-Factory) — An efficient LLM training toolkit
 *   [AlpacaEval](https://github.com/tatsu-lab/alpaca_eval) — A model evaluation tool
-

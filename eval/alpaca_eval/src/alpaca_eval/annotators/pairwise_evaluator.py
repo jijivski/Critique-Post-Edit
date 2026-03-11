@@ -222,9 +222,8 @@ class PairwiseAnnotatorLocal(BaseAnnotator):
         # breakpoint()
         other_same_cols = [k for k in outputs_1.columns if k in outputs_2 and k not in (keys_to_merge + ["output"])]
 
-        df_to_annotate = pd.merge(outputs_1,outputs_2,on=keys_to_merge,suffixes=("_1", "_2"))
-        print(f'{len(outputs_1)=} {len(outputs_2)=} {len(df_to_annotate)=} {keys_to_merge=}')
-        df_to_annotate.to_csv('/mnt/data/meiling/code/PRM/eval/alpaca_eval/src/alpaca_eval/annotators/tmp.csv',encoding='utf8')
+        df_to_annotate = pd.merge(outputs_1, outputs_2, on=keys_to_merge, suffixes=("_1", "_2"))
+        print(f"{len(outputs_1)=} {len(outputs_2)=} {len(df_to_annotate)=} {keys_to_merge=}")
 
         for c in other_same_cols:
             # if the columns are the same, we can drop the _2. but dont' skip for generator and output

@@ -10,8 +10,8 @@
 Critique-Post-Edit
 ├── LLaMA-Factory/          # SFT 训练代码
 │   ├── data/
-│   │   ├── sft.json        # GRM 训练数据
-│   │   └── sft_grm.json    # SFT 训练数据
+│   │   ├── sft.json        # SFT 训练数据
+│   │   └── sft_grm.json    # GRM 训练数据
 │   └── examples/
 ├── verl/                   # RL 训练代码
 │   └── examples/ppo_trainer/
@@ -44,8 +44,8 @@ export OPENAI_API_BASE="your-url"
 
 从指定位置下载以下数据集：
 
-*   **GRM 训练数据**: `LLaMA-Factory/data/sft.json`
-*   **SFT 训练数据**: `LLaMA-Factory/data/sft_grm.json`
+*   **GRM 训练数据**: `LLaMA-Factory/data/sft_grm.json`
+*   **SFT 训练数据**: `LLaMA-Factory/data/sft.json`
 *   **RL 训练数据**: `eval/data/RL_data`
 
 我们的模型在huggingface上:

@@ -165,8 +165,12 @@ class ActorRolloutRefWorker(Worker):
         from torch.distributed.fsdp import CPUOffload
         from torch.distributed.fsdp import FullyShardedDataParallel as FSDP
         from torch.distributed.fsdp import MixedPrecision
-        from transformers import (AutoConfig, AutoModelForCausalLM,
-                                  AutoModelForVision2Seq)
+        from transformers import AutoConfig, AutoModelForCausalLM
+        try:
+            from transformers import AutoModelForVision2Seq
+        except ImportError:
+            # transformers 5.x renamed this auto class.
+            from transformers import AutoModelForImageTextToText as AutoModelForVision2Seq
 
         from verl.utils.model import (get_generation_config, print_model_size,
                                       update_model_config)

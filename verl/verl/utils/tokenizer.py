@@ -18,6 +18,14 @@ import warnings
 __all__ = ["hf_tokenizer", "hf_processor"]
 
 
+def ensure_tokenizer_compat():
+    """Backfill tokenizer attributes expected by older downstream libraries."""
+    from transformers import PreTrainedTokenizerBase
+
+    if not hasattr(PreTrainedTokenizerBase, "all_special_tokens_extended"):
+        PreTrainedTokenizerBase.all_special_tokens_extended = property(lambda self: self.all_special_tokens)
+
+
 def set_pad_token_id(tokenizer):
     """Set pad_token_id to eos_token_id if it is None.
 
@@ -49,6 +57,8 @@ def hf_tokenizer(name_or_path, correct_pad_token=True, correct_gemma2=True, **kw
     """
     from transformers import AutoTokenizer
 
+    ensure_tokenizer_compat()
+
     if correct_gemma2 and isinstance(name_or_path, str) and "gemma-2-2b-it" in name_or_path:
         # the EOS token in gemma2 is ambiguious, which may worsen RL performance.
         # https://huggingface.co/google/gemma-2-2b-it/commit/17a01657f5c87135bcdd0ec7abb4b2dece04408a
@@ -71,6 +81,8 @@ def hf_processor(name_or_path, **kwargs):
         transformers.ProcessorMixin: The pretrained processor.
     """
     from transformers import AutoProcessor
+
+    ensure_tokenizer_compat()
 
     try:
         processor = AutoProcessor.from_pretrained(name_or_path, **kwargs)

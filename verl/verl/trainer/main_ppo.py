@@ -24,6 +24,20 @@ from verl.trainer.ppo.ray_trainer import RayPPOTrainer
 from verl.trainer.ppo.reward import load_reward_manager
 
 
+_RAY_ENV_KEYS = (
+    "TOKENIZERS_PARALLELISM",
+    "NCCL_DEBUG",
+    "VLLM_LOGGING_LEVEL",
+    "GRM_OPENAI_API_KEY",
+    "GRM_API_BASE_URL",
+    "GRM_MODEL_NAME",
+    "OPENAI_API_KEY",
+    "OPENAI_API_BASE_URL",
+    "MODEL_NAME",
+    "SWANLAB_MODE",
+)
+
+
 def get_custom_reward_fn(config):
     import importlib.util
     import sys
@@ -67,8 +81,12 @@ def main(config):
 def run_ppo(config) -> None:
     if not ray.is_initialized():
         # this is for local ray cluster
+        runtime_env_vars = {key: value for key in _RAY_ENV_KEYS if (value := os.getenv(key)) is not None}
+        runtime_env_vars.setdefault("TOKENIZERS_PARALLELISM", "true")
+        runtime_env_vars.setdefault("NCCL_DEBUG", "WARN")
+        runtime_env_vars.setdefault("VLLM_LOGGING_LEVEL", "WARN")
         ray.init(
-            runtime_env={"env_vars": {"TOKENIZERS_PARALLELISM": "true", "NCCL_DEBUG": "WARN", "VLLM_LOGGING_LEVEL": "WARN"}},
+            runtime_env={"env_vars": runtime_env_vars},
             num_cpus=config.ray_init.num_cpus,
         )
 
